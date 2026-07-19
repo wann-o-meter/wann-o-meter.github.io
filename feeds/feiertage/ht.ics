@@ -1,0 +1,447 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Haïti
+BEGIN:VEVENT
+UID:feiertage-ht-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Haïti
+DESCRIPTION:Jour de l'Indépendance - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Haïti
+DESCRIPTION:Jour des Aieux - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-02-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Haïti
+DESCRIPTION:Lundi Gras - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-02-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Haïti
+DESCRIPTION:Mardi Gras - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-04-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Haïti
+DESCRIPTION:Vendredi saint - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-04-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Haïti
+DESCRIPTION:Pâques - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Haïti
+DESCRIPTION:Fête du travail - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-05-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Haïti
+DESCRIPTION:Ascension - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-05-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:Haïti
+DESCRIPTION:Jour du Drapeau et de l'Université - https://www.npmjs.com/pac
+ kage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-06-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Haïti
+DESCRIPTION:la Fête-Dieu - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Haïti
+DESCRIPTION:Assomption - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-10-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Haïti
+DESCRIPTION:Anniversaire de la mort de Dessalines - https://www.npmjs.com/
+ package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Haïti
+DESCRIPTION:Toussaint - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-11-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Haïti
+DESCRIPTION:Fête des morts - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-11-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Haïti
+DESCRIPTION:Vertières - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2026-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Haïti
+DESCRIPTION:Noël - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Haïti
+DESCRIPTION:Jour de l'Indépendance - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Haïti
+DESCRIPTION:Jour des Aieux - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-02-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Haïti
+DESCRIPTION:Lundi Gras - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-02-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Haïti
+DESCRIPTION:Mardi Gras - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-03-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Haïti
+DESCRIPTION:Vendredi saint - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-03-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Haïti
+DESCRIPTION:Pâques - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Haïti
+DESCRIPTION:Fête du travail - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-05-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Haïti
+DESCRIPTION:Ascension - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-05-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Haïti
+DESCRIPTION:Jour du Drapeau et de l'Université - https://www.npmjs.com/pac
+ kage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Haïti
+DESCRIPTION:la Fête-Dieu - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Haïti
+DESCRIPTION:Assomption - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-10-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:Haïti
+DESCRIPTION:Anniversaire de la mort de Dessalines - https://www.npmjs.com/
+ package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Haïti
+DESCRIPTION:Toussaint - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-11-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:Haïti
+DESCRIPTION:Fête des morts - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-11-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:Haïti
+DESCRIPTION:Vertières - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2027-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Haïti
+DESCRIPTION:Noël - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Haïti
+DESCRIPTION:Jour de l'Indépendance - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:Haïti
+DESCRIPTION:Jour des Aieux - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-02-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280228
+DTEND;VALUE=DATE:20280229
+SUMMARY:Haïti
+DESCRIPTION:Lundi Gras - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-02-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Haïti
+DESCRIPTION:Mardi Gras - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-04-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Haïti
+DESCRIPTION:Vendredi saint - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-04-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:Haïti
+DESCRIPTION:Pâques - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Haïti
+DESCRIPTION:Fête du travail - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-05-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280518
+DTEND;VALUE=DATE:20280519
+SUMMARY:Haïti
+DESCRIPTION:Jour du Drapeau et de l'Université - https://www.npmjs.com/pac
+ kage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-05-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Haïti
+DESCRIPTION:Ascension - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-06-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Haïti
+DESCRIPTION:la Fête-Dieu - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Haïti
+DESCRIPTION:Assomption - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-10-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281017
+DTEND;VALUE=DATE:20281018
+SUMMARY:Haïti
+DESCRIPTION:Anniversaire de la mort de Dessalines - https://www.npmjs.com/
+ package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:Haïti
+DESCRIPTION:Toussaint - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-11-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+SUMMARY:Haïti
+DESCRIPTION:Fête des morts - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-11-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281118
+DTEND;VALUE=DATE:20281119
+SUMMARY:Haïti
+DESCRIPTION:Vertières - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ht-2028-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Haïti
+DESCRIPTION:Noël - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

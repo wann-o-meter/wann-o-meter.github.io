@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:ኢትዮጵያ
+BEGIN:VEVENT
+UID:feiertage-et-2026-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ልደተ-ለእግዚእነ/ ገና - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-01-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ብርሐነ ጥምቀት - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-02-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ረመዳን - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-03-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:የዓድዋ ድል በዓል - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ዒድ አል ፈጥር - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-03-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:የቀይ ሽብር መታሰቢያ ቀን - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-04-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ስቅለት - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-04-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ፋሲካ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ዒድ አል አድሐ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ደርግ የወደቀበት ቀን - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-08-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:መውሊድ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-09-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:እንቁጣጣሽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2026-09-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ብርሐነ-መስቀል - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ልደተ-ለእግዚእነ/ ገና - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-01-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ብርሐነ ጥምቀት - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-02-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ረመዳን - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-03-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:የዓድዋ ድል በዓል - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-03-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ዒድ አል ፈጥር - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-03-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:የቀይ ሽብር መታሰቢያ ቀን - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-04-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ስቅለት - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-05-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ፋሲካ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-05-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ዒድ አል አድሐ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ደርግ የወደቀበት ቀን - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-08-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:መውሊድ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-09-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:እንቁጣጣሽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2027-09-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ብርሐነ-መስቀል - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-01-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280107
+DTEND;VALUE=DATE:20280108
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ልደተ-ለእግዚእነ/ ገና - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-01-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280119
+DTEND;VALUE=DATE:20280120
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ብርሐነ ጥምቀት - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-01-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ረመዳን - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-02-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ዒድ አል ፈጥር - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-03-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280302
+DTEND;VALUE=DATE:20280303
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:የዓድዋ ድል በዓል - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-03-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280328
+DTEND;VALUE=DATE:20280329
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:የቀይ ሽብር መታሰቢያ ቀን - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-04-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ስቅለት - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-04-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ፋሲካ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-05-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ዒድ አል አድሐ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280528
+DTEND;VALUE=DATE:20280529
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ደርግ የወደቀበት ቀን - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-08-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:መውሊድ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-09-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280912
+DTEND;VALUE=DATE:20280913
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:እንቁጣጣሽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-et-2028-09-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280928
+DTEND;VALUE=DATE:20280929
+SUMMARY:ኢትዮጵያ
+DESCRIPTION:ብርሐነ-መስቀል - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

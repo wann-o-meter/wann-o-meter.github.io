@@ -1,0 +1,456 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Andorra
+BEGIN:VEVENT
+UID:feiertage-ad-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Andorra
+DESCRIPTION:Any nou - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Andorra
+DESCRIPTION:Día de los Reyes Magos - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-02-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Andorra
+DESCRIPTION:Carnaval - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-03-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:Andorra
+DESCRIPTION:Dia de la Constitució - https://www.npmjs.com/package/date-hol
+ idays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-04-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Andorra
+DESCRIPTION:Viernes Santo - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-04-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Andorra
+DESCRIPTION:Pascua - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-04-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Andorra
+DESCRIPTION:Lunes de Pascua - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Andorra
+DESCRIPTION:Día del Trabajador - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-05-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:Andorra
+DESCRIPTION:Pentecostés - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-05-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Andorra
+DESCRIPTION:Lunes de Pentecostés - https://www.npmjs.com/package/date-holi
+ days
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Andorra
+DESCRIPTION:Asunción - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-09-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Andorra
+DESCRIPTION:Mare de Déu de Meritxell - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Andorra
+DESCRIPTION:Todos los Santos - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-12-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Andorra
+DESCRIPTION:La inmaculada concepción - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Andorra
+DESCRIPTION:Nadal - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2026-12-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Andorra
+DESCRIPTION:San Esteban - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Andorra
+DESCRIPTION:Any nou - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Andorra
+DESCRIPTION:Día de los Reyes Magos - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-02-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Andorra
+DESCRIPTION:Carnaval - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-03-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:Andorra
+DESCRIPTION:Dia de la Constitució - https://www.npmjs.com/package/date-hol
+ idays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-03-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Andorra
+DESCRIPTION:Viernes Santo - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-03-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Andorra
+DESCRIPTION:Pascua - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-03-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Andorra
+DESCRIPTION:Lunes de Pascua - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Andorra
+DESCRIPTION:Día del Trabajador - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-05-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Andorra
+DESCRIPTION:Pentecostés - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-05-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Andorra
+DESCRIPTION:Lunes de Pentecostés - https://www.npmjs.com/package/date-holi
+ days
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Andorra
+DESCRIPTION:Asunción - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-09-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Andorra
+DESCRIPTION:Mare de Déu de Meritxell - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Andorra
+DESCRIPTION:Todos los Santos - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-12-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:Andorra
+DESCRIPTION:La inmaculada concepción - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Andorra
+DESCRIPTION:Nadal - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2027-12-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:Andorra
+DESCRIPTION:San Esteban - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Andorra
+DESCRIPTION:Any nou - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:Andorra
+DESCRIPTION:Día de los Reyes Magos - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-02-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Andorra
+DESCRIPTION:Carnaval - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-03-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280314
+DTEND;VALUE=DATE:20280315
+SUMMARY:Andorra
+DESCRIPTION:Dia de la Constitució - https://www.npmjs.com/package/date-hol
+ idays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-04-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Andorra
+DESCRIPTION:Viernes Santo - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-04-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:Andorra
+DESCRIPTION:Pascua - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-04-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Andorra
+DESCRIPTION:Lunes de Pascua - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Andorra
+DESCRIPTION:Día del Trabajador - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-06-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+SUMMARY:Andorra
+DESCRIPTION:Pentecostés - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-06-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Andorra
+DESCRIPTION:Lunes de Pentecostés - https://www.npmjs.com/package/date-holi
+ days
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Andorra
+DESCRIPTION:Asunción - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-09-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280908
+DTEND;VALUE=DATE:20280909
+SUMMARY:Andorra
+DESCRIPTION:Mare de Déu de Meritxell - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:Andorra
+DESCRIPTION:Todos los Santos - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-12-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281208
+DTEND;VALUE=DATE:20281209
+SUMMARY:Andorra
+DESCRIPTION:La inmaculada concepción - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Andorra
+DESCRIPTION:Nadal - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ad-2028-12-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281226
+DTEND;VALUE=DATE:20281227
+SUMMARY:Andorra
+DESCRIPTION:San Esteban - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

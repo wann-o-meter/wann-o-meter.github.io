@@ -1,0 +1,420 @@
+{
+  "category": "feiertage",
+  "slug": "es",
+  "meta": {
+    "title": "España",
+    "description": "Gesetzliche Feiertage fuer España. Nächster Feiertag: Asunción am 15.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "es",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Asunción"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fiesta Nacional de España"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos los Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-06",
+        "to": "2026-12-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Constitución Española"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-08",
+        "to": "2026-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "La inmaculada concepción"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Asunción"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-12",
+        "to": "2027-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fiesta Nacional de España"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos los Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-06",
+        "to": "2027-12-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Constitución Española"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-08",
+        "to": "2027-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "La inmaculada concepción"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Asunción"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-12",
+        "to": "2028-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fiesta Nacional de España"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos los Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-06",
+        "to": "2028-12-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Constitución Española"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-08",
+        "to": "2028-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "La inmaculada concepción"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Asunción"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Fiesta Nacional de España"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Todos los Santos"
+    },
+    {
+      "date": "2026-12-06",
+      "label": "Día de la Constitución Española"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "La inmaculada concepción"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Asunción"
+    },
+    {
+      "date": "2027-10-12",
+      "label": "Fiesta Nacional de España"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Todos los Santos"
+    },
+    {
+      "date": "2027-12-06",
+      "label": "Día de la Constitución Española"
+    },
+    {
+      "date": "2027-12-08",
+      "label": "La inmaculada concepción"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Asunción"
+    },
+    {
+      "date": "2028-10-12",
+      "label": "Fiesta Nacional de España"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Todos los Santos"
+    },
+    {
+      "date": "2028-12-06",
+      "label": "Día de la Constitución Española"
+    },
+    {
+      "date": "2028-12-08",
+      "label": "La inmaculada concepción"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    }
+  ]
+}

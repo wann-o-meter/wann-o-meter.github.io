@@ -1,0 +1,623 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bosna i Hercegovina
+BEGIN:VEVENT
+UID:feiertage-ba-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Novogodisnji dan - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Drugi dan Nove Godine - https://www.npmjs.com/package/date-hol
+ idays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Bogojavljenje\, Sveta tri kralja - https://www.npmjs.com/packa
+ ge/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-01-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Pravoslavni Božić - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-01-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Pravoslavni novogodišnji dan - https://www.npmjs.com/package/d
+ ate-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Ramazanski bajram - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-04-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Vaskrs - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-04-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Uskrsni ponedjeljak - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-04-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Pravoslavni Vaskrs - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Radni dan - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-05-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Drugi dan Dana rada - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Kurbanski bajram - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-06-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Tijelovo - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-06-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Nova hidžretska godina - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Velika Gospa - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-08-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Mevlud - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-08-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Velika Gospa - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Dita e të gjithë Shenjtorëve - https://www.npmjs.com/package/d
+ ate-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-11-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Dušni dan - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Božić - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2026-12-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Svetog Stjepana - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Novogodisnji dan - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Drugi dan Nove Godine - https://www.npmjs.com/package/date-hol
+ idays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Bogojavljenje\, Sveta tri kralja - https://www.npmjs.com/packa
+ ge/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-01-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Pravoslavni Božić - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-01-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Pravoslavni novogodišnji dan - https://www.npmjs.com/package/d
+ ate-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-03-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Ramazanski bajram - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-03-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Vaskrs - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-03-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Uskrsni ponedjeljak - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Radni dan - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-05-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Pravoslavni Vaskrs - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-05-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Drugi dan Dana rada - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-05-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Drugi dan Dana rada (zamjena dan) - https://www.npmjs.com/pack
+ age/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-05-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Kurbanski bajram - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Tijelovo - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-06-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Nova hidžretska godina - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-08-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Mevlud - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Velika Gospa - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-08-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Velika Gospa - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271102
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Dita e të gjithë Shenjtorëve - https://www.npmjs.com/package/d
+ ate-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-11-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Dušni dan - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Božić - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2027-12-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Svetog Stjepana - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Novogodisnji dan - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Drugi dan Nove Godine - https://www.npmjs.com/package/date-hol
+ idays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-01-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280103
+DTEND;VALUE=DATE:20280104
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Drugi dan Nove Godine (zamjena dan) - https://www.npmjs.com/pa
+ ckage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Bogojavljenje\, Sveta tri kralja - https://www.npmjs.com/packa
+ ge/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-01-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280107
+DTEND;VALUE=DATE:20280108
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Pravoslavni Božić - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-01-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280114
+DTEND;VALUE=DATE:20280115
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Pravoslavni novogodišnji dan - https://www.npmjs.com/package/d
+ ate-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-02-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Ramazanski bajram - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-04-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Vaskrs - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-04-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Pravoslavni Vaskrs - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-04-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Uskrsni ponedjeljak - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Radni dan - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-05-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280502
+DTEND;VALUE=DATE:20280503
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Drugi dan Dana rada - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-05-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Kurbanski bajram - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-05-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Nova hidžretska godina - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-06-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Tijelovo - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-08-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Mevlud - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Velika Gospa - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-08-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280828
+DTEND;VALUE=DATE:20280829
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Velika Gospa - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20281102
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Dita e të gjithë Shenjtorëve - https://www.npmjs.com/package/d
+ ate-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-11-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281102
+DTEND;VALUE=DATE:20281103
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Dušni dan - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Božić - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ba-2028-12-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281226
+DTEND;VALUE=DATE:20281227
+SUMMARY:Bosna i Hercegovina
+DESCRIPTION:Svetog Stjepana - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

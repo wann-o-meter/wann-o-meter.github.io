@@ -1,0 +1,336 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:الجمهورية التونسية
+BEGIN:VEVENT
+UID:feiertage-tn-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد رأس السنة - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-01-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الثورة و الشباب - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الفطر - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الإستقلال - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-04-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الشهداء - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:يوم العمال - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الأضحى - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-06-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:رأس السنة الهجرية - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-07-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الجمهورية - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-08-13@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد المرأة - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-08-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:المولد النبويّ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2026-10-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الجلاء - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد رأس السنة - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-01-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الثورة و الشباب - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-03-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الفطر - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الإستقلال - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-04-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الشهداء - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:يوم العمال - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-05-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الأضحى - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-06-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:رأس السنة الهجرية - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-07-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الجمهورية - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-08-13@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد المرأة - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-08-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:المولد النبويّ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2027-10-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الجلاء - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد رأس السنة - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-01-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280114
+DTEND;VALUE=DATE:20280115
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الثورة و الشباب - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-02-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الفطر - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الإستقلال - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-04-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الشهداء - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:يوم العمال - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-05-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الأضحى - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-05-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:رأس السنة الهجرية - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-07-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الجمهورية - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-08-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:المولد النبويّ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-08-13@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280813
+DTEND;VALUE=DATE:20280814
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد المرأة - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tn-2028-10-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281015
+DTEND;VALUE=DATE:20281016
+SUMMARY:الجمهورية التونسية
+DESCRIPTION:عيد الجلاء - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

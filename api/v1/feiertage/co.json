@@ -1,0 +1,810 @@
+{
+  "category": "feiertage",
+  "slug": "co",
+  "meta": {
+    "title": "Colombia",
+    "description": "Gesetzliche Feiertage fuer Colombia. Nächster Feiertag: Día de la Independencia am 20.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "co",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-12",
+        "to": "2026-01-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-23",
+        "to": "2026-03-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "San José"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pascua"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-18",
+        "to": "2026-05-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "La Asunción"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-08",
+        "to": "2026-06-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-15",
+        "to": "2026-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sagrado Corazón de Jesús"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-29",
+        "to": "2026-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Pedro y San Pablo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-13",
+        "to": "2026-07-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "La virgen de Chiquinquirá"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-20",
+        "to": "2026-07-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-07",
+        "to": "2026-08-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Batalla de Boyacá"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-17",
+        "to": "2026-08-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Asunción"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Raza"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-02",
+        "to": "2026-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos los Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-16",
+        "to": "2026-11-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independencia de Cartagena"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-08",
+        "to": "2026-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "La inmaculada concepción"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-11",
+        "to": "2027-01-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-22",
+        "to": "2027-03-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "San José"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-25",
+        "to": "2027-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pascua"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-10",
+        "to": "2027-05-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "La Asunción"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-31",
+        "to": "2027-05-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-07",
+        "to": "2027-06-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sagrado Corazón de Jesús"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-05",
+        "to": "2027-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Pedro y San Pablo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-12",
+        "to": "2027-07-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "La virgen de Chiquinquirá"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-20",
+        "to": "2027-07-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-07",
+        "to": "2027-08-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Batalla de Boyacá"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-16",
+        "to": "2027-08-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Asunción"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-18",
+        "to": "2027-10-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Raza"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos los Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-15",
+        "to": "2027-11-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independencia de Cartagena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-08",
+        "to": "2027-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "La inmaculada concepción"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-10",
+        "to": "2028-01-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-20",
+        "to": "2028-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "San José"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-13",
+        "to": "2028-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pascua"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-29",
+        "to": "2028-05-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "La Asunción"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-19",
+        "to": "2028-06-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-26",
+        "to": "2028-06-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sagrado Corazón de Jesús"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-03",
+        "to": "2028-07-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Pedro y San Pablo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-10",
+        "to": "2028-07-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "La virgen de Chiquinquirá"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-20",
+        "to": "2028-07-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-07",
+        "to": "2028-08-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Batalla de Boyacá"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-21",
+        "to": "2028-08-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Asunción"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-16",
+        "to": "2028-10-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Raza"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-06",
+        "to": "2028-11-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos los Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-13",
+        "to": "2028-11-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independencia de Cartagena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-08",
+        "to": "2028-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "La inmaculada concepción"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2026-01-12",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2026-03-23",
+      "label": "San José"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Pascua"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-05-18",
+      "label": "La Asunción"
+    },
+    {
+      "date": "2026-06-08",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2026-06-15",
+      "label": "Sagrado Corazón de Jesús"
+    },
+    {
+      "date": "2026-06-29",
+      "label": "San Pedro y San Pablo"
+    },
+    {
+      "date": "2026-07-13",
+      "label": "La virgen de Chiquinquirá"
+    },
+    {
+      "date": "2026-07-20",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-08-07",
+      "label": "Batalla de Boyacá"
+    },
+    {
+      "date": "2026-08-17",
+      "label": "Asunción"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Día de la Raza"
+    },
+    {
+      "date": "2026-11-02",
+      "label": "Todos los Santos"
+    },
+    {
+      "date": "2026-11-16",
+      "label": "Independencia de Cartagena"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "La inmaculada concepción"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2027-01-11",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2027-03-22",
+      "label": "San José"
+    },
+    {
+      "date": "2027-03-25",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Pascua"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-05-10",
+      "label": "La Asunción"
+    },
+    {
+      "date": "2027-05-31",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2027-06-07",
+      "label": "Sagrado Corazón de Jesús"
+    },
+    {
+      "date": "2027-07-05",
+      "label": "San Pedro y San Pablo"
+    },
+    {
+      "date": "2027-07-12",
+      "label": "La virgen de Chiquinquirá"
+    },
+    {
+      "date": "2027-07-20",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-08-07",
+      "label": "Batalla de Boyacá"
+    },
+    {
+      "date": "2027-08-16",
+      "label": "Asunción"
+    },
+    {
+      "date": "2027-10-18",
+      "label": "Día de la Raza"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Todos los Santos"
+    },
+    {
+      "date": "2027-11-15",
+      "label": "Independencia de Cartagena"
+    },
+    {
+      "date": "2027-12-08",
+      "label": "La inmaculada concepción"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2028-01-10",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2028-03-20",
+      "label": "San José"
+    },
+    {
+      "date": "2028-04-13",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Pascua"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-05-29",
+      "label": "La Asunción"
+    },
+    {
+      "date": "2028-06-19",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2028-06-26",
+      "label": "Sagrado Corazón de Jesús"
+    },
+    {
+      "date": "2028-07-03",
+      "label": "San Pedro y San Pablo"
+    },
+    {
+      "date": "2028-07-10",
+      "label": "La virgen de Chiquinquirá"
+    },
+    {
+      "date": "2028-07-20",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-08-07",
+      "label": "Batalla de Boyacá"
+    },
+    {
+      "date": "2028-08-21",
+      "label": "Asunción"
+    },
+    {
+      "date": "2028-10-16",
+      "label": "Día de la Raza"
+    },
+    {
+      "date": "2028-11-06",
+      "label": "Todos los Santos"
+    },
+    {
+      "date": "2028-11-13",
+      "label": "Independencia de Cartagena"
+    },
+    {
+      "date": "2028-12-08",
+      "label": "La inmaculada concepción"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    }
+  ]
+}

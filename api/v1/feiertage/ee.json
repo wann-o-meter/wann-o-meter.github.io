@@ -1,0 +1,498 @@
+{
+  "category": "feiertage",
+  "slug": "ee",
+  "meta": {
+    "title": "Eesti",
+    "description": "Gesetzliche Feiertage fuer Eesti. Nächster Feiertag: taasiseseisvumispäev am 20.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ee",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "uusaasta"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-24",
+        "to": "2026-02-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "iseseisvuspäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "suur reede"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "lihavõtted"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "kevadpüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "nelipühade 1. püha"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-23",
+        "to": "2026-06-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "võidupüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-24",
+        "to": "2026-06-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "jaanipäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-20",
+        "to": "2026-08-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "taasiseseisvumispäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-24",
+        "to": "2026-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "jõululaupäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "esimene jõulupüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "teine jõulupüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "uusaasta"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-24",
+        "to": "2027-02-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "iseseisvuspäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "suur reede"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "lihavõtted"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "kevadpüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "nelipühade 1. püha"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-23",
+        "to": "2027-06-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "võidupüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-24",
+        "to": "2027-06-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "jaanipäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-20",
+        "to": "2027-08-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "taasiseseisvumispäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "jõululaupäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "esimene jõulupüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "teine jõulupüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "uusaasta"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-24",
+        "to": "2028-02-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "iseseisvuspäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "suur reede"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "lihavõtted"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "kevadpüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-04",
+        "to": "2028-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "nelipühade 1. püha"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-23",
+        "to": "2028-06-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "võidupüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-24",
+        "to": "2028-06-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "jaanipäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-20",
+        "to": "2028-08-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "taasiseseisvumispäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-24",
+        "to": "2028-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "jõululaupäev"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "esimene jõulupüha"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "teine jõulupüha"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "uusaasta"
+    },
+    {
+      "date": "2026-02-24",
+      "label": "iseseisvuspäev"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "suur reede"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "lihavõtted"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "kevadpüha"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "nelipühade 1. püha"
+    },
+    {
+      "date": "2026-06-23",
+      "label": "võidupüha"
+    },
+    {
+      "date": "2026-06-24",
+      "label": "jaanipäev"
+    },
+    {
+      "date": "2026-08-20",
+      "label": "taasiseseisvumispäev"
+    },
+    {
+      "date": "2026-12-24",
+      "label": "jõululaupäev"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "esimene jõulupüha"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "teine jõulupüha"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "uusaasta"
+    },
+    {
+      "date": "2027-02-24",
+      "label": "iseseisvuspäev"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "suur reede"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "lihavõtted"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "kevadpüha"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "nelipühade 1. püha"
+    },
+    {
+      "date": "2027-06-23",
+      "label": "võidupüha"
+    },
+    {
+      "date": "2027-06-24",
+      "label": "jaanipäev"
+    },
+    {
+      "date": "2027-08-20",
+      "label": "taasiseseisvumispäev"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "jõululaupäev"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "esimene jõulupüha"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "teine jõulupüha"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "uusaasta"
+    },
+    {
+      "date": "2028-02-24",
+      "label": "iseseisvuspäev"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "suur reede"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "lihavõtted"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "kevadpüha"
+    },
+    {
+      "date": "2028-06-04",
+      "label": "nelipühade 1. püha"
+    },
+    {
+      "date": "2028-06-23",
+      "label": "võidupüha"
+    },
+    {
+      "date": "2028-06-24",
+      "label": "jaanipäev"
+    },
+    {
+      "date": "2028-08-20",
+      "label": "taasiseseisvumispäev"
+    },
+    {
+      "date": "2028-12-24",
+      "label": "jõululaupäev"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "esimene jõulupüha"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "teine jõulupüha"
+    }
+  ]
+}

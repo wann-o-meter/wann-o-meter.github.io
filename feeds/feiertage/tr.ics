@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Türkiye
+BEGIN:VEVENT
+UID:feiertage-tr-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Türkiye
+DESCRIPTION:Yılbaşı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Türkiye
+DESCRIPTION:Ramazan Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2026-04-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:Türkiye
+DESCRIPTION:Ulusal Egemenlik ve Çocuk Bayramı - https://www.npmjs.com/pack
+ age/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Türkiye
+DESCRIPTION:Emek ve Dayanışma Günü - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2026-05-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Türkiye
+DESCRIPTION:Atatürk'ü Anma Gençlik ve Spor Bayramı - https://www.npmjs.com
+ /package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2026-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Türkiye
+DESCRIPTION:Kurban Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2026-07-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Türkiye
+DESCRIPTION:Demokrasi ve Millî Birlik Günü - https://www.npmjs.com/package
+ /date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2026-08-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Türkiye
+DESCRIPTION:Zafer Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2026-10-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Türkiye
+DESCRIPTION:Cumhuriyet Bayramı - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Türkiye
+DESCRIPTION:Yılbaşı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2027-03-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Türkiye
+DESCRIPTION:Ramazan Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2027-04-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:Türkiye
+DESCRIPTION:Ulusal Egemenlik ve Çocuk Bayramı - https://www.npmjs.com/pack
+ age/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Türkiye
+DESCRIPTION:Emek ve Dayanışma Günü - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2027-05-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Türkiye
+DESCRIPTION:Kurban Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2027-05-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Türkiye
+DESCRIPTION:Atatürk'ü Anma Gençlik ve Spor Bayramı - https://www.npmjs.com
+ /package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2027-07-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Türkiye
+DESCRIPTION:Demokrasi ve Millî Birlik Günü - https://www.npmjs.com/package
+ /date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2027-08-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:Türkiye
+DESCRIPTION:Zafer Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2027-10-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:Türkiye
+DESCRIPTION:Cumhuriyet Bayramı - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Türkiye
+DESCRIPTION:Yılbaşı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2028-02-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:Türkiye
+DESCRIPTION:Ramazan Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2028-04-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280423
+DTEND;VALUE=DATE:20280424
+SUMMARY:Türkiye
+DESCRIPTION:Ulusal Egemenlik ve Çocuk Bayramı - https://www.npmjs.com/pack
+ age/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Türkiye
+DESCRIPTION:Emek ve Dayanışma Günü - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2028-05-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:Türkiye
+DESCRIPTION:Kurban Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2028-05-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280519
+DTEND;VALUE=DATE:20280520
+SUMMARY:Türkiye
+DESCRIPTION:Atatürk'ü Anma Gençlik ve Spor Bayramı - https://www.npmjs.com
+ /package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2028-07-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280715
+DTEND;VALUE=DATE:20280716
+SUMMARY:Türkiye
+DESCRIPTION:Demokrasi ve Millî Birlik Günü - https://www.npmjs.com/package
+ /date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2028-08-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280830
+DTEND;VALUE=DATE:20280831
+SUMMARY:Türkiye
+DESCRIPTION:Zafer Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-tr-2028-10-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281029
+DTEND;VALUE=DATE:20281030
+SUMMARY:Türkiye
+DESCRIPTION:Cumhuriyet Bayramı - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

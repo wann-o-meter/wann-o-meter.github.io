@@ -1,0 +1,342 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bahamas
+BEGIN:VEVENT
+UID:feiertage-bs-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Bahamas
+DESCRIPTION:New Year's Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-01-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:Bahamas
+DESCRIPTION:Majority Rule Day - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-01-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:Bahamas
+DESCRIPTION:Majority Rule Day (substitute day) - https://www.npmjs.com/pac
+ kage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-04-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:Bahamas
+DESCRIPTION:Good Friday - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-04-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Bahamas
+DESCRIPTION:Easter Monday - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-05-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Bahamas
+DESCRIPTION:Whit Monday - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-06-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:Bahamas
+DESCRIPTION:Randol Fawkes Labour Day - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-07-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Bahamas
+DESCRIPTION:Independence Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-08-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Bahamas
+DESCRIPTION:Emancipation Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-10-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Bahamas
+DESCRIPTION:National Heroes' Day - https://www.npmjs.com/package/date-holi
+ days
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Bahamas
+DESCRIPTION:Christmas Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2026-12-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:Bahamas
+DESCRIPTION:Boxing Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Bahamas
+DESCRIPTION:New Year's Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-01-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Bahamas
+DESCRIPTION:Majority Rule Day - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-01-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Bahamas
+DESCRIPTION:Majority Rule Day (substitute day) - https://www.npmjs.com/pac
+ kage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-03-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Bahamas
+DESCRIPTION:Good Friday - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-03-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:Bahamas
+DESCRIPTION:Easter Monday - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-05-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Bahamas
+DESCRIPTION:Whit Monday - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-06-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Bahamas
+DESCRIPTION:Randol Fawkes Labour Day - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-07-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Bahamas
+DESCRIPTION:Independence Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-07-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270713
+SUMMARY:Bahamas
+DESCRIPTION:Independence Day (substitute day) - https://www.npmjs.com/pack
+ age/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-08-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Bahamas
+DESCRIPTION:Emancipation Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-10-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:Bahamas
+DESCRIPTION:National Heroes' Day - https://www.npmjs.com/package/date-holi
+ days
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Bahamas
+DESCRIPTION:Christmas Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2027-12-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:Bahamas
+DESCRIPTION:Boxing Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Bahamas
+DESCRIPTION:New Year's Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-01-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:Bahamas
+DESCRIPTION:Majority Rule Day - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-04-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:Bahamas
+DESCRIPTION:Good Friday - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-04-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:Bahamas
+DESCRIPTION:Easter Monday - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-06-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280602
+DTEND;VALUE=DATE:20280603
+SUMMARY:Bahamas
+DESCRIPTION:Randol Fawkes Labour Day - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-06-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Bahamas
+DESCRIPTION:Whit Monday - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-07-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280711
+SUMMARY:Bahamas
+DESCRIPTION:Independence Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-08-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280807
+DTEND;VALUE=DATE:20280808
+SUMMARY:Bahamas
+DESCRIPTION:Emancipation Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-10-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281012
+DTEND;VALUE=DATE:20281013
+SUMMARY:Bahamas
+DESCRIPTION:National Heroes' Day - https://www.npmjs.com/package/date-holi
+ days
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Bahamas
+DESCRIPTION:Christmas Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bs-2028-12-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281226
+DTEND;VALUE=DATE:20281227
+SUMMARY:Bahamas
+DESCRIPTION:Boxing Day - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

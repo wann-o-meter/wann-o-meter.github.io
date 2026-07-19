@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:دولة الإمارات العربية المتحدة
+BEGIN:VEVENT
+UID:feiertage-ae-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:رأس السنة الميلادية - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2026-01-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:الإسراء والمعراج - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2026-02-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:اليوم الأول من رمضان - https://www.npmjs.com/package/date-holi
+ days
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:عيد الفطر - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2026-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:عيد الأضحى - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2026-06-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:رأس السنة الهجرية - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2026-08-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:المولد النبويّ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2026-12-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:اليوم الوطني - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:رأس السنة الميلادية - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2027-01-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:الإسراء والمعراج - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2027-02-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:اليوم الأول من رمضان - https://www.npmjs.com/package/date-holi
+ days
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2027-03-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:عيد الفطر - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2027-05-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:عيد الأضحى - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2027-06-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:رأس السنة الهجرية - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2027-08-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:المولد النبويّ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2027-12-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:اليوم الوطني - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2027-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:الإسراء والمعراج - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:رأس السنة الميلادية - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2028-01-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:اليوم الأول من رمضان - https://www.npmjs.com/package/date-holi
+ days
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2028-02-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:عيد الفطر - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2028-05-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:عيد الأضحى - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2028-05-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:رأس السنة الهجرية - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2028-08-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:المولد النبويّ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2028-12-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281202
+DTEND;VALUE=DATE:20281203
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:اليوم الوطني - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ae-2028-12-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281214
+DTEND;VALUE=DATE:20281215
+SUMMARY:دولة الإمارات العربية المتحدة
+DESCRIPTION:الإسراء والمعراج - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

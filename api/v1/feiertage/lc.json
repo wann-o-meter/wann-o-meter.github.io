@@ -1,0 +1,576 @@
+{
+  "category": "feiertage",
+  "slug": "lc",
+  "meta": {
+    "title": "St. Lucia",
+    "description": "Gesetzliche Feiertage fuer St. Lucia. Nächster Feiertag: Emancipation Day am 01.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "lc",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-02",
+        "to": "2026-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Second New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-22",
+        "to": "2026-02-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Whit Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-04",
+        "to": "2026-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-10",
+        "to": "2026-07-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnival"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-01",
+        "to": "2026-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-13",
+        "to": "2026-12-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-02",
+        "to": "2027-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Second New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-22",
+        "to": "2027-02-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-17",
+        "to": "2027-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Whit Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-16",
+        "to": "2027-07-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnival"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-01",
+        "to": "2027-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-04",
+        "to": "2027-10-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-13",
+        "to": "2027-12-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-02",
+        "to": "2028-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Second New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-22",
+        "to": "2028-02-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-05",
+        "to": "2028-06-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Whit Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-14",
+        "to": "2028-07-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnival"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-01",
+        "to": "2028-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-02",
+        "to": "2028-10-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-13",
+        "to": "2028-12-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-01-02",
+      "label": "Second New Year's Day"
+    },
+    {
+      "date": "2026-02-22",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Whit Monday"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2026-07-10",
+      "label": "Carnival"
+    },
+    {
+      "date": "2026-08-01",
+      "label": "Emancipation Day"
+    },
+    {
+      "date": "2026-10-05",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2026-12-13",
+      "label": "National Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-01-02",
+      "label": "Second New Year's Day"
+    },
+    {
+      "date": "2027-02-22",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2027-05-17",
+      "label": "Whit Monday"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2027-07-16",
+      "label": "Carnival"
+    },
+    {
+      "date": "2027-08-01",
+      "label": "Emancipation Day"
+    },
+    {
+      "date": "2027-10-04",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2027-12-13",
+      "label": "National Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-01-02",
+      "label": "Second New Year's Day"
+    },
+    {
+      "date": "2028-02-22",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2028-06-05",
+      "label": "Whit Monday"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2028-07-14",
+      "label": "Carnival"
+    },
+    {
+      "date": "2028-08-01",
+      "label": "Emancipation Day"
+    },
+    {
+      "date": "2028-10-02",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2028-12-13",
+      "label": "National Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    }
+  ]
+}

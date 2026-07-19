@@ -1,0 +1,537 @@
+{
+  "category": "feiertage",
+  "slug": "cz",
+  "meta": {
+    "title": "Česká republika",
+    "description": "Gesetzliche Feiertage fuer Česká republika. Nächster Feiertag: Den české státnosti am 28.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "cz",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nový rok a Den obnovy samostatného českého státu"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velký pátek"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velikonoční pondělí"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svátek práce"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-08",
+        "to": "2026-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den vítězství"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-05",
+        "to": "2026-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den slovanských věrozvěstů Cyrila a Metoděje"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-06",
+        "to": "2026-07-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den upálení mistra Jana Husa"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-28",
+        "to": "2026-09-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den české státnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-28",
+        "to": "2026-10-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den vzniku samostatného československého státu"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-17",
+        "to": "2026-11-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den boje za svobodu a demokracii"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-24",
+        "to": "2026-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Štědrý den"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "1. svátek vánoční"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "2. svátek vánoční"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nový rok a Den obnovy samostatného českého státu"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velký pátek"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velikonoční pondělí"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svátek práce"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-08",
+        "to": "2027-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den vítězství"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-05",
+        "to": "2027-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den slovanských věrozvěstů Cyrila a Metoděje"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-06",
+        "to": "2027-07-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den upálení mistra Jana Husa"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-28",
+        "to": "2027-09-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den české státnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-28",
+        "to": "2027-10-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den vzniku samostatného československého státu"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-17",
+        "to": "2027-11-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den boje za svobodu a demokracii"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Štědrý den"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "1. svátek vánoční"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "2. svátek vánoční"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nový rok a Den obnovy samostatného českého státu"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velký pátek"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velikonoční pondělí"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svátek práce"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-08",
+        "to": "2028-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den vítězství"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-05",
+        "to": "2028-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den slovanských věrozvěstů Cyrila a Metoděje"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-06",
+        "to": "2028-07-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den upálení mistra Jana Husa"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-28",
+        "to": "2028-09-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den české státnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-28",
+        "to": "2028-10-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den vzniku samostatného československého státu"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-17",
+        "to": "2028-11-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Den boje za svobodu a demokracii"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-24",
+        "to": "2028-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Štědrý den"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "1. svátek vánoční"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "2. svátek vánoční"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nový rok a Den obnovy samostatného českého státu"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Velký pátek"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Velikonoční pondělí"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Svátek práce"
+    },
+    {
+      "date": "2026-05-08",
+      "label": "Den vítězství"
+    },
+    {
+      "date": "2026-07-05",
+      "label": "Den slovanských věrozvěstů Cyrila a Metoděje"
+    },
+    {
+      "date": "2026-07-06",
+      "label": "Den upálení mistra Jana Husa"
+    },
+    {
+      "date": "2026-09-28",
+      "label": "Den české státnosti"
+    },
+    {
+      "date": "2026-10-28",
+      "label": "Den vzniku samostatného československého státu"
+    },
+    {
+      "date": "2026-11-17",
+      "label": "Den boje za svobodu a demokracii"
+    },
+    {
+      "date": "2026-12-24",
+      "label": "Štědrý den"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "1. svátek vánoční"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "2. svátek vánoční"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nový rok a Den obnovy samostatného českého státu"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Velký pátek"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Velikonoční pondělí"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Svátek práce"
+    },
+    {
+      "date": "2027-05-08",
+      "label": "Den vítězství"
+    },
+    {
+      "date": "2027-07-05",
+      "label": "Den slovanských věrozvěstů Cyrila a Metoděje"
+    },
+    {
+      "date": "2027-07-06",
+      "label": "Den upálení mistra Jana Husa"
+    },
+    {
+      "date": "2027-09-28",
+      "label": "Den české státnosti"
+    },
+    {
+      "date": "2027-10-28",
+      "label": "Den vzniku samostatného československého státu"
+    },
+    {
+      "date": "2027-11-17",
+      "label": "Den boje za svobodu a demokracii"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Štědrý den"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "1. svátek vánoční"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "2. svátek vánoční"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nový rok a Den obnovy samostatného českého státu"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Velký pátek"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Velikonoční pondělí"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Svátek práce"
+    },
+    {
+      "date": "2028-05-08",
+      "label": "Den vítězství"
+    },
+    {
+      "date": "2028-07-05",
+      "label": "Den slovanských věrozvěstů Cyrila a Metoděje"
+    },
+    {
+      "date": "2028-07-06",
+      "label": "Den upálení mistra Jana Husa"
+    },
+    {
+      "date": "2028-09-28",
+      "label": "Den české státnosti"
+    },
+    {
+      "date": "2028-10-28",
+      "label": "Den vzniku samostatného československého státu"
+    },
+    {
+      "date": "2028-11-17",
+      "label": "Den boje za svobodu a demokracii"
+    },
+    {
+      "date": "2028-12-24",
+      "label": "Štědrý den"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "1. svátek vánoční"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "2. svátek vánoční"
+    }
+  ]
+}

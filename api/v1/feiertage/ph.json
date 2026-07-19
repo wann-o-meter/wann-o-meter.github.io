@@ -1,0 +1,537 @@
+{
+  "category": "feiertage",
+  "slug": "ph",
+  "meta": {
+    "title": "Philippines",
+    "description": "Gesetzliche Feiertage fuer Philippines. Nächster Feiertag: National Heroes' Day am 31.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ph",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maundy Thursday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Sunday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-09",
+        "to": "2026-04-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Day of Valor"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-12",
+        "to": "2026-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-31",
+        "to": "2026-08-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Heroes' Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-30",
+        "to": "2026-11-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Bonifacio Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-30",
+        "to": "2026-12-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Rizal Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-25",
+        "to": "2027-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maundy Thursday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Sunday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-09",
+        "to": "2027-04-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Day of Valor"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-12",
+        "to": "2027-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-30",
+        "to": "2027-08-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Heroes' Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-30",
+        "to": "2027-11-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Bonifacio Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-30",
+        "to": "2027-12-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Rizal Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-09",
+        "to": "2028-04-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Day of Valor"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-13",
+        "to": "2028-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maundy Thursday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Sunday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-12",
+        "to": "2028-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-28",
+        "to": "2028-08-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Heroes' Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-30",
+        "to": "2028-11-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Bonifacio Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-30",
+        "to": "2028-12-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Rizal Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "Maundy Thursday"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Easter Sunday"
+    },
+    {
+      "date": "2026-04-09",
+      "label": "Day of Valor"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2026-06-12",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2026-08-31",
+      "label": "National Heroes' Day"
+    },
+    {
+      "date": "2026-11-30",
+      "label": "Bonifacio Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-30",
+      "label": "Rizal Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2027-03-25",
+      "label": "Maundy Thursday"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Easter Sunday"
+    },
+    {
+      "date": "2027-04-09",
+      "label": "Day of Valor"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2027-06-12",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2027-08-30",
+      "label": "National Heroes' Day"
+    },
+    {
+      "date": "2027-11-30",
+      "label": "Bonifacio Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-30",
+      "label": "Rizal Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2028-04-09",
+      "label": "Day of Valor"
+    },
+    {
+      "date": "2028-04-13",
+      "label": "Maundy Thursday"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Easter Sunday"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2028-06-12",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2028-08-28",
+      "label": "National Heroes' Day"
+    },
+    {
+      "date": "2028-11-30",
+      "label": "Bonifacio Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-30",
+      "label": "Rizal Day"
+    }
+  ]
+}

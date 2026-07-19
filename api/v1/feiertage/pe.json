@@ -1,0 +1,537 @@
+{
+  "category": "feiertage",
+  "slug": "pe",
+  "meta": {
+    "title": "Perú",
+    "description": "Gesetzliche Feiertage fuer Perú. Nächster Feiertag: Día de la Independencia am 28.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "pe",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pascua"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-29",
+        "to": "2026-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Pedro y San Pablo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-28",
+        "to": "2026-07-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-29",
+        "to": "2026-07-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-30",
+        "to": "2026-08-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de Santa Rosa de Lima"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-08",
+        "to": "2026-10-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Combate de Angamos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos los Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-08",
+        "to": "2026-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "La inmaculada concepción"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-25",
+        "to": "2027-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pascua"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-29",
+        "to": "2027-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Pedro y San Pablo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-28",
+        "to": "2027-07-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-29",
+        "to": "2027-07-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-30",
+        "to": "2027-08-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de Santa Rosa de Lima"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-08",
+        "to": "2027-10-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Combate de Angamos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos los Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-08",
+        "to": "2027-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "La inmaculada concepción"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-13",
+        "to": "2028-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pascua"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-29",
+        "to": "2028-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Pedro y San Pablo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-28",
+        "to": "2028-07-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-29",
+        "to": "2028-07-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-30",
+        "to": "2028-08-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de Santa Rosa de Lima"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-08",
+        "to": "2028-10-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Combate de Angamos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos los Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-08",
+        "to": "2028-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "La inmaculada concepción"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Pascua"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-06-29",
+      "label": "San Pedro y San Pablo"
+    },
+    {
+      "date": "2026-07-28",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-07-29",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-08-30",
+      "label": "Día de Santa Rosa de Lima"
+    },
+    {
+      "date": "2026-10-08",
+      "label": "Combate de Angamos"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Todos los Santos"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "La inmaculada concepción"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2027-03-25",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Pascua"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-06-29",
+      "label": "San Pedro y San Pablo"
+    },
+    {
+      "date": "2027-07-28",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-07-29",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-08-30",
+      "label": "Día de Santa Rosa de Lima"
+    },
+    {
+      "date": "2027-10-08",
+      "label": "Combate de Angamos"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Todos los Santos"
+    },
+    {
+      "date": "2027-12-08",
+      "label": "La inmaculada concepción"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2028-04-13",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Pascua"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-06-29",
+      "label": "San Pedro y San Pablo"
+    },
+    {
+      "date": "2028-07-28",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-07-29",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-08-30",
+      "label": "Día de Santa Rosa de Lima"
+    },
+    {
+      "date": "2028-10-08",
+      "label": "Combate de Angamos"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Todos los Santos"
+    },
+    {
+      "date": "2028-12-08",
+      "label": "La inmaculada concepción"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    }
+  ]
+}

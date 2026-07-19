@@ -1,0 +1,693 @@
+{
+  "category": "feiertage",
+  "slug": "hk",
+  "meta": {
+    "title": "香港",
+    "description": "Gesetzliche Feiertage fuer 香港. Nächster Feiertag: 中秋節翌日 am 26.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "hk",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "一月一日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "農曆年初一"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-18",
+        "to": "2026-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "農曆年初二"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-19",
+        "to": "2026-02-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "農曆年初三"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "耶穌受難節"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-04",
+        "to": "2026-04-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "耶穌受難節翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "清明節翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-07",
+        "to": "2026-04-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "復活節星期一翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "勞動節"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "佛誕翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-19",
+        "to": "2026-06-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "端午節"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-01",
+        "to": "2026-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "香港特別行政區成立紀念日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-26",
+        "to": "2026-09-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "中秋節翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-01",
+        "to": "2026-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "國慶日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-19",
+        "to": "2026-10-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "重陽節翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "聖誕節"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "聖誕節後第一個周日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "一月一日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-06",
+        "to": "2027-02-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "農曆年初一"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-08",
+        "to": "2027-02-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "農曆年初三"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-09",
+        "to": "2027-02-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "農曆年初四"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "耶穌受難節"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-27",
+        "to": "2027-03-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "耶穌受難節翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "復活節星期一"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-05",
+        "to": "2027-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "清明節"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "勞動節"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-13",
+        "to": "2027-05-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "佛誕"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-09",
+        "to": "2027-06-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "端午節"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-01",
+        "to": "2027-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "香港特別行政區成立紀念日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-16",
+        "to": "2027-09-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "中秋節翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-01",
+        "to": "2027-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "國慶日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-08",
+        "to": "2027-10-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "重陽節"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "聖誕節"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-27",
+        "to": "2027-12-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "聖誕節後第一個周日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "一月一日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-26",
+        "to": "2028-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "農曆年初一"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-27",
+        "to": "2028-01-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "農曆年初二"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-28",
+        "to": "2028-01-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "農曆年初三"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-04",
+        "to": "2028-04-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "清明節"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "耶穌受難節"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-15",
+        "to": "2028-04-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "耶穌受難節翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "復活節星期一"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "勞動節"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-02",
+        "to": "2028-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "佛誕"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-29",
+        "to": "2028-05-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "端午節翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-01",
+        "to": "2028-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "香港特別行政區成立紀念日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-02",
+        "to": "2028-10-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "國慶日翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-04",
+        "to": "2028-10-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "中秋節翌日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-26",
+        "to": "2028-10-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "重陽節"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "聖誕節"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "聖誕節後第一個周日"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "一月一日"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "農曆年初一"
+    },
+    {
+      "date": "2026-02-18",
+      "label": "農曆年初二"
+    },
+    {
+      "date": "2026-02-19",
+      "label": "農曆年初三"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "耶穌受難節"
+    },
+    {
+      "date": "2026-04-04",
+      "label": "耶穌受難節翌日"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "清明節翌日"
+    },
+    {
+      "date": "2026-04-07",
+      "label": "復活節星期一翌日"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "勞動節"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "佛誕翌日"
+    },
+    {
+      "date": "2026-06-19",
+      "label": "端午節"
+    },
+    {
+      "date": "2026-07-01",
+      "label": "香港特別行政區成立紀念日"
+    },
+    {
+      "date": "2026-09-26",
+      "label": "中秋節翌日"
+    },
+    {
+      "date": "2026-10-01",
+      "label": "國慶日"
+    },
+    {
+      "date": "2026-10-19",
+      "label": "重陽節翌日"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "聖誕節"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "聖誕節後第一個周日"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "一月一日"
+    },
+    {
+      "date": "2027-02-06",
+      "label": "農曆年初一"
+    },
+    {
+      "date": "2027-02-08",
+      "label": "農曆年初三"
+    },
+    {
+      "date": "2027-02-09",
+      "label": "農曆年初四"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "耶穌受難節"
+    },
+    {
+      "date": "2027-03-27",
+      "label": "耶穌受難節翌日"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "復活節星期一"
+    },
+    {
+      "date": "2027-04-05",
+      "label": "清明節"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "勞動節"
+    },
+    {
+      "date": "2027-05-13",
+      "label": "佛誕"
+    },
+    {
+      "date": "2027-06-09",
+      "label": "端午節"
+    },
+    {
+      "date": "2027-07-01",
+      "label": "香港特別行政區成立紀念日"
+    },
+    {
+      "date": "2027-09-16",
+      "label": "中秋節翌日"
+    },
+    {
+      "date": "2027-10-01",
+      "label": "國慶日"
+    },
+    {
+      "date": "2027-10-08",
+      "label": "重陽節"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "聖誕節"
+    },
+    {
+      "date": "2027-12-27",
+      "label": "聖誕節後第一個周日"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "一月一日"
+    },
+    {
+      "date": "2028-01-26",
+      "label": "農曆年初一"
+    },
+    {
+      "date": "2028-01-27",
+      "label": "農曆年初二"
+    },
+    {
+      "date": "2028-01-28",
+      "label": "農曆年初三"
+    },
+    {
+      "date": "2028-04-04",
+      "label": "清明節"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "耶穌受難節"
+    },
+    {
+      "date": "2028-04-15",
+      "label": "耶穌受難節翌日"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "復活節星期一"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "勞動節"
+    },
+    {
+      "date": "2028-05-02",
+      "label": "佛誕"
+    },
+    {
+      "date": "2028-05-29",
+      "label": "端午節翌日"
+    },
+    {
+      "date": "2028-07-01",
+      "label": "香港特別行政區成立紀念日"
+    },
+    {
+      "date": "2028-10-02",
+      "label": "國慶日翌日"
+    },
+    {
+      "date": "2028-10-04",
+      "label": "中秋節翌日"
+    },
+    {
+      "date": "2028-10-26",
+      "label": "重陽節"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "聖誕節"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "聖誕節後第一個周日"
+    }
+  ]
+}

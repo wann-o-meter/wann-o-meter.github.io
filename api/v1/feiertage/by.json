@@ -1,0 +1,381 @@
+{
+  "category": "feiertage",
+  "slug": "by",
+  "meta": {
+    "title": "Рэспубліка Беларусь",
+    "description": "Gesetzliche Feiertage fuer Рэспубліка Беларусь. Nächster Feiertag: Дзень Кастрычніцкай рэвалюцыі am 07.11.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "by",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новы год"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-07",
+        "to": "2026-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Каляды праваслаўныя"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-08",
+        "to": "2026-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Мiжнародны жаночы дзень"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-21",
+        "to": "2026-04-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Радунiца"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень працы"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-09",
+        "to": "2026-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень Перамогi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-03",
+        "to": "2026-07-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень Незалежнасцi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-07",
+        "to": "2026-11-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень Кастрычніцкай рэвалюцыі"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Каляды каталiцкiя"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новы год"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-07",
+        "to": "2027-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Каляды праваслаўныя"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Мiжнародны жаночы дзень"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень працы"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-09",
+        "to": "2027-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень Перамогi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-11",
+        "to": "2027-05-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Радунiца"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-03",
+        "to": "2027-07-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень Незалежнасцi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-07",
+        "to": "2027-11-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень Кастрычніцкай рэвалюцыі"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Каляды каталiцкiя"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новы год"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-07",
+        "to": "2028-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Каляды праваслаўныя"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Мiжнародны жаночы дзень"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-25",
+        "to": "2028-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Радунiца"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень працы"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-09",
+        "to": "2028-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень Перамогi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-03",
+        "to": "2028-07-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень Незалежнасцi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-07",
+        "to": "2028-11-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Дзень Кастрычніцкай рэвалюцыі"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Каляды каталiцкiя"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Новы год"
+    },
+    {
+      "date": "2026-01-07",
+      "label": "Каляды праваслаўныя"
+    },
+    {
+      "date": "2026-03-08",
+      "label": "Мiжнародны жаночы дзень"
+    },
+    {
+      "date": "2026-04-21",
+      "label": "Радунiца"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Дзень працы"
+    },
+    {
+      "date": "2026-05-09",
+      "label": "Дзень Перамогi"
+    },
+    {
+      "date": "2026-07-03",
+      "label": "Дзень Незалежнасцi"
+    },
+    {
+      "date": "2026-11-07",
+      "label": "Дзень Кастрычніцкай рэвалюцыі"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Каляды каталiцкiя"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Новы год"
+    },
+    {
+      "date": "2027-01-07",
+      "label": "Каляды праваслаўныя"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "Мiжнародны жаночы дзень"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Дзень працы"
+    },
+    {
+      "date": "2027-05-09",
+      "label": "Дзень Перамогi"
+    },
+    {
+      "date": "2027-05-11",
+      "label": "Радунiца"
+    },
+    {
+      "date": "2027-07-03",
+      "label": "Дзень Незалежнасцi"
+    },
+    {
+      "date": "2027-11-07",
+      "label": "Дзень Кастрычніцкай рэвалюцыі"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Каляды каталiцкiя"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Новы год"
+    },
+    {
+      "date": "2028-01-07",
+      "label": "Каляды праваслаўныя"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "Мiжнародны жаночы дзень"
+    },
+    {
+      "date": "2028-04-25",
+      "label": "Радунiца"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Дзень працы"
+    },
+    {
+      "date": "2028-05-09",
+      "label": "Дзень Перамогi"
+    },
+    {
+      "date": "2028-07-03",
+      "label": "Дзень Незалежнасцi"
+    },
+    {
+      "date": "2028-11-07",
+      "label": "Дзень Кастрычніцкай рэвалюцыі"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Каляды каталiцкiя"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Հայաստան
+BEGIN:VEVENT
+UID:feiertage-am-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Հայաստան
+DESCRIPTION:Ամանոր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-01-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:Հայաստան
+DESCRIPTION:Նախածննդյան տոներ - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:Հայաստան
+DESCRIPTION:Սուրբ Ծնունդ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-01-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:Հայաստան
+DESCRIPTION:Բանակի օր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-03-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Հայաստան
+DESCRIPTION:Կանանց տոն - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-04-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:Հայաստան
+DESCRIPTION:Ցեղասպանության զոհերի հիշատակի օր - https://www.npmjs.com/pack
+ age/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Հայաստան
+DESCRIPTION:Աշխատանքի օր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Հայաստան
+DESCRIPTION:Հաղթանակի եւ Խաղաղության տոն - https://www.npmjs.com/package/d
+ ate-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Հայաստան
+DESCRIPTION:Հանրապետության օր - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-07-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:Հայաստան
+DESCRIPTION:Սահմանադրության օր - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-09-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Հայաստան
+DESCRIPTION:Անկախության օր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2026-12-31@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Հայաստան
+DESCRIPTION:Նոր տարվա գիշեր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Հայաստան
+DESCRIPTION:Ամանոր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-01-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Հայաստան
+DESCRIPTION:Նախածննդյան տոներ - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Հայաստան
+DESCRIPTION:Սուրբ Ծնունդ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-01-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:Հայաստան
+DESCRIPTION:Բանակի օր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-03-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Հայաստան
+DESCRIPTION:Կանանց տոն - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-04-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Հայաստան
+DESCRIPTION:Ցեղասպանության զոհերի հիշատակի օր - https://www.npmjs.com/pack
+ age/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Հայաստան
+DESCRIPTION:Աշխատանքի օր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Հայաստան
+DESCRIPTION:Հաղթանակի եւ Խաղաղության տոն - https://www.npmjs.com/package/d
+ ate-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Հայաստան
+DESCRIPTION:Հանրապետության օր - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-07-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Հայաստան
+DESCRIPTION:Սահմանադրության օր - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-09-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:Հայաստան
+DESCRIPTION:Անկախության օր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2027-12-31@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Հայաստան
+DESCRIPTION:Նոր տարվա գիշեր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Հայաստան
+DESCRIPTION:Ամանոր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-01-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280103
+DTEND;VALUE=DATE:20280104
+SUMMARY:Հայաստան
+DESCRIPTION:Նախածննդյան տոներ - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-01-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:Հայաստան
+DESCRIPTION:Սուրբ Ծնունդ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-01-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:Հայաստան
+DESCRIPTION:Բանակի օր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-03-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280308
+DTEND;VALUE=DATE:20280309
+SUMMARY:Հայաստան
+DESCRIPTION:Կանանց տոն - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-04-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280424
+DTEND;VALUE=DATE:20280425
+SUMMARY:Հայաստան
+DESCRIPTION:Ցեղասպանության զոհերի հիշատակի օր - https://www.npmjs.com/pack
+ age/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Հայաստան
+DESCRIPTION:Աշխատանքի օր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280509
+DTEND;VALUE=DATE:20280510
+SUMMARY:Հայաստան
+DESCRIPTION:Հաղթանակի եւ Խաղաղության տոն - https://www.npmjs.com/package/d
+ ate-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280528
+DTEND;VALUE=DATE:20280529
+SUMMARY:Հայաստան
+DESCRIPTION:Հանրապետության օր - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-07-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280705
+DTEND;VALUE=DATE:20280706
+SUMMARY:Հայաստան
+DESCRIPTION:Սահմանադրության օր - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-09-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280921
+DTEND;VALUE=DATE:20280922
+SUMMARY:Հայաստան
+DESCRIPTION:Անկախության օր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-am-2028-12-31@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Հայաստան
+DESCRIPTION:Նոր տարվա գիշեր - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

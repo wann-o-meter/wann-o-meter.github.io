@@ -1,0 +1,654 @@
+{
+  "category": "feiertage",
+  "slug": "tz",
+  "meta": {
+    "title": "Tanzania",
+    "description": "Gesetzliche Feiertage fuer Tanzania. Nächster Feiertag: Nane Nane Day am 08.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "tz",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-02",
+        "to": "2026-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zanzibar Revolution Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-07",
+        "to": "2026-04-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Karume Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-26",
+        "to": "2026-04-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Union Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-07",
+        "to": "2026-07-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Saba Saba Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-08",
+        "to": "2026-08-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nane Nane Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-14",
+        "to": "2026-10-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nyerere Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-09",
+        "to": "2026-12-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-02",
+        "to": "2027-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zanzibar Revolution Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-07",
+        "to": "2027-04-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Karume Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-26",
+        "to": "2027-04-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Union Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-07",
+        "to": "2027-07-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Saba Saba Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-08",
+        "to": "2027-08-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nane Nane Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-14",
+        "to": "2027-10-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nyerere Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-09",
+        "to": "2027-12-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-02",
+        "to": "2028-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zanzibar Revolution Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-07",
+        "to": "2028-04-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Karume Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-26",
+        "to": "2028-04-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Union Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-07",
+        "to": "2028-07-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Saba Saba Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-08",
+        "to": "2028-08-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nane Nane Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-14",
+        "to": "2028-10-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nyerere Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-09",
+        "to": "2028-12-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-01-02",
+      "label": "Zanzibar Revolution Day"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2026-04-07",
+      "label": "Karume Day"
+    },
+    {
+      "date": "2026-04-26",
+      "label": "Union Day"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2026-07-07",
+      "label": "Saba Saba Day"
+    },
+    {
+      "date": "2026-08-08",
+      "label": "Nane Nane Day"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Maulid Day"
+    },
+    {
+      "date": "2026-10-14",
+      "label": "Nyerere Day"
+    },
+    {
+      "date": "2026-12-09",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-01-02",
+      "label": "Zanzibar Revolution Day"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2027-04-07",
+      "label": "Karume Day"
+    },
+    {
+      "date": "2027-04-26",
+      "label": "Union Day"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2027-07-07",
+      "label": "Saba Saba Day"
+    },
+    {
+      "date": "2027-08-08",
+      "label": "Nane Nane Day"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Maulid Day"
+    },
+    {
+      "date": "2027-10-14",
+      "label": "Nyerere Day"
+    },
+    {
+      "date": "2027-12-09",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-01-02",
+      "label": "Zanzibar Revolution Day"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2028-04-07",
+      "label": "Karume Day"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2028-04-26",
+      "label": "Union Day"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2028-07-07",
+      "label": "Saba Saba Day"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Maulid Day"
+    },
+    {
+      "date": "2028-08-08",
+      "label": "Nane Nane Day"
+    },
+    {
+      "date": "2028-10-14",
+      "label": "Nyerere Day"
+    },
+    {
+      "date": "2028-12-09",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Christmas Day"
+    }
+  ]
+}

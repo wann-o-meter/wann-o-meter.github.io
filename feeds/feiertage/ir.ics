@@ -1,0 +1,804 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:جمهوری اسلامی ایران
+BEGIN:VEVENT
+UID:feiertage-ir-2026-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:وﻻدت ﺣﻀﺮت اﻣﺎم ﻋﻠﯽ ﻋﻠﯿﻪ اﻟﺴﻼم - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-01-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻣﺒﻌﺚ ﺣﻀﺮت رﺳﻮل اﮐﺮم ﺻﻠﯽ اﷲ ﻋﻠﯿﻪ و آﻟﻪ - https://www.npmjs.com/
+ package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-02-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:وﻻدت ﺣﻀﺮت ﻗﺎﺋﻢ ﻋﺠﻞاﷲ ﺗﻌﺎﻟﯽ ﻓﺮﺟﻪ شریف - https://www.npmjs.com/p
+ ackage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-02-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:انقلاب اسلامی پنجاه و هفت - https://www.npmjs.com/package/date
+ -holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-03-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت ﻋﻠﯽ ﻋﻠﯿﻪاﻟﺴﻼم - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ملی شدن صنعت نفت - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-03-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺑﻪ ﻣﻨﺎﺳﺒﺖ ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-03-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-03-22@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-03-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-03-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-04-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:روز جمهوری اسلامی - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-04-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:سیزده بدر - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-04-13@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم ﺟﻌﻔﺮ ﺻﺎدق ﻋﻠﯿﻪاﻟﺴﻼم - https://www.npmjs.com/pa
+ ckage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﯿﺪ ﺳﻌﯿﺪ ﻗﺮﺑﺎن - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-06-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﯿﺪ ﺳﻌﯿﺪ ﻏﺪﯾﺮ ﺧﻢ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-06-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:رﺣﻠﺖ اﻣﺎم ﺧﻤﯿﻨﯽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-06-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:قیام ۱۵ خرداد - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-06-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺗﺎﺳﻮﻋﺎی ﺣﺴﯿﻨﯽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-06-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﺎﺷﻮرای ﺣﺴﯿﻨﯽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-08-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:اربعین حسینی - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-08-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:رﺣﻠﺖ ﺣﻀﺮت رﺳﻮل اﮐﺮم صلّی الله علیه وآله و سلّم - https://www.n
+ pmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-08-13@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم رﺿﺎ ﻋﻠﯿﻪاﻟﺴﻼم - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-08-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:شهادت امام حسن عسكری علیه‌السلام - https://www.npmjs.com/packa
+ ge/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-08-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ولادت حضرت رسول اکرم صلّی الله علیه وآله و سلّم - https://www.
+ npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-11-13@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت ﻓﺎﻃﻤﻪ زﻫﺮا ﺳﻼم اﷲ ﻋﻠﯿﻬﺎ - https://www.npmjs.com/pac
+ kage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2026-12-22@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:وﻻدت ﺣﻀﺮت اﻣﺎم ﻋﻠﯽ ﻋﻠﯿﻪ اﻟﺴﻼم - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-01-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻣﺒﻌﺚ ﺣﻀﺮت رﺳﻮل اﮐﺮم ﺻﻠﯽ اﷲ ﻋﻠﯿﻪ و آﻟﻪ - https://www.npmjs.com/
+ package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-01-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:وﻻدت ﺣﻀﺮت ﻗﺎﺋﻢ ﻋﺠﻞاﷲ ﺗﻌﺎﻟﯽ ﻓﺮﺟﻪ شریف - https://www.npmjs.com/p
+ ackage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-02-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:انقلاب اسلامی پنجاه و هفت - https://www.npmjs.com/package/date
+ -holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-02-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت ﻋﻠﯽ ﻋﻠﯿﻪاﻟﺴﻼم - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-03-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-03-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺑﻪ ﻣﻨﺎﺳﺒﺖ ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ملی شدن صنعت نفت - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-03-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-03-22@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-03-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-03-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-04-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:روز جمهوری اسلامی - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-04-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم ﺟﻌﻔﺮ ﺻﺎدق ﻋﻠﯿﻪاﻟﺴﻼم - https://www.npmjs.com/pa
+ ckage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-04-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:سیزده بدر - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-05-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﯿﺪ ﺳﻌﯿﺪ ﻗﺮﺑﺎن - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-05-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﯿﺪ ﺳﻌﯿﺪ ﻏﺪﯾﺮ ﺧﻢ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-06-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:رﺣﻠﺖ اﻣﺎم ﺧﻤﯿﻨﯽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-06-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:قیام ۱۵ خرداد - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-06-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺗﺎﺳﻮﻋﺎی ﺣﺴﯿﻨﯽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-06-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﺎﺷﻮرای ﺣﺴﯿﻨﯽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-07-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:اربعین حسینی - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-08-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:رﺣﻠﺖ ﺣﻀﺮت رﺳﻮل اﮐﺮم صلّی الله علیه وآله و سلّم - https://www.n
+ pmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-08-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم رﺿﺎ ﻋﻠﯿﻪاﻟﺴﻼم - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-08-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:شهادت امام حسن عسكری علیه‌السلام - https://www.npmjs.com/packa
+ ge/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-08-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ولادت حضرت رسول اکرم صلّی الله علیه وآله و سلّم - https://www.
+ npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-11-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت ﻓﺎﻃﻤﻪ زﻫﺮا ﺳﻼم اﷲ ﻋﻠﯿﻬﺎ - https://www.npmjs.com/pac
+ kage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-12-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:وﻻدت ﺣﻀﺮت اﻣﺎم ﻋﻠﯽ ﻋﻠﯿﻪ اﻟﺴﻼم - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2027-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻣﺒﻌﺚ ﺣﻀﺮت رﺳﻮل اﮐﺮم ﺻﻠﯽ اﷲ ﻋﻠﯿﻪ و آﻟﻪ - https://www.npmjs.com/
+ package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-01-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:وﻻدت ﺣﻀﺮت ﻗﺎﺋﻢ ﻋﺠﻞاﷲ ﺗﻌﺎﻟﯽ ﻓﺮﺟﻪ شریف - https://www.npmjs.com/p
+ ackage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-02-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280211
+DTEND;VALUE=DATE:20280212
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:انقلاب اسلامی پنجاه و هفت - https://www.npmjs.com/package/date
+ -holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-02-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280217
+DTEND;VALUE=DATE:20280218
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت ﻋﻠﯽ ﻋﻠﯿﻪاﻟﺴﻼم - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-02-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-02-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺑﻪ ﻣﻨﺎﺳﺒﺖ ﻋﯿﺪ ﺳﻌﯿﺪ ﻓﻄﺮ - https://www.npmjs.com/package/date-ho
+ lidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-03-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280319
+DTEND;VALUE=DATE:20280320
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ملی شدن صنعت نفت - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-03-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280321
+DTEND;VALUE=DATE:20280322
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم ﺟﻌﻔﺮ ﺻﺎدق ﻋﻠﯿﻪاﻟﺴﻼم - https://www.npmjs.com/pa
+ ckage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-03-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280321
+DTEND;VALUE=DATE:20280322
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-03-22@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280322
+DTEND;VALUE=DATE:20280323
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-03-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280323
+DTEND;VALUE=DATE:20280324
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:نوروز - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-03-31@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:روز جمهوری اسلامی - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-04-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280401
+DTEND;VALUE=DATE:20280402
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:سیزده بدر - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-05-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﯿﺪ ﺳﻌﯿﺪ ﻗﺮﺑﺎن - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-05-13@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280513
+DTEND;VALUE=DATE:20280514
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﯿﺪ ﺳﻌﯿﺪ ﻏﺪﯾﺮ ﺧﻢ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-06-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280602
+DTEND;VALUE=DATE:20280603
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺗﺎﺳﻮﻋﺎی ﺣﺴﯿﻨﯽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-06-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280603
+DTEND;VALUE=DATE:20280604
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻋﺎﺷﻮرای ﺣﺴﯿﻨﯽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-06-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280603
+DTEND;VALUE=DATE:20280604
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:رﺣﻠﺖ اﻣﺎم ﺧﻤﯿﻨﯽ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-06-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:قیام ۱۵ خرداد - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-07-13@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280713
+DTEND;VALUE=DATE:20280714
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:اربعین حسینی - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-07-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280721
+DTEND;VALUE=DATE:20280722
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:رﺣﻠﺖ ﺣﻀﺮت رﺳﻮل اﮐﺮم صلّی الله علیه وآله و سلّم - https://www.n
+ pmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-07-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280723
+DTEND;VALUE=DATE:20280724
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت اﻣﺎم رﺿﺎ ﻋﻠﯿﻪاﻟﺴﻼم - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-07-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280730
+DTEND;VALUE=DATE:20280731
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:شهادت امام حسن عسكری علیه‌السلام - https://www.npmjs.com/packa
+ ge/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-08-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280808
+DTEND;VALUE=DATE:20280809
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ولادت حضرت رسول اکرم صلّی الله علیه وآله و سلّم - https://www.
+ npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-10-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281021
+DTEND;VALUE=DATE:20281022
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﺷﻬﺎدت ﺣﻀﺮت ﻓﺎﻃﻤﻪ زﻫﺮا ﺳﻼم اﷲ ﻋﻠﯿﻬﺎ - https://www.npmjs.com/pac
+ kage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-11-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281130
+DTEND;VALUE=DATE:20281201
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:وﻻدت ﺣﻀﺮت اﻣﺎم ﻋﻠﯽ ﻋﻠﯿﻪ اﻟﺴﻼم - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-12-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281214
+DTEND;VALUE=DATE:20281215
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:ﻣﺒﻌﺚ ﺣﻀﺮت رﺳﻮل اﮐﺮم ﺻﻠﯽ اﷲ ﻋﻠﯿﻪ و آﻟﻪ - https://www.npmjs.com/
+ package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-ir-2028-12-31@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:جمهوری اسلامی ایران
+DESCRIPTION:وﻻدت ﺣﻀﺮت ﻗﺎﺋﻢ ﻋﺠﻞاﷲ ﺗﻌﺎﻟﯽ ﻓﺮﺟﻪ شریف - https://www.npmjs.com/p
+ ackage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

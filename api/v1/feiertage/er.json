@@ -1,0 +1,693 @@
+{
+  "category": "feiertage",
+  "slug": "er",
+  "meta": {
+    "title": "Eritrea",
+    "description": "Gesetzliche Feiertage fuer Eritrea. Nächster Feiertag: Birthday of Muhammad (Mawlid) am 25.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "er",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "ሓዲሽ ዓመት"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-07",
+        "to": "2026-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Orthodox Christmas"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-19",
+        "to": "2026-01-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "ጥምቀት"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-10",
+        "to": "2026-02-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "ፈንቅል"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-08",
+        "to": "2026-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "መዓልቲ ኣነስቲ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-10",
+        "to": "2026-04-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "ዓርቢ ስቅለት"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-12",
+        "to": "2026-04-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "ፋሲካ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "የላብ አደሮች ቀን"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "መዓልቲ ናጽነት"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-20",
+        "to": "2026-06-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "መዓልቲ ስውኣት"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of Muhammad (Mawlid)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-01",
+        "to": "2026-09-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "ባሕቲ መስከረም"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-11",
+        "to": "2026-09-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "ግዕዝ አዲስ ዓመት"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-27",
+        "to": "2026-09-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Meskel"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "ልደት"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "ሓዲሽ ዓመት"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-07",
+        "to": "2027-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Orthodox Christmas"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-19",
+        "to": "2027-01-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "ጥምቀት"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-10",
+        "to": "2027-02-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "ፈንቅል"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "መዓልቲ ኣነስቲ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-30",
+        "to": "2027-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "ዓርቢ ስቅለት"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "የላብ አደሮች ቀን"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-02",
+        "to": "2027-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "ፋሲካ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-24",
+        "to": "2027-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "መዓልቲ ናጽነት"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-20",
+        "to": "2027-06-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "መዓልቲ ስውኣት"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of Muhammad (Mawlid)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-01",
+        "to": "2027-09-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "ባሕቲ መስከረም"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-11",
+        "to": "2027-09-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "ግዕዝ አዲስ ዓመት"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-27",
+        "to": "2027-09-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Meskel"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "ልደት"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "ሓዲሽ ዓመት"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-07",
+        "to": "2028-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Orthodox Christmas"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-19",
+        "to": "2028-01-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "ጥምቀት"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-10",
+        "to": "2028-02-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "ፈንቅል"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "መዓልቲ ኣነስቲ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "ዓርቢ ስቅለት"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "ፋሲካ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "የላብ አደሮች ቀን"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-24",
+        "to": "2028-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "መዓልቲ ናጽነት"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-20",
+        "to": "2028-06-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "መዓልቲ ስውኣት"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of Muhammad (Mawlid)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-01",
+        "to": "2028-09-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "ባሕቲ መስከረም"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-12",
+        "to": "2028-09-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "ግዕዝ አዲስ ዓመት"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-28",
+        "to": "2028-09-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Meskel"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "ልደት"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "ሓዲሽ ዓመት"
+    },
+    {
+      "date": "2026-01-07",
+      "label": "Orthodox Christmas"
+    },
+    {
+      "date": "2026-01-19",
+      "label": "ጥምቀት"
+    },
+    {
+      "date": "2026-02-10",
+      "label": "ፈንቅል"
+    },
+    {
+      "date": "2026-03-08",
+      "label": "መዓልቲ ኣነስቲ"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2026-04-10",
+      "label": "ዓርቢ ስቅለት"
+    },
+    {
+      "date": "2026-04-12",
+      "label": "ፋሲካ"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "የላብ አደሮች ቀን"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "መዓልቲ ናጽነት"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2026-06-20",
+      "label": "መዓልቲ ስውኣት"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Birthday of Muhammad (Mawlid)"
+    },
+    {
+      "date": "2026-09-01",
+      "label": "ባሕቲ መስከረም"
+    },
+    {
+      "date": "2026-09-11",
+      "label": "ግዕዝ አዲስ ዓመት"
+    },
+    {
+      "date": "2026-09-27",
+      "label": "Meskel"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "ልደት"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "ሓዲሽ ዓመት"
+    },
+    {
+      "date": "2027-01-07",
+      "label": "Orthodox Christmas"
+    },
+    {
+      "date": "2027-01-19",
+      "label": "ጥምቀት"
+    },
+    {
+      "date": "2027-02-10",
+      "label": "ፈንቅል"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "መዓልቲ ኣነስቲ"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2027-04-30",
+      "label": "ዓርቢ ስቅለት"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "የላብ አደሮች ቀን"
+    },
+    {
+      "date": "2027-05-02",
+      "label": "ፋሲካ"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2027-05-24",
+      "label": "መዓልቲ ናጽነት"
+    },
+    {
+      "date": "2027-06-20",
+      "label": "መዓልቲ ስውኣት"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Birthday of Muhammad (Mawlid)"
+    },
+    {
+      "date": "2027-09-01",
+      "label": "ባሕቲ መስከረም"
+    },
+    {
+      "date": "2027-09-11",
+      "label": "ግዕዝ አዲስ ዓመት"
+    },
+    {
+      "date": "2027-09-27",
+      "label": "Meskel"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "ልደት"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "ሓዲሽ ዓመት"
+    },
+    {
+      "date": "2028-01-07",
+      "label": "Orthodox Christmas"
+    },
+    {
+      "date": "2028-01-19",
+      "label": "ጥምቀት"
+    },
+    {
+      "date": "2028-02-10",
+      "label": "ፈንቅል"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "መዓልቲ ኣነስቲ"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "ዓርቢ ስቅለት"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "ፋሲካ"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "የላብ አደሮች ቀን"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2028-05-24",
+      "label": "መዓልቲ ናጽነት"
+    },
+    {
+      "date": "2028-06-20",
+      "label": "መዓልቲ ስውኣት"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Birthday of Muhammad (Mawlid)"
+    },
+    {
+      "date": "2028-09-01",
+      "label": "ባሕቲ መስከረም"
+    },
+    {
+      "date": "2028-09-12",
+      "label": "ግዕዝ አዲስ ዓመት"
+    },
+    {
+      "date": "2028-09-28",
+      "label": "Meskel"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "ልደት"
+    }
+  ]
+}

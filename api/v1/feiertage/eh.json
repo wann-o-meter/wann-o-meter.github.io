@@ -1,0 +1,381 @@
+{
+  "category": "feiertage",
+  "slug": "eh",
+  "meta": {
+    "title": "الجمهورية العربية الصحراوية الديمقراطية",
+    "description": "Gesetzliche Feiertage fuer الجمهورية العربية الصحراوية الديمقراطية. Nächster Feiertag: Birthday of Muhammad (Mawlid) am 25.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "eh",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-27",
+        "to": "2026-02-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-08",
+        "to": "2026-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "First Martyr"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-10",
+        "to": "2026-05-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "May 20 Revolution"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-09",
+        "to": "2026-06-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Day of the Martyrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-16",
+        "to": "2026-06-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Islamic New Year"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-17",
+        "to": "2026-06-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Day of National Unity"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of Muhammad (Mawlid)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-27",
+        "to": "2027-02-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "First Martyr"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-10",
+        "to": "2027-05-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "May 20 Revolution"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Islamic New Year"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-09",
+        "to": "2027-06-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Day of the Martyrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-17",
+        "to": "2027-06-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Day of National Unity"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of Muhammad (Mawlid)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-27",
+        "to": "2028-02-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "First Martyr"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-10",
+        "to": "2028-05-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "May 20 Revolution"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Islamic New Year"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-09",
+        "to": "2028-06-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Day of the Martyrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-17",
+        "to": "2028-06-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Day of National Unity"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of Muhammad (Mawlid)"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-02-27",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2026-03-08",
+      "label": "First Martyr"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2026-05-10",
+      "label": "May 20 Revolution"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2026-06-09",
+      "label": "Day of the Martyrs"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Islamic New Year"
+    },
+    {
+      "date": "2026-06-17",
+      "label": "Day of National Unity"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Birthday of Muhammad (Mawlid)"
+    },
+    {
+      "date": "2027-02-27",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "First Martyr"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2027-05-10",
+      "label": "May 20 Revolution"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "Islamic New Year"
+    },
+    {
+      "date": "2027-06-09",
+      "label": "Day of the Martyrs"
+    },
+    {
+      "date": "2027-06-17",
+      "label": "Day of National Unity"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Birthday of Muhammad (Mawlid)"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2028-02-27",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "First Martyr"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2028-05-10",
+      "label": "May 20 Revolution"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Islamic New Year"
+    },
+    {
+      "date": "2028-06-09",
+      "label": "Day of the Martyrs"
+    },
+    {
+      "date": "2028-06-17",
+      "label": "Day of National Unity"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Birthday of Muhammad (Mawlid)"
+    }
+  ]
+}

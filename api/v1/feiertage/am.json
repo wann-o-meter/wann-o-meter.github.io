@@ -1,0 +1,498 @@
+{
+  "category": "feiertage",
+  "slug": "am",
+  "meta": {
+    "title": "Հայաստան",
+    "description": "Gesetzliche Feiertage fuer Հայաստան. Nächster Feiertag: Անկախության օր am 21.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "am",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ամանոր"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-03",
+        "to": "2026-01-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Նախածննդյան տոներ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Սուրբ Ծնունդ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-28",
+        "to": "2026-01-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Բանակի օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-08",
+        "to": "2026-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Կանանց տոն"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-24",
+        "to": "2026-04-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ցեղասպանության զոհերի հիշատակի օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Աշխատանքի օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-09",
+        "to": "2026-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Հաղթանակի եւ Խաղաղության տոն"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-28",
+        "to": "2026-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Հանրապետության օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-05",
+        "to": "2026-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Սահմանադրության օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-21",
+        "to": "2026-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Անկախության օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-31",
+        "to": "2026-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Նոր տարվա գիշեր"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ամանոր"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-03",
+        "to": "2027-01-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Նախածննդյան տոներ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Սուրբ Ծնունդ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-28",
+        "to": "2027-01-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Բանակի օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Կանանց տոն"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-24",
+        "to": "2027-04-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ցեղասպանության զոհերի հիշատակի օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Աշխատանքի օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-09",
+        "to": "2027-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Հաղթանակի եւ Խաղաղության տոն"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-28",
+        "to": "2027-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Հանրապետության օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-05",
+        "to": "2027-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Սահմանադրության օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-21",
+        "to": "2027-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Անկախության օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-31",
+        "to": "2027-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Նոր տարվա գիշեր"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ամանոր"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-03",
+        "to": "2028-01-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Նախածննդյան տոներ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Սուրբ Ծնունդ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-28",
+        "to": "2028-01-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Բանակի օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Կանանց տոն"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-24",
+        "to": "2028-04-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ցեղասպանության զոհերի հիշատակի օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Աշխատանքի օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-09",
+        "to": "2028-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Հաղթանակի եւ Խաղաղության տոն"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-28",
+        "to": "2028-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Հանրապետության օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-05",
+        "to": "2028-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Սահմանադրության օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-21",
+        "to": "2028-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Անկախության օր"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-31",
+        "to": "2028-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Նոր տարվա գիշեր"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Ամանոր"
+    },
+    {
+      "date": "2026-01-03",
+      "label": "Նախածննդյան տոներ"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Սուրբ Ծնունդ"
+    },
+    {
+      "date": "2026-01-28",
+      "label": "Բանակի օր"
+    },
+    {
+      "date": "2026-03-08",
+      "label": "Կանանց տոն"
+    },
+    {
+      "date": "2026-04-24",
+      "label": "Ցեղասպանության զոհերի հիշատակի օր"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Աշխատանքի օր"
+    },
+    {
+      "date": "2026-05-09",
+      "label": "Հաղթանակի եւ Խաղաղության տոն"
+    },
+    {
+      "date": "2026-05-28",
+      "label": "Հանրապետության օր"
+    },
+    {
+      "date": "2026-07-05",
+      "label": "Սահմանադրության օր"
+    },
+    {
+      "date": "2026-09-21",
+      "label": "Անկախության օր"
+    },
+    {
+      "date": "2026-12-31",
+      "label": "Նոր տարվա գիշեր"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Ամանոր"
+    },
+    {
+      "date": "2027-01-03",
+      "label": "Նախածննդյան տոներ"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Սուրբ Ծնունդ"
+    },
+    {
+      "date": "2027-01-28",
+      "label": "Բանակի օր"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "Կանանց տոն"
+    },
+    {
+      "date": "2027-04-24",
+      "label": "Ցեղասպանության զոհերի հիշատակի օր"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Աշխատանքի օր"
+    },
+    {
+      "date": "2027-05-09",
+      "label": "Հաղթանակի եւ Խաղաղության տոն"
+    },
+    {
+      "date": "2027-05-28",
+      "label": "Հանրապետության օր"
+    },
+    {
+      "date": "2027-07-05",
+      "label": "Սահմանադրության օր"
+    },
+    {
+      "date": "2027-09-21",
+      "label": "Անկախության օր"
+    },
+    {
+      "date": "2027-12-31",
+      "label": "Նոր տարվա գիշեր"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Ամանոր"
+    },
+    {
+      "date": "2028-01-03",
+      "label": "Նախածննդյան տոներ"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Սուրբ Ծնունդ"
+    },
+    {
+      "date": "2028-01-28",
+      "label": "Բանակի օր"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "Կանանց տոն"
+    },
+    {
+      "date": "2028-04-24",
+      "label": "Ցեղասպանության զոհերի հիշատակի օր"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Աշխատանքի օր"
+    },
+    {
+      "date": "2028-05-09",
+      "label": "Հաղթանակի եւ Խաղաղության տոն"
+    },
+    {
+      "date": "2028-05-28",
+      "label": "Հանրապետության օր"
+    },
+    {
+      "date": "2028-07-05",
+      "label": "Սահմանադրության օր"
+    },
+    {
+      "date": "2028-09-21",
+      "label": "Անկախության օր"
+    },
+    {
+      "date": "2028-12-31",
+      "label": "Նոր տարվա գիշեր"
+    }
+  ]
+}

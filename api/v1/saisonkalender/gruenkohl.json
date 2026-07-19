@@ -1,0 +1,56 @@
+{
+  "category": "saisonkalender",
+  "slug": "gruenkohl",
+  "meta": {
+    "title": "Grünkohl",
+    "description": "Saisonkalender fuer Grünkohl - wann Hauptsaison ist oder er als Lagerware verfuegbar ist.",
+    "tags": [
+      "saisonkalender"
+    ],
+    "featured": true
+  },
+  "data": {
+    "subject": {
+      "slug": "gruenkohl",
+      "category": "saisonkalender"
+    },
+    "source": [
+      {
+        "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
+        "license": "dl_de_by",
+        "license_note": "Bundeszentrum fuer Ernaehrung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem oeffentlich bekannten BZfE-Saisonkalender, quer geprueft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+        "retrieved_at": "2026-07-12",
+        "extraction": "manual"
+      }
+    ],
+    "windows": [
+      {
+        "type": "main_season",
+        "year": null,
+        "from": "--11",
+        "to": "--02",
+        "precision": "approximate",
+        "ics": false,
+        "name": "Hauptsaison"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-11-01",
+      "to": "2027-02-28",
+      "label": "Hauptsaison"
+    },
+    {
+      "date": "2027-11-01",
+      "to": "2028-02-29",
+      "label": "Hauptsaison"
+    },
+    {
+      "date": "2028-11-01",
+      "to": "2029-02-28",
+      "label": "Hauptsaison"
+    }
+  ]
+}

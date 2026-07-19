@@ -1,0 +1,576 @@
+{
+  "category": "feiertage",
+  "slug": "sx",
+  "meta": {
+    "title": "Sint Maarten",
+    "description": "Gesetzliche Feiertage fuer Sint Maarten. Nächster Feiertag: Dag van de Grondwet am 09.10.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "sx",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Goede Vrijdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pasen"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede paasdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-27",
+        "to": "2026-04-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Koningsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-30",
+        "to": "2026-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Arbeid"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "O.L.H. Hemelvaart"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pinksteren"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-01",
+        "to": "2026-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipatiedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-09",
+        "to": "2026-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Grondwet"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-11",
+        "to": "2026-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sint Maarten Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kerstmis"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede kerstdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Goede Vrijdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pasen"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede paasdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-27",
+        "to": "2027-04-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Koningsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-30",
+        "to": "2027-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Arbeid"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "O.L.H. Hemelvaart"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pinksteren"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-01",
+        "to": "2027-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipatiedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-09",
+        "to": "2027-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Grondwet"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-11",
+        "to": "2027-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sint Maarten Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kerstmis"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede kerstdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Goede Vrijdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pasen"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede paasdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-27",
+        "to": "2028-04-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Koningsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Arbeid"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-02",
+        "to": "2028-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "O.L.H. Hemelvaart"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-04",
+        "to": "2028-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pinksteren"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-01",
+        "to": "2028-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipatiedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-09",
+        "to": "2028-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Grondwet"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-11",
+        "to": "2028-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sint Maarten Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kerstmis"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede kerstdag"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nieuwjaar"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Goede Vrijdag"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Pasen"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Tweede paasdag"
+    },
+    {
+      "date": "2026-04-27",
+      "label": "Koningsdag"
+    },
+    {
+      "date": "2026-04-30",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Dag van de Arbeid"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "O.L.H. Hemelvaart"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "Pinksteren"
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Emancipatiedag"
+    },
+    {
+      "date": "2026-10-09",
+      "label": "Dag van de Grondwet"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Sint Maarten Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Kerstmis"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Tweede kerstdag"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nieuwjaar"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Goede Vrijdag"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Pasen"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Tweede paasdag"
+    },
+    {
+      "date": "2027-04-27",
+      "label": "Koningsdag"
+    },
+    {
+      "date": "2027-04-30",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Dag van de Arbeid"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "O.L.H. Hemelvaart"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Pinksteren"
+    },
+    {
+      "date": "2027-07-01",
+      "label": "Emancipatiedag"
+    },
+    {
+      "date": "2027-10-09",
+      "label": "Dag van de Grondwet"
+    },
+    {
+      "date": "2027-11-11",
+      "label": "Sint Maarten Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Kerstmis"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Tweede kerstdag"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nieuwjaar"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Goede Vrijdag"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Pasen"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Tweede paasdag"
+    },
+    {
+      "date": "2028-04-27",
+      "label": "Koningsdag"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Dag van de Arbeid"
+    },
+    {
+      "date": "2028-05-02",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "O.L.H. Hemelvaart"
+    },
+    {
+      "date": "2028-06-04",
+      "label": "Pinksteren"
+    },
+    {
+      "date": "2028-07-01",
+      "label": "Emancipatiedag"
+    },
+    {
+      "date": "2028-10-09",
+      "label": "Dag van de Grondwet"
+    },
+    {
+      "date": "2028-11-11",
+      "label": "Sint Maarten Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Kerstmis"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Tweede kerstdag"
+    }
+  ]
+}

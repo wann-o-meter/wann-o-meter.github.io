@@ -1,0 +1,563 @@
+{
+  "category": "feiertage",
+  "slug": "as",
+  "meta": {
+    "title": "American Samoa",
+    "description": "Gesetzliche Feiertage fuer American Samoa. Nächster Feiertag: Labour Day am 07.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "as",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-19",
+        "to": "2026-01-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martin Luther King Jr. Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-16",
+        "to": "2026-02-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Washington's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-17",
+        "to": "2026-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "American Samoa Flag Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Memorial Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-19",
+        "to": "2026-06-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Juneteenth"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-03",
+        "to": "2026-07-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-04",
+        "to": "2026-07-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-07",
+        "to": "2026-09-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Columbus Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-11",
+        "to": "2026-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veterans Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-26",
+        "to": "2026-11-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-18",
+        "to": "2027-01-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martin Luther King Jr. Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-15",
+        "to": "2027-02-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Washington's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-17",
+        "to": "2027-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "American Samoa Flag Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-31",
+        "to": "2027-05-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Memorial Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-18",
+        "to": "2027-06-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Juneteenth (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-19",
+        "to": "2027-06-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Juneteenth"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-04",
+        "to": "2027-07-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-05",
+        "to": "2027-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-06",
+        "to": "2027-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-11",
+        "to": "2027-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Columbus Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-11",
+        "to": "2027-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veterans Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-25",
+        "to": "2027-11-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-31",
+        "to": "2027-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-17",
+        "to": "2028-01-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martin Luther King Jr. Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-21",
+        "to": "2028-02-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Washington's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "American Samoa Flag Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-29",
+        "to": "2028-05-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Memorial Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-19",
+        "to": "2028-06-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Juneteenth"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-04",
+        "to": "2028-07-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-04",
+        "to": "2028-09-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-09",
+        "to": "2028-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Columbus Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-11",
+        "to": "2028-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veterans Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-23",
+        "to": "2028-11-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-01-19",
+      "label": "Martin Luther King Jr. Day"
+    },
+    {
+      "date": "2026-02-16",
+      "label": "Washington's Birthday"
+    },
+    {
+      "date": "2026-04-17",
+      "label": "American Samoa Flag Day"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Memorial Day"
+    },
+    {
+      "date": "2026-06-19",
+      "label": "Juneteenth"
+    },
+    {
+      "date": "2026-07-03",
+      "label": "Independence Day (substitute day)"
+    },
+    {
+      "date": "2026-07-04",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2026-09-07",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Columbus Day"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Veterans Day"
+    },
+    {
+      "date": "2026-11-26",
+      "label": "Thanksgiving Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-01-18",
+      "label": "Martin Luther King Jr. Day"
+    },
+    {
+      "date": "2027-02-15",
+      "label": "Washington's Birthday"
+    },
+    {
+      "date": "2027-04-17",
+      "label": "American Samoa Flag Day"
+    },
+    {
+      "date": "2027-05-31",
+      "label": "Memorial Day"
+    },
+    {
+      "date": "2027-06-18",
+      "label": "Juneteenth (substitute day)"
+    },
+    {
+      "date": "2027-06-19",
+      "label": "Juneteenth"
+    },
+    {
+      "date": "2027-07-04",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2027-07-05",
+      "label": "Independence Day (substitute day)"
+    },
+    {
+      "date": "2027-09-06",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2027-10-11",
+      "label": "Columbus Day"
+    },
+    {
+      "date": "2027-11-11",
+      "label": "Veterans Day"
+    },
+    {
+      "date": "2027-11-25",
+      "label": "Thanksgiving Day"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Christmas Day (substitute day)"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-31",
+      "label": "New Year's Day (substitute day)"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-01-17",
+      "label": "Martin Luther King Jr. Day"
+    },
+    {
+      "date": "2028-02-21",
+      "label": "Washington's Birthday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "American Samoa Flag Day"
+    },
+    {
+      "date": "2028-05-29",
+      "label": "Memorial Day"
+    },
+    {
+      "date": "2028-06-19",
+      "label": "Juneteenth"
+    },
+    {
+      "date": "2028-07-04",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2028-09-04",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2028-10-09",
+      "label": "Columbus Day"
+    },
+    {
+      "date": "2028-11-11",
+      "label": "Veterans Day"
+    },
+    {
+      "date": "2028-11-23",
+      "label": "Thanksgiving Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    }
+  ]
+}

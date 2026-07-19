@@ -1,0 +1,459 @@
+{
+  "category": "feiertage",
+  "slug": "xk",
+  "meta": {
+    "title": "Republika e Kosovës",
+    "description": "Gesetzliche Feiertage fuer Republika e Kosovës. Nächster Feiertag: Krishtlindja am 25.12.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "xk",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viti i Ri"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-07",
+        "to": "2026-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Krishtlindjet Ortodokse"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e Pavarësisë"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fitër Bajrami"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pashkët Katolike"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-09",
+        "to": "2026-04-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e Kushtetutës"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-12",
+        "to": "2026-04-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pashkët Ortodokse"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita Ndërkombëtare e Punonjësve"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-09",
+        "to": "2026-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e Evropës"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurban Bajrami"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Krishtlindja"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viti i Ri"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-07",
+        "to": "2027-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Krishtlindjet Ortodokse"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-17",
+        "to": "2027-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e Pavarësisë"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fitër Bajrami"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pashkët Katolike"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-09",
+        "to": "2027-04-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e Kushtetutës"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita Ndërkombëtare e Punonjësve"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-02",
+        "to": "2027-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pashkët Ortodokse"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-09",
+        "to": "2027-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e Evropës"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurban Bajrami"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Krishtlindja"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viti i Ri"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-07",
+        "to": "2028-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Krishtlindjet Ortodokse"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-17",
+        "to": "2028-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e Pavarësisë"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fitër Bajrami"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-09",
+        "to": "2028-04-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e Kushtetutës"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pashkët Katolike"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pashkët Ortodokse"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita Ndërkombëtare e Punonjësve"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurban Bajrami"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-09",
+        "to": "2028-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e Evropës"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Krishtlindja"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Viti i Ri"
+    },
+    {
+      "date": "2026-01-07",
+      "label": "Krishtlindjet Ortodokse"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "Dita e Pavarësisë"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Fitër Bajrami"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Pashkët Katolike"
+    },
+    {
+      "date": "2026-04-09",
+      "label": "Dita e Kushtetutës"
+    },
+    {
+      "date": "2026-04-12",
+      "label": "Pashkët Ortodokse"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Dita Ndërkombëtare e Punonjësve"
+    },
+    {
+      "date": "2026-05-09",
+      "label": "Dita e Evropës"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Kurban Bajrami"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Krishtlindja"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Viti i Ri"
+    },
+    {
+      "date": "2027-01-07",
+      "label": "Krishtlindjet Ortodokse"
+    },
+    {
+      "date": "2027-02-17",
+      "label": "Dita e Pavarësisë"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Fitër Bajrami"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Pashkët Katolike"
+    },
+    {
+      "date": "2027-04-09",
+      "label": "Dita e Kushtetutës"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Dita Ndërkombëtare e Punonjësve"
+    },
+    {
+      "date": "2027-05-02",
+      "label": "Pashkët Ortodokse"
+    },
+    {
+      "date": "2027-05-09",
+      "label": "Dita e Evropës"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Kurban Bajrami"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Krishtlindja"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Viti i Ri"
+    },
+    {
+      "date": "2028-01-07",
+      "label": "Krishtlindjet Ortodokse"
+    },
+    {
+      "date": "2028-02-17",
+      "label": "Dita e Pavarësisë"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Fitër Bajrami"
+    },
+    {
+      "date": "2028-04-09",
+      "label": "Dita e Kushtetutës"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Pashkët Katolike"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Pashkët Ortodokse"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Dita Ndërkombëtare e Punonjësve"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Kurban Bajrami"
+    },
+    {
+      "date": "2028-05-09",
+      "label": "Dita e Evropës"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Krishtlindja"
+    }
+  ]
+}

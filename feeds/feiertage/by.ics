@@ -1,0 +1,264 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Рэспубліка Беларусь
+BEGIN:VEVENT
+UID:feiertage-by-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Новы год - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2026-01-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Каляды праваслаўныя - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2026-03-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Мiжнародны жаночы дзень - https://www.npmjs.com/package/date-h
+ olidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2026-04-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Радунiца - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень працы - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2026-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень Перамогi - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2026-07-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень Незалежнасцi - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2026-11-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень Кастрычніцкай рэвалюцыі - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2026-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Каляды каталiцкiя - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Новы год - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2027-01-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Каляды праваслаўныя - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2027-03-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Мiжнародны жаночы дзень - https://www.npmjs.com/package/date-h
+ olidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень працы - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2027-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень Перамогi - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2027-05-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Радунiца - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2027-07-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень Незалежнасцi - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2027-11-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень Кастрычніцкай рэвалюцыі - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2027-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Каляды каталiцкiя - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Новы год - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2028-01-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280107
+DTEND;VALUE=DATE:20280108
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Каляды праваслаўныя - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2028-03-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280308
+DTEND;VALUE=DATE:20280309
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Мiжнародны жаночы дзень - https://www.npmjs.com/package/date-h
+ olidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2028-04-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280425
+DTEND;VALUE=DATE:20280426
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Радунiца - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень працы - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2028-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280509
+DTEND;VALUE=DATE:20280510
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень Перамогi - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2028-07-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280703
+DTEND;VALUE=DATE:20280704
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень Незалежнасцi - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2028-11-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281107
+DTEND;VALUE=DATE:20281108
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Дзень Кастрычніцкай рэвалюцыі - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-by-2028-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Рэспубліка Беларусь
+DESCRIPTION:Каляды каталiцкiя - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

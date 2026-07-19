@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Schulferien Saarland
+BEGIN:VEVENT
+UID:schulferien-sl-2026-02-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260213
+SUMMARY:Schulferien Saarland
+DESCRIPTION:Winterferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sl-2026-03-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260410
+SUMMARY:Schulferien Saarland
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sl-2026-06-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260807
+SUMMARY:Schulferien Saarland
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sl-2026-10-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261017
+SUMMARY:Schulferien Saarland
+DESCRIPTION:Herbstferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sl-2026-12-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270101
+SUMMARY:Schulferien Saarland
+DESCRIPTION:Weihnachtsferien - https://www.kmk.org/service/ferien.html\, h
+ ttps://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sl-2027-02-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270213
+SUMMARY:Schulferien Saarland
+DESCRIPTION:Winterferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sl-2027-03-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270410
+SUMMARY:Schulferien Saarland
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sl-2027-06-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270807
+SUMMARY:Schulferien Saarland
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+END:VCALENDAR

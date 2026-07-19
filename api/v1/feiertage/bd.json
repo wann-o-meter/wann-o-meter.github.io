@@ -1,0 +1,615 @@
+{
+  "category": "feiertage",
+  "slug": "bd",
+  "meta": {
+    "title": "গণপ্রজাতন্ত্রী বাংলাদেশ",
+    "description": "Gesetzliche Feiertage fuer গণপ্রজাতন্ত্রী বাংলাদেশ. Nächster Feiertag: জাতীয় শোক দিবস am 15.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "bd",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-21",
+        "to": "2026-02-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "শহীদ দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-17",
+        "to": "2026-03-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "মুজিব জয়ন"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "ঈদুল ফিতর"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-26",
+        "to": "2026-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "স্বাধীনতা দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-14",
+        "to": "2026-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "পহেলা বৈশাখ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "মে দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-19",
+        "to": "2026-05-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "বুদ্ধ পূর্ণিমা"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "ঈদুল আযহা"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-25",
+        "to": "2026-06-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "আশুরা"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "জাতীয় শোক দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-24",
+        "to": "2026-08-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "জন্মাষ্টমী"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "ঈদে মিলাদুন্নবী"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-08",
+        "to": "2026-10-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "দুর্গা পূজা"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-16",
+        "to": "2026-12-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "বিজয় দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "বড়দিন"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-21",
+        "to": "2027-02-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "শহীদ দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "ঈদুল ফিতর"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-17",
+        "to": "2027-03-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "মুজিব জয়ন"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "স্বাধীনতা দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-14",
+        "to": "2027-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "পহেলা বৈশাখ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "মে দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "ঈদুল আযহা"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-19",
+        "to": "2027-05-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "বুদ্ধ পূর্ণিমা"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-15",
+        "to": "2027-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "আশুরা"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "ঈদে মিলাদুন্নবী"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "জাতীয় শোক দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-24",
+        "to": "2027-08-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "জন্মাষ্টমী"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-08",
+        "to": "2027-10-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "দুর্গা পূজা"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-16",
+        "to": "2027-12-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "বিজয় দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "বড়দিন"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-21",
+        "to": "2028-02-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "শহীদ দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "ঈদুল ফিতর"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-17",
+        "to": "2028-03-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "মুজিব জয়ন"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-26",
+        "to": "2028-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "স্বাধীনতা দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "পহেলা বৈশাখ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "মে দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "ঈদুল আযহা"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-19",
+        "to": "2028-05-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "বুদ্ধ পূর্ণিমা"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-03",
+        "to": "2028-06-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "আশুরা"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "ঈদে মিলাদুন্নবী"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "জাতীয় শোক দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-24",
+        "to": "2028-08-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "জন্মাষ্টমী"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-08",
+        "to": "2028-10-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "দুর্গা পূজা"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-16",
+        "to": "2028-12-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "বিজয় দিবস"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "বড়দিন"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-02-21",
+      "label": "শহীদ দিবস"
+    },
+    {
+      "date": "2026-03-17",
+      "label": "মুজিব জয়ন"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "ঈদুল ফিতর"
+    },
+    {
+      "date": "2026-03-26",
+      "label": "স্বাধীনতা দিবস"
+    },
+    {
+      "date": "2026-04-14",
+      "label": "পহেলা বৈশাখ"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "মে দিবস"
+    },
+    {
+      "date": "2026-05-19",
+      "label": "বুদ্ধ পূর্ণিমা"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "ঈদুল আযহা"
+    },
+    {
+      "date": "2026-06-25",
+      "label": "আশুরা"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "জাতীয় শোক দিবস"
+    },
+    {
+      "date": "2026-08-24",
+      "label": "জন্মাষ্টমী"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "ঈদে মিলাদুন্নবী"
+    },
+    {
+      "date": "2026-10-08",
+      "label": "দুর্গা পূজা"
+    },
+    {
+      "date": "2026-12-16",
+      "label": "বিজয় দিবস"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "বড়দিন"
+    },
+    {
+      "date": "2027-02-21",
+      "label": "শহীদ দিবস"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "ঈদুল ফিতর"
+    },
+    {
+      "date": "2027-03-17",
+      "label": "মুজিব জয়ন"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "স্বাধীনতা দিবস"
+    },
+    {
+      "date": "2027-04-14",
+      "label": "পহেলা বৈশাখ"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "মে দিবস"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "ঈদুল আযহা"
+    },
+    {
+      "date": "2027-05-19",
+      "label": "বুদ্ধ পূর্ণিমা"
+    },
+    {
+      "date": "2027-06-15",
+      "label": "আশুরা"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "ঈদে মিলাদুন্নবী"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "জাতীয় শোক দিবস"
+    },
+    {
+      "date": "2027-08-24",
+      "label": "জন্মাষ্টমী"
+    },
+    {
+      "date": "2027-10-08",
+      "label": "দুর্গা পূজা"
+    },
+    {
+      "date": "2027-12-16",
+      "label": "বিজয় দিবস"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "বড়দিন"
+    },
+    {
+      "date": "2028-02-21",
+      "label": "শহীদ দিবস"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "ঈদুল ফিতর"
+    },
+    {
+      "date": "2028-03-17",
+      "label": "মুজিব জয়ন"
+    },
+    {
+      "date": "2028-03-26",
+      "label": "স্বাধীনতা দিবস"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "পহেলা বৈশাখ"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "মে দিবস"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "ঈদুল আযহা"
+    },
+    {
+      "date": "2028-05-19",
+      "label": "বুদ্ধ পূর্ণিমা"
+    },
+    {
+      "date": "2028-06-03",
+      "label": "আশুরা"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "ঈদে মিলাদুন্নবী"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "জাতীয় শোক দিবস"
+    },
+    {
+      "date": "2028-08-24",
+      "label": "জন্মাষ্টমী"
+    },
+    {
+      "date": "2028-10-08",
+      "label": "দুর্গা পূজা"
+    },
+    {
+      "date": "2028-12-16",
+      "label": "বিজয় দিবস"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "বড়দিন"
+    }
+  ]
+}

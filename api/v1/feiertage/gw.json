@@ -1,0 +1,420 @@
+{
+  "category": "feiertage",
+  "slug": "gw",
+  "meta": {
+    "title": "Guiné-Bissau",
+    "description": "Gesetzliche Feiertage fuer Guiné-Bissau. Nächster Feiertag: Pidjiguiti Day am 03.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "gw",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-20",
+        "to": "2026-01-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia dos heróis"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-08",
+        "to": "2026-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia Internacional da Mulher"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-03",
+        "to": "2026-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pidjiguiti Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-24",
+        "to": "2026-09-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-14",
+        "to": "2026-11-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do Movimento de Reajustamento"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-20",
+        "to": "2027-01-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia dos heróis"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia Internacional da Mulher"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-03",
+        "to": "2027-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pidjiguiti Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-24",
+        "to": "2027-09-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-14",
+        "to": "2027-11-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do Movimento de Reajustamento"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-20",
+        "to": "2028-01-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia dos heróis"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "End of Ramadan (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia Internacional da Mulher"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feast of the Sacrifice (Eid al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pidjiguiti Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-24",
+        "to": "2028-09-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-14",
+        "to": "2028-11-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do Movimento de Reajustamento"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2026-01-20",
+      "label": "Dia dos heróis"
+    },
+    {
+      "date": "2026-03-08",
+      "label": "Dia Internacional da Mulher"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2026-08-03",
+      "label": "Pidjiguiti Day"
+    },
+    {
+      "date": "2026-09-24",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2026-11-14",
+      "label": "Dia do Movimento de Reajustamento"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2027-01-20",
+      "label": "Dia dos heróis"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "Dia Internacional da Mulher"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2027-08-03",
+      "label": "Pidjiguiti Day"
+    },
+    {
+      "date": "2027-09-24",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2027-11-14",
+      "label": "Dia do Movimento de Reajustamento"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2028-01-20",
+      "label": "Dia dos heróis"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "End of Ramadan (Eid al-Fitr)"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "Dia Internacional da Mulher"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Feast of the Sacrifice (Eid al-Adha)"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Pidjiguiti Day"
+    },
+    {
+      "date": "2028-09-24",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2028-11-14",
+      "label": "Dia do Movimento de Reajustamento"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Natal"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Schulferien Schleswig-Holstein
+BEGIN:VEVENT
+UID:schulferien-sh-2026-03-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260411
+SUMMARY:Schulferien Schleswig-Holstein
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sh-2026-05-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Schulferien Schleswig-Holstein
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sh-2026-07-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260815
+SUMMARY:Schulferien Schleswig-Holstein
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sh-2026-10-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261025
+SUMMARY:Schulferien Schleswig-Holstein
+DESCRIPTION:Herbstferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sh-2026-12-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270107
+SUMMARY:Schulferien Schleswig-Holstein
+DESCRIPTION:Weihnachtsferien - https://www.kmk.org/service/ferien.html\, h
+ ttps://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sh-2027-03-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270411
+SUMMARY:Schulferien Schleswig-Holstein
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sh-2027-05-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Schulferien Schleswig-Holstein
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-sh-2027-07-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270815
+SUMMARY:Schulferien Schleswig-Holstein
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+END:VCALENDAR

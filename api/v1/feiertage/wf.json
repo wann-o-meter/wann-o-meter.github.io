@@ -1,0 +1,576 @@
+{
+  "category": "feiertage",
+  "slug": "wf",
+  "meta": {
+    "title": "Wallis-et-Futuna",
+    "description": "Gesetzliche Feiertage fuer Wallis-et-Futuna. Nächster Feiertag: Fête du Territoire am 29.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "wf",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel An"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lundi de Pâques"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-28",
+        "to": "2026-04-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête de Saint Pierre-Chanel"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du travail"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-08",
+        "to": "2026-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête de la Victoire 1945"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascension"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lundi de Pentecôte"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-29",
+        "to": "2026-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Saint Pierre et Paul"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-14",
+        "to": "2026-07-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête Nationale de la France"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-29",
+        "to": "2026-07-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du Territoire"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Assomption"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Toussaint"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-11",
+        "to": "2026-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Armistice 1918"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Noël"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel An"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lundi de Pâques"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-28",
+        "to": "2027-04-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête de Saint Pierre-Chanel"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du travail"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascension"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-08",
+        "to": "2027-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête de la Victoire 1945"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-17",
+        "to": "2027-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lundi de Pentecôte"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-29",
+        "to": "2027-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Saint Pierre et Paul"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-14",
+        "to": "2027-07-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête Nationale de la France"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-29",
+        "to": "2027-07-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du Territoire"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Assomption"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Toussaint"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-11",
+        "to": "2027-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Armistice 1918"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Noël"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel An"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lundi de Pâques"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-28",
+        "to": "2028-04-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête de Saint Pierre-Chanel"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du travail"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-08",
+        "to": "2028-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête de la Victoire 1945"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascension"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-05",
+        "to": "2028-06-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lundi de Pentecôte"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-29",
+        "to": "2028-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Saint Pierre et Paul"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-14",
+        "to": "2028-07-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête Nationale de la France"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-29",
+        "to": "2028-07-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du Territoire"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Assomption"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Toussaint"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-11",
+        "to": "2028-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Armistice 1918"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Noël"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nouvel An"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Lundi de Pâques"
+    },
+    {
+      "date": "2026-04-28",
+      "label": "Fête de Saint Pierre-Chanel"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Fête du travail"
+    },
+    {
+      "date": "2026-05-08",
+      "label": "Fête de la Victoire 1945"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "Ascension"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Lundi de Pentecôte"
+    },
+    {
+      "date": "2026-06-29",
+      "label": "Saint Pierre et Paul"
+    },
+    {
+      "date": "2026-07-14",
+      "label": "Fête Nationale de la France"
+    },
+    {
+      "date": "2026-07-29",
+      "label": "Fête du Territoire"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Assomption"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Toussaint"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Armistice 1918"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Noël"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nouvel An"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Lundi de Pâques"
+    },
+    {
+      "date": "2027-04-28",
+      "label": "Fête de Saint Pierre-Chanel"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Fête du travail"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "Ascension"
+    },
+    {
+      "date": "2027-05-08",
+      "label": "Fête de la Victoire 1945"
+    },
+    {
+      "date": "2027-05-17",
+      "label": "Lundi de Pentecôte"
+    },
+    {
+      "date": "2027-06-29",
+      "label": "Saint Pierre et Paul"
+    },
+    {
+      "date": "2027-07-14",
+      "label": "Fête Nationale de la France"
+    },
+    {
+      "date": "2027-07-29",
+      "label": "Fête du Territoire"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Assomption"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Toussaint"
+    },
+    {
+      "date": "2027-11-11",
+      "label": "Armistice 1918"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Noël"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nouvel An"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Lundi de Pâques"
+    },
+    {
+      "date": "2028-04-28",
+      "label": "Fête de Saint Pierre-Chanel"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Fête du travail"
+    },
+    {
+      "date": "2028-05-08",
+      "label": "Fête de la Victoire 1945"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Ascension"
+    },
+    {
+      "date": "2028-06-05",
+      "label": "Lundi de Pentecôte"
+    },
+    {
+      "date": "2028-06-29",
+      "label": "Saint Pierre et Paul"
+    },
+    {
+      "date": "2028-07-14",
+      "label": "Fête Nationale de la France"
+    },
+    {
+      "date": "2028-07-29",
+      "label": "Fête du Territoire"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Assomption"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Toussaint"
+    },
+    {
+      "date": "2028-11-11",
+      "label": "Armistice 1918"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Noël"
+    }
+  ]
+}

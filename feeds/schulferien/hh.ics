@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Schulferien Hamburg
+BEGIN:VEVENT
+UID:schulferien-hh-2026-01-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Winterferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-hh-2026-03-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260313
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-hh-2026-05-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260515
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-hh-2026-07-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260812
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-hh-2026-10-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261031
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Herbstferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-hh-2026-12-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270102
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Weihnachtsferien - https://www.kmk.org/service/ferien.html\, h
+ ttps://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-hh-2027-01-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Winterferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-hh-2027-03-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270313
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-hh-2027-05-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270515
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-hh-2027-07-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270812
+SUMMARY:Schulferien Hamburg
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+END:VCALENDAR

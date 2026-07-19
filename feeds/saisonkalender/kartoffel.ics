@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kartoffel
+BEGIN:VEVENT
+UID:saisonkalender-kartoffel-2026-09-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261101
+SUMMARY:Kartoffel
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-kartoffel-2026-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20270901
+SUMMARY:Kartoffel
+DESCRIPTION:Lagerware - https://www.bzfe.de/kueche-und-alltag/einkaufen/de
+ r-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-kartoffel-2027-09-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20271101
+SUMMARY:Kartoffel
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-kartoffel-2027-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20280901
+SUMMARY:Kartoffel
+DESCRIPTION:Lagerware - https://www.bzfe.de/kueche-und-alltag/einkaufen/de
+ r-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-kartoffel-2028-09-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280901
+DTEND;VALUE=DATE:20281101
+SUMMARY:Kartoffel
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-kartoffel-2028-11-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281101
+DTEND;VALUE=DATE:20290901
+SUMMARY:Kartoffel
+DESCRIPTION:Lagerware - https://www.bzfe.de/kueche-und-alltag/einkaufen/de
+ r-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+END:VCALENDAR

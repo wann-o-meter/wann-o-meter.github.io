@@ -1,0 +1,654 @@
+{
+  "category": "feiertage",
+  "slug": "my",
+  "meta": {
+    "title": "Malaysia",
+    "description": "Gesetzliche Feiertage fuer Malaysia. Nächster Feiertag: Hari Keputeraan Nabi Muhammad S.A.W. am 25.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "my",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Tahun Baru"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-18",
+        "to": "2026-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-07",
+        "to": "2026-03-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Nuzul Al-Quran"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-21",
+        "to": "2026-03-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Aidil Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-22",
+        "to": "2026-03-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Aidil Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Pekerja"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Haji"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-31",
+        "to": "2026-05-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Vesak Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-01",
+        "to": "2026-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan Yang di-Pertuan Agong"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-17",
+        "to": "2026-06-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Muharram"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan Nabi Muhammad S.A.W."
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-31",
+        "to": "2026-08-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Kebangsaan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-16",
+        "to": "2026-09-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Malaysia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-08",
+        "to": "2026-11-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Deepavali"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-09",
+        "to": "2026-11-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Deepavali"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Krismas"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Tahun Baru"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-06",
+        "to": "2027-02-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-07",
+        "to": "2027-02-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-08",
+        "to": "2027-02-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-24",
+        "to": "2027-02-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Nuzul Al-Quran"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Aidil Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-10",
+        "to": "2027-03-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Aidil Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Pekerja"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Haji"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Muharram"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-07",
+        "to": "2027-06-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan Yang di-Pertuan Agong"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan Nabi Muhammad S.A.W."
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-31",
+        "to": "2027-08-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Kebangsaan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-16",
+        "to": "2027-09-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Malaysia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-28",
+        "to": "2027-10-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Deepavali"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Krismas"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Tahun Baru"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-26",
+        "to": "2028-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-27",
+        "to": "2028-01-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-13",
+        "to": "2028-02-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Nuzul Al-Quran"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Aidil Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-27",
+        "to": "2028-02-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Aidil Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Pekerja"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Haji"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Muharram"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-05",
+        "to": "2028-06-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan Yang di-Pertuan Agong"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan Nabi Muhammad S.A.W."
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-31",
+        "to": "2028-08-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Kebangsaan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-16",
+        "to": "2028-09-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Malaysia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-15",
+        "to": "2028-11-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Deepavali"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Krismas"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Hari Tahun Baru"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "Tahun Baru Cina"
+    },
+    {
+      "date": "2026-02-18",
+      "label": "Tahun Baru Cina"
+    },
+    {
+      "date": "2026-03-07",
+      "label": "Hari Nuzul Al-Quran"
+    },
+    {
+      "date": "2026-03-21",
+      "label": "Hari Raya Aidil Fitri"
+    },
+    {
+      "date": "2026-03-22",
+      "label": "Hari Raya Aidil Fitri"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Hari Pekerja"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Hari Raya Haji"
+    },
+    {
+      "date": "2026-05-31",
+      "label": "Vesak Day"
+    },
+    {
+      "date": "2026-06-01",
+      "label": "Hari Keputeraan Yang di-Pertuan Agong"
+    },
+    {
+      "date": "2026-06-17",
+      "label": "Awal Muharram"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Hari Keputeraan Nabi Muhammad S.A.W."
+    },
+    {
+      "date": "2026-08-31",
+      "label": "Hari Kebangsaan"
+    },
+    {
+      "date": "2026-09-16",
+      "label": "Hari Malaysia"
+    },
+    {
+      "date": "2026-11-08",
+      "label": "Deepavali"
+    },
+    {
+      "date": "2026-11-09",
+      "label": "Deepavali"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Hari Krismas"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Hari Tahun Baru"
+    },
+    {
+      "date": "2027-02-06",
+      "label": "Tahun Baru Cina"
+    },
+    {
+      "date": "2027-02-07",
+      "label": "Tahun Baru Cina"
+    },
+    {
+      "date": "2027-02-08",
+      "label": "Tahun Baru Cina (substitute day)"
+    },
+    {
+      "date": "2027-02-24",
+      "label": "Hari Nuzul Al-Quran"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Hari Raya Aidil Fitri"
+    },
+    {
+      "date": "2027-03-10",
+      "label": "Hari Raya Aidil Fitri"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Hari Pekerja"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Hari Raya Haji"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "Awal Muharram"
+    },
+    {
+      "date": "2027-06-07",
+      "label": "Hari Keputeraan Yang di-Pertuan Agong"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Hari Keputeraan Nabi Muhammad S.A.W."
+    },
+    {
+      "date": "2027-08-31",
+      "label": "Hari Kebangsaan"
+    },
+    {
+      "date": "2027-09-16",
+      "label": "Hari Malaysia"
+    },
+    {
+      "date": "2027-10-28",
+      "label": "Deepavali"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Hari Krismas"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Hari Tahun Baru"
+    },
+    {
+      "date": "2028-01-26",
+      "label": "Tahun Baru Cina"
+    },
+    {
+      "date": "2028-01-27",
+      "label": "Tahun Baru Cina"
+    },
+    {
+      "date": "2028-02-13",
+      "label": "Hari Nuzul Al-Quran"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Hari Raya Aidil Fitri"
+    },
+    {
+      "date": "2028-02-27",
+      "label": "Hari Raya Aidil Fitri"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Hari Pekerja"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Hari Raya Haji"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Awal Muharram"
+    },
+    {
+      "date": "2028-06-05",
+      "label": "Hari Keputeraan Yang di-Pertuan Agong"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Hari Keputeraan Nabi Muhammad S.A.W."
+    },
+    {
+      "date": "2028-08-31",
+      "label": "Hari Kebangsaan"
+    },
+    {
+      "date": "2028-09-16",
+      "label": "Hari Malaysia"
+    },
+    {
+      "date": "2028-11-15",
+      "label": "Deepavali"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Hari Krismas"
+    }
+  ]
+}

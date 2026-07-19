@@ -1,0 +1,381 @@
+{
+  "category": "feiertage",
+  "slug": "tr",
+  "meta": {
+    "title": "Türkiye",
+    "description": "Gesetzliche Feiertage fuer Türkiye. Nächster Feiertag: Zafer Bayramı am 30.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "tr",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yılbaşı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-23",
+        "to": "2026-04-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ulusal Egemenlik ve Çocuk Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emek ve Dayanışma Günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-19",
+        "to": "2026-05-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurban Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-15",
+        "to": "2026-07-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Demokrasi ve Millî Birlik Günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-30",
+        "to": "2026-08-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zafer Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-29",
+        "to": "2026-10-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Cumhuriyet Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yılbaşı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-23",
+        "to": "2027-04-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ulusal Egemenlik ve Çocuk Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emek ve Dayanışma Günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurban Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-19",
+        "to": "2027-05-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-15",
+        "to": "2027-07-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Demokrasi ve Millî Birlik Günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-30",
+        "to": "2027-08-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zafer Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-29",
+        "to": "2027-10-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Cumhuriyet Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yılbaşı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-23",
+        "to": "2028-04-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ulusal Egemenlik ve Çocuk Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emek ve Dayanışma Günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurban Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-19",
+        "to": "2028-05-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-15",
+        "to": "2028-07-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Demokrasi ve Millî Birlik Günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-30",
+        "to": "2028-08-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zafer Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-29",
+        "to": "2028-10-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Cumhuriyet Bayramı"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Yılbaşı"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Ramazan Bayramı"
+    },
+    {
+      "date": "2026-04-23",
+      "label": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Emek ve Dayanışma Günü"
+    },
+    {
+      "date": "2026-05-19",
+      "label": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Kurban Bayramı"
+    },
+    {
+      "date": "2026-07-15",
+      "label": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+      "date": "2026-08-30",
+      "label": "Zafer Bayramı"
+    },
+    {
+      "date": "2026-10-29",
+      "label": "Cumhuriyet Bayramı"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Yılbaşı"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Ramazan Bayramı"
+    },
+    {
+      "date": "2027-04-23",
+      "label": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Emek ve Dayanışma Günü"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Kurban Bayramı"
+    },
+    {
+      "date": "2027-05-19",
+      "label": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+    },
+    {
+      "date": "2027-07-15",
+      "label": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+      "date": "2027-08-30",
+      "label": "Zafer Bayramı"
+    },
+    {
+      "date": "2027-10-29",
+      "label": "Cumhuriyet Bayramı"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Yılbaşı"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Ramazan Bayramı"
+    },
+    {
+      "date": "2028-04-23",
+      "label": "Ulusal Egemenlik ve Çocuk Bayramı"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Emek ve Dayanışma Günü"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Kurban Bayramı"
+    },
+    {
+      "date": "2028-05-19",
+      "label": "Atatürk'ü Anma Gençlik ve Spor Bayramı"
+    },
+    {
+      "date": "2028-07-15",
+      "label": "Demokrasi ve Millî Birlik Günü"
+    },
+    {
+      "date": "2028-08-30",
+      "label": "Zafer Bayramı"
+    },
+    {
+      "date": "2028-10-29",
+      "label": "Cumhuriyet Bayramı"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "category": "feiertage",
+  "slug": "do",
+  "meta": {
+    "title": "República Dominicana",
+    "description": "Gesetzliche Feiertage fuer República Dominicana. Nächster Feiertag: Día de la Restauración am 16.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "do",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-05",
+        "to": "2026-01-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-21",
+        "to": "2026-01-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nuestra Señora de la Altagracia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-26",
+        "to": "2026-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de Duarte"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-27",
+        "to": "2026-02-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-04",
+        "to": "2026-05-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-04",
+        "to": "2026-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-16",
+        "to": "2026-08-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Restauración"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-24",
+        "to": "2026-09-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nuestra Señora de las Mercedes"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-09",
+        "to": "2026-11-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Constitución"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-04",
+        "to": "2027-01-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-21",
+        "to": "2027-01-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nuestra Señora de la Altagracia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-25",
+        "to": "2027-01-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de Duarte"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-27",
+        "to": "2027-02-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-16",
+        "to": "2027-08-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Restauración"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-24",
+        "to": "2027-09-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nuestra Señora de las Mercedes"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-08",
+        "to": "2027-11-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Constitución"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-10",
+        "to": "2028-01-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-21",
+        "to": "2028-01-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nuestra Señora de la Altagracia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-24",
+        "to": "2028-01-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de Duarte"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-27",
+        "to": "2028-02-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-16",
+        "to": "2028-08-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Restauración"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-24",
+        "to": "2028-09-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nuestra Señora de las Mercedes"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-06",
+        "to": "2028-11-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Constitución"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2026-01-05",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2026-01-21",
+      "label": "Nuestra Señora de la Altagracia"
+    },
+    {
+      "date": "2026-01-26",
+      "label": "Día de Duarte"
+    },
+    {
+      "date": "2026-02-27",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2026-05-04",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2026-08-16",
+      "label": "Día de la Restauración"
+    },
+    {
+      "date": "2026-09-24",
+      "label": "Nuestra Señora de las Mercedes"
+    },
+    {
+      "date": "2026-11-09",
+      "label": "Día de la Constitución"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2027-01-04",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2027-01-21",
+      "label": "Nuestra Señora de la Altagracia"
+    },
+    {
+      "date": "2027-01-25",
+      "label": "Día de Duarte"
+    },
+    {
+      "date": "2027-02-27",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2027-08-16",
+      "label": "Día de la Restauración"
+    },
+    {
+      "date": "2027-09-24",
+      "label": "Nuestra Señora de las Mercedes"
+    },
+    {
+      "date": "2027-11-08",
+      "label": "Día de la Constitución"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2028-01-10",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2028-01-21",
+      "label": "Nuestra Señora de la Altagracia"
+    },
+    {
+      "date": "2028-01-24",
+      "label": "Día de Duarte"
+    },
+    {
+      "date": "2028-02-27",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2028-08-16",
+      "label": "Día de la Restauración"
+    },
+    {
+      "date": "2028-09-24",
+      "label": "Nuestra Señora de las Mercedes"
+    },
+    {
+      "date": "2028-11-06",
+      "label": "Día de la Constitución"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    }
+  ]
+}

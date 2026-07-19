@@ -1,0 +1,433 @@
+{
+  "category": "feiertage",
+  "slug": "dj",
+  "meta": {
+    "title": "République de Djibouti",
+    "description": "Gesetzliche Feiertage fuer République de Djibouti. Nächster Feiertag: Mawlid am 25.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "dj",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel An"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-16",
+        "to": "2026-01-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "الإسراء والمعراج"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête de fin du Ramadan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du travail"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-26",
+        "to": "2026-05-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم عرفة"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du mouton"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-16",
+        "to": "2026-06-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel an islamique"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-27",
+        "to": "2026-06-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jour de l'Indépendance"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mawlid"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Noël"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel An"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-05",
+        "to": "2027-01-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "الإسراء والمعراج"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête de fin du Ramadan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du travail"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-15",
+        "to": "2027-05-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم عرفة"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du mouton"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel an islamique"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-27",
+        "to": "2027-06-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jour de l'Indépendance"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mawlid"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "الإسراء والمعراج"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Noël"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel An"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête de fin du Ramadan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du travail"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-04",
+        "to": "2028-05-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم عرفة"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du mouton"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel an islamique"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-27",
+        "to": "2028-06-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jour de l'Indépendance"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mawlid"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-14",
+        "to": "2028-12-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "الإسراء والمعراج"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Noël"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nouvel An"
+    },
+    {
+      "date": "2026-01-16",
+      "label": "الإسراء والمعراج"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Fête de fin du Ramadan"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Fête du travail"
+    },
+    {
+      "date": "2026-05-26",
+      "label": "يوم عرفة"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Fête du mouton"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Nouvel an islamique"
+    },
+    {
+      "date": "2026-06-27",
+      "label": "Jour de l'Indépendance"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Mawlid"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Noël"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nouvel An"
+    },
+    {
+      "date": "2027-01-05",
+      "label": "الإسراء والمعراج"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Fête de fin du Ramadan"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Fête du travail"
+    },
+    {
+      "date": "2027-05-15",
+      "label": "يوم عرفة"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Fête du mouton"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "Nouvel an islamique"
+    },
+    {
+      "date": "2027-06-27",
+      "label": "Jour de l'Indépendance"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Mawlid"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "الإسراء والمعراج"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Noël"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nouvel An"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Fête de fin du Ramadan"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Fête du travail"
+    },
+    {
+      "date": "2028-05-04",
+      "label": "يوم عرفة"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Fête du mouton"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Nouvel an islamique"
+    },
+    {
+      "date": "2028-06-27",
+      "label": "Jour de l'Indépendance"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Mawlid"
+    },
+    {
+      "date": "2028-12-14",
+      "label": "الإسراء والمعراج"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Noël"
+    }
+  ]
+}

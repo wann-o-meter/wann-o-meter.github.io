@@ -1,0 +1,498 @@
+{
+  "category": "feiertage",
+  "slug": "sk",
+  "meta": {
+    "title": "Slovenská republika",
+    "description": "Gesetzliche Feiertage fuer Slovenská republika. Nächster Feiertag: Výročie Slovenského národného povstania am 29.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "sk",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Deň vzniku Slovenskej republiky"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zjavenie Pána"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veľkonočný piatok"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veľká noc"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veľkonočný pondelok"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sviatok práce"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-05",
+        "to": "2026-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sviatok svätého Cyrila a Metoda"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-29",
+        "to": "2026-08-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Výročie Slovenského národného povstania"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sviatok všetkých svätých"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-24",
+        "to": "2026-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Štedrý deň"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Prvý sviatok vianočný"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Druhý sviatok vianočný"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Deň vzniku Slovenskej republiky"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zjavenie Pána"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veľkonočný piatok"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veľká noc"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veľkonočný pondelok"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sviatok práce"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-05",
+        "to": "2027-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sviatok svätého Cyrila a Metoda"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-29",
+        "to": "2027-08-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Výročie Slovenského národného povstania"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sviatok všetkých svätých"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Štedrý deň"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Prvý sviatok vianočný"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Druhý sviatok vianočný"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Deň vzniku Slovenskej republiky"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zjavenie Pána"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veľkonočný piatok"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veľká noc"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veľkonočný pondelok"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sviatok práce"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-05",
+        "to": "2028-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sviatok svätého Cyrila a Metoda"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-29",
+        "to": "2028-08-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Výročie Slovenského národného povstania"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sviatok všetkých svätých"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-24",
+        "to": "2028-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Štedrý deň"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Prvý sviatok vianočný"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Druhý sviatok vianočný"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Zjavenie Pána"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Veľkonočný piatok"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Veľká noc"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Veľkonočný pondelok"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Sviatok práce"
+    },
+    {
+      "date": "2026-07-05",
+      "label": "Sviatok svätého Cyrila a Metoda"
+    },
+    {
+      "date": "2026-08-29",
+      "label": "Výročie Slovenského národného povstania"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Sviatok všetkých svätých"
+    },
+    {
+      "date": "2026-12-24",
+      "label": "Štedrý deň"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Prvý sviatok vianočný"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Druhý sviatok vianočný"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Zjavenie Pána"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Veľkonočný piatok"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Veľká noc"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Veľkonočný pondelok"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Sviatok práce"
+    },
+    {
+      "date": "2027-07-05",
+      "label": "Sviatok svätého Cyrila a Metoda"
+    },
+    {
+      "date": "2027-08-29",
+      "label": "Výročie Slovenského národného povstania"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Sviatok všetkých svätých"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Štedrý deň"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Prvý sviatok vianočný"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Druhý sviatok vianočný"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Deň vzniku Slovenskej republiky"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Zjavenie Pána"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Veľkonočný piatok"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Veľká noc"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Veľkonočný pondelok"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Sviatok práce"
+    },
+    {
+      "date": "2028-07-05",
+      "label": "Sviatok svätého Cyrila a Metoda"
+    },
+    {
+      "date": "2028-08-29",
+      "label": "Výročie Slovenského národného povstania"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Sviatok všetkých svätých"
+    },
+    {
+      "date": "2028-12-24",
+      "label": "Štedrý deň"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Prvý sviatok vianočný"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Druhý sviatok vianočný"
+    }
+  ]
+}

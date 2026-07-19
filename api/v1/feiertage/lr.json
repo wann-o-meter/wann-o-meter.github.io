@@ -1,0 +1,459 @@
+{
+  "category": "feiertage",
+  "slug": "lr",
+  "meta": {
+    "title": "Liberia",
+    "description": "Gesetzliche Feiertage fuer Liberia. Nächster Feiertag: Independence Day am 26.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "lr",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-11",
+        "to": "2026-02-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Armed Forces Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-11",
+        "to": "2026-03-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Decoration Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-15",
+        "to": "2026-03-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "J. J. Robert's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-10",
+        "to": "2026-04-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fast and Prayer Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Unification Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-26",
+        "to": "2026-07-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-24",
+        "to": "2026-08-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Flag Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-05",
+        "to": "2026-11-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-29",
+        "to": "2026-11-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "William Tubman's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-11",
+        "to": "2027-02-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Armed Forces Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-10",
+        "to": "2027-03-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Decoration Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-15",
+        "to": "2027-03-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "J. J. Robert's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-09",
+        "to": "2027-04-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fast and Prayer Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-14",
+        "to": "2027-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Unification Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-26",
+        "to": "2027-07-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-24",
+        "to": "2027-08-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Flag Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-04",
+        "to": "2027-11-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-29",
+        "to": "2027-11-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "William Tubman's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-11",
+        "to": "2028-02-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Armed Forces Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Decoration Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-15",
+        "to": "2028-03-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "J. J. Robert's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fast and Prayer Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-14",
+        "to": "2028-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Unification Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-26",
+        "to": "2028-07-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-24",
+        "to": "2028-08-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Flag Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-02",
+        "to": "2028-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-29",
+        "to": "2028-11-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "William Tubman's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-02-11",
+      "label": "Armed Forces Day"
+    },
+    {
+      "date": "2026-03-11",
+      "label": "Decoration Day"
+    },
+    {
+      "date": "2026-03-15",
+      "label": "J. J. Robert's Day"
+    },
+    {
+      "date": "2026-04-10",
+      "label": "Fast and Prayer Day"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "National Unification Day"
+    },
+    {
+      "date": "2026-07-26",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2026-08-24",
+      "label": "Flag Day"
+    },
+    {
+      "date": "2026-11-05",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2026-11-29",
+      "label": "William Tubman's Birthday"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-02-11",
+      "label": "Armed Forces Day"
+    },
+    {
+      "date": "2027-03-10",
+      "label": "Decoration Day"
+    },
+    {
+      "date": "2027-03-15",
+      "label": "J. J. Robert's Day"
+    },
+    {
+      "date": "2027-04-09",
+      "label": "Fast and Prayer Day"
+    },
+    {
+      "date": "2027-05-14",
+      "label": "National Unification Day"
+    },
+    {
+      "date": "2027-07-26",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2027-08-24",
+      "label": "Flag Day"
+    },
+    {
+      "date": "2027-11-04",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2027-11-29",
+      "label": "William Tubman's Birthday"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-02-11",
+      "label": "Armed Forces Day"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "Decoration Day"
+    },
+    {
+      "date": "2028-03-15",
+      "label": "J. J. Robert's Day"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Fast and Prayer Day"
+    },
+    {
+      "date": "2028-05-14",
+      "label": "National Unification Day"
+    },
+    {
+      "date": "2028-07-26",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2028-08-24",
+      "label": "Flag Day"
+    },
+    {
+      "date": "2028-11-02",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2028-11-29",
+      "label": "William Tubman's Birthday"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    }
+  ]
+}

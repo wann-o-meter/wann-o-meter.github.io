@@ -1,0 +1,498 @@
+{
+  "category": "feiertage",
+  "slug": "bg",
+  "meta": {
+    "title": "България",
+    "description": "Gesetzliche Feiertage fuer България. Nächster Feiertag: Ден на съединението am 06.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "bg",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Нова Година"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-03",
+        "to": "2026-03-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на Освобождението на България от Османската Империя"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-10",
+        "to": "2026-04-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Разпети петък"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-12",
+        "to": "2026-04-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Великден"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-13",
+        "to": "2026-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Велики понеделник"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на труда"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-06",
+        "to": "2026-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Гергьовден"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на азбуката, културата и просветата"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-06",
+        "to": "2026-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на съединението"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-22",
+        "to": "2026-09-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на независимостта"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-24",
+        "to": "2026-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Бъдни вечер"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Коледа"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Нова Година"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-03",
+        "to": "2027-03-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на Освобождението на България от Османската Империя"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-30",
+        "to": "2027-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Разпети петък"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на труда"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-02",
+        "to": "2027-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Великден"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-03",
+        "to": "2027-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Велики понеделник"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Гергьовден"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-24",
+        "to": "2027-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на азбуката, културата и просветата"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-06",
+        "to": "2027-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на съединението"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-22",
+        "to": "2027-09-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на независимостта"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Бъдни вечер"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Коледа"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Нова Година"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-03",
+        "to": "2028-03-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на Освобождението на България от Османската Империя"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Разпети петък"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Великден"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Велики понеделник"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на труда"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-06",
+        "to": "2028-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Гергьовден"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-24",
+        "to": "2028-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на азбуката, културата и просветата"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-06",
+        "to": "2028-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на съединението"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-22",
+        "to": "2028-09-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на независимостта"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-24",
+        "to": "2028-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Бъдни вечер"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Коледа"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Нова Година"
+    },
+    {
+      "date": "2026-03-03",
+      "label": "Ден на Освобождението на България от Османската Империя"
+    },
+    {
+      "date": "2026-04-10",
+      "label": "Разпети петък"
+    },
+    {
+      "date": "2026-04-12",
+      "label": "Великден"
+    },
+    {
+      "date": "2026-04-13",
+      "label": "Велики понеделник"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Ден на труда"
+    },
+    {
+      "date": "2026-05-06",
+      "label": "Гергьовден"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "Ден на азбуката, културата и просветата"
+    },
+    {
+      "date": "2026-09-06",
+      "label": "Ден на съединението"
+    },
+    {
+      "date": "2026-09-22",
+      "label": "Ден на независимостта"
+    },
+    {
+      "date": "2026-12-24",
+      "label": "Бъдни вечер"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Коледа"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Нова Година"
+    },
+    {
+      "date": "2027-03-03",
+      "label": "Ден на Освобождението на България от Османската Империя"
+    },
+    {
+      "date": "2027-04-30",
+      "label": "Разпети петък"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Ден на труда"
+    },
+    {
+      "date": "2027-05-02",
+      "label": "Великден"
+    },
+    {
+      "date": "2027-05-03",
+      "label": "Велики понеделник"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "Гергьовден"
+    },
+    {
+      "date": "2027-05-24",
+      "label": "Ден на азбуката, културата и просветата"
+    },
+    {
+      "date": "2027-09-06",
+      "label": "Ден на съединението"
+    },
+    {
+      "date": "2027-09-22",
+      "label": "Ден на независимостта"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Бъдни вечер"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Коледа"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Нова Година"
+    },
+    {
+      "date": "2028-03-03",
+      "label": "Ден на Освобождението на България от Османската Империя"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Разпети петък"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Великден"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Велики понеделник"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Ден на труда"
+    },
+    {
+      "date": "2028-05-06",
+      "label": "Гергьовден"
+    },
+    {
+      "date": "2028-05-24",
+      "label": "Ден на азбуката, културата и просветата"
+    },
+    {
+      "date": "2028-09-06",
+      "label": "Ден на съединението"
+    },
+    {
+      "date": "2028-09-22",
+      "label": "Ден на независимостта"
+    },
+    {
+      "date": "2028-12-24",
+      "label": "Бъдни вечер"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Коледа"
+    }
+  ]
+}

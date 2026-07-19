@@ -1,0 +1,563 @@
+{
+  "category": "feiertage",
+  "slug": "nf",
+  "meta": {
+    "title": "Norfolk Island",
+    "description": "Gesetzliche Feiertage fuer Norfolk Island. Nächster Feiertag: Norfolk Island Agricultural Show am 12.10.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "nf",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-26",
+        "to": "2026-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Australia Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-06",
+        "to": "2026-03-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Foundation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-25",
+        "to": "2026-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anzac Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-08",
+        "to": "2026-06-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversary (Bounty) Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-15",
+        "to": "2026-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "King's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Norfolk Island Agricultural Show"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-25",
+        "to": "2026-11-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-28",
+        "to": "2026-12-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-26",
+        "to": "2027-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Australia Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-06",
+        "to": "2027-03-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Foundation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Foundation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-25",
+        "to": "2027-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anzac Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-08",
+        "to": "2027-06-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversary (Bounty) Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-14",
+        "to": "2027-06-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "King's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-11",
+        "to": "2027-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Norfolk Island Agricultural Show"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-24",
+        "to": "2027-11-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-27",
+        "to": "2027-12-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-28",
+        "to": "2027-12-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-03",
+        "to": "2028-01-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-26",
+        "to": "2028-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Australia Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-06",
+        "to": "2028-03-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Foundation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-25",
+        "to": "2028-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anzac Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-08",
+        "to": "2028-06-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversary (Bounty) Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-12",
+        "to": "2028-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "King's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-09",
+        "to": "2028-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Norfolk Island Agricultural Show"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-29",
+        "to": "2028-11-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-01-26",
+      "label": "Australia Day"
+    },
+    {
+      "date": "2026-03-06",
+      "label": "Foundation Day"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2026-04-25",
+      "label": "Anzac Day"
+    },
+    {
+      "date": "2026-06-08",
+      "label": "Anniversary (Bounty) Day"
+    },
+    {
+      "date": "2026-06-15",
+      "label": "King's Birthday"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Norfolk Island Agricultural Show"
+    },
+    {
+      "date": "2026-11-25",
+      "label": "Thanksgiving Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2026-12-28",
+      "label": "Boxing Day (substitute day)"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-01-26",
+      "label": "Australia Day"
+    },
+    {
+      "date": "2027-03-06",
+      "label": "Foundation Day"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "Foundation Day"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2027-04-25",
+      "label": "Anzac Day"
+    },
+    {
+      "date": "2027-06-08",
+      "label": "Anniversary (Bounty) Day"
+    },
+    {
+      "date": "2027-06-14",
+      "label": "King's Birthday"
+    },
+    {
+      "date": "2027-10-11",
+      "label": "Norfolk Island Agricultural Show"
+    },
+    {
+      "date": "2027-11-24",
+      "label": "Thanksgiving Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-12-27",
+      "label": "Christmas Day (substitute day)"
+    },
+    {
+      "date": "2027-12-28",
+      "label": "Boxing Day (substitute day)"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-01-03",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-01-26",
+      "label": "Australia Day"
+    },
+    {
+      "date": "2028-03-06",
+      "label": "Foundation Day"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2028-04-25",
+      "label": "Anzac Day"
+    },
+    {
+      "date": "2028-06-08",
+      "label": "Anniversary (Bounty) Day"
+    },
+    {
+      "date": "2028-06-12",
+      "label": "King's Birthday"
+    },
+    {
+      "date": "2028-10-09",
+      "label": "Norfolk Island Agricultural Show"
+    },
+    {
+      "date": "2028-11-29",
+      "label": "Thanksgiving Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    }
+  ]
+}

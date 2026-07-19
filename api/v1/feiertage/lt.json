@@ -1,0 +1,576 @@
+{
+  "category": "feiertage",
+  "slug": "lt",
+  "meta": {
+    "title": "Lietuva",
+    "description": "Gesetzliche Feiertage fuer Lietuva. Nächster Feiertag: Žolinė am 15.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "lt",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Naujieji metai"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-16",
+        "to": "2026-02-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lietuvos valstybės atkūrimo diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-11",
+        "to": "2026-03-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lietuvos nepriklausomybės atkūrimo diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velykos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velykų pirmadienis"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tarptautinė darbo diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-24",
+        "to": "2026-06-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Joninės, Rasos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-06",
+        "to": "2026-07-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Valstybės diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Žolinė"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Visų šventųjų diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-02",
+        "to": "2026-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Vėlinės"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-24",
+        "to": "2026-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Šv. Kūčios"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Šv. Kalėdos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "2. Kalėdų diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Naujieji metai"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-16",
+        "to": "2027-02-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lietuvos valstybės atkūrimo diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-11",
+        "to": "2027-03-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lietuvos nepriklausomybės atkūrimo diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velykos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velykų pirmadienis"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tarptautinė darbo diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-24",
+        "to": "2027-06-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Joninės, Rasos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-06",
+        "to": "2027-07-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Valstybės diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Žolinė"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Visų šventųjų diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-02",
+        "to": "2027-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Vėlinės"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Šv. Kūčios"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Šv. Kalėdos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "2. Kalėdų diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Naujieji metai"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-16",
+        "to": "2028-02-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lietuvos valstybės atkūrimo diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-11",
+        "to": "2028-03-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lietuvos nepriklausomybės atkūrimo diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velykos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velykų pirmadienis"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tarptautinė darbo diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-24",
+        "to": "2028-06-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Joninės, Rasos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-06",
+        "to": "2028-07-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Valstybės diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Žolinė"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Visų šventųjų diena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-02",
+        "to": "2028-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Vėlinės"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-24",
+        "to": "2028-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Šv. Kūčios"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Šv. Kalėdos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "2. Kalėdų diena"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Naujieji metai"
+    },
+    {
+      "date": "2026-02-16",
+      "label": "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date": "2026-03-11",
+      "label": "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Velykos"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Velykų pirmadienis"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Tarptautinė darbo diena"
+    },
+    {
+      "date": "2026-06-24",
+      "label": "Joninės, Rasos"
+    },
+    {
+      "date": "2026-07-06",
+      "label": "Valstybės diena"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Žolinė"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Visų šventųjų diena"
+    },
+    {
+      "date": "2026-11-02",
+      "label": "Vėlinės"
+    },
+    {
+      "date": "2026-12-24",
+      "label": "Šv. Kūčios"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Šv. Kalėdos"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "2. Kalėdų diena"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Naujieji metai"
+    },
+    {
+      "date": "2027-02-16",
+      "label": "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date": "2027-03-11",
+      "label": "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Velykos"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Velykų pirmadienis"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Tarptautinė darbo diena"
+    },
+    {
+      "date": "2027-06-24",
+      "label": "Joninės, Rasos"
+    },
+    {
+      "date": "2027-07-06",
+      "label": "Valstybės diena"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Žolinė"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Visų šventųjų diena"
+    },
+    {
+      "date": "2027-11-02",
+      "label": "Vėlinės"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Šv. Kūčios"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Šv. Kalėdos"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "2. Kalėdų diena"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Naujieji metai"
+    },
+    {
+      "date": "2028-02-16",
+      "label": "Lietuvos valstybės atkūrimo diena"
+    },
+    {
+      "date": "2028-03-11",
+      "label": "Lietuvos nepriklausomybės atkūrimo diena"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Velykos"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Velykų pirmadienis"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Tarptautinė darbo diena"
+    },
+    {
+      "date": "2028-06-24",
+      "label": "Joninės, Rasos"
+    },
+    {
+      "date": "2028-07-06",
+      "label": "Valstybės diena"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Žolinė"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Visų šventųjų diena"
+    },
+    {
+      "date": "2028-11-02",
+      "label": "Vėlinės"
+    },
+    {
+      "date": "2028-12-24",
+      "label": "Šv. Kūčios"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Šv. Kalėdos"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "2. Kalėdų diena"
+    }
+  ]
+}

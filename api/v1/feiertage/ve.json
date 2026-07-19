@@ -1,0 +1,615 @@
+{
+  "category": "feiertage",
+  "slug": "ve",
+  "meta": {
+    "title": "Venezuela",
+    "description": "Gesetzliche Feiertage fuer Venezuela. Nächster Feiertag: Natalicio de Simón Bolívar am 24.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ve",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-16",
+        "to": "2026-02-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pascua"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-19",
+        "to": "2026-04-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Declaración de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-24",
+        "to": "2026-06-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Aniversario de la Batalla de Carabobo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-05",
+        "to": "2026-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-24",
+        "to": "2026-07-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Simón Bolívar"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la resistencia indígena"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-24",
+        "to": "2026-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nochebuena"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-31",
+        "to": "2026-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fin del Año"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-08",
+        "to": "2027-02-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-09",
+        "to": "2027-02-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-25",
+        "to": "2027-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pascua"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-19",
+        "to": "2027-04-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Declaración de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-24",
+        "to": "2027-06-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Aniversario de la Batalla de Carabobo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-05",
+        "to": "2027-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-24",
+        "to": "2027-07-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Simón Bolívar"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-12",
+        "to": "2027-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la resistencia indígena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nochebuena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-31",
+        "to": "2027-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fin del Año"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-28",
+        "to": "2028-02-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-29",
+        "to": "2028-02-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-13",
+        "to": "2028-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pascua"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-19",
+        "to": "2028-04-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Declaración de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-24",
+        "to": "2028-06-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Aniversario de la Batalla de Carabobo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-05",
+        "to": "2028-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-24",
+        "to": "2028-07-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Simón Bolívar"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-12",
+        "to": "2028-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la resistencia indígena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-24",
+        "to": "2028-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nochebuena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-31",
+        "to": "2028-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fin del Año"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2026-02-16",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Pascua"
+    },
+    {
+      "date": "2026-04-19",
+      "label": "Declaración de la Independencia"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-06-24",
+      "label": "Aniversario de la Batalla de Carabobo"
+    },
+    {
+      "date": "2026-07-05",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-07-24",
+      "label": "Natalicio de Simón Bolívar"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Día de la resistencia indígena"
+    },
+    {
+      "date": "2026-12-24",
+      "label": "Nochebuena"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2026-12-31",
+      "label": "Fin del Año"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2027-02-08",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2027-02-09",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2027-03-25",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Pascua"
+    },
+    {
+      "date": "2027-04-19",
+      "label": "Declaración de la Independencia"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-06-24",
+      "label": "Aniversario de la Batalla de Carabobo"
+    },
+    {
+      "date": "2027-07-05",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-07-24",
+      "label": "Natalicio de Simón Bolívar"
+    },
+    {
+      "date": "2027-10-12",
+      "label": "Día de la resistencia indígena"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Nochebuena"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-12-31",
+      "label": "Fin del Año"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2028-02-28",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2028-02-29",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2028-04-13",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Pascua"
+    },
+    {
+      "date": "2028-04-19",
+      "label": "Declaración de la Independencia"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-06-24",
+      "label": "Aniversario de la Batalla de Carabobo"
+    },
+    {
+      "date": "2028-07-05",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-07-24",
+      "label": "Natalicio de Simón Bolívar"
+    },
+    {
+      "date": "2028-10-12",
+      "label": "Día de la resistencia indígena"
+    },
+    {
+      "date": "2028-12-24",
+      "label": "Nochebuena"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2028-12-31",
+      "label": "Fin del Año"
+    }
+  ]
+}

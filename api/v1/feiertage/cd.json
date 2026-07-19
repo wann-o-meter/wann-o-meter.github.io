@@ -1,0 +1,446 @@
+{
+  "category": "feiertage",
+  "slug": "cd",
+  "meta": {
+    "title": "République démocratique du Congo",
+    "description": "Gesetzliche Feiertage fuer République démocratique du Congo. Nächster Feiertag: Fête des parents am 01.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "cd",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel An"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-04",
+        "to": "2026-01-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martyrs de l'Indépendance"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-05",
+        "to": "2026-01-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martyrs de l'Indépendance (jour substitut)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-16",
+        "to": "2026-01-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée du Héro National Laurent Désiré Kabila"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-17",
+        "to": "2026-01-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée du Héro National Patrice Emery Lumumba"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du travail"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-17",
+        "to": "2026-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée de la Révolution et des Forces Armées"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-18",
+        "to": "2026-05-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée de la Révolution et des Forces Armées (jour substitut)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-30",
+        "to": "2026-06-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversaire de Indépendance"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-01",
+        "to": "2026-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête des parents"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Noël"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel An"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-04",
+        "to": "2027-01-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martyrs de l'Indépendance"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-16",
+        "to": "2027-01-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée du Héro National Laurent Désiré Kabila"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-17",
+        "to": "2027-01-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée du Héro National Patrice Emery Lumumba"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-18",
+        "to": "2027-01-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée du Héro National Patrice Emery Lumumba (jour substitut)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du travail"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-17",
+        "to": "2027-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée de la Révolution et des Forces Armées"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-30",
+        "to": "2027-06-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversaire de Indépendance"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-01",
+        "to": "2027-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête des parents"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-02",
+        "to": "2027-08-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête des parents (jour substitut)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Noël"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nouvel An"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-04",
+        "to": "2028-01-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martyrs de l'Indépendance"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-16",
+        "to": "2028-01-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée du Héro National Laurent Désiré Kabila"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-17",
+        "to": "2028-01-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée du Héro National Patrice Emery Lumumba"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-18",
+        "to": "2028-01-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée du Héro National Laurent Désiré Kabila (jour substitut)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête du travail"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-17",
+        "to": "2028-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée de la Révolution et des Forces Armées"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-30",
+        "to": "2028-06-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversaire de Indépendance"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-01",
+        "to": "2028-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête des parents"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Noël"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nouvel An"
+    },
+    {
+      "date": "2026-01-04",
+      "label": "Martyrs de l'Indépendance"
+    },
+    {
+      "date": "2026-01-05",
+      "label": "Martyrs de l'Indépendance (jour substitut)"
+    },
+    {
+      "date": "2026-01-16",
+      "label": "Journée du Héro National Laurent Désiré Kabila"
+    },
+    {
+      "date": "2026-01-17",
+      "label": "Journée du Héro National Patrice Emery Lumumba"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Fête du travail"
+    },
+    {
+      "date": "2026-05-17",
+      "label": "Journée de la Révolution et des Forces Armées"
+    },
+    {
+      "date": "2026-05-18",
+      "label": "Journée de la Révolution et des Forces Armées (jour substitut)"
+    },
+    {
+      "date": "2026-06-30",
+      "label": "Anniversaire de Indépendance"
+    },
+    {
+      "date": "2026-08-01",
+      "label": "Fête des parents"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Noël"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nouvel An"
+    },
+    {
+      "date": "2027-01-04",
+      "label": "Martyrs de l'Indépendance"
+    },
+    {
+      "date": "2027-01-16",
+      "label": "Journée du Héro National Laurent Désiré Kabila"
+    },
+    {
+      "date": "2027-01-17",
+      "label": "Journée du Héro National Patrice Emery Lumumba"
+    },
+    {
+      "date": "2027-01-18",
+      "label": "Journée du Héro National Patrice Emery Lumumba (jour substitut)"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Fête du travail"
+    },
+    {
+      "date": "2027-05-17",
+      "label": "Journée de la Révolution et des Forces Armées"
+    },
+    {
+      "date": "2027-06-30",
+      "label": "Anniversaire de Indépendance"
+    },
+    {
+      "date": "2027-08-01",
+      "label": "Fête des parents"
+    },
+    {
+      "date": "2027-08-02",
+      "label": "Fête des parents (jour substitut)"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Noël"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nouvel An"
+    },
+    {
+      "date": "2028-01-04",
+      "label": "Martyrs de l'Indépendance"
+    },
+    {
+      "date": "2028-01-16",
+      "label": "Journée du Héro National Laurent Désiré Kabila"
+    },
+    {
+      "date": "2028-01-17",
+      "label": "Journée du Héro National Patrice Emery Lumumba"
+    },
+    {
+      "date": "2028-01-18",
+      "label": "Journée du Héro National Laurent Désiré Kabila (jour substitut)"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Fête du travail"
+    },
+    {
+      "date": "2028-05-17",
+      "label": "Journée de la Révolution et des Forces Armées"
+    },
+    {
+      "date": "2028-06-30",
+      "label": "Anniversaire de Indépendance"
+    },
+    {
+      "date": "2028-08-01",
+      "label": "Fête des parents"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Noël"
+    }
+  ]
+}

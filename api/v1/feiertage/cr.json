@@ -1,0 +1,459 @@
+{
+  "category": "feiertage",
+  "slug": "cr",
+  "meta": {
+    "title": "Costa Rica",
+    "description": "Gesetzliche Feiertage fuer Costa Rica. Nächster Feiertag: Anexión del Partido de Nicoya am 25.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "cr",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-11",
+        "to": "2026-04-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Gesta Heroica de Juan Santamaría"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-25",
+        "to": "2026-07-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anexión del Partido de Nicoya"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-02",
+        "to": "2026-08-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Virgen de los Ángeles"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Madre"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-15",
+        "to": "2026-09-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-09",
+        "to": "2026-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Raza"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-25",
+        "to": "2027-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-11",
+        "to": "2027-04-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Gesta Heroica de Juan Santamaría"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-25",
+        "to": "2027-07-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anexión del Partido de Nicoya"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-02",
+        "to": "2027-08-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Virgen de los Ángeles"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Madre"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-15",
+        "to": "2027-09-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-12",
+        "to": "2027-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Raza"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-11",
+        "to": "2028-04-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Gesta Heroica de Juan Santamaría"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-13",
+        "to": "2028-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jueves Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-25",
+        "to": "2028-07-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anexión del Partido de Nicoya"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-02",
+        "to": "2028-08-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Virgen de los Ángeles"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Madre"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-15",
+        "to": "2028-09-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-12",
+        "to": "2028-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Raza"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2026-04-11",
+      "label": "Gesta Heroica de Juan Santamaría"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-07-25",
+      "label": "Anexión del Partido de Nicoya"
+    },
+    {
+      "date": "2026-08-02",
+      "label": "Día de la Virgen de los Ángeles"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Día de la Madre"
+    },
+    {
+      "date": "2026-09-15",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-10-09",
+      "label": "Día de la Raza"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2027-03-25",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2027-04-11",
+      "label": "Gesta Heroica de Juan Santamaría"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-07-25",
+      "label": "Anexión del Partido de Nicoya"
+    },
+    {
+      "date": "2027-08-02",
+      "label": "Día de la Virgen de los Ángeles"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Día de la Madre"
+    },
+    {
+      "date": "2027-09-15",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-10-12",
+      "label": "Día de la Raza"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2028-04-11",
+      "label": "Gesta Heroica de Juan Santamaría"
+    },
+    {
+      "date": "2028-04-13",
+      "label": "Jueves Santo"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-07-25",
+      "label": "Anexión del Partido de Nicoya"
+    },
+    {
+      "date": "2028-08-02",
+      "label": "Día de la Virgen de los Ángeles"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Día de la Madre"
+    },
+    {
+      "date": "2028-09-15",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-10-12",
+      "label": "Día de la Raza"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    }
+  ]
+}

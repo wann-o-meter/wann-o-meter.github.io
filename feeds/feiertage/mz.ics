@@ -1,0 +1,290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Moçambique
+BEGIN:VEVENT
+UID:feiertage-mz-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Fraternidade universal - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2026-02-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Moçambique
+DESCRIPTION:Dia dos heróis moçambicanos - https://www.npmjs.com/package/da
+ te-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2026-04-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Mulher Moçambicana - https://www.npmjs.com/package/date
+ -holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Moçambique
+DESCRIPTION:Dia Internacional dos Trabalhadores - https://www.npmjs.com/pa
+ ckage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2026-06-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Independência Nacional - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2026-09-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Vitória - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2026-09-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Moçambique
+DESCRIPTION:Dia das Forças Armadas de Libertação Nacional - https://www.np
+ mjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2026-10-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Paz e Reconciliação - https://www.npmjs.com/package/dat
+ e-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2026-10-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Moçambique
+DESCRIPTION:Feriado Obrigatório - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2026-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Família - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Fraternidade universal - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2027-02-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Moçambique
+DESCRIPTION:Dia dos heróis moçambicanos - https://www.npmjs.com/package/da
+ te-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2027-04-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Mulher Moçambicana - https://www.npmjs.com/package/date
+ -holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Moçambique
+DESCRIPTION:Dia Internacional dos Trabalhadores - https://www.npmjs.com/pa
+ ckage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2027-06-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Independência Nacional - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2027-09-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Vitória - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2027-09-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:Moçambique
+DESCRIPTION:Dia das Forças Armadas de Libertação Nacional - https://www.np
+ mjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2027-10-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271005
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Paz e Reconciliação - https://www.npmjs.com/package/dat
+ e-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2027-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Família - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Fraternidade universal - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-02-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280203
+DTEND;VALUE=DATE:20280204
+SUMMARY:Moçambique
+DESCRIPTION:Dia dos heróis moçambicanos - https://www.npmjs.com/package/da
+ te-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-04-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280407
+DTEND;VALUE=DATE:20280408
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Mulher Moçambicana - https://www.npmjs.com/package/date
+ -holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Moçambique
+DESCRIPTION:Dia Internacional dos Trabalhadores - https://www.npmjs.com/pa
+ ckage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-06-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280625
+DTEND;VALUE=DATE:20280626
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Independência Nacional - https://www.npmjs.com/package/
+ date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-06-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280626
+DTEND;VALUE=DATE:20280627
+SUMMARY:Moçambique
+DESCRIPTION:Feriado Obrigatório - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-09-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280907
+DTEND;VALUE=DATE:20280908
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Vitória - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-09-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280925
+DTEND;VALUE=DATE:20280926
+SUMMARY:Moçambique
+DESCRIPTION:Dia das Forças Armadas de Libertação Nacional - https://www.np
+ mjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-10-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281004
+DTEND;VALUE=DATE:20281005
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Paz e Reconciliação - https://www.npmjs.com/package/dat
+ e-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-mz-2028-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:Moçambique
+DESCRIPTION:Dia da Família - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

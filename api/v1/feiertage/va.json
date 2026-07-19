@@ -1,0 +1,1083 @@
+{
+  "category": "feiertage",
+  "slug": "va",
+  "meta": {
+    "title": "Stato della Città del Vaticano",
+    "description": "Gesetzliche Feiertage fuer Stato della Città del Vaticano. Nächster Feiertag: Pausa estiva am 14.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "va",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maria Santissima Madre di Dio"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Epifania del Signore"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-11",
+        "to": "2026-02-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario della istituzione dello Stato della Città del Vaticano"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-19",
+        "to": "2026-03-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Giuseppe"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Giovedì santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Venerdì santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-04",
+        "to": "2026-04-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sabato santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Domenica di Pasqua"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lunedì dell’Angelo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-07",
+        "to": "2026-04-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martedì in Albis"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Giuseppe lavoratore"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-08",
+        "to": "2026-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario dell'Elezione del Santo Padre"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascensione"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pentecoste"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-04",
+        "to": "2026-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Domini"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-29",
+        "to": "2026-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santi Pietro e Paolo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-14",
+        "to": "2026-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pausa estiva"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Assunzione di Maria in Cielo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-16",
+        "to": "2026-08-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pausa estiva"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-17",
+        "to": "2026-09-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Roberto Bellarmino - Onomastico del Santo Padre"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ognissanti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-02",
+        "to": "2026-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Commemorazione dei fedeli defunti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-08",
+        "to": "2026-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Immacolata Concezione"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natale"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santo Stefano"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-27",
+        "to": "2026-12-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Giovanni"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-31",
+        "to": "2026-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ultimo dell’anno"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maria Santissima Madre di Dio"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Epifania del Signore"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-11",
+        "to": "2027-02-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario della istituzione dello Stato della Città del Vaticano"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-19",
+        "to": "2027-03-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Giuseppe"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-25",
+        "to": "2027-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Giovedì santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Venerdì santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-27",
+        "to": "2027-03-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sabato santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Domenica di Pasqua"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lunedì dell’Angelo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-30",
+        "to": "2027-03-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martedì in Albis"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Giuseppe lavoratore"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascensione"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-08",
+        "to": "2027-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario dell'Elezione del Santo Padre"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pentecoste"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Domini"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-29",
+        "to": "2027-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santi Pietro e Paolo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pausa estiva"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Assunzione di Maria in Cielo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-16",
+        "to": "2027-08-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pausa estiva"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-17",
+        "to": "2027-09-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Roberto Bellarmino - Onomastico del Santo Padre"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ognissanti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-02",
+        "to": "2027-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Commemorazione dei fedeli defunti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-08",
+        "to": "2027-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Immacolata Concezione"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natale"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santo Stefano"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-27",
+        "to": "2027-12-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Giovanni"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-31",
+        "to": "2027-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ultimo dell’anno"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maria Santissima Madre di Dio"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Epifania del Signore"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-11",
+        "to": "2028-02-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario della istituzione dello Stato della Città del Vaticano"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-19",
+        "to": "2028-03-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Giuseppe"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-13",
+        "to": "2028-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Giovedì santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Venerdì santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-15",
+        "to": "2028-04-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sabato santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Domenica di Pasqua"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lunedì dell’Angelo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-18",
+        "to": "2028-04-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martedì in Albis"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Giuseppe lavoratore"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-08",
+        "to": "2028-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario dell'Elezione del Santo Padre"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascensione"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-04",
+        "to": "2028-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pentecoste"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Domini"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-29",
+        "to": "2028-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santi Pietro e Paolo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-14",
+        "to": "2028-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pausa estiva"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Assunzione di Maria in Cielo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-16",
+        "to": "2028-08-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pausa estiva"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-17",
+        "to": "2028-09-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Roberto Bellarmino - Onomastico del Santo Padre"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ognissanti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-02",
+        "to": "2028-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Commemorazione dei fedeli defunti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-08",
+        "to": "2028-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Immacolata Concezione"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natale"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santo Stefano"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-27",
+        "to": "2028-12-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Giovanni"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-31",
+        "to": "2028-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ultimo dell’anno"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Maria Santissima Madre di Dio"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Epifania del Signore"
+    },
+    {
+      "date": "2026-02-11",
+      "label": "Anniversario della istituzione dello Stato della Città del Vaticano"
+    },
+    {
+      "date": "2026-03-19",
+      "label": "San Giuseppe"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "Giovedì santo"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Venerdì santo"
+    },
+    {
+      "date": "2026-04-04",
+      "label": "Sabato santo"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Domenica di Pasqua"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Lunedì dell’Angelo"
+    },
+    {
+      "date": "2026-04-07",
+      "label": "Martedì in Albis"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "San Giuseppe lavoratore"
+    },
+    {
+      "date": "2026-05-08",
+      "label": "Anniversario dell'Elezione del Santo Padre"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "Ascensione"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "Pentecoste"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Corpus Domini"
+    },
+    {
+      "date": "2026-06-29",
+      "label": "Santi Pietro e Paolo"
+    },
+    {
+      "date": "2026-08-14",
+      "label": "Pausa estiva"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Assunzione di Maria in Cielo"
+    },
+    {
+      "date": "2026-08-16",
+      "label": "Pausa estiva"
+    },
+    {
+      "date": "2026-09-17",
+      "label": "San Roberto Bellarmino - Onomastico del Santo Padre"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Ognissanti"
+    },
+    {
+      "date": "2026-11-02",
+      "label": "Commemorazione dei fedeli defunti"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "Immacolata Concezione"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Natale"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Santo Stefano"
+    },
+    {
+      "date": "2026-12-27",
+      "label": "San Giovanni"
+    },
+    {
+      "date": "2026-12-31",
+      "label": "Ultimo dell’anno"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Maria Santissima Madre di Dio"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Epifania del Signore"
+    },
+    {
+      "date": "2027-02-11",
+      "label": "Anniversario della istituzione dello Stato della Città del Vaticano"
+    },
+    {
+      "date": "2027-03-19",
+      "label": "San Giuseppe"
+    },
+    {
+      "date": "2027-03-25",
+      "label": "Giovedì santo"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Venerdì santo"
+    },
+    {
+      "date": "2027-03-27",
+      "label": "Sabato santo"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Domenica di Pasqua"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Lunedì dell’Angelo"
+    },
+    {
+      "date": "2027-03-30",
+      "label": "Martedì in Albis"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "San Giuseppe lavoratore"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "Ascensione"
+    },
+    {
+      "date": "2027-05-08",
+      "label": "Anniversario dell'Elezione del Santo Padre"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Pentecoste"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Corpus Domini"
+    },
+    {
+      "date": "2027-06-29",
+      "label": "Santi Pietro e Paolo"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Pausa estiva"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Assunzione di Maria in Cielo"
+    },
+    {
+      "date": "2027-08-16",
+      "label": "Pausa estiva"
+    },
+    {
+      "date": "2027-09-17",
+      "label": "San Roberto Bellarmino - Onomastico del Santo Padre"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Ognissanti"
+    },
+    {
+      "date": "2027-11-02",
+      "label": "Commemorazione dei fedeli defunti"
+    },
+    {
+      "date": "2027-12-08",
+      "label": "Immacolata Concezione"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Natale"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Santo Stefano"
+    },
+    {
+      "date": "2027-12-27",
+      "label": "San Giovanni"
+    },
+    {
+      "date": "2027-12-31",
+      "label": "Ultimo dell’anno"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Maria Santissima Madre di Dio"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Epifania del Signore"
+    },
+    {
+      "date": "2028-02-11",
+      "label": "Anniversario della istituzione dello Stato della Città del Vaticano"
+    },
+    {
+      "date": "2028-03-19",
+      "label": "San Giuseppe"
+    },
+    {
+      "date": "2028-04-13",
+      "label": "Giovedì santo"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Venerdì santo"
+    },
+    {
+      "date": "2028-04-15",
+      "label": "Sabato santo"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Domenica di Pasqua"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Lunedì dell’Angelo"
+    },
+    {
+      "date": "2028-04-18",
+      "label": "Martedì in Albis"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "San Giuseppe lavoratore"
+    },
+    {
+      "date": "2028-05-08",
+      "label": "Anniversario dell'Elezione del Santo Padre"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Ascensione"
+    },
+    {
+      "date": "2028-06-04",
+      "label": "Pentecoste"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Corpus Domini"
+    },
+    {
+      "date": "2028-06-29",
+      "label": "Santi Pietro e Paolo"
+    },
+    {
+      "date": "2028-08-14",
+      "label": "Pausa estiva"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Assunzione di Maria in Cielo"
+    },
+    {
+      "date": "2028-08-16",
+      "label": "Pausa estiva"
+    },
+    {
+      "date": "2028-09-17",
+      "label": "San Roberto Bellarmino - Onomastico del Santo Padre"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Ognissanti"
+    },
+    {
+      "date": "2028-11-02",
+      "label": "Commemorazione dei fedeli defunti"
+    },
+    {
+      "date": "2028-12-08",
+      "label": "Immacolata Concezione"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Natale"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Santo Stefano"
+    },
+    {
+      "date": "2028-12-27",
+      "label": "San Giovanni"
+    },
+    {
+      "date": "2028-12-31",
+      "label": "Ultimo dell’anno"
+    }
+  ]
+}

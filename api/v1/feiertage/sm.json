@@ -1,0 +1,732 @@
+{
+  "category": "feiertage",
+  "slug": "sm",
+  "meta": {
+    "title": "San Marino",
+    "description": "Gesetzliche Feiertage fuer San Marino. Nächster Feiertag: Anniversario della caduta del Fascismo e Festa della Libertà am 28.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "sm",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Capodanno"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Epifania"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-05",
+        "to": "2026-02-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Festa di Sant’Agata"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-25",
+        "to": "2026-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario dell'Arengo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-01",
+        "to": "2026-04-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Cerimonia di investitura dei Capitani Reggenti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Domenica di Pasqua"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lunedì dell’Angelo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Festa del Lavoro"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-04",
+        "to": "2026-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Domini"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-28",
+        "to": "2026-07-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario della caduta del Fascismo e Festa della Libertà"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ferragosto"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-03",
+        "to": "2026-09-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Festa di San Marino e di Fondazione della Repubblica"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-01",
+        "to": "2026-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Cerimonia di investitura dei Capitani Reggenti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tutti i Santi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-02",
+        "to": "2026-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Commemorazione dei defunti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-08",
+        "to": "2026-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Immacolata Concezione"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natale"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santo Stefano"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Capodanno"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Epifania"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-05",
+        "to": "2027-02-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Festa di Sant’Agata"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-25",
+        "to": "2027-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario dell'Arengo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Domenica di Pasqua"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lunedì dell’Angelo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-01",
+        "to": "2027-04-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Cerimonia di investitura dei Capitani Reggenti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Festa del Lavoro"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Domini"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-28",
+        "to": "2027-07-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario della caduta del Fascismo e Festa della Libertà"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ferragosto"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-03",
+        "to": "2027-09-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Festa di San Marino e di Fondazione della Repubblica"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-01",
+        "to": "2027-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Cerimonia di investitura dei Capitani Reggenti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tutti i Santi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-02",
+        "to": "2027-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Commemorazione dei defunti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-08",
+        "to": "2027-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Immacolata Concezione"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natale"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santo Stefano"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Capodanno"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Epifania"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-05",
+        "to": "2028-02-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Festa di Sant’Agata"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-25",
+        "to": "2028-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario dell'Arengo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-01",
+        "to": "2028-04-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Cerimonia di investitura dei Capitani Reggenti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Domenica di Pasqua"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lunedì dell’Angelo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Festa del Lavoro"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Domini"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-28",
+        "to": "2028-07-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversario della caduta del Fascismo e Festa della Libertà"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ferragosto"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-03",
+        "to": "2028-09-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Festa di San Marino e di Fondazione della Repubblica"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-01",
+        "to": "2028-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Cerimonia di investitura dei Capitani Reggenti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tutti i Santi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-02",
+        "to": "2028-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Commemorazione dei defunti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-08",
+        "to": "2028-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Immacolata Concezione"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natale"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santo Stefano"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Capodanno"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Epifania"
+    },
+    {
+      "date": "2026-02-05",
+      "label": "Festa di Sant’Agata"
+    },
+    {
+      "date": "2026-03-25",
+      "label": "Anniversario dell'Arengo"
+    },
+    {
+      "date": "2026-04-01",
+      "label": "Cerimonia di investitura dei Capitani Reggenti"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Domenica di Pasqua"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Lunedì dell’Angelo"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Festa del Lavoro"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Corpus Domini"
+    },
+    {
+      "date": "2026-07-28",
+      "label": "Anniversario della caduta del Fascismo e Festa della Libertà"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Ferragosto"
+    },
+    {
+      "date": "2026-09-03",
+      "label": "Festa di San Marino e di Fondazione della Repubblica"
+    },
+    {
+      "date": "2026-10-01",
+      "label": "Cerimonia di investitura dei Capitani Reggenti"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Tutti i Santi"
+    },
+    {
+      "date": "2026-11-02",
+      "label": "Commemorazione dei defunti"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "Immacolata Concezione"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Natale"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Santo Stefano"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Capodanno"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Epifania"
+    },
+    {
+      "date": "2027-02-05",
+      "label": "Festa di Sant’Agata"
+    },
+    {
+      "date": "2027-03-25",
+      "label": "Anniversario dell'Arengo"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Domenica di Pasqua"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Lunedì dell’Angelo"
+    },
+    {
+      "date": "2027-04-01",
+      "label": "Cerimonia di investitura dei Capitani Reggenti"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Festa del Lavoro"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Corpus Domini"
+    },
+    {
+      "date": "2027-07-28",
+      "label": "Anniversario della caduta del Fascismo e Festa della Libertà"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Ferragosto"
+    },
+    {
+      "date": "2027-09-03",
+      "label": "Festa di San Marino e di Fondazione della Repubblica"
+    },
+    {
+      "date": "2027-10-01",
+      "label": "Cerimonia di investitura dei Capitani Reggenti"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Tutti i Santi"
+    },
+    {
+      "date": "2027-11-02",
+      "label": "Commemorazione dei defunti"
+    },
+    {
+      "date": "2027-12-08",
+      "label": "Immacolata Concezione"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Natale"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Santo Stefano"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Capodanno"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Epifania"
+    },
+    {
+      "date": "2028-02-05",
+      "label": "Festa di Sant’Agata"
+    },
+    {
+      "date": "2028-03-25",
+      "label": "Anniversario dell'Arengo"
+    },
+    {
+      "date": "2028-04-01",
+      "label": "Cerimonia di investitura dei Capitani Reggenti"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Domenica di Pasqua"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Lunedì dell’Angelo"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Festa del Lavoro"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Corpus Domini"
+    },
+    {
+      "date": "2028-07-28",
+      "label": "Anniversario della caduta del Fascismo e Festa della Libertà"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Ferragosto"
+    },
+    {
+      "date": "2028-09-03",
+      "label": "Festa di San Marino e di Fondazione della Repubblica"
+    },
+    {
+      "date": "2028-10-01",
+      "label": "Cerimonia di investitura dei Capitani Reggenti"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Tutti i Santi"
+    },
+    {
+      "date": "2028-11-02",
+      "label": "Commemorazione dei defunti"
+    },
+    {
+      "date": "2028-12-08",
+      "label": "Immacolata Concezione"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Natale"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Santo Stefano"
+    }
+  ]
+}

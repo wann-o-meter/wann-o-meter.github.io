@@ -1,0 +1,641 @@
+{
+  "category": "feiertage",
+  "slug": "id",
+  "meta": {
+    "title": "Indonesia",
+    "description": "Gesetzliche Feiertage fuer Indonesia. Nächster Feiertag: Hari Ulang Tahun Kemerdekaan Republik Indonesia am 17.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "id",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari tahun baru"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-16",
+        "to": "2026-01-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Nabi Muhammad"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Imlek"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-19",
+        "to": "2026-03-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Nyepi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Idul Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-21",
+        "to": "2026-03-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Idul Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wafat Yesus Kristus"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Buruh Internasional"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kenaikan Yesus Kristus"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Idul Adha"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-31",
+        "to": "2026-05-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Waisak"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-01",
+        "to": "2026-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Lahir Pancasila"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-16",
+        "to": "2026-06-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Islam"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-17",
+        "to": "2026-08-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Nabi Muhammad"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari tahun baru"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-05",
+        "to": "2027-01-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Nabi Muhammad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-06",
+        "to": "2027-02-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Imlek"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Nyepi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Idul Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-10",
+        "to": "2027-03-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Idul Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wafat Yesus Kristus"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Buruh Internasional"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kenaikan Yesus Kristus"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Idul Adha"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-20",
+        "to": "2027-05-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Waisak"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-01",
+        "to": "2027-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Lahir Pancasila"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Islam"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Nabi Muhammad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-17",
+        "to": "2027-08-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Nabi Muhammad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari tahun baru"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-26",
+        "to": "2028-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Imlek"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Idul Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-27",
+        "to": "2028-02-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Idul Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wafat Yesus Kristus"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Buruh Internasional"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Idul Adha"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Islam"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kenaikan Yesus Kristus"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-01",
+        "to": "2028-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Lahir Pancasila"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Nabi Muhammad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-17",
+        "to": "2028-08-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-14",
+        "to": "2028-12-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Maulid Nabi Muhammad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Natal"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Hari tahun baru"
+    },
+    {
+      "date": "2026-01-16",
+      "label": "Maulid Nabi Muhammad"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "Tahun Baru Imlek"
+    },
+    {
+      "date": "2026-03-19",
+      "label": "Hari Raya Nyepi"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Hari Raya Idul Fitri"
+    },
+    {
+      "date": "2026-03-21",
+      "label": "Hari Raya Idul Fitri"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Wafat Yesus Kristus"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Hari Buruh Internasional"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "Kenaikan Yesus Kristus"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Hari Raya Idul Adha"
+    },
+    {
+      "date": "2026-05-31",
+      "label": "Hari Raya Waisak"
+    },
+    {
+      "date": "2026-06-01",
+      "label": "Hari Lahir Pancasila"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Tahun Baru Islam"
+    },
+    {
+      "date": "2026-08-17",
+      "label": "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Maulid Nabi Muhammad"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Hari Raya Natal"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Hari tahun baru"
+    },
+    {
+      "date": "2027-01-05",
+      "label": "Maulid Nabi Muhammad"
+    },
+    {
+      "date": "2027-02-06",
+      "label": "Tahun Baru Imlek"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "Hari Raya Nyepi"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Hari Raya Idul Fitri"
+    },
+    {
+      "date": "2027-03-10",
+      "label": "Hari Raya Idul Fitri"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Wafat Yesus Kristus"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Hari Buruh Internasional"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "Kenaikan Yesus Kristus"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Hari Raya Idul Adha"
+    },
+    {
+      "date": "2027-05-20",
+      "label": "Hari Raya Waisak"
+    },
+    {
+      "date": "2027-06-01",
+      "label": "Hari Lahir Pancasila"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "Tahun Baru Islam"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Maulid Nabi Muhammad"
+    },
+    {
+      "date": "2027-08-17",
+      "label": "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Maulid Nabi Muhammad"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Hari Raya Natal"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Hari tahun baru"
+    },
+    {
+      "date": "2028-01-26",
+      "label": "Tahun Baru Imlek"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Hari Raya Idul Fitri"
+    },
+    {
+      "date": "2028-02-27",
+      "label": "Hari Raya Idul Fitri"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Wafat Yesus Kristus"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Hari Buruh Internasional"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Hari Raya Idul Adha"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Tahun Baru Islam"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Kenaikan Yesus Kristus"
+    },
+    {
+      "date": "2028-06-01",
+      "label": "Hari Lahir Pancasila"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Maulid Nabi Muhammad"
+    },
+    {
+      "date": "2028-08-17",
+      "label": "Hari Ulang Tahun Kemerdekaan Republik Indonesia"
+    },
+    {
+      "date": "2028-12-14",
+      "label": "Maulid Nabi Muhammad"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Hari Raya Natal"
+    }
+  ]
+}

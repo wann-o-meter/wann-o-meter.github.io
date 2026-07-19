@@ -1,0 +1,875 @@
+{
+  "category": "feiertage",
+  "slug": "ba",
+  "meta": {
+    "title": "Bosna i Hercegovina",
+    "description": "Gesetzliche Feiertage fuer Bosna i Hercegovina. Nächster Feiertag: Velika Gospa am 15.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ba",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Novogodisnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-02",
+        "to": "2026-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dan Nove Godine"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Bogojavljenje, Sveta tri kralja"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-07",
+        "to": "2026-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pravoslavni Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-14",
+        "to": "2026-01-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pravoslavni novogodišnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazanski bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Vaskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrsni ponedjeljak"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-12",
+        "to": "2026-04-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pravoslavni Vaskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Radni dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-02",
+        "to": "2026-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dan Dana rada"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurbanski bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-04",
+        "to": "2026-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tijelovo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-16",
+        "to": "2026-06-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova hidžretska godina"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velika Gospa"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mevlud"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-28",
+        "to": "2026-08-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velika Gospa"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e të gjithë Shenjtorëve"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-02",
+        "to": "2026-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dušni dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svetog Stjepana"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Novogodisnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-02",
+        "to": "2027-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dan Nove Godine"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Bogojavljenje, Sveta tri kralja"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-07",
+        "to": "2027-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pravoslavni Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-14",
+        "to": "2027-01-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pravoslavni novogodišnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazanski bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Vaskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrsni ponedjeljak"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Radni dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-02",
+        "to": "2027-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pravoslavni Vaskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-02",
+        "to": "2027-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dan Dana rada"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-03",
+        "to": "2027-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dan Dana rada (zamjena dan)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurbanski bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tijelovo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova hidžretska godina"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mevlud"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velika Gospa"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-28",
+        "to": "2027-08-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velika Gospa"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e të gjithë Shenjtorëve"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-02",
+        "to": "2027-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dušni dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svetog Stjepana"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Novogodisnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-02",
+        "to": "2028-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dan Nove Godine"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-03",
+        "to": "2028-01-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dan Nove Godine (zamjena dan)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Bogojavljenje, Sveta tri kralja"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-07",
+        "to": "2028-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pravoslavni Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-14",
+        "to": "2028-01-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pravoslavni novogodišnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazanski bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Vaskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pravoslavni Vaskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrsni ponedjeljak"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Radni dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-02",
+        "to": "2028-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dan Dana rada"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurbanski bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova hidžretska godina"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tijelovo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mevlud"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velika Gospa"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-28",
+        "to": "2028-08-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Velika Gospa"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dita e të gjithë Shenjtorëve"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-02",
+        "to": "2028-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dušni dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svetog Stjepana"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Novogodisnji dan"
+    },
+    {
+      "date": "2026-01-02",
+      "label": "Drugi dan Nove Godine"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Bogojavljenje, Sveta tri kralja"
+    },
+    {
+      "date": "2026-01-07",
+      "label": "Pravoslavni Božić"
+    },
+    {
+      "date": "2026-01-14",
+      "label": "Pravoslavni novogodišnji dan"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Ramazanski bajram"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Vaskrs"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Uskrsni ponedjeljak"
+    },
+    {
+      "date": "2026-04-12",
+      "label": "Pravoslavni Vaskrs"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Radni dan"
+    },
+    {
+      "date": "2026-05-02",
+      "label": "Drugi dan Dana rada"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Kurbanski bajram"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Tijelovo"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Nova hidžretska godina"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Velika Gospa"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Mevlud"
+    },
+    {
+      "date": "2026-08-28",
+      "label": "Velika Gospa"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Dita e të gjithë Shenjtorëve"
+    },
+    {
+      "date": "2026-11-02",
+      "label": "Dušni dan"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Božić"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Svetog Stjepana"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Novogodisnji dan"
+    },
+    {
+      "date": "2027-01-02",
+      "label": "Drugi dan Nove Godine"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Bogojavljenje, Sveta tri kralja"
+    },
+    {
+      "date": "2027-01-07",
+      "label": "Pravoslavni Božić"
+    },
+    {
+      "date": "2027-01-14",
+      "label": "Pravoslavni novogodišnji dan"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Ramazanski bajram"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Vaskrs"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Uskrsni ponedjeljak"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Radni dan"
+    },
+    {
+      "date": "2027-05-02",
+      "label": "Pravoslavni Vaskrs"
+    },
+    {
+      "date": "2027-05-02",
+      "label": "Drugi dan Dana rada"
+    },
+    {
+      "date": "2027-05-03",
+      "label": "Drugi dan Dana rada (zamjena dan)"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Kurbanski bajram"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Tijelovo"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "Nova hidžretska godina"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Mevlud"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Velika Gospa"
+    },
+    {
+      "date": "2027-08-28",
+      "label": "Velika Gospa"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Dita e të gjithë Shenjtorëve"
+    },
+    {
+      "date": "2027-11-02",
+      "label": "Dušni dan"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Božić"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Svetog Stjepana"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Novogodisnji dan"
+    },
+    {
+      "date": "2028-01-02",
+      "label": "Drugi dan Nove Godine"
+    },
+    {
+      "date": "2028-01-03",
+      "label": "Drugi dan Nove Godine (zamjena dan)"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Bogojavljenje, Sveta tri kralja"
+    },
+    {
+      "date": "2028-01-07",
+      "label": "Pravoslavni Božić"
+    },
+    {
+      "date": "2028-01-14",
+      "label": "Pravoslavni novogodišnji dan"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Ramazanski bajram"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Vaskrs"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Pravoslavni Vaskrs"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Uskrsni ponedjeljak"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Radni dan"
+    },
+    {
+      "date": "2028-05-02",
+      "label": "Drugi dan Dana rada"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Kurbanski bajram"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Nova hidžretska godina"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Tijelovo"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Mevlud"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Velika Gospa"
+    },
+    {
+      "date": "2028-08-28",
+      "label": "Velika Gospa"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Dita e të gjithë Shenjtorëve"
+    },
+    {
+      "date": "2028-11-02",
+      "label": "Dušni dan"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Božić"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Svetog Stjepana"
+    }
+  ]
+}

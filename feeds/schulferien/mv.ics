@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Schulferien Mecklenburg-Vorpommern
+BEGIN:VEVENT
+UID:schulferien-mv-2026-02-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260220
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Winterferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2026-03-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260403
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2026-05-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Pfingstferien (1) - https://www.kmk.org/service/ferien.html\, 
+ https://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2026-05-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260519
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Pfingstferien (2) - https://www.kmk.org/service/ferien.html\, 
+ https://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2026-07-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260815
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2026-10-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261025
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Herbstferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2026-12-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270103
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Weihnachtsferien - https://www.kmk.org/service/ferien.html\, h
+ ttps://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2027-02-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270220
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Winterferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2027-03-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270403
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2027-05-07@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2027-05-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270519
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-mv-2027-07-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270815
+SUMMARY:Schulferien Mecklenburg-Vorpommern
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+END:VCALENDAR

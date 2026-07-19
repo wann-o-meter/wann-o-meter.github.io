@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Cộng hòa Xã hội chủ nghĩa Việt Nam
+BEGIN:VEVENT
+UID:feiertage-vn-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Tết Dương lịch - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2026-02-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Giao thừa Tết Nguyên Đán - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2026-02-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Tết Nguyên Đán - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2026-04-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Giỗ tổ Hùng Vương - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2026-04-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Ngày Giải phóng miền Nam - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Quốc tế Lao động - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2026-09-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Quốc khánh - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Tết Dương lịch - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2027-02-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Giao thừa Tết Nguyên Đán - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2027-02-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Tết Nguyên Đán - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2027-04-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Giỗ tổ Hùng Vương - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2027-04-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Ngày Giải phóng miền Nam - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Quốc tế Lao động - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2027-09-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Quốc khánh - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Tết Dương lịch - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2028-01-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Giao thừa Tết Nguyên Đán - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2028-01-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Tết Nguyên Đán - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2028-04-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280404
+DTEND;VALUE=DATE:20280405
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Giỗ tổ Hùng Vương - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2028-04-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280430
+DTEND;VALUE=DATE:20280501
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Ngày Giải phóng miền Nam - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Quốc tế Lao động - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-vn-2028-09-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280902
+DTEND;VALUE=DATE:20280903
+SUMMARY:Cộng hòa Xã hội chủ nghĩa Việt Nam
+DESCRIPTION:Quốc khánh - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

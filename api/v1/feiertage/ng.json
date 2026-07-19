@@ -1,0 +1,602 @@
+{
+  "category": "feiertage",
+  "slug": "ng",
+  "meta": {
+    "title": "Nigeria",
+    "description": "Gesetzliche Feiertage fuer Nigeria. Nächster Feiertag: Birthday of Muhammad (Mawlid) am 25.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ng",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Id el Fitr"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Worker's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Id el Kabir"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Children's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-12",
+        "to": "2026-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Democracy Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-16",
+        "to": "2026-06-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Islamic New Year"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of Muhammad (Mawlid)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-01",
+        "to": "2026-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Youth Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Id el Fitr"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Worker's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-03",
+        "to": "2027-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Worker's Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Id el Kabir"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Children's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Islamic New Year"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-12",
+        "to": "2027-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Democracy Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-14",
+        "to": "2027-06-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Democracy Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of Muhammad (Mawlid)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-01",
+        "to": "2027-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Youth Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Id el Fitr"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Worker's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Id el Kabir"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Islamic New Year"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-27",
+        "to": "2028-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Children's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-12",
+        "to": "2028-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Democracy Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of Muhammad (Mawlid)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-01",
+        "to": "2028-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Youth Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Id el Fitr"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Worker's Day"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Id el Kabir"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Children's Day"
+    },
+    {
+      "date": "2026-06-12",
+      "label": "Democracy Day"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Islamic New Year"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Birthday of Muhammad (Mawlid)"
+    },
+    {
+      "date": "2026-10-01",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "National Youth Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Id el Fitr"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Worker's Day"
+    },
+    {
+      "date": "2027-05-03",
+      "label": "Worker's Day (substitute day)"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Id el Kabir"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Children's Day"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "Islamic New Year"
+    },
+    {
+      "date": "2027-06-12",
+      "label": "Democracy Day"
+    },
+    {
+      "date": "2027-06-14",
+      "label": "Democracy Day (substitute day)"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Birthday of Muhammad (Mawlid)"
+    },
+    {
+      "date": "2027-10-01",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "National Youth Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Id el Fitr"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Worker's Day"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Id el Kabir"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Islamic New Year"
+    },
+    {
+      "date": "2028-05-27",
+      "label": "Children's Day"
+    },
+    {
+      "date": "2028-06-12",
+      "label": "Democracy Day"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Birthday of Muhammad (Mawlid)"
+    },
+    {
+      "date": "2028-10-01",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "National Youth Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    }
+  ]
+}

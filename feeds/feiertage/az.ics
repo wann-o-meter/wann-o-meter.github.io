@@ -1,0 +1,629 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Azərbaycan Respublikası
+BEGIN:VEVENT
+UID:feiertage-az-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Yeni il - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Yeni il - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-03-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qadınlar günü - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-03-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qadınlar günü (əvəz gün) - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Ramazan Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Novruz - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-03-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Ramazan Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-03-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Ramazan Bayramı (əvəz gün) - https://www.npmjs.com/package/dat
+ e-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Faşizm üzərində qələbə günü - https://www.npmjs.com/package/da
+ te-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-05-11@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Faşizm üzərində qələbə günü (əvəz gün) - https://www.npmjs.com
+ /package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qurban Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qurban Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Respublika günü - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-06-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Azərbaycan xalqının Milli Qurtuluş günü - https://www.npmjs.co
+ m/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-06-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Azərbaycan Respublikasının Silahlı Qüvvələri günü - https://ww
+ w.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-10-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dövlət Müstəqilliyi günü - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-10-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dövlət Müstəqilliyi günü (əvəz gün) - https://www.npmjs.com/pa
+ ckage/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-11-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dövlət Bayrağı günü - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-11-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Konstitusiya günü - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-11-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Milli Dirçəliş günü - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2026-12-31@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dünya azərbaycanlıların həmrəyliyi günü - https://www.npmjs.co
+ m/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Yeni il - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Yeni il - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-01-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Yeni il (əvəz gün) - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-03-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qadınlar günü - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-03-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Ramazan Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-03-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Ramazan Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Novruz - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Faşizm üzərində qələbə günü - https://www.npmjs.com/package/da
+ te-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-05-10@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Faşizm üzərində qələbə günü (əvəz gün) - https://www.npmjs.com
+ /package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-05-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qurban Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-05-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qurban Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-05-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qurban Bayramı (əvəz gün) - https://www.npmjs.com/package/date
+ -holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Respublika günü - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-06-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Azərbaycan xalqının Milli Qurtuluş günü - https://www.npmjs.co
+ m/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-06-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Azərbaycan Respublikasının Silahlı Qüvvələri günü - https://ww
+ w.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-06-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Azərbaycan Respublikasının Silahlı Qüvvələri günü (əvəz gün) -
+  https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-10-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271019
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dövlət Müstəqilliyi günü - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-11-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dövlət Bayrağı günü - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-11-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Konstitusiya günü - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-11-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Milli Dirçəliş günü - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2027-12-31@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dünya azərbaycanlıların həmrəyliyi günü - https://www.npmjs.co
+ m/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Yeni il - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-01-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Yeni il - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-01-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280103
+DTEND;VALUE=DATE:20280104
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Yeni il (əvəz gün) - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-01-04@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280104
+DTEND;VALUE=DATE:20280105
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Yeni il (əvəz gün) - https://www.npmjs.com/package/date-holida
+ ys
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-02-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Ramazan Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-02-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Ramazan Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-02-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280228
+DTEND;VALUE=DATE:20280229
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Ramazan Bayramı (əvəz gün) - https://www.npmjs.com/package/dat
+ e-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-02-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Ramazan Bayramı (əvəz gün) - https://www.npmjs.com/package/dat
+ e-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-03-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280308
+DTEND;VALUE=DATE:20280309
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qadınlar günü - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280320
+DTEND;VALUE=DATE:20280321
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Novruz - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-05-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qurban Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-05-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280506
+DTEND;VALUE=DATE:20280507
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qurban Bayramı - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-05-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280508
+DTEND;VALUE=DATE:20280509
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Qurban Bayramı (əvəz gün) - https://www.npmjs.com/package/date
+ -holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280509
+DTEND;VALUE=DATE:20280510
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Faşizm üzərində qələbə günü - https://www.npmjs.com/package/da
+ te-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-05-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280528
+DTEND;VALUE=DATE:20280529
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Respublika günü - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-05-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280529
+DTEND;VALUE=DATE:20280530
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Respublika günü (əvəz gün) - https://www.npmjs.com/package/dat
+ e-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-06-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Azərbaycan xalqının Milli Qurtuluş günü - https://www.npmjs.co
+ m/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-06-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280626
+DTEND;VALUE=DATE:20280627
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Azərbaycan Respublikasının Silahlı Qüvvələri günü - https://ww
+ w.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-10-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281018
+DTEND;VALUE=DATE:20281019
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dövlət Müstəqilliyi günü - https://www.npmjs.com/package/date-
+ holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-11-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281109
+DTEND;VALUE=DATE:20281110
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dövlət Bayrağı günü - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-11-12@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281112
+DTEND;VALUE=DATE:20281113
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Konstitusiya günü - https://www.npmjs.com/package/date-holiday
+ s
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-11-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281117
+DTEND;VALUE=DATE:20281118
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Milli Dirçəliş günü - https://www.npmjs.com/package/date-holid
+ ays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-az-2028-12-31@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281231
+DTEND;VALUE=DATE:20290101
+SUMMARY:Azərbaycan Respublikası
+DESCRIPTION:Dünya azərbaycanlıların həmrəyliyi günü - https://www.npmjs.co
+ m/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

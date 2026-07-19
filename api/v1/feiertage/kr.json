@@ -1,0 +1,498 @@
+{
+  "category": "feiertage",
+  "slug": "kr",
+  "meta": {
+    "title": "대한민국",
+    "description": "Gesetzliche Feiertage fuer 대한민국. Nächster Feiertag: 광복절 am 15.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "kr",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "신정"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "설날"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-01",
+        "to": "2026-03-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "3·1절"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-05",
+        "to": "2026-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "어린이날"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "석가탄신일"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-06",
+        "to": "2026-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "현충일"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-17",
+        "to": "2026-07-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "제헌절"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "광복절"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-24",
+        "to": "2026-09-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "추석"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-03",
+        "to": "2026-10-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "개천절"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-09",
+        "to": "2026-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "한글날"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "기독탄신일"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "신정"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-07",
+        "to": "2027-02-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "설날"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-01",
+        "to": "2027-03-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "3·1절"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-05",
+        "to": "2027-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "어린이날"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-13",
+        "to": "2027-05-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "석가탄신일"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "현충일"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-17",
+        "to": "2027-07-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "제헌절"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "광복절"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-14",
+        "to": "2027-09-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "추석"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-03",
+        "to": "2027-10-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "개천절"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-09",
+        "to": "2027-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "한글날"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "기독탄신일"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "신정"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-27",
+        "to": "2028-01-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "설날"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-01",
+        "to": "2028-03-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "3·1절"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-02",
+        "to": "2028-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "석가탄신일"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "어린이날"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-06",
+        "to": "2028-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "현충일"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-17",
+        "to": "2028-07-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "제헌절"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "광복절"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-02",
+        "to": "2028-10-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "추석"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-03",
+        "to": "2028-10-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "개천절"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-09",
+        "to": "2028-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "한글날"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "기독탄신일"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "신정"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "설날"
+    },
+    {
+      "date": "2026-03-01",
+      "label": "3·1절"
+    },
+    {
+      "date": "2026-05-05",
+      "label": "어린이날"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "석가탄신일"
+    },
+    {
+      "date": "2026-06-06",
+      "label": "현충일"
+    },
+    {
+      "date": "2026-07-17",
+      "label": "제헌절"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "광복절"
+    },
+    {
+      "date": "2026-09-24",
+      "label": "추석"
+    },
+    {
+      "date": "2026-10-03",
+      "label": "개천절"
+    },
+    {
+      "date": "2026-10-09",
+      "label": "한글날"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "기독탄신일"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "신정"
+    },
+    {
+      "date": "2027-02-07",
+      "label": "설날"
+    },
+    {
+      "date": "2027-03-01",
+      "label": "3·1절"
+    },
+    {
+      "date": "2027-05-05",
+      "label": "어린이날"
+    },
+    {
+      "date": "2027-05-13",
+      "label": "석가탄신일"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "현충일"
+    },
+    {
+      "date": "2027-07-17",
+      "label": "제헌절"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "광복절"
+    },
+    {
+      "date": "2027-09-14",
+      "label": "추석"
+    },
+    {
+      "date": "2027-10-03",
+      "label": "개천절"
+    },
+    {
+      "date": "2027-10-09",
+      "label": "한글날"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "기독탄신일"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "신정"
+    },
+    {
+      "date": "2028-01-27",
+      "label": "설날"
+    },
+    {
+      "date": "2028-03-01",
+      "label": "3·1절"
+    },
+    {
+      "date": "2028-05-02",
+      "label": "석가탄신일"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "어린이날"
+    },
+    {
+      "date": "2028-06-06",
+      "label": "현충일"
+    },
+    {
+      "date": "2028-07-17",
+      "label": "제헌절"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "광복절"
+    },
+    {
+      "date": "2028-10-02",
+      "label": "추석"
+    },
+    {
+      "date": "2028-10-03",
+      "label": "개천절"
+    },
+    {
+      "date": "2028-10-09",
+      "label": "한글날"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "기독탄신일"
+    }
+  ]
+}

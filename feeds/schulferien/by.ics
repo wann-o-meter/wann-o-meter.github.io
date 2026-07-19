@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Schulferien Bayern
+BEGIN:VEVENT
+UID:schulferien-by-2026-02-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260213
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Winterferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-by-2026-03-22@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260403
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-by-2026-05-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260529
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-by-2026-08-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260914
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-by-2026-11-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261107
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Herbstferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-by-2026-12-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270109
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Weihnachtsferien - https://www.kmk.org/service/ferien.html\, h
+ ttps://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-by-2027-02-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270213
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-by-2027-03-22@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270403
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-by-2027-05-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270529
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-by-2027-08-02@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270914
+SUMMARY:Schulferien Bayern
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+END:VCALENDAR

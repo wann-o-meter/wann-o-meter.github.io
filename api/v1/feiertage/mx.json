@@ -1,0 +1,303 @@
+{
+  "category": "feiertage",
+  "slug": "mx",
+  "meta": {
+    "title": "México",
+    "description": "Gesetzliche Feiertage fuer México. Nächster Feiertag: Día de la Independencia am 16.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "mx",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-02",
+        "to": "2026-02-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Constitución"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-16",
+        "to": "2026-03-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Benito Juárez"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-16",
+        "to": "2026-09-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-16",
+        "to": "2026-11-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Revolución"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-01",
+        "to": "2027-02-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Constitución"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-15",
+        "to": "2027-03-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Benito Juárez"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-16",
+        "to": "2027-09-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-15",
+        "to": "2027-11-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Revolución"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-07",
+        "to": "2028-02-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Constitución"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-20",
+        "to": "2028-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Benito Juárez"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-16",
+        "to": "2028-09-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-20",
+        "to": "2028-11-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Revolución"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Día de la Constitución"
+    },
+    {
+      "date": "2026-03-16",
+      "label": "Natalicio de Benito Juárez"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-09-16",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-11-16",
+      "label": "Día de la Revolución"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2027-02-01",
+      "label": "Día de la Constitución"
+    },
+    {
+      "date": "2027-03-15",
+      "label": "Natalicio de Benito Juárez"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-09-16",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-11-15",
+      "label": "Día de la Revolución"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2028-02-07",
+      "label": "Día de la Constitución"
+    },
+    {
+      "date": "2028-03-20",
+      "label": "Natalicio de Benito Juárez"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-09-16",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-11-20",
+      "label": "Día de la Revolución"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    }
+  ]
+}

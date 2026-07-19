@@ -1,0 +1,979 @@
+{
+  "category": "feiertage",
+  "slug": "me",
+  "meta": {
+    "title": "Crna Gora",
+    "description": "Gesetzliche Feiertage fuer Crna Gora. Nächster Feiertag: Jom Kipur am 21.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "me",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova godina"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-02",
+        "to": "2026-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova godina"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Badnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-07",
+        "to": "2026-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-08",
+        "to": "2026-01-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svetog Stjepana"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazanski bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pesač"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veliki petak"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-10",
+        "to": "2026-04-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veliki petak"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-12",
+        "to": "2026-04-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Praznik rada"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-02",
+        "to": "2026-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Praznik rada"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-21",
+        "to": "2026-05-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan neovisnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-22",
+        "to": "2026-05-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan neovisnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurban-bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-13",
+        "to": "2026-07-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan državnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-14",
+        "to": "2026-07-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan državnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-21",
+        "to": "2026-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jom Kipur"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svi sveti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-24",
+        "to": "2026-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Badnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova godina"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-02",
+        "to": "2027-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova godina"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Badnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-07",
+        "to": "2027-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-08",
+        "to": "2027-01-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svetog Stjepana"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazanski bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veliki petak"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-22",
+        "to": "2027-04-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pesač"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-30",
+        "to": "2027-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veliki petak"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Praznik rada"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-02",
+        "to": "2027-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-02",
+        "to": "2027-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Praznik rada"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-03",
+        "to": "2027-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Praznik rada (zamjena dan)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurban-bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-21",
+        "to": "2027-05-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan neovisnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-22",
+        "to": "2027-05-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan neovisnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-13",
+        "to": "2027-07-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan državnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-14",
+        "to": "2027-07-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan državnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-11",
+        "to": "2027-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jom Kipur"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svi sveti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Badnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova godina"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-02",
+        "to": "2028-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova godina"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-03",
+        "to": "2028-01-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nova godina (zamjena dan)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Badnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-07",
+        "to": "2028-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-08",
+        "to": "2028-01-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svetog Stjepana"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazanski bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-11",
+        "to": "2028-04-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pesač"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Veliki petak"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uskrs"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Praznik rada"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-02",
+        "to": "2028-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Praznik rada"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kurban-bajram"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-21",
+        "to": "2028-05-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan neovisnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-22",
+        "to": "2028-05-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan neovisnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-23",
+        "to": "2028-05-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan neovisnosti (zamjena dan)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-13",
+        "to": "2028-07-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan državnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-14",
+        "to": "2028-07-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dan državnosti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-30",
+        "to": "2028-09-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jom Kipur"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Svi sveti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-24",
+        "to": "2028-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Badnji dan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Božić"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nova godina"
+    },
+    {
+      "date": "2026-01-02",
+      "label": "Nova godina"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Badnji dan"
+    },
+    {
+      "date": "2026-01-07",
+      "label": "Božić"
+    },
+    {
+      "date": "2026-01-08",
+      "label": "Svetog Stjepana"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Ramazanski bajram"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "Pesač"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Veliki petak"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Uskrs"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Uskrs"
+    },
+    {
+      "date": "2026-04-10",
+      "label": "Veliki petak"
+    },
+    {
+      "date": "2026-04-12",
+      "label": "Uskrs"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Praznik rada"
+    },
+    {
+      "date": "2026-05-02",
+      "label": "Praznik rada"
+    },
+    {
+      "date": "2026-05-21",
+      "label": "Dan neovisnosti"
+    },
+    {
+      "date": "2026-05-22",
+      "label": "Dan neovisnosti"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Kurban-bajram"
+    },
+    {
+      "date": "2026-07-13",
+      "label": "Dan državnosti"
+    },
+    {
+      "date": "2026-07-14",
+      "label": "Dan državnosti"
+    },
+    {
+      "date": "2026-09-21",
+      "label": "Jom Kipur"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Svi sveti"
+    },
+    {
+      "date": "2026-12-24",
+      "label": "Badnji dan"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Božić"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Božić"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nova godina"
+    },
+    {
+      "date": "2027-01-02",
+      "label": "Nova godina"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Badnji dan"
+    },
+    {
+      "date": "2027-01-07",
+      "label": "Božić"
+    },
+    {
+      "date": "2027-01-08",
+      "label": "Svetog Stjepana"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Ramazanski bajram"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Veliki petak"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Uskrs"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Uskrs"
+    },
+    {
+      "date": "2027-04-22",
+      "label": "Pesač"
+    },
+    {
+      "date": "2027-04-30",
+      "label": "Veliki petak"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Praznik rada"
+    },
+    {
+      "date": "2027-05-02",
+      "label": "Uskrs"
+    },
+    {
+      "date": "2027-05-02",
+      "label": "Praznik rada"
+    },
+    {
+      "date": "2027-05-03",
+      "label": "Praznik rada (zamjena dan)"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Kurban-bajram"
+    },
+    {
+      "date": "2027-05-21",
+      "label": "Dan neovisnosti"
+    },
+    {
+      "date": "2027-05-22",
+      "label": "Dan neovisnosti"
+    },
+    {
+      "date": "2027-07-13",
+      "label": "Dan državnosti"
+    },
+    {
+      "date": "2027-07-14",
+      "label": "Dan državnosti"
+    },
+    {
+      "date": "2027-10-11",
+      "label": "Jom Kipur"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Svi sveti"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Badnji dan"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Božić"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Božić"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nova godina"
+    },
+    {
+      "date": "2028-01-02",
+      "label": "Nova godina"
+    },
+    {
+      "date": "2028-01-03",
+      "label": "Nova godina (zamjena dan)"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Badnji dan"
+    },
+    {
+      "date": "2028-01-07",
+      "label": "Božić"
+    },
+    {
+      "date": "2028-01-08",
+      "label": "Svetog Stjepana"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Ramazanski bajram"
+    },
+    {
+      "date": "2028-04-11",
+      "label": "Pesač"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Veliki petak"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Uskrs"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Uskrs"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Praznik rada"
+    },
+    {
+      "date": "2028-05-02",
+      "label": "Praznik rada"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Kurban-bajram"
+    },
+    {
+      "date": "2028-05-21",
+      "label": "Dan neovisnosti"
+    },
+    {
+      "date": "2028-05-22",
+      "label": "Dan neovisnosti"
+    },
+    {
+      "date": "2028-05-23",
+      "label": "Dan neovisnosti (zamjena dan)"
+    },
+    {
+      "date": "2028-07-13",
+      "label": "Dan državnosti"
+    },
+    {
+      "date": "2028-07-14",
+      "label": "Dan državnosti"
+    },
+    {
+      "date": "2028-09-30",
+      "label": "Jom Kipur"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Svi sveti"
+    },
+    {
+      "date": "2028-12-24",
+      "label": "Badnji dan"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Božić"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Božić"
+    }
+  ]
+}

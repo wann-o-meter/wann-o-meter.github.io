@@ -1,0 +1,420 @@
+{
+  "category": "feiertage",
+  "slug": "st",
+  "meta": {
+    "title": "São Tomé & Príncipe",
+    "description": "Gesetzliche Feiertage fuer São Tomé & Príncipe. Nächster Feiertag: Dia das Forças Armadas am 06.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "st",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-03",
+        "to": "2026-02-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia dos Mártires"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-12",
+        "to": "2026-07-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-13",
+        "to": "2026-07-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-06",
+        "to": "2026-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia das Forças Armadas"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-07",
+        "to": "2026-09-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia das Forças Armadas (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-30",
+        "to": "2026-09-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Reforma Agrária"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-21",
+        "to": "2026-12-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de São Tomé"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-03",
+        "to": "2027-02-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia dos Mártires"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-30",
+        "to": "2027-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-12",
+        "to": "2027-07-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-06",
+        "to": "2027-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia das Forças Armadas"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-30",
+        "to": "2027-09-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Reforma Agrária"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-21",
+        "to": "2027-12-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de São Tomé"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-31",
+        "to": "2027-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-03",
+        "to": "2028-02-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia dos Mártires"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-12",
+        "to": "2028-07-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-06",
+        "to": "2028-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia das Forças Armadas"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-29",
+        "to": "2028-09-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Reforma Agrária (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-30",
+        "to": "2028-09-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Reforma Agrária"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-21",
+        "to": "2028-12-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de São Tomé"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2026-02-03",
+      "label": "Dia dos Mártires"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2026-07-12",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2026-07-13",
+      "label": "Dia da Independência (substitute day)"
+    },
+    {
+      "date": "2026-09-06",
+      "label": "Dia das Forças Armadas"
+    },
+    {
+      "date": "2026-09-07",
+      "label": "Dia das Forças Armadas (substitute day)"
+    },
+    {
+      "date": "2026-09-30",
+      "label": "Dia da Reforma Agrária"
+    },
+    {
+      "date": "2026-12-21",
+      "label": "Dia de São Tomé"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2027-02-03",
+      "label": "Dia dos Mártires"
+    },
+    {
+      "date": "2027-04-30",
+      "label": "Dia do trabalhador (substitute day)"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2027-07-12",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2027-09-06",
+      "label": "Dia das Forças Armadas"
+    },
+    {
+      "date": "2027-09-30",
+      "label": "Dia da Reforma Agrária"
+    },
+    {
+      "date": "2027-12-21",
+      "label": "Dia de São Tomé"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Natal (substitute day)"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2027-12-31",
+      "label": "Ano Novo (substitute day)"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2028-02-03",
+      "label": "Dia dos Mártires"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2028-07-12",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2028-09-06",
+      "label": "Dia das Forças Armadas"
+    },
+    {
+      "date": "2028-09-29",
+      "label": "Dia da Reforma Agrária (substitute day)"
+    },
+    {
+      "date": "2028-09-30",
+      "label": "Dia da Reforma Agrária"
+    },
+    {
+      "date": "2028-12-21",
+      "label": "Dia de São Tomé"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Natal"
+    }
+  ]
+}

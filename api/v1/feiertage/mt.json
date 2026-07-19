@@ -1,0 +1,576 @@
+{
+  "category": "feiertage",
+  "slug": "mt",
+  "meta": {
+    "title": "Malta",
+    "description": "Gesetzliche Feiertage fuer Malta. Nächster Feiertag: Santa Marija am 15.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "mt",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "L-Ewwel tas-Sena"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-10",
+        "to": "2026-02-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nawfraġju ta' San Pawl"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-19",
+        "to": "2026-03-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Ġużepp"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-31",
+        "to": "2026-03-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum il-Ħelsien"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Il-Ġimgħa l-Kbira"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum il-Ħaddiem"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-07",
+        "to": "2026-06-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sette Giugno"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-29",
+        "to": "2026-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "L-Imnarja"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santa Marija"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-08",
+        "to": "2026-09-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum il-Vitorja"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-21",
+        "to": "2026-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum l-Indipendenza"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-08",
+        "to": "2026-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Il-Kunċizzjoni"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-13",
+        "to": "2026-12-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum ir-Repubblika"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Il-Milied"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "L-Ewwel tas-Sena"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-10",
+        "to": "2027-02-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nawfraġju ta' San Pawl"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-19",
+        "to": "2027-03-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Ġużepp"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Il-Ġimgħa l-Kbira"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-31",
+        "to": "2027-03-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum il-Ħelsien"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum il-Ħaddiem"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-07",
+        "to": "2027-06-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sette Giugno"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-29",
+        "to": "2027-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "L-Imnarja"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santa Marija"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-08",
+        "to": "2027-09-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum il-Vitorja"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-21",
+        "to": "2027-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum l-Indipendenza"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-08",
+        "to": "2027-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Il-Kunċizzjoni"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-13",
+        "to": "2027-12-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum ir-Repubblika"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Il-Milied"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "L-Ewwel tas-Sena"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-10",
+        "to": "2028-02-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nawfraġju ta' San Pawl"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-19",
+        "to": "2028-03-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "San Ġużepp"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-31",
+        "to": "2028-03-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum il-Ħelsien"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Il-Ġimgħa l-Kbira"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum il-Ħaddiem"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-07",
+        "to": "2028-06-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sette Giugno"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-29",
+        "to": "2028-06-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "L-Imnarja"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Santa Marija"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-08",
+        "to": "2028-09-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum il-Vitorja"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-21",
+        "to": "2028-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum l-Indipendenza"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-08",
+        "to": "2028-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Il-Kunċizzjoni"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-13",
+        "to": "2028-12-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jum ir-Repubblika"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Il-Milied"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "L-Ewwel tas-Sena"
+    },
+    {
+      "date": "2026-02-10",
+      "label": "Nawfraġju ta' San Pawl"
+    },
+    {
+      "date": "2026-03-19",
+      "label": "San Ġużepp"
+    },
+    {
+      "date": "2026-03-31",
+      "label": "Jum il-Ħelsien"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Il-Ġimgħa l-Kbira"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Jum il-Ħaddiem"
+    },
+    {
+      "date": "2026-06-07",
+      "label": "Sette Giugno"
+    },
+    {
+      "date": "2026-06-29",
+      "label": "L-Imnarja"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Santa Marija"
+    },
+    {
+      "date": "2026-09-08",
+      "label": "Jum il-Vitorja"
+    },
+    {
+      "date": "2026-09-21",
+      "label": "Jum l-Indipendenza"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "Il-Kunċizzjoni"
+    },
+    {
+      "date": "2026-12-13",
+      "label": "Jum ir-Repubblika"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Il-Milied"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "L-Ewwel tas-Sena"
+    },
+    {
+      "date": "2027-02-10",
+      "label": "Nawfraġju ta' San Pawl"
+    },
+    {
+      "date": "2027-03-19",
+      "label": "San Ġużepp"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Il-Ġimgħa l-Kbira"
+    },
+    {
+      "date": "2027-03-31",
+      "label": "Jum il-Ħelsien"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Jum il-Ħaddiem"
+    },
+    {
+      "date": "2027-06-07",
+      "label": "Sette Giugno"
+    },
+    {
+      "date": "2027-06-29",
+      "label": "L-Imnarja"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Santa Marija"
+    },
+    {
+      "date": "2027-09-08",
+      "label": "Jum il-Vitorja"
+    },
+    {
+      "date": "2027-09-21",
+      "label": "Jum l-Indipendenza"
+    },
+    {
+      "date": "2027-12-08",
+      "label": "Il-Kunċizzjoni"
+    },
+    {
+      "date": "2027-12-13",
+      "label": "Jum ir-Repubblika"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Il-Milied"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "L-Ewwel tas-Sena"
+    },
+    {
+      "date": "2028-02-10",
+      "label": "Nawfraġju ta' San Pawl"
+    },
+    {
+      "date": "2028-03-19",
+      "label": "San Ġużepp"
+    },
+    {
+      "date": "2028-03-31",
+      "label": "Jum il-Ħelsien"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Il-Ġimgħa l-Kbira"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Jum il-Ħaddiem"
+    },
+    {
+      "date": "2028-06-07",
+      "label": "Sette Giugno"
+    },
+    {
+      "date": "2028-06-29",
+      "label": "L-Imnarja"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Santa Marija"
+    },
+    {
+      "date": "2028-09-08",
+      "label": "Jum il-Vitorja"
+    },
+    {
+      "date": "2028-09-21",
+      "label": "Jum l-Indipendenza"
+    },
+    {
+      "date": "2028-12-08",
+      "label": "Il-Kunċizzjoni"
+    },
+    {
+      "date": "2028-12-13",
+      "label": "Jum ir-Repubblika"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Il-Milied"
+    }
+  ]
+}

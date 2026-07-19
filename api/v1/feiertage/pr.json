@@ -1,0 +1,914 @@
+{
+  "category": "feiertage",
+  "slug": "pr",
+  "meta": {
+    "title": "Puerto Rico",
+    "description": "Gesetzliche Feiertage fuer Puerto Rico. Nächster Feiertag: Natalicio de Don Luis Muñoz Rivera am 20.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "pr",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-12",
+        "to": "2026-01-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Eugenio María de Hostos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-19",
+        "to": "2026-01-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Martin Luther King, Jr."
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-16",
+        "to": "2026-02-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Presidentes"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-18",
+        "to": "2026-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Luis Muñoz Marín"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-02",
+        "to": "2026-03-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Ciudadanía Americana"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-22",
+        "to": "2026-03-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Abolición de Esclavitud"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-16",
+        "to": "2026-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de José de Diego"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Recordación de los Muertos de la Guerra"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-19",
+        "to": "2026-06-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Juneteenth"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-03",
+        "to": "2026-07-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia (día sustituto)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-04",
+        "to": "2026-07-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-20",
+        "to": "2026-07-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Don Luis Muñoz Rivera"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-25",
+        "to": "2026-07-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Constitución de Puerto Rico"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-27",
+        "to": "2026-07-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Dr. José Celso Barbosa"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-07",
+        "to": "2026-09-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Descubrimiento de América"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-11",
+        "to": "2026-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Veterano"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-19",
+        "to": "2026-11-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Descubrimiento de Puerto Rico"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-26",
+        "to": "2026-11-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Acción de Gracias"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-11",
+        "to": "2027-01-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Eugenio María de Hostos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-18",
+        "to": "2027-01-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Martin Luther King, Jr."
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-15",
+        "to": "2027-02-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Presidentes"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-18",
+        "to": "2027-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Luis Muñoz Marín"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-02",
+        "to": "2027-03-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Ciudadanía Americana"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-22",
+        "to": "2027-03-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Abolición de Esclavitud"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-16",
+        "to": "2027-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de José de Diego"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-31",
+        "to": "2027-05-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Recordación de los Muertos de la Guerra"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-18",
+        "to": "2027-06-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Juneteenth (día sustituto)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-19",
+        "to": "2027-06-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Juneteenth"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-04",
+        "to": "2027-07-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-05",
+        "to": "2027-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia (día sustituto)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-19",
+        "to": "2027-07-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Don Luis Muñoz Rivera"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-25",
+        "to": "2027-07-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Constitución de Puerto Rico"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-27",
+        "to": "2027-07-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Dr. José Celso Barbosa"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-06",
+        "to": "2027-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-11",
+        "to": "2027-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Descubrimiento de América"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-11",
+        "to": "2027-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Veterano"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-19",
+        "to": "2027-11-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Descubrimiento de Puerto Rico"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-25",
+        "to": "2027-11-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Acción de Gracias"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad (día sustituto)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-31",
+        "to": "2027-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo (día sustituto)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Reyes Magos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-10",
+        "to": "2028-01-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Eugenio María de Hostos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-17",
+        "to": "2028-01-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Martin Luther King, Jr."
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-18",
+        "to": "2028-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Luis Muñoz Marín"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-21",
+        "to": "2028-02-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de los Presidentes"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-02",
+        "to": "2028-03-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Ciudadanía Americana"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-22",
+        "to": "2028-03-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Abolición de Esclavitud"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de José de Diego"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-29",
+        "to": "2028-05-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Recordación de los Muertos de la Guerra"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-19",
+        "to": "2028-06-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Juneteenth"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-04",
+        "to": "2028-07-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-17",
+        "to": "2028-07-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Don Luis Muñoz Rivera"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-25",
+        "to": "2028-07-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Constitución de Puerto Rico"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-27",
+        "to": "2028-07-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natalicio de Dr. José Celso Barbosa"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-04",
+        "to": "2028-09-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-09",
+        "to": "2028-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Descubrimiento de América"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-11",
+        "to": "2028-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Veterano"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-19",
+        "to": "2028-11-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Descubrimiento de Puerto Rico"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-23",
+        "to": "2028-11-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Acción de Gracias"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2026-01-12",
+      "label": "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date": "2026-01-19",
+      "label": "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date": "2026-02-16",
+      "label": "Día de los Presidentes"
+    },
+    {
+      "date": "2026-02-18",
+      "label": "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date": "2026-03-02",
+      "label": "Día de la Ciudadanía Americana"
+    },
+    {
+      "date": "2026-03-22",
+      "label": "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date": "2026-04-16",
+      "label": "Natalicio de José de Diego"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date": "2026-06-19",
+      "label": "Juneteenth"
+    },
+    {
+      "date": "2026-07-03",
+      "label": "Día de la Independencia (día sustituto)"
+    },
+    {
+      "date": "2026-07-04",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-07-20",
+      "label": "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date": "2026-07-25",
+      "label": "Constitución de Puerto Rico"
+    },
+    {
+      "date": "2026-07-27",
+      "label": "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date": "2026-09-07",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Descubrimiento de América"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Día del Veterano"
+    },
+    {
+      "date": "2026-11-19",
+      "label": "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date": "2026-11-26",
+      "label": "Acción de Gracias"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2027-01-11",
+      "label": "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date": "2027-01-18",
+      "label": "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date": "2027-02-15",
+      "label": "Día de los Presidentes"
+    },
+    {
+      "date": "2027-02-18",
+      "label": "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date": "2027-03-02",
+      "label": "Día de la Ciudadanía Americana"
+    },
+    {
+      "date": "2027-03-22",
+      "label": "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date": "2027-04-16",
+      "label": "Natalicio de José de Diego"
+    },
+    {
+      "date": "2027-05-31",
+      "label": "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date": "2027-06-18",
+      "label": "Juneteenth (día sustituto)"
+    },
+    {
+      "date": "2027-06-19",
+      "label": "Juneteenth"
+    },
+    {
+      "date": "2027-07-04",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-07-05",
+      "label": "Día de la Independencia (día sustituto)"
+    },
+    {
+      "date": "2027-07-19",
+      "label": "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date": "2027-07-25",
+      "label": "Constitución de Puerto Rico"
+    },
+    {
+      "date": "2027-07-27",
+      "label": "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date": "2027-09-06",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-10-11",
+      "label": "Descubrimiento de América"
+    },
+    {
+      "date": "2027-11-11",
+      "label": "Día del Veterano"
+    },
+    {
+      "date": "2027-11-19",
+      "label": "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date": "2027-11-25",
+      "label": "Acción de Gracias"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Navidad (día sustituto)"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-12-31",
+      "label": "Año Nuevo (día sustituto)"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Día de los Reyes Magos"
+    },
+    {
+      "date": "2028-01-10",
+      "label": "Natalicio de Eugenio María de Hostos"
+    },
+    {
+      "date": "2028-01-17",
+      "label": "Natalicio de Martin Luther King, Jr."
+    },
+    {
+      "date": "2028-02-18",
+      "label": "Natalicio de Luis Muñoz Marín"
+    },
+    {
+      "date": "2028-02-21",
+      "label": "Día de los Presidentes"
+    },
+    {
+      "date": "2028-03-02",
+      "label": "Día de la Ciudadanía Americana"
+    },
+    {
+      "date": "2028-03-22",
+      "label": "Día de la Abolición de Esclavitud"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Natalicio de José de Diego"
+    },
+    {
+      "date": "2028-05-29",
+      "label": "Recordación de los Muertos de la Guerra"
+    },
+    {
+      "date": "2028-06-19",
+      "label": "Juneteenth"
+    },
+    {
+      "date": "2028-07-04",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-07-17",
+      "label": "Natalicio de Don Luis Muñoz Rivera"
+    },
+    {
+      "date": "2028-07-25",
+      "label": "Constitución de Puerto Rico"
+    },
+    {
+      "date": "2028-07-27",
+      "label": "Natalicio de Dr. José Celso Barbosa"
+    },
+    {
+      "date": "2028-09-04",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-10-09",
+      "label": "Descubrimiento de América"
+    },
+    {
+      "date": "2028-11-11",
+      "label": "Día del Veterano"
+    },
+    {
+      "date": "2028-11-19",
+      "label": "Día del Descubrimiento de Puerto Rico"
+    },
+    {
+      "date": "2028-11-23",
+      "label": "Acción de Gracias"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    }
+  ]
+}

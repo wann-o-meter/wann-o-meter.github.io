@@ -1,0 +1,654 @@
+{
+  "category": "feiertage",
+  "slug": "is",
+  "meta": {
+    "title": "Ísland",
+    "description": "Gesetzliche Feiertage fuer Ísland. Nächster Feiertag: Frídagur verslunarmanna am 03.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "is",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nýársdagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Skírdagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Föstudagurinn langi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Páskadagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Annar í páskum"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-23",
+        "to": "2026-04-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sumardagurinn fyrsti"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hátíðisdagur Verkamanna"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uppstigningardagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hvítasunnudagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Annar í hvítasunnu"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-17",
+        "to": "2026-06-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Íslenski þjóðhátíðardagurinn"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-03",
+        "to": "2026-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Frídagur verslunarmanna"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-24",
+        "to": "2026-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Aðfangadagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jóladagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Annar í jólum"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-31",
+        "to": "2026-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Gamlársdagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nýársdagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-25",
+        "to": "2027-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Skírdagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Föstudagurinn langi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Páskadagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Annar í páskum"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-22",
+        "to": "2027-04-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sumardagurinn fyrsti"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hátíðisdagur Verkamanna"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uppstigningardagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hvítasunnudagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-17",
+        "to": "2027-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Annar í hvítasunnu"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-17",
+        "to": "2027-06-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Íslenski þjóðhátíðardagurinn"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-02",
+        "to": "2027-08-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Frídagur verslunarmanna"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Aðfangadagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jóladagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Annar í jólum"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-31",
+        "to": "2027-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Gamlársdagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nýársdagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-13",
+        "to": "2028-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Skírdagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Föstudagurinn langi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Páskadagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Annar í páskum"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-20",
+        "to": "2028-04-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sumardagurinn fyrsti"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hátíðisdagur Verkamanna"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Uppstigningardagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-04",
+        "to": "2028-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hvítasunnudagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-05",
+        "to": "2028-06-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Annar í hvítasunnu"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-17",
+        "to": "2028-06-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Íslenski þjóðhátíðardagurinn"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-07",
+        "to": "2028-08-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Frídagur verslunarmanna"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-24",
+        "to": "2028-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Aðfangadagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jóladagur"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Annar í jólum"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-31",
+        "to": "2028-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Gamlársdagur"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nýársdagur"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "Skírdagur"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Föstudagurinn langi"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Páskadagur"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Annar í páskum"
+    },
+    {
+      "date": "2026-04-23",
+      "label": "Sumardagurinn fyrsti"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Hátíðisdagur Verkamanna"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "Uppstigningardagur"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "Hvítasunnudagur"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Annar í hvítasunnu"
+    },
+    {
+      "date": "2026-06-17",
+      "label": "Íslenski þjóðhátíðardagurinn"
+    },
+    {
+      "date": "2026-08-03",
+      "label": "Frídagur verslunarmanna"
+    },
+    {
+      "date": "2026-12-24",
+      "label": "Aðfangadagur"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Jóladagur"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Annar í jólum"
+    },
+    {
+      "date": "2026-12-31",
+      "label": "Gamlársdagur"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nýársdagur"
+    },
+    {
+      "date": "2027-03-25",
+      "label": "Skírdagur"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Föstudagurinn langi"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Páskadagur"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Annar í páskum"
+    },
+    {
+      "date": "2027-04-22",
+      "label": "Sumardagurinn fyrsti"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Hátíðisdagur Verkamanna"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "Uppstigningardagur"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Hvítasunnudagur"
+    },
+    {
+      "date": "2027-05-17",
+      "label": "Annar í hvítasunnu"
+    },
+    {
+      "date": "2027-06-17",
+      "label": "Íslenski þjóðhátíðardagurinn"
+    },
+    {
+      "date": "2027-08-02",
+      "label": "Frídagur verslunarmanna"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Aðfangadagur"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Jóladagur"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Annar í jólum"
+    },
+    {
+      "date": "2027-12-31",
+      "label": "Gamlársdagur"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nýársdagur"
+    },
+    {
+      "date": "2028-04-13",
+      "label": "Skírdagur"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Föstudagurinn langi"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Páskadagur"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Annar í páskum"
+    },
+    {
+      "date": "2028-04-20",
+      "label": "Sumardagurinn fyrsti"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Hátíðisdagur Verkamanna"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Uppstigningardagur"
+    },
+    {
+      "date": "2028-06-04",
+      "label": "Hvítasunnudagur"
+    },
+    {
+      "date": "2028-06-05",
+      "label": "Annar í hvítasunnu"
+    },
+    {
+      "date": "2028-06-17",
+      "label": "Íslenski þjóðhátíðardagurinn"
+    },
+    {
+      "date": "2028-08-07",
+      "label": "Frídagur verslunarmanna"
+    },
+    {
+      "date": "2028-12-24",
+      "label": "Aðfangadagur"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Jóladagur"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Annar í jólum"
+    },
+    {
+      "date": "2028-12-31",
+      "label": "Gamlársdagur"
+    }
+  ]
+}

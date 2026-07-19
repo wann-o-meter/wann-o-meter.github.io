@@ -1,0 +1,693 @@
+{
+  "category": "feiertage",
+  "slug": "jp",
+  "meta": {
+    "title": "日本",
+    "description": "Gesetzliche Feiertage fuer 日本. Nächster Feiertag: 海の日 am 20.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "jp",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "元日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-12",
+        "to": "2026-01-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "成人の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-11",
+        "to": "2026-02-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "建国記念の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-23",
+        "to": "2026-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "天皇誕生日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "春分の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-29",
+        "to": "2026-04-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "昭和の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-03",
+        "to": "2026-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "憲法記念日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-04",
+        "to": "2026-05-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "みどりの日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-05",
+        "to": "2026-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "こどもの日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-06",
+        "to": "2026-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "憲法記念日 (振替休日)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-20",
+        "to": "2026-07-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "海の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-11",
+        "to": "2026-08-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "山の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-21",
+        "to": "2026-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "敬老の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-22",
+        "to": "2026-09-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "国民の休日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-23",
+        "to": "2026-09-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "秋分の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "スポーツの日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-03",
+        "to": "2026-11-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "文化の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-23",
+        "to": "2026-11-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "勤労感謝の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "元日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-11",
+        "to": "2027-01-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "成人の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-11",
+        "to": "2027-02-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "建国記念の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-23",
+        "to": "2027-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "天皇誕生日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-21",
+        "to": "2027-03-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "春分の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-22",
+        "to": "2027-03-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "春分の日 (振替休日)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-29",
+        "to": "2027-04-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "昭和の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-03",
+        "to": "2027-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "憲法記念日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-04",
+        "to": "2027-05-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "みどりの日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-05",
+        "to": "2027-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "こどもの日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-19",
+        "to": "2027-07-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "海の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-11",
+        "to": "2027-08-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "山の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-20",
+        "to": "2027-09-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "敬老の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-23",
+        "to": "2027-09-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "秋分の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-11",
+        "to": "2027-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "スポーツの日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-03",
+        "to": "2027-11-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "文化の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-23",
+        "to": "2027-11-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "勤労感謝の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "元日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-10",
+        "to": "2028-01-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "成人の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-11",
+        "to": "2028-02-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "建国記念の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-23",
+        "to": "2028-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "天皇誕生日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-20",
+        "to": "2028-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "春分の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-29",
+        "to": "2028-04-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "昭和の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-03",
+        "to": "2028-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "憲法記念日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-04",
+        "to": "2028-05-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "みどりの日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "こどもの日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-17",
+        "to": "2028-07-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "海の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-11",
+        "to": "2028-08-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "山の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-18",
+        "to": "2028-09-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "敬老の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-22",
+        "to": "2028-09-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "秋分の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-09",
+        "to": "2028-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "スポーツの日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-03",
+        "to": "2028-11-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "文化の日"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-23",
+        "to": "2028-11-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "勤労感謝の日"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "元日"
+    },
+    {
+      "date": "2026-01-12",
+      "label": "成人の日"
+    },
+    {
+      "date": "2026-02-11",
+      "label": "建国記念の日"
+    },
+    {
+      "date": "2026-02-23",
+      "label": "天皇誕生日"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "春分の日"
+    },
+    {
+      "date": "2026-04-29",
+      "label": "昭和の日"
+    },
+    {
+      "date": "2026-05-03",
+      "label": "憲法記念日"
+    },
+    {
+      "date": "2026-05-04",
+      "label": "みどりの日"
+    },
+    {
+      "date": "2026-05-05",
+      "label": "こどもの日"
+    },
+    {
+      "date": "2026-05-06",
+      "label": "憲法記念日 (振替休日)"
+    },
+    {
+      "date": "2026-07-20",
+      "label": "海の日"
+    },
+    {
+      "date": "2026-08-11",
+      "label": "山の日"
+    },
+    {
+      "date": "2026-09-21",
+      "label": "敬老の日"
+    },
+    {
+      "date": "2026-09-22",
+      "label": "国民の休日"
+    },
+    {
+      "date": "2026-09-23",
+      "label": "秋分の日"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "スポーツの日"
+    },
+    {
+      "date": "2026-11-03",
+      "label": "文化の日"
+    },
+    {
+      "date": "2026-11-23",
+      "label": "勤労感謝の日"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "元日"
+    },
+    {
+      "date": "2027-01-11",
+      "label": "成人の日"
+    },
+    {
+      "date": "2027-02-11",
+      "label": "建国記念の日"
+    },
+    {
+      "date": "2027-02-23",
+      "label": "天皇誕生日"
+    },
+    {
+      "date": "2027-03-21",
+      "label": "春分の日"
+    },
+    {
+      "date": "2027-03-22",
+      "label": "春分の日 (振替休日)"
+    },
+    {
+      "date": "2027-04-29",
+      "label": "昭和の日"
+    },
+    {
+      "date": "2027-05-03",
+      "label": "憲法記念日"
+    },
+    {
+      "date": "2027-05-04",
+      "label": "みどりの日"
+    },
+    {
+      "date": "2027-05-05",
+      "label": "こどもの日"
+    },
+    {
+      "date": "2027-07-19",
+      "label": "海の日"
+    },
+    {
+      "date": "2027-08-11",
+      "label": "山の日"
+    },
+    {
+      "date": "2027-09-20",
+      "label": "敬老の日"
+    },
+    {
+      "date": "2027-09-23",
+      "label": "秋分の日"
+    },
+    {
+      "date": "2027-10-11",
+      "label": "スポーツの日"
+    },
+    {
+      "date": "2027-11-03",
+      "label": "文化の日"
+    },
+    {
+      "date": "2027-11-23",
+      "label": "勤労感謝の日"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "元日"
+    },
+    {
+      "date": "2028-01-10",
+      "label": "成人の日"
+    },
+    {
+      "date": "2028-02-11",
+      "label": "建国記念の日"
+    },
+    {
+      "date": "2028-02-23",
+      "label": "天皇誕生日"
+    },
+    {
+      "date": "2028-03-20",
+      "label": "春分の日"
+    },
+    {
+      "date": "2028-04-29",
+      "label": "昭和の日"
+    },
+    {
+      "date": "2028-05-03",
+      "label": "憲法記念日"
+    },
+    {
+      "date": "2028-05-04",
+      "label": "みどりの日"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "こどもの日"
+    },
+    {
+      "date": "2028-07-17",
+      "label": "海の日"
+    },
+    {
+      "date": "2028-08-11",
+      "label": "山の日"
+    },
+    {
+      "date": "2028-09-18",
+      "label": "敬老の日"
+    },
+    {
+      "date": "2028-09-22",
+      "label": "秋分の日"
+    },
+    {
+      "date": "2028-10-09",
+      "label": "スポーツの日"
+    },
+    {
+      "date": "2028-11-03",
+      "label": "文化の日"
+    },
+    {
+      "date": "2028-11-23",
+      "label": "勤労感謝の日"
+    }
+  ]
+}

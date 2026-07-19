@@ -1,0 +1,498 @@
+{
+  "category": "feiertage",
+  "slug": "sj",
+  "meta": {
+    "title": "Svalbard & Jan Mayen",
+    "description": "Gesetzliche Feiertage fuer Svalbard & Jan Mayen. Nächster Feiertag: Første Juledag am 25.12.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "sj",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første nyttårsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Skjærtorsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Langfredag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første påskedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Andre påskedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Arbeidernes dag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kristi himmelfartsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-17",
+        "to": "2026-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Grunnlovsdagen"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første pinsedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Andre pinsedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første Juledag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Andre juledag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første nyttårsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-25",
+        "to": "2027-03-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Skjærtorsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Langfredag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første påskedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Andre påskedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Arbeidernes dag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kristi himmelfartsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første pinsedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-17",
+        "to": "2027-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Grunnlovsdagen"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-17",
+        "to": "2027-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Andre pinsedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første Juledag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Andre juledag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første nyttårsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-13",
+        "to": "2028-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Skjærtorsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Langfredag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første påskedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Andre påskedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Arbeidernes dag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-17",
+        "to": "2028-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Grunnlovsdagen"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kristi himmelfartsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-04",
+        "to": "2028-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første pinsedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-05",
+        "to": "2028-06-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Andre pinsedag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Første Juledag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Andre juledag"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Første nyttårsdag"
+    },
+    {
+      "date": "2026-04-02",
+      "label": "Skjærtorsdag"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Langfredag"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Første påskedag"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Andre påskedag"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Arbeidernes dag"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "Kristi himmelfartsdag"
+    },
+    {
+      "date": "2026-05-17",
+      "label": "Grunnlovsdagen"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "Første pinsedag"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Andre pinsedag"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Første Juledag"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Andre juledag"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Første nyttårsdag"
+    },
+    {
+      "date": "2027-03-25",
+      "label": "Skjærtorsdag"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Langfredag"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Første påskedag"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Andre påskedag"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Arbeidernes dag"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "Kristi himmelfartsdag"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Første pinsedag"
+    },
+    {
+      "date": "2027-05-17",
+      "label": "Grunnlovsdagen"
+    },
+    {
+      "date": "2027-05-17",
+      "label": "Andre pinsedag"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Første Juledag"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Andre juledag"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Første nyttårsdag"
+    },
+    {
+      "date": "2028-04-13",
+      "label": "Skjærtorsdag"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Langfredag"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Første påskedag"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Andre påskedag"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Arbeidernes dag"
+    },
+    {
+      "date": "2028-05-17",
+      "label": "Grunnlovsdagen"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Kristi himmelfartsdag"
+    },
+    {
+      "date": "2028-06-04",
+      "label": "Første pinsedag"
+    },
+    {
+      "date": "2028-06-05",
+      "label": "Andre pinsedag"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Første Juledag"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Andre juledag"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Rhabarber
+BEGIN:VEVENT
+UID:saisonkalender-rhabarber-2026-04-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260701
+SUMMARY:Rhabarber
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-rhabarber-2027-04-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270701
+SUMMARY:Rhabarber
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-rhabarber-2028-04-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280401
+DTEND;VALUE=DATE:20280701
+SUMMARY:Rhabarber
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+END:VCALENDAR

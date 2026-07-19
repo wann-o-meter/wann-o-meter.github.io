@@ -1,0 +1,381 @@
+{
+  "category": "feiertage",
+  "slug": "il",
+  "meta": {
+    "title": "מְדִינַת יִשְׂרָאֵל",
+    "description": "Gesetzliche Feiertage fuer מְדִינַת יִשְׂרָאֵל. Nächster Feiertag: ראש השנה am 12.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "il",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-02",
+        "to": "2026-04-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "פסח"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-08",
+        "to": "2026-04-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "מימונה, שביעי של פסח"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-22",
+        "to": "2026-04-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "יום העצמאות"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-22",
+        "to": "2026-05-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "שבועות"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-12",
+        "to": "2026-09-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "ראש השנה"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-13",
+        "to": "2026-09-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "ראש השנה יום 2"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-21",
+        "to": "2026-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "יום כיפור"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-26",
+        "to": "2026-09-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "סוכות"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-03",
+        "to": "2026-10-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "שמחת תורה/שמיני עצרת"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-22",
+        "to": "2027-04-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "פסח"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-28",
+        "to": "2027-04-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "מימונה, שביעי של פסח"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-12",
+        "to": "2027-05-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "יום העצמאות"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-11",
+        "to": "2027-06-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "שבועות"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-02",
+        "to": "2027-10-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "ראש השנה"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-03",
+        "to": "2027-10-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "ראש השנה יום 2"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-11",
+        "to": "2027-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "יום כיפור"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-16",
+        "to": "2027-10-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "סוכות"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-23",
+        "to": "2027-10-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "שמחת תורה/שמיני עצרת"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-11",
+        "to": "2028-04-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "פסח"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "מימונה, שביעי של פסח"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-02",
+        "to": "2028-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "יום העצמאות"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-31",
+        "to": "2028-05-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "שבועות"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-21",
+        "to": "2028-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "ראש השנה"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-22",
+        "to": "2028-09-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "ראש השנה יום 2"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-30",
+        "to": "2028-09-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "יום כיפור"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-05",
+        "to": "2028-10-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "סוכות"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-12",
+        "to": "2028-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "שמחת תורה/שמיני עצרת"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-04-02",
+      "label": "פסח"
+    },
+    {
+      "date": "2026-04-08",
+      "label": "מימונה, שביעי של פסח"
+    },
+    {
+      "date": "2026-04-22",
+      "label": "יום העצמאות"
+    },
+    {
+      "date": "2026-05-22",
+      "label": "שבועות"
+    },
+    {
+      "date": "2026-09-12",
+      "label": "ראש השנה"
+    },
+    {
+      "date": "2026-09-13",
+      "label": "ראש השנה יום 2"
+    },
+    {
+      "date": "2026-09-21",
+      "label": "יום כיפור"
+    },
+    {
+      "date": "2026-09-26",
+      "label": "סוכות"
+    },
+    {
+      "date": "2026-10-03",
+      "label": "שמחת תורה/שמיני עצרת"
+    },
+    {
+      "date": "2027-04-22",
+      "label": "פסח"
+    },
+    {
+      "date": "2027-04-28",
+      "label": "מימונה, שביעי של פסח"
+    },
+    {
+      "date": "2027-05-12",
+      "label": "יום העצמאות"
+    },
+    {
+      "date": "2027-06-11",
+      "label": "שבועות"
+    },
+    {
+      "date": "2027-10-02",
+      "label": "ראש השנה"
+    },
+    {
+      "date": "2027-10-03",
+      "label": "ראש השנה יום 2"
+    },
+    {
+      "date": "2027-10-11",
+      "label": "יום כיפור"
+    },
+    {
+      "date": "2027-10-16",
+      "label": "סוכות"
+    },
+    {
+      "date": "2027-10-23",
+      "label": "שמחת תורה/שמיני עצרת"
+    },
+    {
+      "date": "2028-04-11",
+      "label": "פסח"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "מימונה, שביעי של פסח"
+    },
+    {
+      "date": "2028-05-02",
+      "label": "יום העצמאות"
+    },
+    {
+      "date": "2028-05-31",
+      "label": "שבועות"
+    },
+    {
+      "date": "2028-09-21",
+      "label": "ראש השנה"
+    },
+    {
+      "date": "2028-09-22",
+      "label": "ראש השנה יום 2"
+    },
+    {
+      "date": "2028-09-30",
+      "label": "יום כיפור"
+    },
+    {
+      "date": "2028-10-05",
+      "label": "סוכות"
+    },
+    {
+      "date": "2028-10-12",
+      "label": "שמחת תורה/שמיני עצרת"
+    }
+  ]
+}

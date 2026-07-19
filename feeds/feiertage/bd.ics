@@ -1,0 +1,411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:গণপ্রজাতন্ত্রী বাংলাদেশ
+BEGIN:VEVENT
+UID:feiertage-bd-2026-02-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:শহীদ দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-03-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:মুজিব জয়ন - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:ঈদুল ফিতর - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-03-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:স্বাধীনতা দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-04-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:পহেলা বৈশাখ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:মে দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-05-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:বুদ্ধ পূর্ণিমা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-05-27@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:ঈদুল আযহা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-06-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:আশুরা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:জাতীয় শোক দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-08-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:জন্মাষ্টমী - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-08-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:ঈদে মিলাদুন্নবী - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-10-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:দুর্গা পূজা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-12-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:বিজয় দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2026-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:বড়দিন - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-02-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:শহীদ দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-03-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:ঈদুল ফিতর - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-03-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:মুজিব জয়ন - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-03-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:স্বাধীনতা দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-04-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:পহেলা বৈশাখ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:মে দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-05-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:ঈদুল আযহা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-05-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:বুদ্ধ পূর্ণিমা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-06-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:আশুরা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-08-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:ঈদে মিলাদুন্নবী - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:জাতীয় শোক দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-08-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:জন্মাষ্টমী - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-10-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:দুর্গা পূজা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-12-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:বিজয় দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2027-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:বড়দিন - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-02-21@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280221
+DTEND;VALUE=DATE:20280222
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:শহীদ দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-02-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:ঈদুল ফিতর - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-03-17@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280317
+DTEND;VALUE=DATE:20280318
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:মুজিব জয়ন - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-03-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:স্বাধীনতা দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-04-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:পহেলা বৈশাখ - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:মে দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-05-05@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:ঈদুল আযহা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-05-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280519
+DTEND;VALUE=DATE:20280520
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:বুদ্ধ পূর্ণিমা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-06-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280603
+DTEND;VALUE=DATE:20280604
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:আশুরা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-08-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:ঈদে মিলাদুন্নবী - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-08-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280815
+DTEND;VALUE=DATE:20280816
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:জাতীয় শোক দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-08-24@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280824
+DTEND;VALUE=DATE:20280825
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:জন্মাষ্টমী - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-10-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281008
+DTEND;VALUE=DATE:20281009
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:দুর্গা পূজা - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-12-16@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281216
+DTEND;VALUE=DATE:20281217
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:বিজয় দিবস - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertage-bd-2028-12-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:গণপ্রজাতন্ত্রী বাংলাদেশ
+DESCRIPTION:বড়দিন - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

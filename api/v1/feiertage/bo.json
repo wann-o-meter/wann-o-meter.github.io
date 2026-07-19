@@ -1,0 +1,485 @@
+{
+  "category": "feiertage",
+  "slug": "bo",
+  "meta": {
+    "title": "Bolivia",
+    "description": "Gesetzliche Feiertage fuer Bolivia. Nächster Feiertag: Día de la Independencia am 06.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "bo",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-22",
+        "to": "2026-01-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Creación del Estado Plurinacional de Bolivia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-16",
+        "to": "2026-02-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lunes de Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martes de Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-04",
+        "to": "2026-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-21",
+        "to": "2026-06-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo Andino Amazónico Chaqueño"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-22",
+        "to": "2026-06-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo Andino Amazónico Chaqueño (substituto)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-06",
+        "to": "2026-08-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-02",
+        "to": "2026-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-22",
+        "to": "2027-01-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Creación del Estado Plurinacional de Bolivia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-08",
+        "to": "2027-02-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lunes de Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-09",
+        "to": "2027-02-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martes de Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-21",
+        "to": "2027-06-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo Andino Amazónico Chaqueño"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-06",
+        "to": "2027-08-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-02",
+        "to": "2027-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-22",
+        "to": "2028-01-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Creación del Estado Plurinacional de Bolivia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-28",
+        "to": "2028-02-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lunes de Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-29",
+        "to": "2028-02-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Martes de Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpus Christi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-21",
+        "to": "2028-06-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Año Nuevo Andino Amazónico Chaqueño"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-06",
+        "to": "2028-08-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-07",
+        "to": "2028-08-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia (substituto)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-02",
+        "to": "2028-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos Santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2026-01-22",
+      "label": "Día de la Creación del Estado Plurinacional de Bolivia"
+    },
+    {
+      "date": "2026-02-16",
+      "label": "Lunes de Carnaval"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "Martes de Carnaval"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2026-06-21",
+      "label": "Año Nuevo Andino Amazónico Chaqueño"
+    },
+    {
+      "date": "2026-06-22",
+      "label": "Año Nuevo Andino Amazónico Chaqueño (substituto)"
+    },
+    {
+      "date": "2026-08-06",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-11-02",
+      "label": "Todos Santos"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2027-01-22",
+      "label": "Día de la Creación del Estado Plurinacional de Bolivia"
+    },
+    {
+      "date": "2027-02-08",
+      "label": "Lunes de Carnaval"
+    },
+    {
+      "date": "2027-02-09",
+      "label": "Martes de Carnaval"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2027-06-21",
+      "label": "Año Nuevo Andino Amazónico Chaqueño"
+    },
+    {
+      "date": "2027-08-06",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-11-02",
+      "label": "Todos Santos"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Año Nuevo"
+    },
+    {
+      "date": "2028-01-22",
+      "label": "Día de la Creación del Estado Plurinacional de Bolivia"
+    },
+    {
+      "date": "2028-02-28",
+      "label": "Lunes de Carnaval"
+    },
+    {
+      "date": "2028-02-29",
+      "label": "Martes de Carnaval"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Corpus Christi"
+    },
+    {
+      "date": "2028-06-21",
+      "label": "Año Nuevo Andino Amazónico Chaqueño"
+    },
+    {
+      "date": "2028-08-06",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-08-07",
+      "label": "Día de la Independencia (substituto)"
+    },
+    {
+      "date": "2028-11-02",
+      "label": "Todos Santos"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    }
+  ]
+}

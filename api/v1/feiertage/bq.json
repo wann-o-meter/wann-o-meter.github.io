@@ -1,0 +1,381 @@
+{
+  "category": "feiertage",
+  "slug": "bq",
+  "meta": {
+    "title": "Caribisch Nederland",
+    "description": "Gesetzliche Feiertage fuer Caribisch Nederland. Nächster Feiertag: Koninkrijksdag am 15.12.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "bq",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Goede Vrijdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede paasdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-27",
+        "to": "2026-04-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Koningsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Arbeid"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "O.L.H. Hemelvaart"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-15",
+        "to": "2026-12-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Koninkrijksdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kerstmis"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede kerstdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Goede Vrijdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede paasdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-27",
+        "to": "2027-04-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Koningsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Arbeid"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "O.L.H. Hemelvaart"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-15",
+        "to": "2027-12-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Koninkrijksdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kerstmis"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede kerstdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Goede Vrijdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede paasdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-27",
+        "to": "2028-04-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Koningsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Arbeid"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "O.L.H. Hemelvaart"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-15",
+        "to": "2028-12-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Koninkrijksdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kerstmis"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede kerstdag"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nieuwjaar"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Goede Vrijdag"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Tweede paasdag"
+    },
+    {
+      "date": "2026-04-27",
+      "label": "Koningsdag"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Dag van de Arbeid"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "O.L.H. Hemelvaart"
+    },
+    {
+      "date": "2026-12-15",
+      "label": "Koninkrijksdag"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Kerstmis"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Tweede kerstdag"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nieuwjaar"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Goede Vrijdag"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Tweede paasdag"
+    },
+    {
+      "date": "2027-04-27",
+      "label": "Koningsdag"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Dag van de Arbeid"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "O.L.H. Hemelvaart"
+    },
+    {
+      "date": "2027-12-15",
+      "label": "Koninkrijksdag"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Kerstmis"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Tweede kerstdag"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nieuwjaar"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Goede Vrijdag"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Tweede paasdag"
+    },
+    {
+      "date": "2028-04-27",
+      "label": "Koningsdag"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Dag van de Arbeid"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "O.L.H. Hemelvaart"
+    },
+    {
+      "date": "2028-12-15",
+      "label": "Koninkrijksdag"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Kerstmis"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Tweede kerstdag"
+    }
+  ]
+}

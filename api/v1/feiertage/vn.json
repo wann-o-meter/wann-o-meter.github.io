@@ -1,0 +1,303 @@
+{
+  "category": "feiertage",
+  "slug": "vn",
+  "meta": {
+    "title": "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+    "description": "Gesetzliche Feiertage fuer Cộng hòa Xã hội chủ nghĩa Việt Nam. Nächster Feiertag: Quốc khánh am 02.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "vn",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tết Dương lịch"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-16",
+        "to": "2026-02-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Giao thừa Tết Nguyên Đán"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tết Nguyên Đán"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-26",
+        "to": "2026-04-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Giỗ tổ Hùng Vương"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-30",
+        "to": "2026-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ngày Giải phóng miền Nam"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Quốc tế Lao động"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-02",
+        "to": "2026-09-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Quốc khánh"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tết Dương lịch"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-05",
+        "to": "2027-02-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Giao thừa Tết Nguyên Đán"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-06",
+        "to": "2027-02-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tết Nguyên Đán"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-16",
+        "to": "2027-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Giỗ tổ Hùng Vương"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-30",
+        "to": "2027-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ngày Giải phóng miền Nam"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Quốc tế Lao động"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-02",
+        "to": "2027-09-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Quốc khánh"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tết Dương lịch"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-25",
+        "to": "2028-01-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Giao thừa Tết Nguyên Đán"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-26",
+        "to": "2028-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tết Nguyên Đán"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-04",
+        "to": "2028-04-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Giỗ tổ Hùng Vương"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-30",
+        "to": "2028-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ngày Giải phóng miền Nam"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Quốc tế Lao động"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-02",
+        "to": "2028-09-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Quốc khánh"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Tết Dương lịch"
+    },
+    {
+      "date": "2026-02-16",
+      "label": "Giao thừa Tết Nguyên Đán"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "Tết Nguyên Đán"
+    },
+    {
+      "date": "2026-04-26",
+      "label": "Giỗ tổ Hùng Vương"
+    },
+    {
+      "date": "2026-04-30",
+      "label": "Ngày Giải phóng miền Nam"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Quốc tế Lao động"
+    },
+    {
+      "date": "2026-09-02",
+      "label": "Quốc khánh"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Tết Dương lịch"
+    },
+    {
+      "date": "2027-02-05",
+      "label": "Giao thừa Tết Nguyên Đán"
+    },
+    {
+      "date": "2027-02-06",
+      "label": "Tết Nguyên Đán"
+    },
+    {
+      "date": "2027-04-16",
+      "label": "Giỗ tổ Hùng Vương"
+    },
+    {
+      "date": "2027-04-30",
+      "label": "Ngày Giải phóng miền Nam"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Quốc tế Lao động"
+    },
+    {
+      "date": "2027-09-02",
+      "label": "Quốc khánh"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Tết Dương lịch"
+    },
+    {
+      "date": "2028-01-25",
+      "label": "Giao thừa Tết Nguyên Đán"
+    },
+    {
+      "date": "2028-01-26",
+      "label": "Tết Nguyên Đán"
+    },
+    {
+      "date": "2028-04-04",
+      "label": "Giỗ tổ Hùng Vương"
+    },
+    {
+      "date": "2028-04-30",
+      "label": "Ngày Giải phóng miền Nam"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Quốc tế Lao động"
+    },
+    {
+      "date": "2028-09-02",
+      "label": "Quốc khánh"
+    }
+  ]
+}

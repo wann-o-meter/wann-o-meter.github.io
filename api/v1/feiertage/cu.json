@@ -1,0 +1,381 @@
+{
+  "category": "feiertage",
+  "slug": "cu",
+  "meta": {
+    "title": "Cuba",
+    "description": "Gesetzliche Feiertage fuer Cuba. Nächster Feiertag: Conmemoración del asalto a Moncada am 25.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "cu",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Triunfo de la Revolución"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-02",
+        "to": "2026-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de Victoria de las Fuerzas Armadas"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-25",
+        "to": "2026-07-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Conmemoración del asalto a Moncada"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-26",
+        "to": "2026-07-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Rebeldía Nacional"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-27",
+        "to": "2026-07-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Conmemoración del asalto a Moncada"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-10",
+        "to": "2026-10-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Triunfo de la Revolución"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-02",
+        "to": "2027-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de Victoria de las Fuerzas Armadas"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-25",
+        "to": "2027-07-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Conmemoración del asalto a Moncada"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-26",
+        "to": "2027-07-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Rebeldía Nacional"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-27",
+        "to": "2027-07-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Conmemoración del asalto a Moncada"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-10",
+        "to": "2027-10-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Triunfo de la Revolución"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-02",
+        "to": "2028-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de Victoria de las Fuerzas Armadas"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Viernes Santo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día del Trabajador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-25",
+        "to": "2028-07-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Conmemoración del asalto a Moncada"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-26",
+        "to": "2028-07-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Rebeldía Nacional"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-27",
+        "to": "2028-07-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Conmemoración del asalto a Moncada"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-10",
+        "to": "2028-10-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Día de la Independencia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Navidad"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Triunfo de la Revolución"
+    },
+    {
+      "date": "2026-01-02",
+      "label": "Día de Victoria de las Fuerzas Armadas"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2026-07-25",
+      "label": "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date": "2026-07-26",
+      "label": "Día de la Rebeldía Nacional"
+    },
+    {
+      "date": "2026-07-27",
+      "label": "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date": "2026-10-10",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Triunfo de la Revolución"
+    },
+    {
+      "date": "2027-01-02",
+      "label": "Día de Victoria de las Fuerzas Armadas"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2027-07-25",
+      "label": "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date": "2027-07-26",
+      "label": "Día de la Rebeldía Nacional"
+    },
+    {
+      "date": "2027-07-27",
+      "label": "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date": "2027-10-10",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Navidad"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Triunfo de la Revolución"
+    },
+    {
+      "date": "2028-01-02",
+      "label": "Día de Victoria de las Fuerzas Armadas"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Viernes Santo"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Día del Trabajador"
+    },
+    {
+      "date": "2028-07-25",
+      "label": "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date": "2028-07-26",
+      "label": "Día de la Rebeldía Nacional"
+    },
+    {
+      "date": "2028-07-27",
+      "label": "Conmemoración del asalto a Moncada"
+    },
+    {
+      "date": "2028-10-10",
+      "label": "Día de la Independencia"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Navidad"
+    }
+  ]
+}

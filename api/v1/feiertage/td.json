@@ -1,0 +1,459 @@
+{
+  "category": "feiertage",
+  "slug": "td",
+  "meta": {
+    "title": "جمهورية تشاد",
+    "description": "Gesetzliche Feiertage fuer جمهورية تشاد. Nächster Feiertag: Fête Nationale (Indépendance) am 11.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "td",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد رأس السنة"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الفطر"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lundi de Pâques"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم العمال"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الأضحى"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-11",
+        "to": "2026-08-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête Nationale (Indépendance)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "المولد النبويّ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Toussaint"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-28",
+        "to": "2026-11-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversaire de la Proclamation de la République"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-01",
+        "to": "2026-12-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée de la libération et de la démocratie"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الميلاد المجيد"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد رأس السنة"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الفطر"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lundi de Pâques"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم العمال"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الأضحى"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-11",
+        "to": "2027-08-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête Nationale (Indépendance)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "المولد النبويّ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Toussaint"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-28",
+        "to": "2027-11-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversaire de la Proclamation de la République"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-01",
+        "to": "2027-12-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée de la libération et de la démocratie"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الميلاد المجيد"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد رأس السنة"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الفطر"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Lundi de Pâques"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم العمال"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الأضحى"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "المولد النبويّ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-11",
+        "to": "2028-08-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fête Nationale (Indépendance)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Toussaint"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-28",
+        "to": "2028-11-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Anniversaire de la Proclamation de la République"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-01",
+        "to": "2028-12-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Journée de la libération et de la démocratie"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الميلاد المجيد"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "عيد رأس السنة"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "عيد الفطر"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Lundi de Pâques"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "يوم العمال"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "عيد الأضحى"
+    },
+    {
+      "date": "2026-08-11",
+      "label": "Fête Nationale (Indépendance)"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "المولد النبويّ"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Toussaint"
+    },
+    {
+      "date": "2026-11-28",
+      "label": "Anniversaire de la Proclamation de la République"
+    },
+    {
+      "date": "2026-12-01",
+      "label": "Journée de la libération et de la démocratie"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "عيد الميلاد المجيد"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "عيد رأس السنة"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "عيد الفطر"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Lundi de Pâques"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "يوم العمال"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "عيد الأضحى"
+    },
+    {
+      "date": "2027-08-11",
+      "label": "Fête Nationale (Indépendance)"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "المولد النبويّ"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Toussaint"
+    },
+    {
+      "date": "2027-11-28",
+      "label": "Anniversaire de la Proclamation de la République"
+    },
+    {
+      "date": "2027-12-01",
+      "label": "Journée de la libération et de la démocratie"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "عيد الميلاد المجيد"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "عيد رأس السنة"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "عيد الفطر"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Lundi de Pâques"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "يوم العمال"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "عيد الأضحى"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "المولد النبويّ"
+    },
+    {
+      "date": "2028-08-11",
+      "label": "Fête Nationale (Indépendance)"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Toussaint"
+    },
+    {
+      "date": "2028-11-28",
+      "label": "Anniversaire de la Proclamation de la République"
+    },
+    {
+      "date": "2028-12-01",
+      "label": "Journée de la libération et de la démocratie"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "عيد الميلاد المجيد"
+    }
+  ]
+}

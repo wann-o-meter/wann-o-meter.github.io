@@ -1,0 +1,875 @@
+{
+  "category": "feiertage",
+  "slug": "az",
+  "meta": {
+    "title": "Azərbaycan Respublikası",
+    "description": "Gesetzliche Feiertage fuer Azərbaycan Respublikası. Nächster Feiertag: Dövlət Müstəqilliyi günü am 18.10.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "az",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yeni il"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-02",
+        "to": "2026-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yeni il"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-08",
+        "to": "2026-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qadınlar günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-09",
+        "to": "2026-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qadınlar günü (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Novruz"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-21",
+        "to": "2026-03-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-23",
+        "to": "2026-03-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-09",
+        "to": "2026-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Faşizm üzərində qələbə günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-11",
+        "to": "2026-05-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Faşizm üzərində qələbə günü (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qurban Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-28",
+        "to": "2026-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qurban Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-28",
+        "to": "2026-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Respublika günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-15",
+        "to": "2026-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Azərbaycan xalqının Milli Qurtuluş günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-26",
+        "to": "2026-06-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-18",
+        "to": "2026-10-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dövlət Müstəqilliyi günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-19",
+        "to": "2026-10-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dövlət Müstəqilliyi günü (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-09",
+        "to": "2026-11-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dövlət Bayrağı günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-12",
+        "to": "2026-11-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Konstitusiya günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-17",
+        "to": "2026-11-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Milli Dirçəliş günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-31",
+        "to": "2026-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dünya azərbaycanlıların həmrəyliyi günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yeni il"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-02",
+        "to": "2027-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yeni il"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-04",
+        "to": "2027-01-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yeni il (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qadınlar günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-10",
+        "to": "2027-03-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-20",
+        "to": "2027-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Novruz"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-09",
+        "to": "2027-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Faşizm üzərində qələbə günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-10",
+        "to": "2027-05-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Faşizm üzərində qələbə günü (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qurban Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-17",
+        "to": "2027-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qurban Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-18",
+        "to": "2027-05-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qurban Bayramı (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-28",
+        "to": "2027-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Respublika günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-15",
+        "to": "2027-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Azərbaycan xalqının Milli Qurtuluş günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-26",
+        "to": "2027-06-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-28",
+        "to": "2027-06-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-18",
+        "to": "2027-10-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dövlət Müstəqilliyi günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-09",
+        "to": "2027-11-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dövlət Bayrağı günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-12",
+        "to": "2027-11-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Konstitusiya günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-17",
+        "to": "2027-11-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Milli Dirçəliş günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-31",
+        "to": "2027-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dünya azərbaycanlıların həmrəyliyi günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yeni il"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-02",
+        "to": "2028-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yeni il"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-03",
+        "to": "2028-01-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yeni il (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-04",
+        "to": "2028-01-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Yeni il (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-27",
+        "to": "2028-02-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-28",
+        "to": "2028-02-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-29",
+        "to": "2028-02-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ramazan Bayramı (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qadınlar günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-20",
+        "to": "2028-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Novruz"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qurban Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-06",
+        "to": "2028-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qurban Bayramı"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-08",
+        "to": "2028-05-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Qurban Bayramı (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-09",
+        "to": "2028-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Faşizm üzərində qələbə günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-28",
+        "to": "2028-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Respublika günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-29",
+        "to": "2028-05-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Respublika günü (əvəz gün)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Azərbaycan xalqının Milli Qurtuluş günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-26",
+        "to": "2028-06-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Azərbaycan Respublikasının Silahlı Qüvvələri günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-18",
+        "to": "2028-10-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dövlət Müstəqilliyi günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-09",
+        "to": "2028-11-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dövlət Bayrağı günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-12",
+        "to": "2028-11-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Konstitusiya günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-17",
+        "to": "2028-11-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Milli Dirçəliş günü"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-31",
+        "to": "2028-12-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dünya azərbaycanlıların həmrəyliyi günü"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Yeni il"
+    },
+    {
+      "date": "2026-01-02",
+      "label": "Yeni il"
+    },
+    {
+      "date": "2026-03-08",
+      "label": "Qadınlar günü"
+    },
+    {
+      "date": "2026-03-09",
+      "label": "Qadınlar günü (əvəz gün)"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Ramazan Bayramı"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Novruz"
+    },
+    {
+      "date": "2026-03-21",
+      "label": "Ramazan Bayramı"
+    },
+    {
+      "date": "2026-03-23",
+      "label": "Ramazan Bayramı (əvəz gün)"
+    },
+    {
+      "date": "2026-05-09",
+      "label": "Faşizm üzərində qələbə günü"
+    },
+    {
+      "date": "2026-05-11",
+      "label": "Faşizm üzərində qələbə günü (əvəz gün)"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Qurban Bayramı"
+    },
+    {
+      "date": "2026-05-28",
+      "label": "Qurban Bayramı"
+    },
+    {
+      "date": "2026-05-28",
+      "label": "Respublika günü"
+    },
+    {
+      "date": "2026-06-15",
+      "label": "Azərbaycan xalqının Milli Qurtuluş günü"
+    },
+    {
+      "date": "2026-06-26",
+      "label": "Azərbaycan Respublikasının Silahlı Qüvvələri günü"
+    },
+    {
+      "date": "2026-10-18",
+      "label": "Dövlət Müstəqilliyi günü"
+    },
+    {
+      "date": "2026-10-19",
+      "label": "Dövlət Müstəqilliyi günü (əvəz gün)"
+    },
+    {
+      "date": "2026-11-09",
+      "label": "Dövlət Bayrağı günü"
+    },
+    {
+      "date": "2026-11-12",
+      "label": "Konstitusiya günü"
+    },
+    {
+      "date": "2026-11-17",
+      "label": "Milli Dirçəliş günü"
+    },
+    {
+      "date": "2026-12-31",
+      "label": "Dünya azərbaycanlıların həmrəyliyi günü"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Yeni il"
+    },
+    {
+      "date": "2027-01-02",
+      "label": "Yeni il"
+    },
+    {
+      "date": "2027-01-04",
+      "label": "Yeni il (əvəz gün)"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "Qadınlar günü"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Ramazan Bayramı"
+    },
+    {
+      "date": "2027-03-10",
+      "label": "Ramazan Bayramı"
+    },
+    {
+      "date": "2027-03-20",
+      "label": "Novruz"
+    },
+    {
+      "date": "2027-05-09",
+      "label": "Faşizm üzərində qələbə günü"
+    },
+    {
+      "date": "2027-05-10",
+      "label": "Faşizm üzərində qələbə günü (əvəz gün)"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Qurban Bayramı"
+    },
+    {
+      "date": "2027-05-17",
+      "label": "Qurban Bayramı"
+    },
+    {
+      "date": "2027-05-18",
+      "label": "Qurban Bayramı (əvəz gün)"
+    },
+    {
+      "date": "2027-05-28",
+      "label": "Respublika günü"
+    },
+    {
+      "date": "2027-06-15",
+      "label": "Azərbaycan xalqının Milli Qurtuluş günü"
+    },
+    {
+      "date": "2027-06-26",
+      "label": "Azərbaycan Respublikasının Silahlı Qüvvələri günü"
+    },
+    {
+      "date": "2027-06-28",
+      "label": "Azərbaycan Respublikasının Silahlı Qüvvələri günü (əvəz gün)"
+    },
+    {
+      "date": "2027-10-18",
+      "label": "Dövlət Müstəqilliyi günü"
+    },
+    {
+      "date": "2027-11-09",
+      "label": "Dövlət Bayrağı günü"
+    },
+    {
+      "date": "2027-11-12",
+      "label": "Konstitusiya günü"
+    },
+    {
+      "date": "2027-11-17",
+      "label": "Milli Dirçəliş günü"
+    },
+    {
+      "date": "2027-12-31",
+      "label": "Dünya azərbaycanlıların həmrəyliyi günü"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Yeni il"
+    },
+    {
+      "date": "2028-01-02",
+      "label": "Yeni il"
+    },
+    {
+      "date": "2028-01-03",
+      "label": "Yeni il (əvəz gün)"
+    },
+    {
+      "date": "2028-01-04",
+      "label": "Yeni il (əvəz gün)"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Ramazan Bayramı"
+    },
+    {
+      "date": "2028-02-27",
+      "label": "Ramazan Bayramı"
+    },
+    {
+      "date": "2028-02-28",
+      "label": "Ramazan Bayramı (əvəz gün)"
+    },
+    {
+      "date": "2028-02-29",
+      "label": "Ramazan Bayramı (əvəz gün)"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "Qadınlar günü"
+    },
+    {
+      "date": "2028-03-20",
+      "label": "Novruz"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Qurban Bayramı"
+    },
+    {
+      "date": "2028-05-06",
+      "label": "Qurban Bayramı"
+    },
+    {
+      "date": "2028-05-08",
+      "label": "Qurban Bayramı (əvəz gün)"
+    },
+    {
+      "date": "2028-05-09",
+      "label": "Faşizm üzərində qələbə günü"
+    },
+    {
+      "date": "2028-05-28",
+      "label": "Respublika günü"
+    },
+    {
+      "date": "2028-05-29",
+      "label": "Respublika günü (əvəz gün)"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Azərbaycan xalqının Milli Qurtuluş günü"
+    },
+    {
+      "date": "2028-06-26",
+      "label": "Azərbaycan Respublikasının Silahlı Qüvvələri günü"
+    },
+    {
+      "date": "2028-10-18",
+      "label": "Dövlət Müstəqilliyi günü"
+    },
+    {
+      "date": "2028-11-09",
+      "label": "Dövlət Bayrağı günü"
+    },
+    {
+      "date": "2028-11-12",
+      "label": "Konstitusiya günü"
+    },
+    {
+      "date": "2028-11-17",
+      "label": "Milli Dirçəliş günü"
+    },
+    {
+      "date": "2028-12-31",
+      "label": "Dünya azərbaycanlıların həmrəyliyi günü"
+    }
+  ]
+}

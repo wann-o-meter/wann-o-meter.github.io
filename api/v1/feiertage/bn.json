@@ -1,0 +1,550 @@
+{
+  "category": "feiertage",
+  "slug": "bn",
+  "meta": {
+    "title": "Negara Brunei Darussalam",
+    "description": "Gesetzliche Feiertage fuer Negara Brunei Darussalam. Nächster Feiertag: Hari Keputeraan Nabi Muhammad S.A.W. am 25.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "bn",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Tahun Masihi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-16",
+        "to": "2026-01-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Israk dan Mikraj"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-18",
+        "to": "2026-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Ramadan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-23",
+        "to": "2026-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Kebangsaan"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-06",
+        "to": "2026-03-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Nuzul Al-Quran"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Aidil Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-31",
+        "to": "2026-03-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Angkatan Bersenjata Diraja Brunei"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Haji"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-16",
+        "to": "2026-06-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Muharram"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-15",
+        "to": "2026-07-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan KDYMM Sultan Brunei"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan Nabi Muhammad S.A.W."
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Krismas"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Tahun Masihi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-05",
+        "to": "2027-01-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Israk dan Mikraj"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-06",
+        "to": "2027-02-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-08",
+        "to": "2027-02-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Ramadan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-23",
+        "to": "2027-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Kebangsaan"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-24",
+        "to": "2027-02-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Nuzul Al-Quran"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Aidil Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-31",
+        "to": "2027-03-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Angkatan Bersenjata Diraja Brunei"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Haji"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Muharram"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-15",
+        "to": "2027-07-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan KDYMM Sultan Brunei"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan Nabi Muhammad S.A.W."
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Israk dan Mikraj"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Krismas"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Tahun Masihi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-26",
+        "to": "2028-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tahun Baru Cina"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-28",
+        "to": "2028-01-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Ramadan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-13",
+        "to": "2028-02-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Nuzul Al-Quran"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-23",
+        "to": "2028-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Kebangsaan"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Aidil Fitri"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-31",
+        "to": "2028-03-31",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Angkatan Bersenjata Diraja Brunei"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Raya Haji"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Awal Muharram"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-15",
+        "to": "2028-07-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan KDYMM Sultan Brunei"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Keputeraan Nabi Muhammad S.A.W."
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-14",
+        "to": "2028-12-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Israk dan Mikraj"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Hari Krismas"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Awal Tahun Masihi"
+    },
+    {
+      "date": "2026-01-16",
+      "label": "Israk dan Mikraj"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "Tahun Baru Cina"
+    },
+    {
+      "date": "2026-02-18",
+      "label": "Awal Ramadan"
+    },
+    {
+      "date": "2026-02-23",
+      "label": "Hari Kebangsaan"
+    },
+    {
+      "date": "2026-03-06",
+      "label": "Hari Nuzul Al-Quran"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Hari Raya Aidil Fitri"
+    },
+    {
+      "date": "2026-03-31",
+      "label": "Hari Angkatan Bersenjata Diraja Brunei"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Hari Raya Haji"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Awal Muharram"
+    },
+    {
+      "date": "2026-07-15",
+      "label": "Hari Keputeraan KDYMM Sultan Brunei"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Hari Keputeraan Nabi Muhammad S.A.W."
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Hari Krismas"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Awal Tahun Masihi"
+    },
+    {
+      "date": "2027-01-05",
+      "label": "Israk dan Mikraj"
+    },
+    {
+      "date": "2027-02-06",
+      "label": "Tahun Baru Cina"
+    },
+    {
+      "date": "2027-02-08",
+      "label": "Awal Ramadan"
+    },
+    {
+      "date": "2027-02-23",
+      "label": "Hari Kebangsaan"
+    },
+    {
+      "date": "2027-02-24",
+      "label": "Hari Nuzul Al-Quran"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Hari Raya Aidil Fitri"
+    },
+    {
+      "date": "2027-03-31",
+      "label": "Hari Angkatan Bersenjata Diraja Brunei"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Hari Raya Haji"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "Awal Muharram"
+    },
+    {
+      "date": "2027-07-15",
+      "label": "Hari Keputeraan KDYMM Sultan Brunei"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Hari Keputeraan Nabi Muhammad S.A.W."
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Israk dan Mikraj"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Hari Krismas"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Awal Tahun Masihi"
+    },
+    {
+      "date": "2028-01-26",
+      "label": "Tahun Baru Cina"
+    },
+    {
+      "date": "2028-01-28",
+      "label": "Awal Ramadan"
+    },
+    {
+      "date": "2028-02-13",
+      "label": "Hari Nuzul Al-Quran"
+    },
+    {
+      "date": "2028-02-23",
+      "label": "Hari Kebangsaan"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Hari Raya Aidil Fitri"
+    },
+    {
+      "date": "2028-03-31",
+      "label": "Hari Angkatan Bersenjata Diraja Brunei"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Hari Raya Haji"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Awal Muharram"
+    },
+    {
+      "date": "2028-07-15",
+      "label": "Hari Keputeraan KDYMM Sultan Brunei"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Hari Keputeraan Nabi Muhammad S.A.W."
+    },
+    {
+      "date": "2028-12-14",
+      "label": "Israk dan Mikraj"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Hari Krismas"
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "category": "feiertage",
+  "slug": "gy",
+  "meta": {
+    "title": "Guyana",
+    "description": "Gesetzliche Feiertage fuer Guyana. Nächster Feiertag: Emancipation Day am 01.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "gy",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-23",
+        "to": "2026-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Republic Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-05",
+        "to": "2026-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Arrival Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-26",
+        "to": "2026-05-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Eid Ul Adha"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-06",
+        "to": "2026-07-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "CARICOM Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-01",
+        "to": "2026-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Youman Nabi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-23",
+        "to": "2027-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Republic Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-05",
+        "to": "2027-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Arrival Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Eid Ul Adha"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-26",
+        "to": "2027-05-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-05",
+        "to": "2027-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "CARICOM Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-01",
+        "to": "2027-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Youman Nabi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-23",
+        "to": "2028-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Republic Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Eid Ul Adha"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Arrival Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-26",
+        "to": "2028-05-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-03",
+        "to": "2028-07-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "CARICOM Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-01",
+        "to": "2028-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Youman Nabi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-02-23",
+      "label": "Republic Day"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2026-05-05",
+      "label": "Arrival Day"
+    },
+    {
+      "date": "2026-05-26",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Eid Ul Adha"
+    },
+    {
+      "date": "2026-07-06",
+      "label": "CARICOM Day"
+    },
+    {
+      "date": "2026-08-01",
+      "label": "Emancipation Day"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "Youman Nabi"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-02-23",
+      "label": "Republic Day"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2027-05-05",
+      "label": "Arrival Day"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Eid Ul Adha"
+    },
+    {
+      "date": "2027-05-26",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2027-07-05",
+      "label": "CARICOM Day"
+    },
+    {
+      "date": "2027-08-01",
+      "label": "Emancipation Day"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "Youman Nabi"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-02-23",
+      "label": "Republic Day"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Eid Ul Adha"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Arrival Day"
+    },
+    {
+      "date": "2028-05-26",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2028-07-03",
+      "label": "CARICOM Day"
+    },
+    {
+      "date": "2028-08-01",
+      "label": "Emancipation Day"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "Youman Nabi"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    }
+  ]
+}

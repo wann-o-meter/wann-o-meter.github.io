@@ -1,0 +1,576 @@
+{
+  "category": "feiertage",
+  "slug": "pl",
+  "meta": {
+    "title": "Polska",
+    "description": "Gesetzliche Feiertage fuer Polska. Nächster Feiertag: Wniebowzięcie Najświętszej Maryi Panny am 15.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "pl",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nowy Rok"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Święto Trzech Króli"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Niedziela Wielkanocna"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dzień Wielkanocy"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Święto Państwowe; Święto Pracy"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-03",
+        "to": "2026-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Święto Narodowe Trzeciego Maja"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zielone Świątki"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-04",
+        "to": "2026-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dzień Bożego Ciała"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wniebowzięcie Najświętszej Maryi Panny"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wszystkich Świętych"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-11",
+        "to": "2026-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Narodowe Święto Niepodległości"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-24",
+        "to": "2026-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wigilia Bożego Narodzenia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pierwszy dzień Bożego Narodzenia"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dzień Bożego Narodzenia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nowy Rok"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Święto Trzech Króli"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Niedziela Wielkanocna"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dzień Wielkanocy"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Święto Państwowe; Święto Pracy"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-03",
+        "to": "2027-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Święto Narodowe Trzeciego Maja"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zielone Świątki"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dzień Bożego Ciała"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wniebowzięcie Najświętszej Maryi Panny"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wszystkich Świętych"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-11",
+        "to": "2027-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Narodowe Święto Niepodległości"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-24",
+        "to": "2027-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wigilia Bożego Narodzenia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pierwszy dzień Bożego Narodzenia"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dzień Bożego Narodzenia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nowy Rok"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Święto Trzech Króli"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Niedziela Wielkanocna"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dzień Wielkanocy"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Święto Państwowe; Święto Pracy"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-03",
+        "to": "2028-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Święto Narodowe Trzeciego Maja"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-04",
+        "to": "2028-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Zielone Świątki"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dzień Bożego Ciała"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wniebowzięcie Najświętszej Maryi Panny"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wszystkich Świętych"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-11",
+        "to": "2028-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Narodowe Święto Niepodległości"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-24",
+        "to": "2028-12-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Wigilia Bożego Narodzenia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pierwszy dzień Bożego Narodzenia"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Drugi dzień Bożego Narodzenia"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nowy Rok"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Święto Trzech Króli"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Niedziela Wielkanocna"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Drugi dzień Wielkanocy"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Święto Państwowe; Święto Pracy"
+    },
+    {
+      "date": "2026-05-03",
+      "label": "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "Zielone Świątki"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Dzień Bożego Ciała"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Wszystkich Świętych"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Narodowe Święto Niepodległości"
+    },
+    {
+      "date": "2026-12-24",
+      "label": "Wigilia Bożego Narodzenia"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Pierwszy dzień Bożego Narodzenia"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Drugi dzień Bożego Narodzenia"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nowy Rok"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Święto Trzech Króli"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Niedziela Wielkanocna"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Drugi dzień Wielkanocy"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Święto Państwowe; Święto Pracy"
+    },
+    {
+      "date": "2027-05-03",
+      "label": "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Zielone Świątki"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Dzień Bożego Ciała"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Wszystkich Świętych"
+    },
+    {
+      "date": "2027-11-11",
+      "label": "Narodowe Święto Niepodległości"
+    },
+    {
+      "date": "2027-12-24",
+      "label": "Wigilia Bożego Narodzenia"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Pierwszy dzień Bożego Narodzenia"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Drugi dzień Bożego Narodzenia"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nowy Rok"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Święto Trzech Króli"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Niedziela Wielkanocna"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Drugi dzień Wielkanocy"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Święto Państwowe; Święto Pracy"
+    },
+    {
+      "date": "2028-05-03",
+      "label": "Święto Narodowe Trzeciego Maja"
+    },
+    {
+      "date": "2028-06-04",
+      "label": "Zielone Świątki"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Dzień Bożego Ciała"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Wniebowzięcie Najświętszej Maryi Panny"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Wszystkich Świętych"
+    },
+    {
+      "date": "2028-11-11",
+      "label": "Narodowe Święto Niepodległości"
+    },
+    {
+      "date": "2028-12-24",
+      "label": "Wigilia Bożego Narodzenia"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Pierwszy dzień Bożego Narodzenia"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Drugi dzień Bożego Narodzenia"
+    }
+  ]
+}

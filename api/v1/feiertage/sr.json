@@ -1,0 +1,654 @@
+{
+  "category": "feiertage",
+  "slug": "sr",
+  "meta": {
+    "title": "Suriname",
+    "description": "Gesetzliche Feiertage fuer Suriname. Nächster Feiertag: Dag der Inheemsen am 09.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "sr",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Chinees Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-25",
+        "to": "2026-02-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van Bevrijding en Vernieuwing"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-03",
+        "to": "2026-03-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Holifeest"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Suikerfeest (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Goede Vrijdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede paasdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Arbeid"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Offerfeest (Eid Al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-01",
+        "to": "2026-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag der Vrijheden (Keti koti)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-09",
+        "to": "2026-08-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag der Inheemsen"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-10",
+        "to": "2026-10-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Marrons"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-08",
+        "to": "2026-11-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Divali"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-25",
+        "to": "2026-11-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Onafhankelijkheidsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kerstmis"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede kerstdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-06",
+        "to": "2027-02-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Chinees Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-25",
+        "to": "2027-02-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van Bevrijding en Vernieuwing"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Suikerfeest (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-22",
+        "to": "2027-03-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Holifeest"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Goede Vrijdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede paasdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Arbeid"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Offerfeest (Eid Al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-01",
+        "to": "2027-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag der Vrijheden (Keti koti)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-09",
+        "to": "2027-08-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag der Inheemsen"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-10",
+        "to": "2027-10-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Marrons"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-28",
+        "to": "2027-10-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Divali"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-25",
+        "to": "2027-11-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Onafhankelijkheidsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kerstmis"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede kerstdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-26",
+        "to": "2028-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Chinees Nieuwjaar"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-25",
+        "to": "2028-02-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van Bevrijding en Vernieuwing"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Suikerfeest (Eid al-Fitr)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-11",
+        "to": "2028-03-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Holifeest"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Goede Vrijdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede paasdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Arbeid"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Offerfeest (Eid Al-Adha)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-01",
+        "to": "2028-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag der Vrijheden (Keti koti)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-09",
+        "to": "2028-08-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag der Inheemsen"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-10",
+        "to": "2028-10-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dag van de Marrons"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-17",
+        "to": "2028-10-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Divali"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-25",
+        "to": "2028-11-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Onafhankelijkheidsdag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Kerstmis"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tweede kerstdag"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Nieuwjaar"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "Chinees Nieuwjaar"
+    },
+    {
+      "date": "2026-02-25",
+      "label": "Dag van Bevrijding en Vernieuwing"
+    },
+    {
+      "date": "2026-03-03",
+      "label": "Holifeest"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Suikerfeest (Eid al-Fitr)"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Goede Vrijdag"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Tweede paasdag"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Dag van de Arbeid"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Offerfeest (Eid Al-Adha)"
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Dag der Vrijheden (Keti koti)"
+    },
+    {
+      "date": "2026-08-09",
+      "label": "Dag der Inheemsen"
+    },
+    {
+      "date": "2026-10-10",
+      "label": "Dag van de Marrons"
+    },
+    {
+      "date": "2026-11-08",
+      "label": "Divali"
+    },
+    {
+      "date": "2026-11-25",
+      "label": "Onafhankelijkheidsdag"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Kerstmis"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Tweede kerstdag"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Nieuwjaar"
+    },
+    {
+      "date": "2027-02-06",
+      "label": "Chinees Nieuwjaar"
+    },
+    {
+      "date": "2027-02-25",
+      "label": "Dag van Bevrijding en Vernieuwing"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Suikerfeest (Eid al-Fitr)"
+    },
+    {
+      "date": "2027-03-22",
+      "label": "Holifeest"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Goede Vrijdag"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Tweede paasdag"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Dag van de Arbeid"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Offerfeest (Eid Al-Adha)"
+    },
+    {
+      "date": "2027-07-01",
+      "label": "Dag der Vrijheden (Keti koti)"
+    },
+    {
+      "date": "2027-08-09",
+      "label": "Dag der Inheemsen"
+    },
+    {
+      "date": "2027-10-10",
+      "label": "Dag van de Marrons"
+    },
+    {
+      "date": "2027-10-28",
+      "label": "Divali"
+    },
+    {
+      "date": "2027-11-25",
+      "label": "Onafhankelijkheidsdag"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Kerstmis"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Tweede kerstdag"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Nieuwjaar"
+    },
+    {
+      "date": "2028-01-26",
+      "label": "Chinees Nieuwjaar"
+    },
+    {
+      "date": "2028-02-25",
+      "label": "Dag van Bevrijding en Vernieuwing"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Suikerfeest (Eid al-Fitr)"
+    },
+    {
+      "date": "2028-03-11",
+      "label": "Holifeest"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Goede Vrijdag"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Tweede paasdag"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Dag van de Arbeid"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Offerfeest (Eid Al-Adha)"
+    },
+    {
+      "date": "2028-07-01",
+      "label": "Dag der Vrijheden (Keti koti)"
+    },
+    {
+      "date": "2028-08-09",
+      "label": "Dag der Inheemsen"
+    },
+    {
+      "date": "2028-10-10",
+      "label": "Dag van de Marrons"
+    },
+    {
+      "date": "2028-10-17",
+      "label": "Divali"
+    },
+    {
+      "date": "2028-11-25",
+      "label": "Onafhankelijkheidsdag"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Kerstmis"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Tweede kerstdag"
+    }
+  ]
+}

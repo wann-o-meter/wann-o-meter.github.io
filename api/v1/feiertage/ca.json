@@ -1,0 +1,459 @@
+{
+  "category": "feiertage",
+  "slug": "ca",
+  "meta": {
+    "title": "Canada",
+    "description": "Gesetzliche Feiertage fuer Canada. Nächster Feiertag: Civic Holiday am 03.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ca",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Sunday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-18",
+        "to": "2026-05-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Victoria Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-01",
+        "to": "2026-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Canada Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-03",
+        "to": "2026-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Civic Holiday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-07",
+        "to": "2026-09-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-11",
+        "to": "2026-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Remembrance Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Sunday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-24",
+        "to": "2027-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Victoria Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-01",
+        "to": "2027-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Canada Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-02",
+        "to": "2027-08-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Civic Holiday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-06",
+        "to": "2027-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-11",
+        "to": "2027-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-11",
+        "to": "2027-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Remembrance Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Sunday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-22",
+        "to": "2028-05-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Victoria Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-01",
+        "to": "2028-07-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Canada Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-07",
+        "to": "2028-08-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Civic Holiday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-04",
+        "to": "2028-09-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-09",
+        "to": "2028-10-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Thanksgiving"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-11",
+        "to": "2028-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Remembrance Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Easter Sunday"
+    },
+    {
+      "date": "2026-05-18",
+      "label": "Victoria Day"
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Canada Day"
+    },
+    {
+      "date": "2026-08-03",
+      "label": "Civic Holiday"
+    },
+    {
+      "date": "2026-09-07",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Remembrance Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Easter Sunday"
+    },
+    {
+      "date": "2027-05-24",
+      "label": "Victoria Day"
+    },
+    {
+      "date": "2027-07-01",
+      "label": "Canada Day"
+    },
+    {
+      "date": "2027-08-02",
+      "label": "Civic Holiday"
+    },
+    {
+      "date": "2027-09-06",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2027-10-11",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2027-11-11",
+      "label": "Remembrance Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Easter Sunday"
+    },
+    {
+      "date": "2028-05-22",
+      "label": "Victoria Day"
+    },
+    {
+      "date": "2028-07-01",
+      "label": "Canada Day"
+    },
+    {
+      "date": "2028-08-07",
+      "label": "Civic Holiday"
+    },
+    {
+      "date": "2028-09-04",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2028-10-09",
+      "label": "Thanksgiving"
+    },
+    {
+      "date": "2028-11-11",
+      "label": "Remembrance Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    }
+  ]
+}

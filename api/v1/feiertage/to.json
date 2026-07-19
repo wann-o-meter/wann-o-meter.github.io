@@ -1,0 +1,459 @@
+{
+  "category": "feiertage",
+  "slug": "to",
+  "meta": {
+    "title": "Puleʻanga Fakatuʻi ʻo Tonga",
+    "description": "Gesetzliche Feiertage fuer Puleʻanga Fakatuʻi ʻo Tonga. Nächster Feiertag: Birthday of His Royal Highness The Crown Prince Tupotoʻa-ʻUlukalala am 21.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "to",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-25",
+        "to": "2026-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "ANZAC Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-08",
+        "to": "2026-06-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-04",
+        "to": "2026-07-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Official Birthday of His Majesty King Tupou VI"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-21",
+        "to": "2026-09-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of His Royal Highness The Crown Prince Tupotoʻa-ʻUlukalala"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-04",
+        "to": "2026-11-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Constitutional Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-07",
+        "to": "2026-12-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tupou I Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-25",
+        "to": "2027-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "ANZAC Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-07",
+        "to": "2027-06-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-04",
+        "to": "2027-07-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Official Birthday of His Majesty King Tupou VI"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-20",
+        "to": "2027-09-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of His Royal Highness The Crown Prince Tupotoʻa-ʻUlukalala"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-08",
+        "to": "2027-11-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Constitutional Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-06",
+        "to": "2027-12-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tupou I Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-25",
+        "to": "2028-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "ANZAC Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-05",
+        "to": "2028-06-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Emancipation Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-04",
+        "to": "2028-07-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Official Birthday of His Majesty King Tupou VI"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-18",
+        "to": "2028-09-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of His Royal Highness The Crown Prince Tupotoʻa-ʻUlukalala"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-06",
+        "to": "2028-11-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Constitutional Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-04",
+        "to": "2028-12-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tupou I Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2026-04-25",
+      "label": "ANZAC Day"
+    },
+    {
+      "date": "2026-06-08",
+      "label": "Emancipation Day"
+    },
+    {
+      "date": "2026-07-04",
+      "label": "Official Birthday of His Majesty King Tupou VI"
+    },
+    {
+      "date": "2026-09-21",
+      "label": "Birthday of His Royal Highness The Crown Prince Tupotoʻa-ʻUlukalala"
+    },
+    {
+      "date": "2026-11-04",
+      "label": "Constitutional Day"
+    },
+    {
+      "date": "2026-12-07",
+      "label": "Tupou I Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2027-04-25",
+      "label": "ANZAC Day"
+    },
+    {
+      "date": "2027-06-07",
+      "label": "Emancipation Day"
+    },
+    {
+      "date": "2027-07-04",
+      "label": "Official Birthday of His Majesty King Tupou VI"
+    },
+    {
+      "date": "2027-09-20",
+      "label": "Birthday of His Royal Highness The Crown Prince Tupotoʻa-ʻUlukalala"
+    },
+    {
+      "date": "2027-11-08",
+      "label": "Constitutional Day"
+    },
+    {
+      "date": "2027-12-06",
+      "label": "Tupou I Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2028-04-25",
+      "label": "ANZAC Day"
+    },
+    {
+      "date": "2028-06-05",
+      "label": "Emancipation Day"
+    },
+    {
+      "date": "2028-07-04",
+      "label": "Official Birthday of His Majesty King Tupou VI"
+    },
+    {
+      "date": "2028-09-18",
+      "label": "Birthday of His Royal Highness The Crown Prince Tupotoʻa-ʻUlukalala"
+    },
+    {
+      "date": "2028-11-06",
+      "label": "Constitutional Day"
+    },
+    {
+      "date": "2028-12-04",
+      "label": "Tupou I Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    }
+  ]
+}

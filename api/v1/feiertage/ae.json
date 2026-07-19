@@ -1,0 +1,355 @@
+{
+  "category": "feiertage",
+  "slug": "ae",
+  "meta": {
+    "title": "دولة الإمارات العربية المتحدة",
+    "description": "Gesetzliche Feiertage fuer دولة الإمارات العربية المتحدة. Nächster Feiertag: المولد النبويّ am 25.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ae",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الميلادية"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-16",
+        "to": "2026-01-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "الإسراء والمعراج"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-18",
+        "to": "2026-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "اليوم الأول من رمضان"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الفطر"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الأضحى"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-16",
+        "to": "2026-06-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الهجرية"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "المولد النبويّ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-02",
+        "to": "2026-12-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "اليوم الوطني"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الميلادية"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-05",
+        "to": "2027-01-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "الإسراء والمعراج"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-08",
+        "to": "2027-02-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "اليوم الأول من رمضان"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الفطر"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الأضحى"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الهجرية"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "المولد النبويّ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-02",
+        "to": "2027-12-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "اليوم الوطني"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "الإسراء والمعراج"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الميلادية"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-28",
+        "to": "2028-01-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "اليوم الأول من رمضان"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الفطر"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الأضحى"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الهجرية"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "المولد النبويّ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-02",
+        "to": "2028-12-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "اليوم الوطني"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-14",
+        "to": "2028-12-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "الإسراء والمعراج"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "رأس السنة الميلادية"
+    },
+    {
+      "date": "2026-01-16",
+      "label": "الإسراء والمعراج"
+    },
+    {
+      "date": "2026-02-18",
+      "label": "اليوم الأول من رمضان"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "عيد الفطر"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "عيد الأضحى"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "رأس السنة الهجرية"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "المولد النبويّ"
+    },
+    {
+      "date": "2026-12-02",
+      "label": "اليوم الوطني"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "رأس السنة الميلادية"
+    },
+    {
+      "date": "2027-01-05",
+      "label": "الإسراء والمعراج"
+    },
+    {
+      "date": "2027-02-08",
+      "label": "اليوم الأول من رمضان"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "عيد الفطر"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "عيد الأضحى"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "رأس السنة الهجرية"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "المولد النبويّ"
+    },
+    {
+      "date": "2027-12-02",
+      "label": "اليوم الوطني"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "الإسراء والمعراج"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "رأس السنة الميلادية"
+    },
+    {
+      "date": "2028-01-28",
+      "label": "اليوم الأول من رمضان"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "عيد الفطر"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "عيد الأضحى"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "رأس السنة الهجرية"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "المولد النبويّ"
+    },
+    {
+      "date": "2028-12-02",
+      "label": "اليوم الوطني"
+    },
+    {
+      "date": "2028-12-14",
+      "label": "الإسراء والمعراج"
+    }
+  ]
+}

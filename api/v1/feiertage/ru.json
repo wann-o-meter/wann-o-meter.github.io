@@ -1,0 +1,433 @@
+{
+  "category": "feiertage",
+  "slug": "ru",
+  "meta": {
+    "title": "Россия",
+    "description": "Gesetzliche Feiertage fuer Россия. Nächster Feiertag: День народного единства am 04.11.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ru",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новый год"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-02",
+        "to": "2026-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новогодние каникулы"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-07",
+        "to": "2026-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Рождество Христово"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-08",
+        "to": "2026-01-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новогодние каникулы"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-23",
+        "to": "2026-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "День защитника Отечества"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-08",
+        "to": "2026-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Международный женский день"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-09",
+        "to": "2026-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Международный женский день"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "День весны и труда"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-09",
+        "to": "2026-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "День Победы"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-12",
+        "to": "2026-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "День России"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-04",
+        "to": "2026-11-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "День народного единства"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новый год"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-02",
+        "to": "2027-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новогодние каникулы"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-07",
+        "to": "2027-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Рождество Христово"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-08",
+        "to": "2027-01-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новогодние каникулы"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-23",
+        "to": "2027-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "День защитника Отечества"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Международный женский день"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "День весны и труда"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-09",
+        "to": "2027-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "День Победы"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-12",
+        "to": "2027-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "День России"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-04",
+        "to": "2027-11-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "День народного единства"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новый год"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-02",
+        "to": "2028-01-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новогодние каникулы"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-07",
+        "to": "2028-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Рождество Христово"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-08",
+        "to": "2028-01-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Новогодние каникулы"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-23",
+        "to": "2028-02-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "День защитника Отечества"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Международный женский день"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "День весны и труда"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-09",
+        "to": "2028-05-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "День Победы"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-12",
+        "to": "2028-06-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "День России"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-04",
+        "to": "2028-11-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "День народного единства"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Новый год"
+    },
+    {
+      "date": "2026-01-02",
+      "label": "Новогодние каникулы"
+    },
+    {
+      "date": "2026-01-07",
+      "label": "Рождество Христово"
+    },
+    {
+      "date": "2026-01-08",
+      "label": "Новогодние каникулы"
+    },
+    {
+      "date": "2026-02-23",
+      "label": "День защитника Отечества"
+    },
+    {
+      "date": "2026-03-08",
+      "label": "Международный женский день"
+    },
+    {
+      "date": "2026-03-09",
+      "label": "Международный женский день"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "День весны и труда"
+    },
+    {
+      "date": "2026-05-09",
+      "label": "День Победы"
+    },
+    {
+      "date": "2026-06-12",
+      "label": "День России"
+    },
+    {
+      "date": "2026-11-04",
+      "label": "День народного единства"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Новый год"
+    },
+    {
+      "date": "2027-01-02",
+      "label": "Новогодние каникулы"
+    },
+    {
+      "date": "2027-01-07",
+      "label": "Рождество Христово"
+    },
+    {
+      "date": "2027-01-08",
+      "label": "Новогодние каникулы"
+    },
+    {
+      "date": "2027-02-23",
+      "label": "День защитника Отечества"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "Международный женский день"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "День весны и труда"
+    },
+    {
+      "date": "2027-05-09",
+      "label": "День Победы"
+    },
+    {
+      "date": "2027-06-12",
+      "label": "День России"
+    },
+    {
+      "date": "2027-11-04",
+      "label": "День народного единства"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Новый год"
+    },
+    {
+      "date": "2028-01-02",
+      "label": "Новогодние каникулы"
+    },
+    {
+      "date": "2028-01-07",
+      "label": "Рождество Христово"
+    },
+    {
+      "date": "2028-01-08",
+      "label": "Новогодние каникулы"
+    },
+    {
+      "date": "2028-02-23",
+      "label": "День защитника Отечества"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "Международный женский день"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "День весны и труда"
+    },
+    {
+      "date": "2028-05-09",
+      "label": "День Победы"
+    },
+    {
+      "date": "2028-06-12",
+      "label": "День России"
+    },
+    {
+      "date": "2028-11-04",
+      "label": "День народного единства"
+    }
+  ]
+}

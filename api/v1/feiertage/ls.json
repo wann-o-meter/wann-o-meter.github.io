@@ -1,0 +1,459 @@
+{
+  "category": "feiertage",
+  "slug": "ls",
+  "meta": {
+    "title": "\\'Muso oa Lesotho",
+    "description": "Gesetzliche Feiertage fuer \\'Muso oa Lesotho. Nächster Feiertag: Independence Day am 04.10.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ls",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-11",
+        "to": "2026-03-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Moshoeshoe Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Workers' Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascension Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Africa Day/ Heroes' Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-17",
+        "to": "2026-07-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "King Letsie III's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-04",
+        "to": "2026-10-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-11",
+        "to": "2027-03-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Moshoeshoe Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Workers' Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascension Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-25",
+        "to": "2027-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Africa Day/ Heroes' Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-17",
+        "to": "2027-07-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "King Letsie III's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-04",
+        "to": "2027-10-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-11",
+        "to": "2028-03-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Moshoeshoe Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Workers' Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Africa Day/ Heroes' Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascension Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-17",
+        "to": "2028-07-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "King Letsie III's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-04",
+        "to": "2028-10-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Independence Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-03-11",
+      "label": "Moshoeshoe Day"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Workers' Day"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "Ascension Day"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Africa Day/ Heroes' Day"
+    },
+    {
+      "date": "2026-07-17",
+      "label": "King Letsie III's Birthday"
+    },
+    {
+      "date": "2026-10-04",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-03-11",
+      "label": "Moshoeshoe Day"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Workers' Day"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "Ascension Day"
+    },
+    {
+      "date": "2027-05-25",
+      "label": "Africa Day/ Heroes' Day"
+    },
+    {
+      "date": "2027-07-17",
+      "label": "King Letsie III's Birthday"
+    },
+    {
+      "date": "2027-10-04",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-03-11",
+      "label": "Moshoeshoe Day"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Workers' Day"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Africa Day/ Heroes' Day"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Ascension Day"
+    },
+    {
+      "date": "2028-07-17",
+      "label": "King Letsie III's Birthday"
+    },
+    {
+      "date": "2028-10-04",
+      "label": "Independence Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    }
+  ]
+}

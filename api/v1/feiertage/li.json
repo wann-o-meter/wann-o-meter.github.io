@@ -1,0 +1,576 @@
+{
+  "category": "feiertage",
+  "slug": "li",
+  "meta": {
+    "title": "Liechtenstein",
+    "description": "Gesetzliche Feiertage fuer Liechtenstein. Nächster Feiertag: Mariä Geburt am 08.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "li",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Neujahr"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Heilige Drei Könige"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Karfreitag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ostermontag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tag der Arbeit"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Auffahrt"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-15",
+        "to": "2026-05-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feiertagsbrücke"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pfingstmontag"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-04",
+        "to": "2026-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fronleichnam"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-05",
+        "to": "2026-06-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feiertagsbrücke"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-08",
+        "to": "2026-09-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mariä Geburt"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-08",
+        "to": "2026-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mariä Empfängnis"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Weihnachten"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Stephanstag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Neujahr"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Heilige Drei Könige"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Karfreitag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ostermontag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tag der Arbeit"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Auffahrt"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-07",
+        "to": "2027-05-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feiertagsbrücke"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-17",
+        "to": "2027-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pfingstmontag"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fronleichnam"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-28",
+        "to": "2027-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feiertagsbrücke"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-08",
+        "to": "2027-09-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mariä Geburt"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-08",
+        "to": "2027-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mariä Empfängnis"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Weihnachten"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Stephanstag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Neujahr"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-06",
+        "to": "2028-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Heilige Drei Könige"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Karfreitag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ostermontag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Tag der Arbeit"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Auffahrt"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-26",
+        "to": "2028-05-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feiertagsbrücke"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-05",
+        "to": "2028-06-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pfingstmontag"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fronleichnam"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-16",
+        "to": "2028-06-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Feiertagsbrücke"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-08",
+        "to": "2028-09-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mariä Geburt"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-08",
+        "to": "2028-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mariä Empfängnis"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Weihnachten"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Stephanstag"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Neujahr"
+    },
+    {
+      "date": "2026-01-06",
+      "label": "Heilige Drei Könige"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Karfreitag"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Ostermontag"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Tag der Arbeit"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "Auffahrt"
+    },
+    {
+      "date": "2026-05-15",
+      "label": "Feiertagsbrücke"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Pfingstmontag"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Fronleichnam"
+    },
+    {
+      "date": "2026-06-05",
+      "label": "Feiertagsbrücke"
+    },
+    {
+      "date": "2026-09-08",
+      "label": "Mariä Geburt"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "Mariä Empfängnis"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Weihnachten"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Stephanstag"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Neujahr"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "Heilige Drei Könige"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Karfreitag"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Ostermontag"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Tag der Arbeit"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "Auffahrt"
+    },
+    {
+      "date": "2027-05-07",
+      "label": "Feiertagsbrücke"
+    },
+    {
+      "date": "2027-05-17",
+      "label": "Pfingstmontag"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Fronleichnam"
+    },
+    {
+      "date": "2027-05-28",
+      "label": "Feiertagsbrücke"
+    },
+    {
+      "date": "2027-09-08",
+      "label": "Mariä Geburt"
+    },
+    {
+      "date": "2027-12-08",
+      "label": "Mariä Empfängnis"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Weihnachten"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Stephanstag"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Neujahr"
+    },
+    {
+      "date": "2028-01-06",
+      "label": "Heilige Drei Könige"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Karfreitag"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Ostermontag"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Tag der Arbeit"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Auffahrt"
+    },
+    {
+      "date": "2028-05-26",
+      "label": "Feiertagsbrücke"
+    },
+    {
+      "date": "2028-06-05",
+      "label": "Pfingstmontag"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Fronleichnam"
+    },
+    {
+      "date": "2028-06-16",
+      "label": "Feiertagsbrücke"
+    },
+    {
+      "date": "2028-09-08",
+      "label": "Mariä Geburt"
+    },
+    {
+      "date": "2028-12-08",
+      "label": "Mariä Empfängnis"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Weihnachten"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Stephanstag"
+    }
+  ]
+}

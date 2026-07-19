@@ -1,0 +1,472 @@
+{
+  "category": "feiertage",
+  "slug": "br",
+  "meta": {
+    "title": "Brasil",
+    "description": "Gesetzliche Feiertage fuer Brasil. Nächster Feiertag: Dia da Independência am 07.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "br",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sexta-Feira Santa"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-21",
+        "to": "2026-04-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Tiradentes"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-07",
+        "to": "2026-09-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-04",
+        "to": "2026-10-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Eleição"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nossa Senhora Aparecida"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-25",
+        "to": "2026-10-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Eleição"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-02",
+        "to": "2026-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Finados"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-15",
+        "to": "2026-11-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Proclamação da República"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-20",
+        "to": "2026-11-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Consciência Negra"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sexta-Feira Santa"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-21",
+        "to": "2027-04-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Tiradentes"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-07",
+        "to": "2027-09-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-12",
+        "to": "2027-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nossa Senhora Aparecida"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-02",
+        "to": "2027-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Finados"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-15",
+        "to": "2027-11-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Proclamação da República"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-20",
+        "to": "2027-11-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Consciência Negra"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sexta-Feira Santa"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-21",
+        "to": "2028-04-21",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Tiradentes"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-07",
+        "to": "2028-09-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-01",
+        "to": "2028-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Eleição"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-12",
+        "to": "2028-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Nossa Senhora Aparecida"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-29",
+        "to": "2028-10-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Eleição"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-02",
+        "to": "2028-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Finados"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-15",
+        "to": "2028-11-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Proclamação da República"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-20",
+        "to": "2028-11-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Consciência Negra"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Sexta-Feira Santa"
+    },
+    {
+      "date": "2026-04-21",
+      "label": "Dia de Tiradentes"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2026-09-07",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2026-10-04",
+      "label": "Dia de Eleição"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Nossa Senhora Aparecida"
+    },
+    {
+      "date": "2026-10-25",
+      "label": "Dia de Eleição"
+    },
+    {
+      "date": "2026-11-02",
+      "label": "Dia de Finados"
+    },
+    {
+      "date": "2026-11-15",
+      "label": "Proclamação da República"
+    },
+    {
+      "date": "2026-11-20",
+      "label": "Dia da Consciência Negra"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Sexta-Feira Santa"
+    },
+    {
+      "date": "2027-04-21",
+      "label": "Dia de Tiradentes"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2027-09-07",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2027-10-12",
+      "label": "Nossa Senhora Aparecida"
+    },
+    {
+      "date": "2027-11-02",
+      "label": "Dia de Finados"
+    },
+    {
+      "date": "2027-11-15",
+      "label": "Proclamação da República"
+    },
+    {
+      "date": "2027-11-20",
+      "label": "Dia da Consciência Negra"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Sexta-Feira Santa"
+    },
+    {
+      "date": "2028-04-21",
+      "label": "Dia de Tiradentes"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2028-09-07",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2028-10-01",
+      "label": "Dia de Eleição"
+    },
+    {
+      "date": "2028-10-12",
+      "label": "Nossa Senhora Aparecida"
+    },
+    {
+      "date": "2028-10-29",
+      "label": "Dia de Eleição"
+    },
+    {
+      "date": "2028-11-02",
+      "label": "Dia de Finados"
+    },
+    {
+      "date": "2028-11-15",
+      "label": "Proclamação da República"
+    },
+    {
+      "date": "2028-11-20",
+      "label": "Dia da Consciência Negra"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Natal"
+    }
+  ]
+}

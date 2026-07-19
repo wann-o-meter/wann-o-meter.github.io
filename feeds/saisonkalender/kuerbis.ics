@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Kürbis
+BEGIN:VEVENT
+UID:saisonkalender-kuerbis-2026-09-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20261101
+SUMMARY:Kürbis
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-kuerbis-2027-09-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20271101
+SUMMARY:Kürbis
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-kuerbis-2028-09-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280901
+DTEND;VALUE=DATE:20281101
+SUMMARY:Kürbis
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+END:VCALENDAR

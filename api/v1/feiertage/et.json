@@ -1,0 +1,537 @@
+{
+  "category": "feiertage",
+  "slug": "et",
+  "meta": {
+    "title": "ኢትዮጵያ",
+    "description": "Gesetzliche Feiertage fuer ኢትዮጵያ. Nächster Feiertag: መውሊድ am 25.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "et",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-06",
+        "to": "2026-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "ልደተ-ለእግዚእነ/ ገና"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-19",
+        "to": "2026-01-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "ብርሐነ ጥምቀት"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-18",
+        "to": "2026-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "ረመዳን"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-02",
+        "to": "2026-03-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "የዓድዋ ድል በዓል"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "ዒድ አል ፈጥር"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-28",
+        "to": "2026-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "የቀይ ሽብር መታሰቢያ ቀን"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-10",
+        "to": "2026-04-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "ስቅለት"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-12",
+        "to": "2026-04-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "ፋሲካ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "ዒድ አል አድሐ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-28",
+        "to": "2026-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "ደርግ የወደቀበት ቀን"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "መውሊድ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-11",
+        "to": "2026-09-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "እንቁጣጣሽ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-27",
+        "to": "2026-09-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "ብርሐነ-መስቀል"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-06",
+        "to": "2027-01-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "ልደተ-ለእግዚእነ/ ገና"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-19",
+        "to": "2027-01-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "ብርሐነ ጥምቀት"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-08",
+        "to": "2027-02-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "ረመዳን"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-02",
+        "to": "2027-03-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "የዓድዋ ድል በዓል"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "ዒድ አል ፈጥር"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "የቀይ ሽብር መታሰቢያ ቀን"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-30",
+        "to": "2027-04-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "ስቅለት"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-02",
+        "to": "2027-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "ፋሲካ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "ዒድ አል አድሐ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-28",
+        "to": "2027-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "ደርግ የወደቀበት ቀን"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "መውሊድ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-11",
+        "to": "2027-09-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "እንቁጣጣሽ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-27",
+        "to": "2027-09-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "ብርሐነ-መስቀል"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-07",
+        "to": "2028-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "ልደተ-ለእግዚእነ/ ገና"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-19",
+        "to": "2028-01-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "ብርሐነ ጥምቀት"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-28",
+        "to": "2028-01-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "ረመዳን"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "ዒድ አል ፈጥር"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-02",
+        "to": "2028-03-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "የዓድዋ ድል በዓል"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-28",
+        "to": "2028-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "የቀይ ሽብር መታሰቢያ ቀን"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "ስቅለት"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "ፋሲካ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "ዒድ አል አድሐ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-28",
+        "to": "2028-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "ደርግ የወደቀበት ቀን"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "መውሊድ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-12",
+        "to": "2028-09-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "እንቁጣጣሽ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-28",
+        "to": "2028-09-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "ብርሐነ-መስቀል"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-06",
+      "label": "ልደተ-ለእግዚእነ/ ገና"
+    },
+    {
+      "date": "2026-01-19",
+      "label": "ብርሐነ ጥምቀት"
+    },
+    {
+      "date": "2026-02-18",
+      "label": "ረመዳን"
+    },
+    {
+      "date": "2026-03-02",
+      "label": "የዓድዋ ድል በዓል"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "ዒድ አል ፈጥር"
+    },
+    {
+      "date": "2026-03-28",
+      "label": "የቀይ ሽብር መታሰቢያ ቀን"
+    },
+    {
+      "date": "2026-04-10",
+      "label": "ስቅለት"
+    },
+    {
+      "date": "2026-04-12",
+      "label": "ፋሲካ"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "ዒድ አል አድሐ"
+    },
+    {
+      "date": "2026-05-28",
+      "label": "ደርግ የወደቀበት ቀን"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "መውሊድ"
+    },
+    {
+      "date": "2026-09-11",
+      "label": "እንቁጣጣሽ"
+    },
+    {
+      "date": "2026-09-27",
+      "label": "ብርሐነ-መስቀል"
+    },
+    {
+      "date": "2027-01-06",
+      "label": "ልደተ-ለእግዚእነ/ ገና"
+    },
+    {
+      "date": "2027-01-19",
+      "label": "ብርሐነ ጥምቀት"
+    },
+    {
+      "date": "2027-02-08",
+      "label": "ረመዳን"
+    },
+    {
+      "date": "2027-03-02",
+      "label": "የዓድዋ ድል በዓል"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "ዒድ አል ፈጥር"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "የቀይ ሽብር መታሰቢያ ቀን"
+    },
+    {
+      "date": "2027-04-30",
+      "label": "ስቅለት"
+    },
+    {
+      "date": "2027-05-02",
+      "label": "ፋሲካ"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "ዒድ አል አድሐ"
+    },
+    {
+      "date": "2027-05-28",
+      "label": "ደርግ የወደቀበት ቀን"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "መውሊድ"
+    },
+    {
+      "date": "2027-09-11",
+      "label": "እንቁጣጣሽ"
+    },
+    {
+      "date": "2027-09-27",
+      "label": "ብርሐነ-መስቀል"
+    },
+    {
+      "date": "2028-01-07",
+      "label": "ልደተ-ለእግዚእነ/ ገና"
+    },
+    {
+      "date": "2028-01-19",
+      "label": "ብርሐነ ጥምቀት"
+    },
+    {
+      "date": "2028-01-28",
+      "label": "ረመዳን"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "ዒድ አል ፈጥር"
+    },
+    {
+      "date": "2028-03-02",
+      "label": "የዓድዋ ድል በዓል"
+    },
+    {
+      "date": "2028-03-28",
+      "label": "የቀይ ሽብር መታሰቢያ ቀን"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "ስቅለት"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "ፋሲካ"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "ዒድ አል አድሐ"
+    },
+    {
+      "date": "2028-05-28",
+      "label": "ደርግ የወደቀበት ቀን"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "መውሊድ"
+    },
+    {
+      "date": "2028-09-12",
+      "label": "እንቁጣጣሽ"
+    },
+    {
+      "date": "2028-09-28",
+      "label": "ብርሐነ-መስቀል"
+    }
+  ]
+}

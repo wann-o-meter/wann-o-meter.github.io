@@ -1,0 +1,615 @@
+{
+  "category": "feiertage",
+  "slug": "cn",
+  "meta": {
+    "title": "中华人民共和国",
+    "description": "Gesetzliche Feiertage fuer 中华人民共和国. Nächster Feiertag: 建军节 am 01.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "cn",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "元旦"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-16",
+        "to": "2026-02-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "春节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "春节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-18",
+        "to": "2026-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "春节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-08",
+        "to": "2026-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "国际妇女节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "清明节 清明節"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "劳动节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-04",
+        "to": "2026-05-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "青年节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-01",
+        "to": "2026-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "六一儿童节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-19",
+        "to": "2026-06-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "端午节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-01",
+        "to": "2026-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "建军节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-25",
+        "to": "2026-09-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "中秋节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-01",
+        "to": "2026-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "国庆节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-02",
+        "to": "2026-10-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "国庆节"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-03",
+        "to": "2026-10-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "国庆节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "元旦"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-05",
+        "to": "2027-02-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "春节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-06",
+        "to": "2027-02-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "春节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-07",
+        "to": "2027-02-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "春节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "国际妇女节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-05",
+        "to": "2027-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "清明节 清明節"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "劳动节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-04",
+        "to": "2027-05-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "青年节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-01",
+        "to": "2027-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "六一儿童节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-09",
+        "to": "2027-06-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "端午节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-01",
+        "to": "2027-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "建军节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-15",
+        "to": "2027-09-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "中秋节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-01",
+        "to": "2027-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "国庆节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-02",
+        "to": "2027-10-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "国庆节"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-03",
+        "to": "2027-10-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "国庆节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "元旦"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-25",
+        "to": "2028-01-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "春节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-26",
+        "to": "2028-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "春节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-27",
+        "to": "2028-01-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "春节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "国际妇女节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-04",
+        "to": "2028-04-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "清明节 清明節"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "劳动节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-04",
+        "to": "2028-05-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "青年节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-28",
+        "to": "2028-05-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "端午节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-01",
+        "to": "2028-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "六一儿童节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-01",
+        "to": "2028-08-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "建军节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-01",
+        "to": "2028-10-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "国庆节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-02",
+        "to": "2028-10-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "国庆节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-03",
+        "to": "2028-10-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "国庆节"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-03",
+        "to": "2028-10-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "中秋节"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "元旦"
+    },
+    {
+      "date": "2026-02-16",
+      "label": "春节"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "春节"
+    },
+    {
+      "date": "2026-02-18",
+      "label": "春节"
+    },
+    {
+      "date": "2026-03-08",
+      "label": "国际妇女节"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "清明节 清明節"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "劳动节"
+    },
+    {
+      "date": "2026-05-04",
+      "label": "青年节"
+    },
+    {
+      "date": "2026-06-01",
+      "label": "六一儿童节"
+    },
+    {
+      "date": "2026-06-19",
+      "label": "端午节"
+    },
+    {
+      "date": "2026-08-01",
+      "label": "建军节"
+    },
+    {
+      "date": "2026-09-25",
+      "label": "中秋节"
+    },
+    {
+      "date": "2026-10-01",
+      "label": "国庆节"
+    },
+    {
+      "date": "2026-10-02",
+      "label": "国庆节"
+    },
+    {
+      "date": "2026-10-03",
+      "label": "国庆节"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "元旦"
+    },
+    {
+      "date": "2027-02-05",
+      "label": "春节"
+    },
+    {
+      "date": "2027-02-06",
+      "label": "春节"
+    },
+    {
+      "date": "2027-02-07",
+      "label": "春节"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "国际妇女节"
+    },
+    {
+      "date": "2027-04-05",
+      "label": "清明节 清明節"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "劳动节"
+    },
+    {
+      "date": "2027-05-04",
+      "label": "青年节"
+    },
+    {
+      "date": "2027-06-01",
+      "label": "六一儿童节"
+    },
+    {
+      "date": "2027-06-09",
+      "label": "端午节"
+    },
+    {
+      "date": "2027-08-01",
+      "label": "建军节"
+    },
+    {
+      "date": "2027-09-15",
+      "label": "中秋节"
+    },
+    {
+      "date": "2027-10-01",
+      "label": "国庆节"
+    },
+    {
+      "date": "2027-10-02",
+      "label": "国庆节"
+    },
+    {
+      "date": "2027-10-03",
+      "label": "国庆节"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "元旦"
+    },
+    {
+      "date": "2028-01-25",
+      "label": "春节"
+    },
+    {
+      "date": "2028-01-26",
+      "label": "春节"
+    },
+    {
+      "date": "2028-01-27",
+      "label": "春节"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "国际妇女节"
+    },
+    {
+      "date": "2028-04-04",
+      "label": "清明节 清明節"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "劳动节"
+    },
+    {
+      "date": "2028-05-04",
+      "label": "青年节"
+    },
+    {
+      "date": "2028-05-28",
+      "label": "端午节"
+    },
+    {
+      "date": "2028-06-01",
+      "label": "六一儿童节"
+    },
+    {
+      "date": "2028-08-01",
+      "label": "建军节"
+    },
+    {
+      "date": "2028-10-01",
+      "label": "国庆节"
+    },
+    {
+      "date": "2028-10-02",
+      "label": "国庆节"
+    },
+    {
+      "date": "2028-10-03",
+      "label": "国庆节"
+    },
+    {
+      "date": "2028-10-03",
+      "label": "中秋节"
+    }
+  ]
+}

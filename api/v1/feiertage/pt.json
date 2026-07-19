@@ -1,0 +1,537 @@
+{
+  "category": "feiertage",
+  "slug": "pt",
+  "meta": {
+    "title": "Portugal",
+    "description": "Gesetzliche Feiertage fuer Portugal. Nächster Feiertag: Assunção de Maria am 15.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "pt",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sexta-Feira Santa"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Páscoa"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-25",
+        "to": "2026-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Liberdade"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-04",
+        "to": "2026-06-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpo de Deus"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-10",
+        "to": "2026-06-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Portugal"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-15",
+        "to": "2026-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Assunção de Maria"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-05",
+        "to": "2026-10-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Implantação da República"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos os santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-01",
+        "to": "2026-12-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Restauração da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-08",
+        "to": "2026-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Imaculada Conceição"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sexta-Feira Santa"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Páscoa"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-25",
+        "to": "2027-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Liberdade"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-27",
+        "to": "2027-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpo de Deus"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-10",
+        "to": "2027-06-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Portugal"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-15",
+        "to": "2027-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Assunção de Maria"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-05",
+        "to": "2027-10-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Implantação da República"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos os santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-01",
+        "to": "2027-12-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Restauração da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-08",
+        "to": "2027-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Imaculada Conceição"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sexta-Feira Santa"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Páscoa"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-25",
+        "to": "2028-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Liberdade"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-10",
+        "to": "2028-06-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Portugal"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-15",
+        "to": "2028-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Corpo de Deus"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-15",
+        "to": "2028-08-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Assunção de Maria"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-05",
+        "to": "2028-10-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Implantação da República"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Todos os santos"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-01",
+        "to": "2028-12-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Restauração da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-08",
+        "to": "2028-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Imaculada Conceição"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Sexta-Feira Santa"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Páscoa"
+    },
+    {
+      "date": "2026-04-25",
+      "label": "Dia da Liberdade"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2026-06-04",
+      "label": "Corpo de Deus"
+    },
+    {
+      "date": "2026-06-10",
+      "label": "Dia de Portugal"
+    },
+    {
+      "date": "2026-08-15",
+      "label": "Assunção de Maria"
+    },
+    {
+      "date": "2026-10-05",
+      "label": "Implantação da República"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Todos os santos"
+    },
+    {
+      "date": "2026-12-01",
+      "label": "Restauração da Independência"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "Imaculada Conceição"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Sexta-Feira Santa"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Páscoa"
+    },
+    {
+      "date": "2027-04-25",
+      "label": "Dia da Liberdade"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2027-05-27",
+      "label": "Corpo de Deus"
+    },
+    {
+      "date": "2027-06-10",
+      "label": "Dia de Portugal"
+    },
+    {
+      "date": "2027-08-15",
+      "label": "Assunção de Maria"
+    },
+    {
+      "date": "2027-10-05",
+      "label": "Implantação da República"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "Todos os santos"
+    },
+    {
+      "date": "2027-12-01",
+      "label": "Restauração da Independência"
+    },
+    {
+      "date": "2027-12-08",
+      "label": "Imaculada Conceição"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Sexta-Feira Santa"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Páscoa"
+    },
+    {
+      "date": "2028-04-25",
+      "label": "Dia da Liberdade"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2028-06-10",
+      "label": "Dia de Portugal"
+    },
+    {
+      "date": "2028-06-15",
+      "label": "Corpo de Deus"
+    },
+    {
+      "date": "2028-08-15",
+      "label": "Assunção de Maria"
+    },
+    {
+      "date": "2028-10-05",
+      "label": "Implantação da República"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "Todos os santos"
+    },
+    {
+      "date": "2028-12-01",
+      "label": "Restauração da Independência"
+    },
+    {
+      "date": "2028-12-08",
+      "label": "Imaculada Conceição"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Natal"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "category": "saisonkalender",
+  "slug": "apfel",
+  "meta": {
+    "title": "Apfel",
+    "description": "Saisonkalender fuer Apfel - wann Hauptsaison ist oder er als Lagerware verfuegbar ist.",
+    "tags": [
+      "saisonkalender"
+    ],
+    "featured": true
+  },
+  "data": {
+    "subject": {
+      "slug": "apfel",
+      "category": "saisonkalender"
+    },
+    "source": [
+      {
+        "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
+        "license": "dl_de_by",
+        "license_note": "Bundeszentrum fuer Ernaehrung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem oeffentlich bekannten BZfE-Saisonkalender, quer geprueft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+        "retrieved_at": "2026-07-12",
+        "extraction": "manual"
+      }
+    ],
+    "windows": [
+      {
+        "type": "main_season",
+        "year": null,
+        "from": "--08",
+        "to": "--11",
+        "precision": "approximate",
+        "ics": false,
+        "name": "Hauptsaison"
+      },
+      {
+        "type": "stored_produce",
+        "year": null,
+        "from": "--12",
+        "to": "--04",
+        "precision": "approximate",
+        "ics": false,
+        "name": "Lagerware"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-08-01",
+      "to": "2026-11-30",
+      "label": "Hauptsaison"
+    },
+    {
+      "date": "2026-12-01",
+      "to": "2027-04-30",
+      "label": "Lagerware"
+    },
+    {
+      "date": "2027-08-01",
+      "to": "2027-11-30",
+      "label": "Hauptsaison"
+    },
+    {
+      "date": "2027-12-01",
+      "to": "2028-04-30",
+      "label": "Lagerware"
+    },
+    {
+      "date": "2028-08-01",
+      "to": "2028-11-30",
+      "label": "Hauptsaison"
+    },
+    {
+      "date": "2028-12-01",
+      "to": "2029-04-30",
+      "label": "Lagerware"
+    }
+  ]
+}

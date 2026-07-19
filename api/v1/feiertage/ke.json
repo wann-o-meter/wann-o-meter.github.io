@@ -1,0 +1,576 @@
+{
+  "category": "feiertage",
+  "slug": "ke",
+  "meta": {
+    "title": "Kenya",
+    "description": "Gesetzliche Feiertage fuer Kenya. Nächster Feiertag: Moi Day am 10.10.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ke",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mwaka mpya"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Idd-ul-Fitr"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ijumaa Kuu"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-05",
+        "to": "2026-04-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pasaka"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jumatatu ya Pasaka"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Idd-ul-Azha"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-01",
+        "to": "2026-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Madaraka"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-10",
+        "to": "2026-10-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Moi Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-20",
+        "to": "2026-10-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Mashujaa"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-12",
+        "to": "2026-12-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Jamhuri"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Krismasi"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mwaka mpya"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Idd-ul-Fitr"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ijumaa Kuu"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-28",
+        "to": "2027-03-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pasaka"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jumatatu ya Pasaka"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Idd-ul-Azha"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-01",
+        "to": "2027-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Madaraka"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-10",
+        "to": "2027-10-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Moi Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-11",
+        "to": "2027-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Moi Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-20",
+        "to": "2027-10-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Mashujaa"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-12",
+        "to": "2027-12-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Jamhuri"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-13",
+        "to": "2027-12-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Jamhuri (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Krismasi"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-27",
+        "to": "2027-12-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Mwaka mpya"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Idd-ul-Fitr"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ijumaa Kuu"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Pasaka"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Jumatatu ya Pasaka"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "Idd-ul-Azha"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-01",
+        "to": "2028-06-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Madaraka"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-10",
+        "to": "2028-10-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Moi Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-20",
+        "to": "2028-10-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Mashujaa"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-12",
+        "to": "2028-12-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Siku ya Jamhuri"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Krismasi"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Mwaka mpya"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Idd-ul-Fitr"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Ijumaa Kuu"
+    },
+    {
+      "date": "2026-04-05",
+      "label": "Pasaka"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Jumatatu ya Pasaka"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "Idd-ul-Azha"
+    },
+    {
+      "date": "2026-06-01",
+      "label": "Siku ya Madaraka"
+    },
+    {
+      "date": "2026-10-10",
+      "label": "Moi Day"
+    },
+    {
+      "date": "2026-10-20",
+      "label": "Siku ya Mashujaa"
+    },
+    {
+      "date": "2026-12-12",
+      "label": "Siku ya Jamhuri"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Krismasi"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Mwaka mpya"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Idd-ul-Fitr"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Ijumaa Kuu"
+    },
+    {
+      "date": "2027-03-28",
+      "label": "Pasaka"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Jumatatu ya Pasaka"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "Idd-ul-Azha"
+    },
+    {
+      "date": "2027-06-01",
+      "label": "Siku ya Madaraka"
+    },
+    {
+      "date": "2027-10-10",
+      "label": "Moi Day"
+    },
+    {
+      "date": "2027-10-11",
+      "label": "Moi Day (substitute day)"
+    },
+    {
+      "date": "2027-10-20",
+      "label": "Siku ya Mashujaa"
+    },
+    {
+      "date": "2027-12-12",
+      "label": "Siku ya Jamhuri"
+    },
+    {
+      "date": "2027-12-13",
+      "label": "Siku ya Jamhuri (substitute day)"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Krismasi"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-12-27",
+      "label": "Boxing Day (substitute day)"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Mwaka mpya"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Idd-ul-Fitr"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Ijumaa Kuu"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Pasaka"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Jumatatu ya Pasaka"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "Idd-ul-Azha"
+    },
+    {
+      "date": "2028-06-01",
+      "label": "Siku ya Madaraka"
+    },
+    {
+      "date": "2028-10-10",
+      "label": "Moi Day"
+    },
+    {
+      "date": "2028-10-20",
+      "label": "Siku ya Mashujaa"
+    },
+    {
+      "date": "2028-12-12",
+      "label": "Siku ya Jamhuri"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Krismasi"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    }
+  ]
+}

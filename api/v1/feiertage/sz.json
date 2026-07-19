@@ -1,0 +1,628 @@
+{
+  "category": "feiertage",
+  "slug": "sz",
+  "meta": {
+    "title": "Eswatini",
+    "description": "Gesetzliche Feiertage fuer Eswatini. Nächster Feiertag: Birthday of the late King Sobhuza am 22.07.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "sz",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-19",
+        "to": "2026-04-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of King Mswati III"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-20",
+        "to": "2026-04-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of King Mswati III (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-25",
+        "to": "2026-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Flag Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-27",
+        "to": "2026-04-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Flag Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-14",
+        "to": "2026-05-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascension Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-22",
+        "to": "2026-07-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of the late King Sobhuza"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-06",
+        "to": "2026-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Somhlolo Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-07",
+        "to": "2026-09-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Umhlanga Reed Dance"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-07",
+        "to": "2026-09-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Somhlolo Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-28",
+        "to": "2026-12-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Incwala"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-19",
+        "to": "2027-04-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of King Mswati III"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-25",
+        "to": "2027-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Flag Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-26",
+        "to": "2027-04-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Flag Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-03",
+        "to": "2027-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-06",
+        "to": "2027-05-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascension Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-22",
+        "to": "2027-07-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of the late King Sobhuza"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-06",
+        "to": "2027-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Umhlanga Reed Dance"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-06",
+        "to": "2027-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Somhlolo Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-27",
+        "to": "2027-12-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-28",
+        "to": "2027-12-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Incwala"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-19",
+        "to": "2028-04-19",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of King Mswati III"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-25",
+        "to": "2028-04-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Flag Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Labour Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ascension Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-22",
+        "to": "2028-07-22",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of the late King Sobhuza"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-24",
+        "to": "2028-07-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Birthday of the late King Sobhuza (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-04",
+        "to": "2028-09-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Umhlanga Reed Dance"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-06",
+        "to": "2028-09-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Somhlolo Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-28",
+        "to": "2028-12-28",
+        "precision": "exact",
+        "ics": true,
+        "name": "Incwala"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2026-04-19",
+      "label": "Birthday of King Mswati III"
+    },
+    {
+      "date": "2026-04-20",
+      "label": "Birthday of King Mswati III (substitute day)"
+    },
+    {
+      "date": "2026-04-25",
+      "label": "National Flag Day"
+    },
+    {
+      "date": "2026-04-27",
+      "label": "National Flag Day (substitute day)"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2026-05-14",
+      "label": "Ascension Day"
+    },
+    {
+      "date": "2026-07-22",
+      "label": "Birthday of the late King Sobhuza"
+    },
+    {
+      "date": "2026-09-06",
+      "label": "Somhlolo Day"
+    },
+    {
+      "date": "2026-09-07",
+      "label": "Umhlanga Reed Dance"
+    },
+    {
+      "date": "2026-09-07",
+      "label": "Somhlolo Day (substitute day)"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2026-12-28",
+      "label": "Incwala"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2027-04-19",
+      "label": "Birthday of King Mswati III"
+    },
+    {
+      "date": "2027-04-25",
+      "label": "National Flag Day"
+    },
+    {
+      "date": "2027-04-26",
+      "label": "National Flag Day (substitute day)"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2027-05-03",
+      "label": "Labour Day (substitute day)"
+    },
+    {
+      "date": "2027-05-06",
+      "label": "Ascension Day"
+    },
+    {
+      "date": "2027-07-22",
+      "label": "Birthday of the late King Sobhuza"
+    },
+    {
+      "date": "2027-09-06",
+      "label": "Umhlanga Reed Dance"
+    },
+    {
+      "date": "2027-09-06",
+      "label": "Somhlolo Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-12-27",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-12-28",
+      "label": "Incwala"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2028-04-19",
+      "label": "Birthday of King Mswati III"
+    },
+    {
+      "date": "2028-04-25",
+      "label": "National Flag Day"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Labour Day"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "Ascension Day"
+    },
+    {
+      "date": "2028-07-22",
+      "label": "Birthday of the late King Sobhuza"
+    },
+    {
+      "date": "2028-07-24",
+      "label": "Birthday of the late King Sobhuza (substitute day)"
+    },
+    {
+      "date": "2028-09-04",
+      "label": "Umhlanga Reed Dance"
+    },
+    {
+      "date": "2028-09-06",
+      "label": "Somhlolo Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2028-12-28",
+      "label": "Incwala"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Erdbeere
+BEGIN:VEVENT
+UID:saisonkalender-erdbeere-2026-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260901
+SUMMARY:Erdbeere
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-erdbeere-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270901
+SUMMARY:Erdbeere
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+BEGIN:VEVENT
+UID:saisonkalender-erdbeere-2028-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280901
+SUMMARY:Erdbeere
+DESCRIPTION:Hauptsaison - https://www.bzfe.de/kueche-und-alltag/einkaufen/
+ der-saisonkalender
+URL:https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender
+END:VEVENT
+END:VCALENDAR

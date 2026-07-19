@@ -1,0 +1,407 @@
+{
+  "category": "feiertage",
+  "slug": "ky",
+  "meta": {
+    "title": "Cayman Islands",
+    "description": "Gesetzliche Feiertage fuer Cayman Islands. Nächster Feiertag: Christmas Day am 25.12.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ky",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-26",
+        "to": "2026-01-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Heroes Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-18",
+        "to": "2026-02-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ash Wednesday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-06",
+        "to": "2026-04-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-18",
+        "to": "2026-05-18",
+        "precision": "exact",
+        "ics": true,
+        "name": "Discovery Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-15",
+        "to": "2026-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Queen's Birthday"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-02",
+        "to": "2026-07-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Constitution Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-26",
+        "to": "2026-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-25",
+        "to": "2027-01-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Heroes Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-10",
+        "to": "2027-02-10",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ash Wednesday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-29",
+        "to": "2027-03-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-17",
+        "to": "2027-05-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Discovery Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-02",
+        "to": "2027-07-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Constitution Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-26",
+        "to": "2027-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-03",
+        "to": "2028-01-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "New Year's Day (substitute day)"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-24",
+        "to": "2028-01-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "National Heroes Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-01",
+        "to": "2028-03-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ash Wednesday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Good Friday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Easter Monday"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-15",
+        "to": "2028-05-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "Discovery Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-02",
+        "to": "2028-07-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Constitution Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Christmas Day"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-26",
+        "to": "2028-12-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Boxing Day"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2026-01-26",
+      "label": "National Heroes Day"
+    },
+    {
+      "date": "2026-02-18",
+      "label": "Ash Wednesday"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2026-04-06",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2026-05-18",
+      "label": "Discovery Day"
+    },
+    {
+      "date": "2026-06-15",
+      "label": "Queen's Birthday"
+    },
+    {
+      "date": "2026-07-02",
+      "label": "Constitution Day"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2026-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2027-01-25",
+      "label": "National Heroes Day"
+    },
+    {
+      "date": "2027-02-10",
+      "label": "Ash Wednesday"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2027-03-29",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2027-05-17",
+      "label": "Discovery Day"
+    },
+    {
+      "date": "2027-07-02",
+      "label": "Constitution Day"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2027-12-26",
+      "label": "Boxing Day"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "New Year's Day"
+    },
+    {
+      "date": "2028-01-03",
+      "label": "New Year's Day (substitute day)"
+    },
+    {
+      "date": "2028-01-24",
+      "label": "National Heroes Day"
+    },
+    {
+      "date": "2028-03-01",
+      "label": "Ash Wednesday"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Good Friday"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Easter Monday"
+    },
+    {
+      "date": "2028-05-15",
+      "label": "Discovery Day"
+    },
+    {
+      "date": "2028-07-02",
+      "label": "Constitution Day"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Christmas Day"
+    },
+    {
+      "date": "2028-12-26",
+      "label": "Boxing Day"
+    }
+  ]
+}

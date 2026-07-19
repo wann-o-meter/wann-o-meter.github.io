@@ -1,0 +1,420 @@
+{
+  "category": "feiertage",
+  "slug": "dz",
+  "meta": {
+    "title": "الجمهورية الجزائرية الديمقراطية الشعبية",
+    "description": "Gesetzliche Feiertage fuer الجمهورية الجزائرية الديمقراطية الشعبية. Nächster Feiertag: المولد النبويّ am 25.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "dz",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد رأس السنة"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-12",
+        "to": "2026-01-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الأمازيغية"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الفطر"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم العمال"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-27",
+        "to": "2026-05-27",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الأضحى"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-16",
+        "to": "2026-06-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الهجرية"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-06-25",
+        "to": "2026-06-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "عاشوراء"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-07-05",
+        "to": "2026-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الاستقلال"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-25",
+        "to": "2026-08-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "المولد النبويّ"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-01",
+        "to": "2026-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم الثورة"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد رأس السنة"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-12",
+        "to": "2027-01-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الأمازيغية"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الفطر"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم العمال"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-16",
+        "to": "2027-05-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الأضحى"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-06",
+        "to": "2027-06-06",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الهجرية"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-06-15",
+        "to": "2027-06-15",
+        "precision": "exact",
+        "ics": true,
+        "name": "عاشوراء"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-07-05",
+        "to": "2027-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الاستقلال"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-14",
+        "to": "2027-08-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "المولد النبويّ"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-01",
+        "to": "2027-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم الثورة"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد رأس السنة"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-12",
+        "to": "2028-01-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الأمازيغية"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الفطر"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم العمال"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-05",
+        "to": "2028-05-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الأضحى"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-25",
+        "to": "2028-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "رأس السنة الهجرية"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-06-03",
+        "to": "2028-06-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "عاشوراء"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-07-05",
+        "to": "2028-07-05",
+        "precision": "exact",
+        "ics": true,
+        "name": "عيد الاستقلال"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-03",
+        "to": "2028-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "المولد النبويّ"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-01",
+        "to": "2028-11-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "يوم الثورة"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "عيد رأس السنة"
+    },
+    {
+      "date": "2026-01-12",
+      "label": "رأس السنة الأمازيغية"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "عيد الفطر"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "يوم العمال"
+    },
+    {
+      "date": "2026-05-27",
+      "label": "عيد الأضحى"
+    },
+    {
+      "date": "2026-06-16",
+      "label": "رأس السنة الهجرية"
+    },
+    {
+      "date": "2026-06-25",
+      "label": "عاشوراء"
+    },
+    {
+      "date": "2026-07-05",
+      "label": "عيد الاستقلال"
+    },
+    {
+      "date": "2026-08-25",
+      "label": "المولد النبويّ"
+    },
+    {
+      "date": "2026-11-01",
+      "label": "يوم الثورة"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "عيد رأس السنة"
+    },
+    {
+      "date": "2027-01-12",
+      "label": "رأس السنة الأمازيغية"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "عيد الفطر"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "يوم العمال"
+    },
+    {
+      "date": "2027-05-16",
+      "label": "عيد الأضحى"
+    },
+    {
+      "date": "2027-06-06",
+      "label": "رأس السنة الهجرية"
+    },
+    {
+      "date": "2027-06-15",
+      "label": "عاشوراء"
+    },
+    {
+      "date": "2027-07-05",
+      "label": "عيد الاستقلال"
+    },
+    {
+      "date": "2027-08-14",
+      "label": "المولد النبويّ"
+    },
+    {
+      "date": "2027-11-01",
+      "label": "يوم الثورة"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "عيد رأس السنة"
+    },
+    {
+      "date": "2028-01-12",
+      "label": "رأس السنة الأمازيغية"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "عيد الفطر"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "يوم العمال"
+    },
+    {
+      "date": "2028-05-05",
+      "label": "عيد الأضحى"
+    },
+    {
+      "date": "2028-05-25",
+      "label": "رأس السنة الهجرية"
+    },
+    {
+      "date": "2028-06-03",
+      "label": "عاشوراء"
+    },
+    {
+      "date": "2028-07-05",
+      "label": "عيد الاستقلال"
+    },
+    {
+      "date": "2028-08-03",
+      "label": "المولد النبويّ"
+    },
+    {
+      "date": "2028-11-01",
+      "label": "يوم الثورة"
+    }
+  ]
+}

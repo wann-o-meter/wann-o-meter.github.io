@@ -1,0 +1,459 @@
+{
+  "category": "feiertage",
+  "slug": "ao",
+  "meta": {
+    "title": "Angola",
+    "description": "Gesetzliche Feiertage fuer Angola. Nächster Feiertag: Fundador da Nação e Dia dos Heróis Nacionais am 17.09.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "ao",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-04",
+        "to": "2026-02-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do Início da Luta Armada de Libertação Nacional"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-02-17",
+        "to": "2026-02-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-08",
+        "to": "2026-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia Internacional da Mulher"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-03",
+        "to": "2026-04-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sexta-Feira Santa"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-04",
+        "to": "2026-04-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Paz"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-17",
+        "to": "2026-09-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fundador da Nação e Dia dos Heróis Nacionais"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-02",
+        "to": "2026-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Finados"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-11-11",
+        "to": "2026-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-25",
+        "to": "2026-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-04",
+        "to": "2027-02-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do Início da Luta Armada de Libertação Nacional"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-02-09",
+        "to": "2027-02-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-08",
+        "to": "2027-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia Internacional da Mulher"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-26",
+        "to": "2027-03-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sexta-Feira Santa"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-04-04",
+        "to": "2027-04-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Paz"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-17",
+        "to": "2027-09-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fundador da Nação e Dia dos Heróis Nacionais"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-02",
+        "to": "2027-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Finados"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-11-11",
+        "to": "2027-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-25",
+        "to": "2027-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ano Novo"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-04",
+        "to": "2028-02-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do Início da Luta Armada de Libertação Nacional"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-29",
+        "to": "2028-02-29",
+        "precision": "exact",
+        "ics": true,
+        "name": "Carnaval"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-03-08",
+        "to": "2028-03-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia Internacional da Mulher"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-04",
+        "to": "2028-04-04",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Paz"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-14",
+        "to": "2028-04-14",
+        "precision": "exact",
+        "ics": true,
+        "name": "Sexta-Feira Santa"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia do trabalhador"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-17",
+        "to": "2028-09-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Fundador da Nação e Dia dos Heróis Nacionais"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-02",
+        "to": "2028-11-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia de Finados"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-11-11",
+        "to": "2028-11-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Dia da Independência"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-25",
+        "to": "2028-12-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Natal"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2026-02-04",
+      "label": "Dia do Início da Luta Armada de Libertação Nacional"
+    },
+    {
+      "date": "2026-02-17",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2026-03-08",
+      "label": "Dia Internacional da Mulher"
+    },
+    {
+      "date": "2026-04-03",
+      "label": "Sexta-Feira Santa"
+    },
+    {
+      "date": "2026-04-04",
+      "label": "Dia da Paz"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2026-09-17",
+      "label": "Fundador da Nação e Dia dos Heróis Nacionais"
+    },
+    {
+      "date": "2026-11-02",
+      "label": "Dia de Finados"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2026-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2027-02-04",
+      "label": "Dia do Início da Luta Armada de Libertação Nacional"
+    },
+    {
+      "date": "2027-02-09",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2027-03-08",
+      "label": "Dia Internacional da Mulher"
+    },
+    {
+      "date": "2027-03-26",
+      "label": "Sexta-Feira Santa"
+    },
+    {
+      "date": "2027-04-04",
+      "label": "Dia da Paz"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2027-09-17",
+      "label": "Fundador da Nação e Dia dos Heróis Nacionais"
+    },
+    {
+      "date": "2027-11-02",
+      "label": "Dia de Finados"
+    },
+    {
+      "date": "2027-11-11",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2027-12-25",
+      "label": "Natal"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Ano Novo"
+    },
+    {
+      "date": "2028-02-04",
+      "label": "Dia do Início da Luta Armada de Libertação Nacional"
+    },
+    {
+      "date": "2028-02-29",
+      "label": "Carnaval"
+    },
+    {
+      "date": "2028-03-08",
+      "label": "Dia Internacional da Mulher"
+    },
+    {
+      "date": "2028-04-04",
+      "label": "Dia da Paz"
+    },
+    {
+      "date": "2028-04-14",
+      "label": "Sexta-Feira Santa"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Dia do trabalhador"
+    },
+    {
+      "date": "2028-09-17",
+      "label": "Fundador da Nação e Dia dos Heróis Nacionais"
+    },
+    {
+      "date": "2028-11-02",
+      "label": "Dia de Finados"
+    },
+    {
+      "date": "2028-11-11",
+      "label": "Dia da Independência"
+    },
+    {
+      "date": "2028-12-25",
+      "label": "Natal"
+    }
+  ]
+}

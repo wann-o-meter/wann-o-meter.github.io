@@ -1,0 +1,23 @@
+# Wann-O-Meter
+
+> A structured, machine-readable calendar of "when is X" answers for Germany
+> and beyond: public holidays, optimal vacation windows (bridge days), a
+> seasonal produce calendar, and curated civic-data topic pages (elections,
+> astronomical events, ...). Every entry has a canonical page, a JSON
+> endpoint, and a subscribable ICS calendar feed - fetch the JSON, no
+> scraping needed.
+
+## Data catalog
+
+- [Calendar catalog](https://wannometer.de/api/v1/calendar.json): every layer/subject on the site as `{id, group, label, url, feedUrl}` - the single index to discover everything below.
+- [OpenAPI spec](https://wannometer.de/openapi.json): formal schema for every /api/v1/ and /feeds/ endpoint below - use this instead of guessing response shapes from prose.
+- [Feiertage](https://wannometer.de/feiertage/): 221 pages. JSON: `https://wannometer.de/api/v1/feiertage/{slug}.json`. ICS (where dated events exist): `https://wannometer.de/feeds/feiertage/{slug}.ics`.
+- [Saisonkalender](https://wannometer.de/saisonkalender/): 7 pages. JSON: `https://wannometer.de/api/v1/saisonkalender/{slug}.json`. ICS (where dated events exist): `https://wannometer.de/feeds/saisonkalender/{slug}.ics`.
+- [Schulferien](https://wannometer.de/schulferien/): 16 pages. JSON: `https://wannometer.de/api/v1/schulferien/{slug}.json`. ICS (where dated events exist): `https://wannometer.de/feeds/schulferien/{slug}.ics`.
+- [Urlaubsfenster](https://wannometer.de/urlaubsfenster/): 16 pages. JSON: `https://wannometer.de/api/v1/urlaubsfenster/{slug}.json`. ICS (where dated events exist): `https://wannometer.de/feeds/urlaubsfenster/{slug}.ics`.
+
+## Notes for automated use
+
+- All dates are ISO 8601 (`YYYY-MM-DD`). Every entry carries a `source`/`sources` block with the origin URL, license, and retrieval date - cite the original source, not this site, per that license.
+- No authentication and no rate limit; please cache responses instead of re-fetching the same URL repeatedly.
+- Full sitemap: https://wannometer.de/sitemap-index.xml

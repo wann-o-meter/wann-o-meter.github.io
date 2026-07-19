@@ -1,0 +1,246 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Hamburg
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2026-01-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260105
+SUMMARY:Hamburg
+DESCRIPTION:Mit 1 Urlaubstag vom 2026-01-01 bis 2026-01-04 frei (4 Tage am
+  Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2026-03-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260407
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2026-03-28 bis 2026-04-06 frei (10 Tage
+  am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2026-04-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260413
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2026-04-03 bis 2026-04-12 frei (10 Tage
+  am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2026-04-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260504
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2026-04-25 bis 2026-05-03 frei (9 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2026-05-09@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260515
+SUMMARY:Hamburg
+DESCRIPTION:Mit 3 Urlaubstagen vom 2026-05-09 bis 2026-05-14 frei (6 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2026-05-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260518
+SUMMARY:Hamburg
+DESCRIPTION:Mit 1 Urlaubstag vom 2026-05-14 bis 2026-05-17 frei (4 Tage am
+  Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2026-05-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260601
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2026-05-23 bis 2026-05-31 frei (9 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2026-12-19@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261228
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2026-12-19 bis 2026-12-27 frei (9 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2027-03-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270330
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2027-03-20 bis 2027-03-29 frei (10 Tage
+  am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2027-03-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270405
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2027-03-26 bis 2027-04-04 frei (10 Tage
+  am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2027-05-01@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270507
+SUMMARY:Hamburg
+DESCRIPTION:Mit 3 Urlaubstagen vom 2027-05-01 bis 2027-05-06 frei (6 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2027-05-06@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+SUMMARY:Hamburg
+DESCRIPTION:Mit 1 Urlaubstag vom 2027-05-06 bis 2027-05-09 frei (4 Tage am
+  Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2027-05-15@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270524
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2027-05-15 bis 2027-05-23 frei (9 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-04-08@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280408
+DTEND;VALUE=DATE:20280418
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2028-04-08 bis 2028-04-17 frei (10 Tage
+  am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-04-14@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280424
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2028-04-14 bis 2028-04-23 frei (10 Tage
+  am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-04-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280429
+DTEND;VALUE=DATE:20280508
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2028-04-29 bis 2028-05-07 frei (9 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-05-20@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280520
+DTEND;VALUE=DATE:20280526
+SUMMARY:Hamburg
+DESCRIPTION:Mit 3 Urlaubstagen vom 2028-05-20 bis 2028-05-25 frei (6 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-05-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280529
+SUMMARY:Hamburg
+DESCRIPTION:Mit 1 Urlaubstag vom 2028-05-25 bis 2028-05-28 frei (4 Tage am
+  Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-06-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280603
+DTEND;VALUE=DATE:20280612
+SUMMARY:Hamburg
+DESCRIPTION:Mit 4 Urlaubstagen vom 2028-06-03 bis 2028-06-11 frei (9 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-09-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281004
+SUMMARY:Hamburg
+DESCRIPTION:Mit 1 Urlaubstag vom 2028-09-30 bis 2028-10-03 frei (4 Tage am
+  Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-10-03@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281003
+DTEND;VALUE=DATE:20281009
+SUMMARY:Hamburg
+DESCRIPTION:Mit 3 Urlaubstagen vom 2028-10-03 bis 2028-10-08 frei (6 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-10-28@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281028
+DTEND;VALUE=DATE:20281101
+SUMMARY:Hamburg
+DESCRIPTION:Mit 1 Urlaubstag vom 2028-10-28 bis 2028-10-31 frei (4 Tage am
+  Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-10-31@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281031
+DTEND;VALUE=DATE:20281106
+SUMMARY:Hamburg
+DESCRIPTION:Mit 3 Urlaubstagen vom 2028-10-31 bis 2028-11-05 frei (6 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:urlaubsfenster-hh-2028-12-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20281223
+DTEND;VALUE=DATE:20290101
+SUMMARY:Hamburg
+DESCRIPTION:Mit 3 Urlaubstagen vom 2028-12-23 bis 2028-12-31 frei (9 Tage 
+ am Stück). - https://www.npmjs.com/package/date-holidays
+URL:https://www.npmjs.com/package/date-holidays
+END:VEVENT
+END:VCALENDAR

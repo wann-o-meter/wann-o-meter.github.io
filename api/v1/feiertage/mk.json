@@ -1,0 +1,537 @@
+{
+  "category": "feiertage",
+  "slug": "mk",
+  "meta": {
+    "title": "Република Македонија",
+    "description": "Gesetzliche Feiertage fuer Република Македонија. Nächster Feiertag: Ден на Републиката am 02.08.2026.",
+    "tags": [],
+    "featured": false
+  },
+  "data": {
+    "subject": {
+      "slug": "mk",
+      "category": "feiertage"
+    },
+    "source": [
+      {
+        "url": "https://www.npmjs.com/package/date-holidays",
+        "license": "own_derivation",
+        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "retrieved_at": "2026-07-11",
+        "extraction": "parser"
+      }
+    ],
+    "windows": [
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-01",
+        "to": "2026-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Нова Година"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-01-07",
+        "to": "2026-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Прв ден Божик"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-03-20",
+        "to": "2026-03-20",
+        "precision": "exact",
+        "ics": true,
+        "name": "Рамазан Бајрам"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-12",
+        "to": "2026-04-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Прв ден Велигден"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-04-13",
+        "to": "2026-04-13",
+        "precision": "exact",
+        "ics": true,
+        "name": "Втор ден Велигден"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-01",
+        "to": "2026-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на трудот"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-24",
+        "to": "2026-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Св. Кирил и Методиј"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-05-25",
+        "to": "2026-05-25",
+        "precision": "exact",
+        "ics": true,
+        "name": "Св. Кирил и Методиј (заменет ден)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-02",
+        "to": "2026-08-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на Републиката"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-08-03",
+        "to": "2026-08-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на Републиката (заменет ден)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-09-08",
+        "to": "2026-09-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на независноста"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-11",
+        "to": "2026-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на востанието"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-12",
+        "to": "2026-10-12",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на востанието (заменет ден)"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-10-23",
+        "to": "2026-10-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на македонската револуционерна борба"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
+        "from": "2026-12-08",
+        "to": "2026-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Св. Климент Охридски"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-01",
+        "to": "2027-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Нова Година"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-01-07",
+        "to": "2027-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Прв ден Божик"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-03-09",
+        "to": "2027-03-09",
+        "precision": "exact",
+        "ics": true,
+        "name": "Рамазан Бајрам"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-01",
+        "to": "2027-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на трудот"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-02",
+        "to": "2027-05-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Прв ден Велигден"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-03",
+        "to": "2027-05-03",
+        "precision": "exact",
+        "ics": true,
+        "name": "Втор ден Велигден"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-05-24",
+        "to": "2027-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Св. Кирил и Методиј"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-08-02",
+        "to": "2027-08-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на Републиката"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-09-08",
+        "to": "2027-09-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на независноста"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-11",
+        "to": "2027-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на востанието"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-10-23",
+        "to": "2027-10-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на македонската револуционерна борба"
+      },
+      {
+        "type": "holiday",
+        "year": 2027,
+        "from": "2027-12-08",
+        "to": "2027-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Св. Климент Охридски"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-01",
+        "to": "2028-01-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Нова Година"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-01-07",
+        "to": "2028-01-07",
+        "precision": "exact",
+        "ics": true,
+        "name": "Прв ден Божик"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-02-26",
+        "to": "2028-02-26",
+        "precision": "exact",
+        "ics": true,
+        "name": "Рамазан Бајрам"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-16",
+        "to": "2028-04-16",
+        "precision": "exact",
+        "ics": true,
+        "name": "Прв ден Велигден"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-04-17",
+        "to": "2028-04-17",
+        "precision": "exact",
+        "ics": true,
+        "name": "Втор ден Велигден"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-01",
+        "to": "2028-05-01",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на трудот"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-05-24",
+        "to": "2028-05-24",
+        "precision": "exact",
+        "ics": true,
+        "name": "Св. Кирил и Методиј"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-08-02",
+        "to": "2028-08-02",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на Републиката"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-09-08",
+        "to": "2028-09-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на независноста"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-11",
+        "to": "2028-10-11",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на востанието"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-10-23",
+        "to": "2028-10-23",
+        "precision": "exact",
+        "ics": true,
+        "name": "Ден на македонската револуционерна борба"
+      },
+      {
+        "type": "holiday",
+        "year": 2028,
+        "from": "2028-12-08",
+        "to": "2028-12-08",
+        "precision": "exact",
+        "ics": true,
+        "name": "Св. Климент Охридски"
+      }
+    ],
+    "raw_data": {}
+  },
+  "events": [
+    {
+      "date": "2026-01-01",
+      "label": "Нова Година"
+    },
+    {
+      "date": "2026-01-07",
+      "label": "Прв ден Божик"
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Рамазан Бајрам"
+    },
+    {
+      "date": "2026-04-12",
+      "label": "Прв ден Велигден"
+    },
+    {
+      "date": "2026-04-13",
+      "label": "Втор ден Велигден"
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Ден на трудот"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "Св. Кирил и Методиј"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Св. Кирил и Методиј (заменет ден)"
+    },
+    {
+      "date": "2026-08-02",
+      "label": "Ден на Републиката"
+    },
+    {
+      "date": "2026-08-03",
+      "label": "Ден на Републиката (заменет ден)"
+    },
+    {
+      "date": "2026-09-08",
+      "label": "Ден на независноста"
+    },
+    {
+      "date": "2026-10-11",
+      "label": "Ден на востанието"
+    },
+    {
+      "date": "2026-10-12",
+      "label": "Ден на востанието (заменет ден)"
+    },
+    {
+      "date": "2026-10-23",
+      "label": "Ден на македонската револуционерна борба"
+    },
+    {
+      "date": "2026-12-08",
+      "label": "Св. Климент Охридски"
+    },
+    {
+      "date": "2027-01-01",
+      "label": "Нова Година"
+    },
+    {
+      "date": "2027-01-07",
+      "label": "Прв ден Божик"
+    },
+    {
+      "date": "2027-03-09",
+      "label": "Рамазан Бајрам"
+    },
+    {
+      "date": "2027-05-01",
+      "label": "Ден на трудот"
+    },
+    {
+      "date": "2027-05-02",
+      "label": "Прв ден Велигден"
+    },
+    {
+      "date": "2027-05-03",
+      "label": "Втор ден Велигден"
+    },
+    {
+      "date": "2027-05-24",
+      "label": "Св. Кирил и Методиј"
+    },
+    {
+      "date": "2027-08-02",
+      "label": "Ден на Републиката"
+    },
+    {
+      "date": "2027-09-08",
+      "label": "Ден на независноста"
+    },
+    {
+      "date": "2027-10-11",
+      "label": "Ден на востанието"
+    },
+    {
+      "date": "2027-10-23",
+      "label": "Ден на македонската револуционерна борба"
+    },
+    {
+      "date": "2027-12-08",
+      "label": "Св. Климент Охридски"
+    },
+    {
+      "date": "2028-01-01",
+      "label": "Нова Година"
+    },
+    {
+      "date": "2028-01-07",
+      "label": "Прв ден Божик"
+    },
+    {
+      "date": "2028-02-26",
+      "label": "Рамазан Бајрам"
+    },
+    {
+      "date": "2028-04-16",
+      "label": "Прв ден Велигден"
+    },
+    {
+      "date": "2028-04-17",
+      "label": "Втор ден Велигден"
+    },
+    {
+      "date": "2028-05-01",
+      "label": "Ден на трудот"
+    },
+    {
+      "date": "2028-05-24",
+      "label": "Св. Кирил и Методиј"
+    },
+    {
+      "date": "2028-08-02",
+      "label": "Ден на Републиката"
+    },
+    {
+      "date": "2028-09-08",
+      "label": "Ден на независноста"
+    },
+    {
+      "date": "2028-10-11",
+      "label": "Ден на востанието"
+    },
+    {
+      "date": "2028-10-23",
+      "label": "Ден на македонската револуционерна борба"
+    },
+    {
+      "date": "2028-12-08",
+      "label": "Св. Климент Охридски"
+    }
+  ]
+}

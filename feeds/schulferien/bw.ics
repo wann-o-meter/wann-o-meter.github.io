@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Schulferien Baden-Württemberg
+BEGIN:VEVENT
+UID:schulferien-bw-2026-03-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Osterferien (1) - https://www.kmk.org/service/ferien.html\, ht
+ tps://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-bw-2026-03-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260404
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Osterferien (2) - https://www.kmk.org/service/ferien.html\, ht
+ tps://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-bw-2026-05-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260530
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-bw-2026-07-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260912
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-bw-2026-10-26@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261031
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Herbstferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-bw-2026-12-23@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20270110
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Weihnachtsferien - https://www.kmk.org/service/ferien.html\, h
+ ttps://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-bw-2027-03-25@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-bw-2027-03-30@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270404
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Osterferien - https://www.kmk.org/service/ferien.html\, https:
+ //www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-bw-2027-05-18@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270530
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Pfingstferien - https://www.kmk.org/service/ferien.html\, http
+ s://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferien-bw-2027-07-29@wann.local
+DTSTAMP:20260719T194747Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270912
+SUMMARY:Schulferien Baden-Württemberg
+DESCRIPTION:Sommerferien - https://www.kmk.org/service/ferien.html\, https
+ ://www.kmk.org/service/ferienregelung/ferienkalender.html
+URL:https://www.kmk.org/service/ferien.html
+END:VEVENT
+END:VCALENDAR
