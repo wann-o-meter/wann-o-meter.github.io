@@ -3,7 +3,7 @@
   "slug": "erdbeere",
   "meta": {
     "title": "Erdbeere",
-    "description": "Saisonkalender fuer Erdbeere - wann Hauptsaison ist oder sie als Lagerware verfuegbar ist.",
+    "description": "Saisonkalender für Erdbeere - wann Hauptsaison ist oder sie als Lagerware verfügbar ist.",
     "tags": [
       "saisonkalender"
     ],
@@ -18,7 +18,7 @@
       {
         "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
         "license": "dl_de_by",
-        "license_note": "Bundeszentrum fuer Ernaehrung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem oeffentlich bekannten BZfE-Saisonkalender, quer geprueft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+        "license_note": "Bundeszentrum für Ernährung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem öffentlich bekannten BZfE-Saisonkalender, quer geprüft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
         "retrieved_at": "2026-07-12",
         "extraction": "manual"
       }

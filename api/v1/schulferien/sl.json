@@ -3,7 +3,7 @@
   "slug": "sl",
   "meta": {
     "title": "Schulferien Saarland",
-    "description": "Schulferientermine fuer Saarland.",
+    "description": "Schulferientermine für Saarland.",
     "tags": [
       "schulferien"
     ],
@@ -25,7 +25,7 @@
       {
         "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
         "license": "official_par5",
-        "license_note": "Amtlicher .ics-Download der KMK fuer Saarland, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+        "license_note": "Amtlicher .ics-Download der KMK für Saarland, Schuljahr 2026/2027 (liefert die 2027-Daten).",
         "retrieved_at": "2026-07-11",
         "extraction": "manual"
       }

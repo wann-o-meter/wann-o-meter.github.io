@@ -3,7 +3,7 @@
   "slug": "de-sh",
   "meta": {
     "title": "Deutschland – Schleswig-Holstein",
-    "description": "Gesetzliche Feiertage fuer Deutschland – Schleswig-Holstein. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
+    "description": "Gesetzliche Feiertage für Deutschland – Schleswig-Holstein. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
     "tags": [],
     "featured": true
   },
@@ -16,7 +16,7 @@
       {
         "url": "https://www.npmjs.com/package/date-holidays",
         "license": "own_derivation",
-        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "license_note": "Eigene Ableitung aus den gesetzlichen Feiertagen der Bundesländer (Bibliothek date-holidays, basierend auf den jeweiligen Feiertagsgesetzen).",
         "retrieved_at": "2026-07-11",
         "extraction": "parser"
       }

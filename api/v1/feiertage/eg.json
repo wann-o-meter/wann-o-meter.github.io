@@ -3,7 +3,7 @@
   "slug": "eg",
   "meta": {
     "title": "جمهورية مصر العربية",
-    "description": "Gesetzliche Feiertage fuer جمهورية مصر العربية. Nächster Feiertag: يوم الثورة am 23.07.2026.",
+    "description": "Gesetzliche Feiertage für جمهورية مصر العربية. Nächster Feiertag: يوم الثورة am 23.07.2026.",
     "tags": [],
     "featured": false
   },
@@ -16,7 +16,7 @@
       {
         "url": "https://www.npmjs.com/package/date-holidays",
         "license": "own_derivation",
-        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "license_note": "Eigene Ableitung aus den gesetzlichen Feiertagen der Bundesländer (Bibliothek date-holidays, basierend auf den jeweiligen Feiertagsgesetzen).",
         "retrieved_at": "2026-07-11",
         "extraction": "parser"
       }

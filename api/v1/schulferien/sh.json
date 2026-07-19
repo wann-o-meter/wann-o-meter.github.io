@@ -3,7 +3,7 @@
   "slug": "sh",
   "meta": {
     "title": "Schulferien Schleswig-Holstein",
-    "description": "Schulferientermine fuer Schleswig-Holstein.",
+    "description": "Schulferientermine für Schleswig-Holstein.",
     "tags": [
       "schulferien"
     ],
@@ -25,7 +25,7 @@
       {
         "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
         "license": "official_par5",
-        "license_note": "Amtlicher .ics-Download der KMK fuer Schleswig-Holstein, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+        "license_note": "Amtlicher .ics-Download der KMK für Schleswig-Holstein, Schuljahr 2026/2027 (liefert die 2027-Daten).",
         "retrieved_at": "2026-07-11",
         "extraction": "manual"
       }

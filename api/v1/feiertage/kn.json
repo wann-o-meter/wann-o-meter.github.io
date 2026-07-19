@@ -3,7 +3,7 @@
   "slug": "kn",
   "meta": {
     "title": "St. Kitts & Nevis",
-    "description": "Gesetzliche Feiertage fuer St. Kitts & Nevis. Nächster Feiertag: Emancipation Day am 03.08.2026.",
+    "description": "Gesetzliche Feiertage für St. Kitts & Nevis. Nächster Feiertag: Emancipation Day am 03.08.2026.",
     "tags": [],
     "featured": false
   },
@@ -16,7 +16,7 @@
       {
         "url": "https://www.npmjs.com/package/date-holidays",
         "license": "own_derivation",
-        "license_note": "Own derivation from the statutory holidays of each German state (date-holidays library, based on each state's holiday laws).",
+        "license_note": "Eigene Ableitung aus den gesetzlichen Feiertagen der Bundesländer (Bibliothek date-holidays, basierend auf den jeweiligen Feiertagsgesetzen).",
         "retrieved_at": "2026-07-11",
         "extraction": "parser"
       }
