@@ -18,7 +18,7 @@
       {
         "url": "https://www.kmk.org/service/ferien.html",
         "license": "official_par5",
-        "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender. 2026-Daten uebernommen aus internem Datenbestand (Buerotoolbox), stichprobenartig gegen die Feiertage geprueft.",
+        "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
         "retrieved_at": "2026-07-11",
         "extraction": "manual"
       },
