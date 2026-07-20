@@ -29,7 +29,9 @@
         "to": "2026-01-04",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 1 Urlaubstag vom 01.01.2026 bis 04.01.2026 frei (4 Tage am Stück)."
+        "name": "Mit 1 Urlaubstag vom 01.01.2026 bis 04.01.2026 frei (4 Tage am Stück).",
+        "value": 4,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -38,7 +40,9 @@
         "to": "2026-05-17",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 1 Urlaubstag vom 14.05.2026 bis 17.05.2026 frei (4 Tage am Stück)."
+        "name": "Mit 1 Urlaubstag vom 14.05.2026 bis 17.05.2026 frei (4 Tage am Stück).",
+        "value": 4,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -47,7 +51,9 @@
         "to": "2026-04-06",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 28.03.2026 bis 06.04.2026 frei (10 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 28.03.2026 bis 06.04.2026 frei (10 Tage am Stück).",
+        "value": 2.5,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -56,7 +62,9 @@
         "to": "2026-04-12",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 03.04.2026 bis 12.04.2026 frei (10 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 03.04.2026 bis 12.04.2026 frei (10 Tage am Stück).",
+        "value": 2.5,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -65,7 +73,9 @@
         "to": "2026-05-03",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 25.04.2026 bis 03.05.2026 frei (9 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 25.04.2026 bis 03.05.2026 frei (9 Tage am Stück).",
+        "value": 2.25,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -74,7 +84,9 @@
         "to": "2026-05-31",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 23.05.2026 bis 31.05.2026 frei (9 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 23.05.2026 bis 31.05.2026 frei (9 Tage am Stück).",
+        "value": 2.25,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -83,7 +95,9 @@
         "to": "2026-12-27",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 19.12.2026 bis 27.12.2026 frei (9 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 19.12.2026 bis 27.12.2026 frei (9 Tage am Stück).",
+        "value": 2.25,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -92,7 +106,9 @@
         "to": "2026-05-14",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 3 Urlaubstagen vom 09.05.2026 bis 14.05.2026 frei (6 Tage am Stück)."
+        "name": "Mit 3 Urlaubstagen vom 09.05.2026 bis 14.05.2026 frei (6 Tage am Stück).",
+        "value": 2,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -101,7 +117,9 @@
         "to": "2027-05-09",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 1 Urlaubstag vom 06.05.2027 bis 09.05.2027 frei (4 Tage am Stück)."
+        "name": "Mit 1 Urlaubstag vom 06.05.2027 bis 09.05.2027 frei (4 Tage am Stück).",
+        "value": 4,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -110,7 +128,9 @@
         "to": "2027-03-29",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 20.03.2027 bis 29.03.2027 frei (10 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 20.03.2027 bis 29.03.2027 frei (10 Tage am Stück).",
+        "value": 2.5,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -119,7 +139,9 @@
         "to": "2027-04-04",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 26.03.2027 bis 04.04.2027 frei (10 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 26.03.2027 bis 04.04.2027 frei (10 Tage am Stück).",
+        "value": 2.5,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -128,7 +150,9 @@
         "to": "2027-03-14",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 06.03.2027 bis 14.03.2027 frei (9 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 06.03.2027 bis 14.03.2027 frei (9 Tage am Stück).",
+        "value": 2.25,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -137,7 +161,9 @@
         "to": "2027-05-23",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 15.05.2027 bis 23.05.2027 frei (9 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 15.05.2027 bis 23.05.2027 frei (9 Tage am Stück).",
+        "value": 2.25,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -146,7 +172,9 @@
         "to": "2027-05-06",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 3 Urlaubstagen vom 01.05.2027 bis 06.05.2027 frei (6 Tage am Stück)."
+        "name": "Mit 3 Urlaubstagen vom 01.05.2027 bis 06.05.2027 frei (6 Tage am Stück).",
+        "value": 2,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -155,7 +183,9 @@
         "to": "2028-05-28",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 1 Urlaubstag vom 25.05.2028 bis 28.05.2028 frei (4 Tage am Stück)."
+        "name": "Mit 1 Urlaubstag vom 25.05.2028 bis 28.05.2028 frei (4 Tage am Stück).",
+        "value": 4,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -164,7 +194,9 @@
         "to": "2028-10-03",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 1 Urlaubstag vom 30.09.2028 bis 03.10.2028 frei (4 Tage am Stück)."
+        "name": "Mit 1 Urlaubstag vom 30.09.2028 bis 03.10.2028 frei (4 Tage am Stück).",
+        "value": 4,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -173,7 +205,9 @@
         "to": "2028-10-31",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 1 Urlaubstag vom 28.10.2028 bis 31.10.2028 frei (4 Tage am Stück)."
+        "name": "Mit 1 Urlaubstag vom 28.10.2028 bis 31.10.2028 frei (4 Tage am Stück).",
+        "value": 4,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -182,7 +216,9 @@
         "to": "2028-12-31",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 3 Urlaubstagen vom 23.12.2028 bis 31.12.2028 frei (9 Tage am Stück)."
+        "name": "Mit 3 Urlaubstagen vom 23.12.2028 bis 31.12.2028 frei (9 Tage am Stück).",
+        "value": 3,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -191,7 +227,9 @@
         "to": "2028-03-08",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 2 Urlaubstagen vom 04.03.2028 bis 08.03.2028 frei (5 Tage am Stück)."
+        "name": "Mit 2 Urlaubstagen vom 04.03.2028 bis 08.03.2028 frei (5 Tage am Stück).",
+        "value": 2.5,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -200,7 +238,9 @@
         "to": "2028-03-12",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 2 Urlaubstagen vom 08.03.2028 bis 12.03.2028 frei (5 Tage am Stück)."
+        "name": "Mit 2 Urlaubstagen vom 08.03.2028 bis 12.03.2028 frei (5 Tage am Stück).",
+        "value": 2.5,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -209,7 +249,9 @@
         "to": "2028-04-17",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 08.04.2028 bis 17.04.2028 frei (10 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 08.04.2028 bis 17.04.2028 frei (10 Tage am Stück).",
+        "value": 2.5,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -218,7 +260,9 @@
         "to": "2028-04-23",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 14.04.2028 bis 23.04.2028 frei (10 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 14.04.2028 bis 23.04.2028 frei (10 Tage am Stück).",
+        "value": 2.5,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -227,7 +271,9 @@
         "to": "2028-05-07",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 29.04.2028 bis 07.05.2028 frei (9 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 29.04.2028 bis 07.05.2028 frei (9 Tage am Stück).",
+        "value": 2.25,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -236,7 +282,9 @@
         "to": "2028-06-11",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 4 Urlaubstagen vom 03.06.2028 bis 11.06.2028 frei (9 Tage am Stück)."
+        "name": "Mit 4 Urlaubstagen vom 03.06.2028 bis 11.06.2028 frei (9 Tage am Stück).",
+        "value": 2.25,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -245,7 +293,9 @@
         "to": "2028-05-25",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 3 Urlaubstagen vom 20.05.2028 bis 25.05.2028 frei (6 Tage am Stück)."
+        "name": "Mit 3 Urlaubstagen vom 20.05.2028 bis 25.05.2028 frei (6 Tage am Stück).",
+        "value": 2,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -254,7 +304,9 @@
         "to": "2028-10-08",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 3 Urlaubstagen vom 03.10.2028 bis 08.10.2028 frei (6 Tage am Stück)."
+        "name": "Mit 3 Urlaubstagen vom 03.10.2028 bis 08.10.2028 frei (6 Tage am Stück).",
+        "value": 2,
+        "unit": "Tage frei/Urlaubstag"
       },
       {
         "type": "optimal",
@@ -263,7 +315,9 @@
         "to": "2028-11-05",
         "precision": "exact",
         "ics": true,
-        "name": "Mit 3 Urlaubstagen vom 31.10.2028 bis 05.11.2028 frei (6 Tage am Stück)."
+        "name": "Mit 3 Urlaubstagen vom 31.10.2028 bis 05.11.2028 frei (6 Tage am Stück).",
+        "value": 2,
+        "unit": "Tage frei/Urlaubstag"
       }
     ],
     "raw_data": {}
@@ -272,137 +326,164 @@
     {
       "date": "2026-01-01",
       "to": "2026-01-04",
-      "label": "Mit 1 Urlaubstag vom 01.01.2026 bis 04.01.2026 frei (4 Tage am Stück)."
+      "label": "Mit 1 Urlaubstag vom 01.01.2026 bis 04.01.2026 frei (4 Tage am Stück).",
+      "value": 4
     },
     {
       "date": "2026-03-28",
       "to": "2026-04-06",
-      "label": "Mit 4 Urlaubstagen vom 28.03.2026 bis 06.04.2026 frei (10 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 28.03.2026 bis 06.04.2026 frei (10 Tage am Stück).",
+      "value": 2.5
     },
     {
       "date": "2026-04-03",
       "to": "2026-04-12",
-      "label": "Mit 4 Urlaubstagen vom 03.04.2026 bis 12.04.2026 frei (10 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 03.04.2026 bis 12.04.2026 frei (10 Tage am Stück).",
+      "value": 2.5
     },
     {
       "date": "2026-04-25",
       "to": "2026-05-03",
-      "label": "Mit 4 Urlaubstagen vom 25.04.2026 bis 03.05.2026 frei (9 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 25.04.2026 bis 03.05.2026 frei (9 Tage am Stück).",
+      "value": 2.25
     },
     {
       "date": "2026-05-09",
       "to": "2026-05-14",
-      "label": "Mit 3 Urlaubstagen vom 09.05.2026 bis 14.05.2026 frei (6 Tage am Stück)."
+      "label": "Mit 3 Urlaubstagen vom 09.05.2026 bis 14.05.2026 frei (6 Tage am Stück).",
+      "value": 2
     },
     {
       "date": "2026-05-14",
       "to": "2026-05-17",
-      "label": "Mit 1 Urlaubstag vom 14.05.2026 bis 17.05.2026 frei (4 Tage am Stück)."
+      "label": "Mit 1 Urlaubstag vom 14.05.2026 bis 17.05.2026 frei (4 Tage am Stück).",
+      "value": 4
     },
     {
       "date": "2026-05-23",
       "to": "2026-05-31",
-      "label": "Mit 4 Urlaubstagen vom 23.05.2026 bis 31.05.2026 frei (9 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 23.05.2026 bis 31.05.2026 frei (9 Tage am Stück).",
+      "value": 2.25
     },
     {
       "date": "2026-12-19",
       "to": "2026-12-27",
-      "label": "Mit 4 Urlaubstagen vom 19.12.2026 bis 27.12.2026 frei (9 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 19.12.2026 bis 27.12.2026 frei (9 Tage am Stück).",
+      "value": 2.25
     },
     {
       "date": "2027-03-06",
       "to": "2027-03-14",
-      "label": "Mit 4 Urlaubstagen vom 06.03.2027 bis 14.03.2027 frei (9 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 06.03.2027 bis 14.03.2027 frei (9 Tage am Stück).",
+      "value": 2.25
     },
     {
       "date": "2027-03-20",
       "to": "2027-03-29",
-      "label": "Mit 4 Urlaubstagen vom 20.03.2027 bis 29.03.2027 frei (10 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 20.03.2027 bis 29.03.2027 frei (10 Tage am Stück).",
+      "value": 2.5
     },
     {
       "date": "2027-03-26",
       "to": "2027-04-04",
-      "label": "Mit 4 Urlaubstagen vom 26.03.2027 bis 04.04.2027 frei (10 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 26.03.2027 bis 04.04.2027 frei (10 Tage am Stück).",
+      "value": 2.5
     },
     {
       "date": "2027-05-01",
       "to": "2027-05-06",
-      "label": "Mit 3 Urlaubstagen vom 01.05.2027 bis 06.05.2027 frei (6 Tage am Stück)."
+      "label": "Mit 3 Urlaubstagen vom 01.05.2027 bis 06.05.2027 frei (6 Tage am Stück).",
+      "value": 2
     },
     {
       "date": "2027-05-06",
       "to": "2027-05-09",
-      "label": "Mit 1 Urlaubstag vom 06.05.2027 bis 09.05.2027 frei (4 Tage am Stück)."
+      "label": "Mit 1 Urlaubstag vom 06.05.2027 bis 09.05.2027 frei (4 Tage am Stück).",
+      "value": 4
     },
     {
       "date": "2027-05-15",
       "to": "2027-05-23",
-      "label": "Mit 4 Urlaubstagen vom 15.05.2027 bis 23.05.2027 frei (9 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 15.05.2027 bis 23.05.2027 frei (9 Tage am Stück).",
+      "value": 2.25
     },
     {
       "date": "2028-03-04",
       "to": "2028-03-08",
-      "label": "Mit 2 Urlaubstagen vom 04.03.2028 bis 08.03.2028 frei (5 Tage am Stück)."
+      "label": "Mit 2 Urlaubstagen vom 04.03.2028 bis 08.03.2028 frei (5 Tage am Stück).",
+      "value": 2.5
     },
     {
       "date": "2028-03-08",
       "to": "2028-03-12",
-      "label": "Mit 2 Urlaubstagen vom 08.03.2028 bis 12.03.2028 frei (5 Tage am Stück)."
+      "label": "Mit 2 Urlaubstagen vom 08.03.2028 bis 12.03.2028 frei (5 Tage am Stück).",
+      "value": 2.5
     },
     {
       "date": "2028-04-08",
       "to": "2028-04-17",
-      "label": "Mit 4 Urlaubstagen vom 08.04.2028 bis 17.04.2028 frei (10 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 08.04.2028 bis 17.04.2028 frei (10 Tage am Stück).",
+      "value": 2.5
     },
     {
       "date": "2028-04-14",
       "to": "2028-04-23",
-      "label": "Mit 4 Urlaubstagen vom 14.04.2028 bis 23.04.2028 frei (10 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 14.04.2028 bis 23.04.2028 frei (10 Tage am Stück).",
+      "value": 2.5
     },
     {
       "date": "2028-04-29",
       "to": "2028-05-07",
-      "label": "Mit 4 Urlaubstagen vom 29.04.2028 bis 07.05.2028 frei (9 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 29.04.2028 bis 07.05.2028 frei (9 Tage am Stück).",
+      "value": 2.25
     },
     {
       "date": "2028-05-20",
       "to": "2028-05-25",
-      "label": "Mit 3 Urlaubstagen vom 20.05.2028 bis 25.05.2028 frei (6 Tage am Stück)."
+      "label": "Mit 3 Urlaubstagen vom 20.05.2028 bis 25.05.2028 frei (6 Tage am Stück).",
+      "value": 2
     },
     {
       "date": "2028-05-25",
       "to": "2028-05-28",
-      "label": "Mit 1 Urlaubstag vom 25.05.2028 bis 28.05.2028 frei (4 Tage am Stück)."
+      "label": "Mit 1 Urlaubstag vom 25.05.2028 bis 28.05.2028 frei (4 Tage am Stück).",
+      "value": 4
     },
     {
       "date": "2028-06-03",
       "to": "2028-06-11",
-      "label": "Mit 4 Urlaubstagen vom 03.06.2028 bis 11.06.2028 frei (9 Tage am Stück)."
+      "label": "Mit 4 Urlaubstagen vom 03.06.2028 bis 11.06.2028 frei (9 Tage am Stück).",
+      "value": 2.25
     },
     {
       "date": "2028-09-30",
       "to": "2028-10-03",
-      "label": "Mit 1 Urlaubstag vom 30.09.2028 bis 03.10.2028 frei (4 Tage am Stück)."
+      "label": "Mit 1 Urlaubstag vom 30.09.2028 bis 03.10.2028 frei (4 Tage am Stück).",
+      "value": 4
     },
     {
       "date": "2028-10-03",
       "to": "2028-10-08",
-      "label": "Mit 3 Urlaubstagen vom 03.10.2028 bis 08.10.2028 frei (6 Tage am Stück)."
+      "label": "Mit 3 Urlaubstagen vom 03.10.2028 bis 08.10.2028 frei (6 Tage am Stück).",
+      "value": 2
     },
     {
       "date": "2028-10-28",
       "to": "2028-10-31",
-      "label": "Mit 1 Urlaubstag vom 28.10.2028 bis 31.10.2028 frei (4 Tage am Stück)."
+      "label": "Mit 1 Urlaubstag vom 28.10.2028 bis 31.10.2028 frei (4 Tage am Stück).",
+      "value": 4
     },
     {
       "date": "2028-10-31",
       "to": "2028-11-05",
-      "label": "Mit 3 Urlaubstagen vom 31.10.2028 bis 05.11.2028 frei (6 Tage am Stück)."
+      "label": "Mit 3 Urlaubstagen vom 31.10.2028 bis 05.11.2028 frei (6 Tage am Stück).",
+      "value": 2
     },
     {
       "date": "2028-12-23",
       "to": "2028-12-31",
-      "label": "Mit 3 Urlaubstagen vom 23.12.2028 bis 31.12.2028 frei (9 Tage am Stück)."
+      "label": "Mit 3 Urlaubstagen vom 23.12.2028 bis 31.12.2028 frei (9 Tage am Stück).",
+      "value": 3
     }
   ]
 }

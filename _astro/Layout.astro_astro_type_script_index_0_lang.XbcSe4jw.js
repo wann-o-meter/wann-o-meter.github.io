@@ -1,1 +1,0 @@
-import{r as e}from"./date-display.L2XcY80S.js";var t=document.getElementById(`today-indicator`);t&&(t.textContent=e());
