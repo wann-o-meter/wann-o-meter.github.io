@@ -1,0 +1,442 @@
+[
+  {
+    "category": "saisonkalender",
+    "slug": "apfel",
+    "meta": {
+      "title": "Apfel",
+      "description": "Saisonkalender für Apfel - wann Hauptsaison ist oder er als Lagerware verfügbar ist.",
+      "tags": [
+        "saisonkalender"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "apfel",
+        "category": "saisonkalender"
+      },
+      "source": [
+        {
+          "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
+          "license": "dl_de_by",
+          "license_note": "Bundeszentrum für Ernährung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem öffentlich bekannten BZfE-Saisonkalender, quer geprüft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+          "retrieved_at": "2026-07-12",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "main_season",
+          "year": null,
+          "from": "--08",
+          "to": "--11",
+          "precision": "approximate",
+          "ics": false,
+          "name": "Hauptsaison"
+        },
+        {
+          "type": "stored_produce",
+          "year": null,
+          "from": "--12",
+          "to": "--04",
+          "precision": "approximate",
+          "ics": false,
+          "name": "Lagerware"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-08-01",
+        "to": "2026-11-30",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2026-12-01",
+        "to": "2027-04-30",
+        "label": "Lagerware"
+      },
+      {
+        "date": "2027-08-01",
+        "to": "2027-11-30",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2027-12-01",
+        "to": "2028-04-30",
+        "label": "Lagerware"
+      },
+      {
+        "date": "2028-08-01",
+        "to": "2028-11-30",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2028-12-01",
+        "to": "2029-04-30",
+        "label": "Lagerware"
+      }
+    ]
+  },
+  {
+    "category": "saisonkalender",
+    "slug": "erdbeere",
+    "meta": {
+      "title": "Erdbeere",
+      "description": "Saisonkalender für Erdbeere - wann Hauptsaison ist oder sie als Lagerware verfügbar ist.",
+      "tags": [
+        "saisonkalender"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "erdbeere",
+        "category": "saisonkalender"
+      },
+      "source": [
+        {
+          "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
+          "license": "dl_de_by",
+          "license_note": "Bundeszentrum für Ernährung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem öffentlich bekannten BZfE-Saisonkalender, quer geprüft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+          "retrieved_at": "2026-07-12",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "main_season",
+          "year": null,
+          "from": "--05",
+          "to": "--08",
+          "precision": "approximate",
+          "ics": false,
+          "name": "Hauptsaison"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-05-01",
+        "to": "2026-08-31",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2027-05-01",
+        "to": "2027-08-31",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2028-05-01",
+        "to": "2028-08-31",
+        "label": "Hauptsaison"
+      }
+    ]
+  },
+  {
+    "category": "saisonkalender",
+    "slug": "gruenkohl",
+    "meta": {
+      "title": "Grünkohl",
+      "description": "Saisonkalender für Grünkohl - wann Hauptsaison ist oder er als Lagerware verfügbar ist.",
+      "tags": [
+        "saisonkalender"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "gruenkohl",
+        "category": "saisonkalender"
+      },
+      "source": [
+        {
+          "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
+          "license": "dl_de_by",
+          "license_note": "Bundeszentrum für Ernährung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem öffentlich bekannten BZfE-Saisonkalender, quer geprüft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+          "retrieved_at": "2026-07-12",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "main_season",
+          "year": null,
+          "from": "--11",
+          "to": "--02",
+          "precision": "approximate",
+          "ics": false,
+          "name": "Hauptsaison"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-11-01",
+        "to": "2027-02-28",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2027-11-01",
+        "to": "2028-02-29",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2028-11-01",
+        "to": "2029-02-28",
+        "label": "Hauptsaison"
+      }
+    ]
+  },
+  {
+    "category": "saisonkalender",
+    "slug": "kartoffel",
+    "meta": {
+      "title": "Kartoffel",
+      "description": "Saisonkalender für Kartoffel - wann Hauptsaison ist oder sie als Lagerware verfügbar ist.",
+      "tags": [
+        "saisonkalender"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "kartoffel",
+        "category": "saisonkalender"
+      },
+      "source": [
+        {
+          "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
+          "license": "dl_de_by",
+          "license_note": "Bundeszentrum für Ernährung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem öffentlich bekannten BZfE-Saisonkalender, quer geprüft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+          "retrieved_at": "2026-07-12",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "main_season",
+          "year": null,
+          "from": "--09",
+          "to": "--10",
+          "precision": "approximate",
+          "ics": false,
+          "name": "Hauptsaison"
+        },
+        {
+          "type": "stored_produce",
+          "year": null,
+          "from": "--11",
+          "to": "--08",
+          "precision": "approximate",
+          "ics": false,
+          "name": "Lagerware"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-09-01",
+        "to": "2026-10-31",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2026-11-01",
+        "to": "2027-08-31",
+        "label": "Lagerware"
+      },
+      {
+        "date": "2027-09-01",
+        "to": "2027-10-31",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2027-11-01",
+        "to": "2028-08-31",
+        "label": "Lagerware"
+      },
+      {
+        "date": "2028-09-01",
+        "to": "2028-10-31",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2028-11-01",
+        "to": "2029-08-31",
+        "label": "Lagerware"
+      }
+    ]
+  },
+  {
+    "category": "saisonkalender",
+    "slug": "kuerbis",
+    "meta": {
+      "title": "Kürbis",
+      "description": "Saisonkalender für Kürbis - wann Hauptsaison ist oder er als Lagerware verfügbar ist.",
+      "tags": [
+        "saisonkalender"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "kuerbis",
+        "category": "saisonkalender"
+      },
+      "source": [
+        {
+          "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
+          "license": "dl_de_by",
+          "license_note": "Bundeszentrum für Ernährung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem öffentlich bekannten BZfE-Saisonkalender, quer geprüft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+          "retrieved_at": "2026-07-12",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "main_season",
+          "year": null,
+          "from": "--09",
+          "to": "--10",
+          "precision": "approximate",
+          "ics": false,
+          "name": "Hauptsaison"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-09-01",
+        "to": "2026-10-31",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2027-09-01",
+        "to": "2027-10-31",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2028-09-01",
+        "to": "2028-10-31",
+        "label": "Hauptsaison"
+      }
+    ]
+  },
+  {
+    "category": "saisonkalender",
+    "slug": "rhabarber",
+    "meta": {
+      "title": "Rhabarber",
+      "description": "Saisonkalender für Rhabarber - wann Hauptsaison ist oder er als Lagerware verfügbar ist.",
+      "tags": [
+        "saisonkalender"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "rhabarber",
+        "category": "saisonkalender"
+      },
+      "source": [
+        {
+          "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
+          "license": "dl_de_by",
+          "license_note": "Bundeszentrum für Ernährung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem öffentlich bekannten BZfE-Saisonkalender, quer geprüft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+          "retrieved_at": "2026-07-12",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "main_season",
+          "year": null,
+          "from": "--04",
+          "to": "--06",
+          "precision": "approximate",
+          "ics": false,
+          "name": "Hauptsaison"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-04-01",
+        "to": "2026-06-30",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2027-04-01",
+        "to": "2027-06-30",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2028-04-01",
+        "to": "2028-06-30",
+        "label": "Hauptsaison"
+      }
+    ]
+  },
+  {
+    "category": "saisonkalender",
+    "slug": "spargel",
+    "meta": {
+      "title": "Spargel",
+      "description": "Saisonkalender für Spargel - wann Hauptsaison ist oder er als Lagerware verfügbar ist.",
+      "tags": [
+        "saisonkalender"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "spargel",
+        "category": "saisonkalender"
+      },
+      "source": [
+        {
+          "url": "https://www.bzfe.de/kueche-und-alltag/einkaufen/der-saisonkalender",
+          "license": "dl_de_by",
+          "license_note": "Bundeszentrum für Ernährung (BZfE, nachgeordnete Einrichtung der BLE/BMEL). Monatsangaben aus dem öffentlich bekannten BZfE-Saisonkalender, quer geprüft gegen mehrere Verbraucherportale, nicht live aus dem interaktiven Widget gescrapt (das liefert keinen Text-Export).",
+          "retrieved_at": "2026-07-12",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "main_season",
+          "year": null,
+          "from": "--04",
+          "to": "--06",
+          "precision": "approximate",
+          "ics": false,
+          "name": "Hauptsaison"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-04-01",
+        "to": "2026-06-30",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2027-04-01",
+        "to": "2027-06-30",
+        "label": "Hauptsaison"
+      },
+      {
+        "date": "2028-04-01",
+        "to": "2028-06-30",
+        "label": "Hauptsaison"
+      }
+    ]
+  }
+]

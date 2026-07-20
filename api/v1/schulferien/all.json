@@ -1,0 +1,2784 @@
+[
+  {
+    "category": "schulferien",
+    "slug": "bb",
+    "meta": {
+      "title": "Schulferien Brandenburg",
+      "description": "Schulferientermine für Brandenburg.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "bb",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Brandenburg, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-19",
+          "to": "2026-10-30",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-01",
+          "to": "2026-02-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-18",
+          "to": "2026-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-01",
+          "to": "2026-08-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-02-01",
+          "to": "2027-02-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-18",
+          "to": "2027-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-01",
+          "to": "2027-08-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-01",
+        "to": "2026-02-06",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-22",
+        "to": "2026-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-18",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2026-07-01",
+        "to": "2026-08-14",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-19",
+        "to": "2026-10-30",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-02",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-01",
+        "to": "2027-02-06",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-18",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-01",
+        "to": "2027-08-14",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "be",
+    "meta": {
+      "title": "Schulferien Berlin",
+      "description": "Schulferientermine für Berlin.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "be",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Berlin, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-01",
+          "to": "2026-02-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-07",
+          "to": "2026-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (1)"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-18",
+          "to": "2026-05-19",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (2)"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-01",
+          "to": "2026-08-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-19",
+          "to": "2026-10-31",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-02-01",
+          "to": "2027-02-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-07",
+          "to": "2027-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-18",
+          "to": "2027-05-19",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-01",
+          "to": "2027-08-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-01",
+        "to": "2026-02-06",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-22",
+        "to": "2026-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-07",
+        "label": "Pfingstferien (1)"
+      },
+      {
+        "date": "2026-05-18",
+        "to": "2026-05-19",
+        "label": "Pfingstferien (2)"
+      },
+      {
+        "date": "2026-07-01",
+        "to": "2026-08-14",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-19",
+        "to": "2026-10-31",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-02",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-01",
+        "to": "2027-02-06",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-07",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-05-18",
+        "to": "2027-05-19",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-01",
+        "to": "2027-08-14",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "bw",
+    "meta": {
+      "title": "Schulferien Baden-Württemberg",
+      "description": "Schulferientermine für Baden-Württemberg.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "bw",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Baden-Württemberg, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-25",
+          "to": "2026-03-25",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien (1)"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-30",
+          "to": "2026-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien (2)"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-18",
+          "to": "2026-05-29",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-29",
+          "to": "2026-09-11",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-26",
+          "to": "2026-10-30",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-09",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-25",
+          "to": "2027-03-25",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-30",
+          "to": "2027-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-18",
+          "to": "2027-05-29",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-29",
+          "to": "2027-09-11",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-03-25",
+        "label": "Osterferien (1)"
+      },
+      {
+        "date": "2026-03-30",
+        "to": "2026-04-03",
+        "label": "Osterferien (2)"
+      },
+      {
+        "date": "2026-05-18",
+        "to": "2026-05-29",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2026-07-29",
+        "to": "2026-09-11",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-26",
+        "to": "2026-10-30",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-09",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-03-25",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-03-30",
+        "to": "2027-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-18",
+        "to": "2027-05-29",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-29",
+        "to": "2027-09-11",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "by",
+    "meta": {
+      "title": "Schulferien Bayern",
+      "description": "Schulferientermine für Bayern.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "by",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Bayern, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-08",
+          "to": "2026-02-12",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-18",
+          "to": "2026-05-28",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-08-02",
+          "to": "2026-09-13",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-11-02",
+          "to": "2026-11-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-24",
+          "to": "2027-01-08",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-02-08",
+          "to": "2027-02-12",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-18",
+          "to": "2027-05-28",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-08-02",
+          "to": "2027-09-13",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-08",
+        "to": "2026-02-12",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-22",
+        "to": "2026-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-18",
+        "to": "2026-05-28",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2026-08-02",
+        "to": "2026-09-13",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-11-02",
+        "to": "2026-11-06",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-24",
+        "to": "2027-01-08",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-08",
+        "to": "2027-02-12",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-18",
+        "to": "2027-05-28",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-08-02",
+        "to": "2027-09-13",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "hb",
+    "meta": {
+      "title": "Schulferien Bremen",
+      "description": "Schulferientermine für Bremen.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "hb",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Bremen, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-12",
+          "to": "2026-10-24",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-09",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-01",
+          "to": "2026-02-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-07",
+          "to": "2026-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (1)"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-18",
+          "to": "2026-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (2)"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-08",
+          "to": "2026-08-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-02-01",
+          "to": "2027-02-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-07",
+          "to": "2027-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-18",
+          "to": "2027-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-08",
+          "to": "2027-08-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-01",
+        "to": "2026-02-02",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-22",
+        "to": "2026-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-07",
+        "label": "Pfingstferien (1)"
+      },
+      {
+        "date": "2026-05-18",
+        "label": "Pfingstferien (2)"
+      },
+      {
+        "date": "2026-07-08",
+        "to": "2026-08-18",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-12",
+        "to": "2026-10-24",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-09",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-01",
+        "to": "2027-02-02",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-07",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-05-18",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-08",
+        "to": "2027-08-18",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "he",
+    "meta": {
+      "title": "Schulferien Hessen",
+      "description": "Schulferientermine für Hessen.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "he",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Hessen, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-05",
+          "to": "2026-10-17",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-12",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-06-28",
+          "to": "2026-08-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-06-28",
+          "to": "2027-08-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-03-22",
+        "to": "2026-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-06-28",
+        "to": "2026-08-06",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-05",
+        "to": "2026-10-17",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-12",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-06-28",
+        "to": "2027-08-06",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "hh",
+    "meta": {
+      "title": "Schulferien Hamburg",
+      "description": "Schulferientermine für Hamburg.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "hh",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Hamburg, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-01-29",
+          "to": "2026-01-29",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-01",
+          "to": "2026-03-12",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-07",
+          "to": "2026-05-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-01",
+          "to": "2026-08-11",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-19",
+          "to": "2026-10-30",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-21",
+          "to": "2027-01-01",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-01-29",
+          "to": "2027-01-29",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-01",
+          "to": "2027-03-12",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-07",
+          "to": "2027-05-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-01",
+          "to": "2027-08-11",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-01-29",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-01",
+        "to": "2026-03-12",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-07",
+        "to": "2026-05-14",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2026-07-01",
+        "to": "2026-08-11",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-19",
+        "to": "2026-10-30",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-21",
+        "to": "2027-01-01",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-01-29",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-01",
+        "to": "2027-03-12",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-07",
+        "to": "2027-05-14",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-01",
+        "to": "2027-08-11",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "mv",
+    "meta": {
+      "title": "Schulferien Mecklenburg-Vorpommern",
+      "description": "Schulferientermine für Mecklenburg-Vorpommern.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "mv",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Mecklenburg-Vorpommern, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-15",
+          "to": "2026-10-24",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-21",
+          "to": "2027-01-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-08",
+          "to": "2026-02-19",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-24",
+          "to": "2026-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-07",
+          "to": "2026-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (1)"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-14",
+          "to": "2026-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (2)"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-05",
+          "to": "2026-08-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-02-08",
+          "to": "2027-02-19",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-24",
+          "to": "2027-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-07",
+          "to": "2027-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-14",
+          "to": "2027-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-05",
+          "to": "2027-08-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-08",
+        "to": "2026-02-19",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-24",
+        "to": "2026-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-07",
+        "label": "Pfingstferien (1)"
+      },
+      {
+        "date": "2026-05-14",
+        "to": "2026-05-18",
+        "label": "Pfingstferien (2)"
+      },
+      {
+        "date": "2026-07-05",
+        "to": "2026-08-14",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-15",
+        "to": "2026-10-24",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-21",
+        "to": "2027-01-02",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-08",
+        "to": "2027-02-19",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-24",
+        "to": "2027-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-07",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-05-14",
+        "to": "2027-05-18",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-05",
+        "to": "2027-08-14",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "ni",
+    "meta": {
+      "title": "Schulferien Niedersachsen",
+      "description": "Schulferientermine für Niedersachsen.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "ni",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Niedersachsen, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-01",
+          "to": "2026-02-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-07",
+          "to": "2026-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (1)"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-18",
+          "to": "2026-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (2)"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-08",
+          "to": "2026-08-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-12",
+          "to": "2026-10-24",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-09",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-02-01",
+          "to": "2027-02-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-07",
+          "to": "2027-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-18",
+          "to": "2027-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-08",
+          "to": "2027-08-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-01",
+        "to": "2026-02-02",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-22",
+        "to": "2026-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-07",
+        "label": "Pfingstferien (1)"
+      },
+      {
+        "date": "2026-05-18",
+        "label": "Pfingstferien (2)"
+      },
+      {
+        "date": "2026-07-08",
+        "to": "2026-08-18",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-12",
+        "to": "2026-10-24",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-09",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-01",
+        "to": "2027-02-02",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-07",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-05-18",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-08",
+        "to": "2027-08-18",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "nw",
+    "meta": {
+      "title": "Schulferien Nordrhein-Westfalen",
+      "description": "Schulferientermine für Nordrhein-Westfalen.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "nw",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Nordrhein-Westfalen, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-18",
+          "to": "2026-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-19",
+          "to": "2026-08-31",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-17",
+          "to": "2026-10-31",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-18",
+          "to": "2027-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-19",
+          "to": "2027-08-31",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-03-22",
+        "to": "2026-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-18",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2026-07-19",
+        "to": "2026-08-31",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-17",
+        "to": "2026-10-31",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-06",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-18",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-19",
+        "to": "2027-08-31",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "rp",
+    "meta": {
+      "title": "Schulferien Rheinland-Pfalz",
+      "description": "Schulferientermine für Rheinland-Pfalz.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "rp",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Rheinland-Pfalz, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-06-28",
+          "to": "2026-08-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-05",
+          "to": "2026-10-16",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-08",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-06-28",
+          "to": "2027-08-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-03-22",
+        "to": "2026-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-06-28",
+        "to": "2026-08-06",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-05",
+        "to": "2026-10-16",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-08",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-06-28",
+        "to": "2027-08-06",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "sh",
+    "meta": {
+      "title": "Schulferien Schleswig-Holstein",
+      "description": "Schulferientermine für Schleswig-Holstein.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "sh",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Schleswig-Holstein, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-12",
+          "to": "2026-10-24",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-21",
+          "to": "2027-01-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-30",
+          "to": "2026-04-10",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-07",
+          "to": "2026-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-03",
+          "to": "2026-08-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-30",
+          "to": "2027-04-10",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-07",
+          "to": "2027-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-03",
+          "to": "2027-08-14",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-03-30",
+        "to": "2026-04-10",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-07",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2026-07-03",
+        "to": "2026-08-14",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-12",
+        "to": "2026-10-24",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-21",
+        "to": "2027-01-06",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-03-30",
+        "to": "2027-04-10",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-07",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-03",
+        "to": "2027-08-14",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "sl",
+    "meta": {
+      "title": "Schulferien Saarland",
+      "description": "Schulferientermine für Saarland.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "sl",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Saarland, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-05",
+          "to": "2026-10-16",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-21",
+          "to": "2026-12-31",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-08",
+          "to": "2026-02-12",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-30",
+          "to": "2026-04-09",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-06-28",
+          "to": "2026-08-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-02-08",
+          "to": "2027-02-12",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-30",
+          "to": "2027-04-09",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-06-28",
+          "to": "2027-08-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-08",
+        "to": "2026-02-12",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-30",
+        "to": "2026-04-09",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-06-28",
+        "to": "2026-08-06",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-05",
+        "to": "2026-10-16",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-21",
+        "to": "2026-12-31",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-08",
+        "to": "2027-02-12",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-30",
+        "to": "2027-04-09",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-06-28",
+        "to": "2027-08-06",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "sn",
+    "meta": {
+      "title": "Schulferien Sachsen",
+      "description": "Schulferientermine für Sachsen.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "sn",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Sachsen, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-08",
+          "to": "2026-02-19",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-26",
+          "to": "2026-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-07",
+          "to": "2026-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (1)"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-15",
+          "to": "2026-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien (2)"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-10",
+          "to": "2026-08-20",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-12",
+          "to": "2026-10-24",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-02-08",
+          "to": "2027-02-19",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-26",
+          "to": "2027-04-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-07",
+          "to": "2027-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-15",
+          "to": "2027-05-18",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-10",
+          "to": "2027-08-20",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-08",
+        "to": "2026-02-19",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-26",
+        "to": "2026-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-07",
+        "label": "Pfingstferien (1)"
+      },
+      {
+        "date": "2026-05-15",
+        "to": "2026-05-18",
+        "label": "Pfingstferien (2)"
+      },
+      {
+        "date": "2026-07-10",
+        "to": "2026-08-20",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-12",
+        "to": "2026-10-24",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-02",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-08",
+        "to": "2027-02-19",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-26",
+        "to": "2027-04-02",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-07",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-05-15",
+        "to": "2027-05-18",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-10",
+        "to": "2027-08-20",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "st",
+    "meta": {
+      "title": "Schulferien Sachsen-Anhalt",
+      "description": "Schulferientermine für Sachsen-Anhalt.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "st",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Sachsen-Anhalt, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-19",
+          "to": "2026-10-30",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-21",
+          "to": "2027-01-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-01",
+          "to": "2026-02-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-03-27",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-15",
+          "to": "2026-05-22",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-10",
+          "to": "2026-08-20",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-02-01",
+          "to": "2027-02-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-03-27",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-15",
+          "to": "2027-05-22",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-10",
+          "to": "2027-08-20",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-01",
+        "to": "2026-02-06",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-22",
+        "to": "2026-03-27",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-15",
+        "to": "2026-05-22",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2026-07-10",
+        "to": "2026-08-20",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-19",
+        "to": "2026-10-30",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-21",
+        "to": "2027-01-02",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-01",
+        "to": "2027-02-06",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-03-27",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-15",
+        "to": "2027-05-22",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-10",
+        "to": "2027-08-20",
+        "label": "Sommerferien"
+      }
+    ]
+  },
+  {
+    "category": "schulferien",
+    "slug": "th",
+    "meta": {
+      "title": "Schulferien Thüringen",
+      "description": "Schulferientermine für Thüringen.",
+      "tags": [
+        "schulferien"
+      ],
+      "featured": true
+    },
+    "data": {
+      "subject": {
+        "slug": "th",
+        "category": "schulferien"
+      },
+      "source": [
+        {
+          "url": "https://www.kmk.org/service/ferien.html",
+          "license": "official_par5",
+          "license_note": "Ferientermine der Kultusministerkonferenz (KMK), zusammengestellt aus den Meldungen der Kultusministerien der Laender.",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        },
+        {
+          "url": "https://www.kmk.org/service/ferienregelung/ferienkalender.html",
+          "license": "official_par5",
+          "license_note": "Amtlicher .ics-Download der KMK für Thüringen, Schuljahr 2026/2027 (liefert die 2027-Daten).",
+          "retrieved_at": "2026-07-11",
+          "extraction": "manual"
+        }
+      ],
+      "windows": [
+        {
+          "type": "school_holidays-autumn",
+          "year": 2026,
+          "from": "2026-10-12",
+          "to": "2026-10-24",
+          "precision": "exact",
+          "ics": false,
+          "name": "Herbstferien"
+        },
+        {
+          "type": "school_holidays-christmas",
+          "year": 2026,
+          "from": "2026-12-23",
+          "to": "2027-01-02",
+          "precision": "exact",
+          "ics": false,
+          "name": "Weihnachtsferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2026,
+          "from": "2026-02-01",
+          "to": "2026-02-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2026,
+          "from": "2026-03-22",
+          "to": "2026-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2026,
+          "from": "2026-05-07",
+          "to": "2026-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2026,
+          "from": "2026-07-10",
+          "to": "2026-08-20",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        },
+        {
+          "type": "school_holidays-winter",
+          "year": 2027,
+          "from": "2027-02-01",
+          "to": "2027-02-06",
+          "precision": "exact",
+          "ics": false,
+          "name": "Winterferien"
+        },
+        {
+          "type": "school_holidays-easter",
+          "year": 2027,
+          "from": "2027-03-22",
+          "to": "2027-04-03",
+          "precision": "exact",
+          "ics": false,
+          "name": "Osterferien"
+        },
+        {
+          "type": "school_holidays-whitsun",
+          "year": 2027,
+          "from": "2027-05-07",
+          "to": "2027-05-07",
+          "precision": "exact",
+          "ics": false,
+          "name": "Pfingstferien"
+        },
+        {
+          "type": "school_holidays-summer",
+          "year": 2027,
+          "from": "2027-07-10",
+          "to": "2027-08-20",
+          "precision": "exact",
+          "ics": false,
+          "name": "Sommerferien"
+        }
+      ],
+      "raw_data": {}
+    },
+    "events": [
+      {
+        "date": "2026-02-01",
+        "to": "2026-02-06",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2026-03-22",
+        "to": "2026-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2026-05-07",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2026-07-10",
+        "to": "2026-08-20",
+        "label": "Sommerferien"
+      },
+      {
+        "date": "2026-10-12",
+        "to": "2026-10-24",
+        "label": "Herbstferien"
+      },
+      {
+        "date": "2026-12-23",
+        "to": "2027-01-02",
+        "label": "Weihnachtsferien"
+      },
+      {
+        "date": "2027-02-01",
+        "to": "2027-02-06",
+        "label": "Winterferien"
+      },
+      {
+        "date": "2027-03-22",
+        "to": "2027-04-03",
+        "label": "Osterferien"
+      },
+      {
+        "date": "2027-05-07",
+        "label": "Pfingstferien"
+      },
+      {
+        "date": "2027-07-10",
+        "to": "2027-08-20",
+        "label": "Sommerferien"
+      }
+    ]
+  }
+]
