@@ -5,7 +5,9 @@
     "meta": {
       "title": "Deutschland – Baden-Württemberg",
       "description": "Gesetzliche Feiertage für Deutschland – Baden-Württemberg. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Baden-Württemberg"
+      ],
       "featured": true
     },
     "data": {
@@ -503,7 +505,9 @@
     "meta": {
       "title": "Deutschland – Bayern",
       "description": "Gesetzliche Feiertage für Deutschland – Bayern. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Bayern"
+      ],
       "featured": true
     },
     "data": {
@@ -1001,7 +1005,9 @@
     "meta": {
       "title": "Deutschland – Berlin",
       "description": "Gesetzliche Feiertage für Deutschland – Berlin. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Berlin"
+      ],
       "featured": true
     },
     "data": {
@@ -1434,7 +1440,9 @@
     "meta": {
       "title": "Deutschland – Brandenburg",
       "description": "Gesetzliche Feiertage für Deutschland – Brandenburg. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Brandenburg"
+      ],
       "featured": true
     },
     "data": {
@@ -1932,7 +1940,9 @@
     "meta": {
       "title": "Deutschland – Bremen",
       "description": "Gesetzliche Feiertage für Deutschland – Bremen. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Bremen"
+      ],
       "featured": true
     },
     "data": {
@@ -2352,7 +2362,9 @@
     "meta": {
       "title": "Deutschland – Hamburg",
       "description": "Gesetzliche Feiertage für Deutschland – Hamburg. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Hamburg"
+      ],
       "featured": true
     },
     "data": {
@@ -2772,7 +2784,9 @@
     "meta": {
       "title": "Deutschland – Hessen",
       "description": "Gesetzliche Feiertage für Deutschland – Hessen. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Hessen"
+      ],
       "featured": true
     },
     "data": {
@@ -3192,7 +3206,9 @@
     "meta": {
       "title": "Deutschland – Mecklenburg-Vorpommern",
       "description": "Gesetzliche Feiertage für Deutschland – Mecklenburg-Vorpommern. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Mecklenburg-Vorpommern"
+      ],
       "featured": true
     },
     "data": {
@@ -3651,7 +3667,9 @@
     "meta": {
       "title": "Deutschland – Niedersachsen",
       "description": "Gesetzliche Feiertage für Deutschland – Niedersachsen. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Niedersachsen"
+      ],
       "featured": true
     },
     "data": {
@@ -4071,7 +4089,9 @@
     "meta": {
       "title": "Deutschland – Nordrhein-Westfalen",
       "description": "Gesetzliche Feiertage für Deutschland – Nordrhein-Westfalen. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Nordrhein-Westfalen"
+      ],
       "featured": true
     },
     "data": {
@@ -4530,7 +4550,9 @@
     "meta": {
       "title": "Deutschland – Rheinland-Pfalz",
       "description": "Gesetzliche Feiertage für Deutschland – Rheinland-Pfalz. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Rheinland-Pfalz"
+      ],
       "featured": true
     },
     "data": {
@@ -4989,7 +5011,9 @@
     "meta": {
       "title": "Deutschland – Saarland",
       "description": "Gesetzliche Feiertage für Deutschland – Saarland. Nächster Feiertag: Mariä Himmelfahrt am 15.08.2026.",
-      "tags": [],
+      "tags": [
+        "Saarland"
+      ],
       "featured": true
     },
     "data": {
@@ -5487,7 +5511,9 @@
     "meta": {
       "title": "Deutschland – Sachsen",
       "description": "Gesetzliche Feiertage für Deutschland – Sachsen. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Sachsen"
+      ],
       "featured": true
     },
     "data": {
@@ -5946,7 +5972,9 @@
     "meta": {
       "title": "Deutschland – Sachsen-Anhalt",
       "description": "Gesetzliche Feiertage für Deutschland – Sachsen-Anhalt. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Sachsen-Anhalt"
+      ],
       "featured": true
     },
     "data": {
@@ -6405,7 +6433,9 @@
     "meta": {
       "title": "Deutschland – Schleswig-Holstein",
       "description": "Gesetzliche Feiertage für Deutschland – Schleswig-Holstein. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-      "tags": [],
+      "tags": [
+        "Schleswig-Holstein"
+      ],
       "featured": true
     },
     "data": {
@@ -6825,7 +6855,9 @@
     "meta": {
       "title": "Deutschland – Thüringen",
       "description": "Gesetzliche Feiertage für Deutschland – Thüringen. Nächster Feiertag: Weltkindertag am 20.09.2026.",
-      "tags": [],
+      "tags": [
+        "Thüringen"
+      ],
       "featured": true
     },
     "data": {

@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Mecklenburg-Vorpommern",
     "description": "Brückentage & optimale Urlaubsfenster für Mecklenburg-Vorpommern: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Mecklenburg-Vorpommern"
+    ],
     "featured": true
   },
   "data": {

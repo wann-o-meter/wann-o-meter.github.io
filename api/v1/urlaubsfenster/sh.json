@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Schleswig-Holstein",
     "description": "Brückentage & optimale Urlaubsfenster für Schleswig-Holstein: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Schleswig-Holstein"
+    ],
     "featured": true
   },
   "data": {

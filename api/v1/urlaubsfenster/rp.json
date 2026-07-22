@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Rheinland-Pfalz",
     "description": "Brückentage & optimale Urlaubsfenster für Rheinland-Pfalz: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Rheinland-Pfalz"
+    ],
     "featured": true
   },
   "data": {

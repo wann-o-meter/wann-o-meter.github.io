@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Hessen",
     "description": "Gesetzliche Feiertage für Deutschland – Hessen. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Hessen"
+    ],
     "featured": true
   },
   "data": {

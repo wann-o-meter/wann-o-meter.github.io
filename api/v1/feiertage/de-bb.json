@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Brandenburg",
     "description": "Gesetzliche Feiertage für Deutschland – Brandenburg. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Brandenburg"
+    ],
     "featured": true
   },
   "data": {

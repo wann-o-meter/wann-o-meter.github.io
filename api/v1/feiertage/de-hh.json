@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Hamburg",
     "description": "Gesetzliche Feiertage für Deutschland – Hamburg. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Hamburg"
+    ],
     "featured": true
   },
   "data": {

@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Baden-Württemberg",
     "description": "Brückentage & optimale Urlaubsfenster für Baden-Württemberg: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Baden-Württemberg"
+    ],
     "featured": true
   },
   "data": {

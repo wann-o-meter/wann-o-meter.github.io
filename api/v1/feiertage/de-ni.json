@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Niedersachsen",
     "description": "Gesetzliche Feiertage für Deutschland – Niedersachsen. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Niedersachsen"
+    ],
     "featured": true
   },
   "data": {

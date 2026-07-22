@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Bayern",
     "description": "Gesetzliche Feiertage für Deutschland – Bayern. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Bayern"
+    ],
     "featured": true
   },
   "data": {

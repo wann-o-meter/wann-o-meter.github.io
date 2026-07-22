@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Rheinland-Pfalz",
     "description": "Gesetzliche Feiertage für Deutschland – Rheinland-Pfalz. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Rheinland-Pfalz"
+    ],
     "featured": true
   },
   "data": {

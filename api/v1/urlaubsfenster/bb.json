@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Brandenburg",
     "description": "Brückentage & optimale Urlaubsfenster für Brandenburg: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Brandenburg"
+    ],
     "featured": true
   },
   "data": {

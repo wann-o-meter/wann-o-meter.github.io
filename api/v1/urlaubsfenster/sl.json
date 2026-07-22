@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Saarland",
     "description": "Brückentage & optimale Urlaubsfenster für Saarland: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Saarland"
+    ],
     "featured": true
   },
   "data": {

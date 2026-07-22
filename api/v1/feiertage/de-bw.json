@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Baden-Württemberg",
     "description": "Gesetzliche Feiertage für Deutschland – Baden-Württemberg. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Baden-Württemberg"
+    ],
     "featured": true
   },
   "data": {

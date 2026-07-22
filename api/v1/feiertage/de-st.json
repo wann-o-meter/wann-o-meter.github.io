@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Sachsen-Anhalt",
     "description": "Gesetzliche Feiertage für Deutschland – Sachsen-Anhalt. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Sachsen-Anhalt"
+    ],
     "featured": true
   },
   "data": {

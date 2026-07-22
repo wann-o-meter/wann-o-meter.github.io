@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Bremen",
     "description": "Gesetzliche Feiertage für Deutschland – Bremen. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Bremen"
+    ],
     "featured": true
   },
   "data": {

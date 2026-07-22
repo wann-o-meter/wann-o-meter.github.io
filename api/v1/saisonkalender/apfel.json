@@ -4,9 +4,7 @@
   "meta": {
     "title": "Apfel",
     "description": "Saisonkalender für Apfel - wann Hauptsaison ist oder er als Lagerware verfügbar ist.",
-    "tags": [
-      "saisonkalender"
-    ],
+    "tags": [],
     "featured": true
   },
   "data": {

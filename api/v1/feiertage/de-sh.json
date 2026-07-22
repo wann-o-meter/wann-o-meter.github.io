@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Schleswig-Holstein",
     "description": "Gesetzliche Feiertage für Deutschland – Schleswig-Holstein. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Schleswig-Holstein"
+    ],
     "featured": true
   },
   "data": {

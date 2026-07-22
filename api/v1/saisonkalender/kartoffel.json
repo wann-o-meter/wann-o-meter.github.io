@@ -4,9 +4,7 @@
   "meta": {
     "title": "Kartoffel",
     "description": "Saisonkalender für Kartoffel - wann Hauptsaison ist oder sie als Lagerware verfügbar ist.",
-    "tags": [
-      "saisonkalender"
-    ],
+    "tags": [],
     "featured": true
   },
   "data": {

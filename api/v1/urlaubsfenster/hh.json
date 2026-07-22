@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Hamburg",
     "description": "Brückentage & optimale Urlaubsfenster für Hamburg: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Hamburg"
+    ],
     "featured": true
   },
   "data": {

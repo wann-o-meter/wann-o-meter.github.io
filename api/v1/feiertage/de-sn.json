@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Sachsen",
     "description": "Gesetzliche Feiertage für Deutschland – Sachsen. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Sachsen"
+    ],
     "featured": true
   },
   "data": {

@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Saarland",
     "description": "Gesetzliche Feiertage für Deutschland – Saarland. Nächster Feiertag: Mariä Himmelfahrt am 15.08.2026.",
-    "tags": [],
+    "tags": [
+      "Saarland"
+    ],
     "featured": true
   },
   "data": {

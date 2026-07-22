@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Bayern",
     "description": "Brückentage & optimale Urlaubsfenster für Bayern: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Bayern"
+    ],
     "featured": true
   },
   "data": {

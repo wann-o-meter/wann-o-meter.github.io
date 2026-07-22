@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Sachsen-Anhalt",
     "description": "Brückentage & optimale Urlaubsfenster für Sachsen-Anhalt: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Sachsen-Anhalt"
+    ],
     "featured": true
   },
   "data": {

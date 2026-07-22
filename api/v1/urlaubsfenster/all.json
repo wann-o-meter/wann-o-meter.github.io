@@ -5,7 +5,9 @@
     "meta": {
       "title": "Brückentage Baden-Württemberg",
       "description": "Brückentage & optimale Urlaubsfenster für Baden-Württemberg: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Baden-Württemberg"
+      ],
       "featured": true
     },
     "data": {
@@ -664,7 +666,9 @@
     "meta": {
       "title": "Brückentage Bayern",
       "description": "Brückentage & optimale Urlaubsfenster für Bayern: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Bayern"
+      ],
       "featured": true
     },
     "data": {
@@ -1323,7 +1327,9 @@
     "meta": {
       "title": "Brückentage Berlin",
       "description": "Brückentage & optimale Urlaubsfenster für Berlin: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Berlin"
+      ],
       "featured": true
     },
     "data": {
@@ -1778,7 +1784,9 @@
     "meta": {
       "title": "Brückentage Brandenburg",
       "description": "Brückentage & optimale Urlaubsfenster für Brandenburg: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Brandenburg"
+      ],
       "featured": true
     },
     "data": {
@@ -2216,7 +2224,9 @@
     "meta": {
       "title": "Brückentage Bremen",
       "description": "Brückentage & optimale Urlaubsfenster für Bremen: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Bremen"
+      ],
       "featured": true
     },
     "data": {
@@ -2654,7 +2664,9 @@
     "meta": {
       "title": "Brückentage Hamburg",
       "description": "Brückentage & optimale Urlaubsfenster für Hamburg: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Hamburg"
+      ],
       "featured": true
     },
     "data": {
@@ -3092,7 +3104,9 @@
     "meta": {
       "title": "Brückentage Hessen",
       "description": "Brückentage & optimale Urlaubsfenster für Hessen: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Hessen"
+      ],
       "featured": true
     },
     "data": {
@@ -3598,7 +3612,9 @@
     "meta": {
       "title": "Brückentage Mecklenburg-Vorpommern",
       "description": "Brückentage & optimale Urlaubsfenster für Mecklenburg-Vorpommern: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Mecklenburg-Vorpommern"
+      ],
       "featured": true
     },
     "data": {
@@ -4087,7 +4103,9 @@
     "meta": {
       "title": "Brückentage Niedersachsen",
       "description": "Brückentage & optimale Urlaubsfenster für Niedersachsen: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Niedersachsen"
+      ],
       "featured": true
     },
     "data": {
@@ -4525,7 +4543,9 @@
     "meta": {
       "title": "Brückentage Nordrhein-Westfalen",
       "description": "Brückentage & optimale Urlaubsfenster für Nordrhein-Westfalen: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Nordrhein-Westfalen"
+      ],
       "featured": true
     },
     "data": {
@@ -5082,7 +5102,9 @@
     "meta": {
       "title": "Brückentage Rheinland-Pfalz",
       "description": "Brückentage & optimale Urlaubsfenster für Rheinland-Pfalz: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Rheinland-Pfalz"
+      ],
       "featured": true
     },
     "data": {
@@ -5639,7 +5661,9 @@
     "meta": {
       "title": "Brückentage Saarland",
       "description": "Brückentage & optimale Urlaubsfenster für Saarland: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Saarland"
+      ],
       "featured": true
     },
     "data": {
@@ -6230,7 +6254,9 @@
     "meta": {
       "title": "Brückentage Sachsen",
       "description": "Brückentage & optimale Urlaubsfenster für Sachsen: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Sachsen"
+      ],
       "featured": true
     },
     "data": {
@@ -6770,7 +6796,9 @@
     "meta": {
       "title": "Brückentage Sachsen-Anhalt",
       "description": "Brückentage & optimale Urlaubsfenster für Sachsen-Anhalt: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Sachsen-Anhalt"
+      ],
       "featured": true
     },
     "data": {
@@ -7310,7 +7338,9 @@
     "meta": {
       "title": "Brückentage Schleswig-Holstein",
       "description": "Brückentage & optimale Urlaubsfenster für Schleswig-Holstein: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Schleswig-Holstein"
+      ],
       "featured": true
     },
     "data": {
@@ -7748,7 +7778,9 @@
     "meta": {
       "title": "Brückentage Thüringen",
       "description": "Brückentage & optimale Urlaubsfenster für Thüringen: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-      "tags": [],
+      "tags": [
+        "Thüringen"
+      ],
       "featured": true
     },
     "data": {

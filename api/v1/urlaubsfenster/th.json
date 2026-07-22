@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Thüringen",
     "description": "Brückentage & optimale Urlaubsfenster für Thüringen: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Thüringen"
+    ],
     "featured": true
   },
   "data": {

@@ -4,7 +4,9 @@
   "meta": {
     "title": "Deutschland – Berlin",
     "description": "Gesetzliche Feiertage für Deutschland – Berlin. Nächster Feiertag: Tag der Deutschen Einheit am 03.10.2026.",
-    "tags": [],
+    "tags": [
+      "Berlin"
+    ],
     "featured": true
   },
   "data": {

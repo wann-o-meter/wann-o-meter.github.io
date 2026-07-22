@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Sachsen",
     "description": "Brückentage & optimale Urlaubsfenster für Sachsen: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Sachsen"
+    ],
     "featured": true
   },
   "data": {

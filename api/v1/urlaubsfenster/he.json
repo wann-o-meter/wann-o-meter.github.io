@@ -4,7 +4,9 @@
   "meta": {
     "title": "Brückentage Hessen",
     "description": "Brückentage & optimale Urlaubsfenster für Hessen: mit wenigen Urlaubstagen lange frei, als Kalender abonnierbar.",
-    "tags": [],
+    "tags": [
+      "Hessen"
+    ],
     "featured": true
   },
   "data": {
