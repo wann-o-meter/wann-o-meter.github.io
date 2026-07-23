@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:الجمهورية العربية الصحراوية الديمقراطية
 BEGIN:VEVENT
 UID:feiertage-eh-2026-02-27@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260228
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -14,7 +14,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2026-03-08@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20260308
 DTEND;VALUE=DATE:20260309
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -23,7 +23,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2026-03-20@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -33,7 +33,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2026-05-10@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260511
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -43,7 +43,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2026-05-27@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -53,7 +53,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2026-06-09@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260610
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -63,7 +63,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2026-06-16@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -72,7 +72,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2026-06-17@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260618
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -82,7 +82,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2026-08-25@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -92,7 +92,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2027-02-27@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -101,7 +101,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2027-03-08@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -110,7 +110,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2027-03-09@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -120,7 +120,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2027-05-10@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -130,7 +130,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2027-05-16@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -140,7 +140,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2027-06-06@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -149,7 +149,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2027-06-09@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -159,7 +159,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2027-06-17@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -169,7 +169,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2027-08-14@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -179,7 +179,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2028-02-26@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280227
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -189,7 +189,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2028-02-27@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20280227
 DTEND;VALUE=DATE:20280228
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -198,7 +198,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2028-03-08@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20280308
 DTEND;VALUE=DATE:20280309
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -207,7 +207,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2028-05-05@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20280505
 DTEND;VALUE=DATE:20280506
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -217,7 +217,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2028-05-10@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20280510
 DTEND;VALUE=DATE:20280511
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -227,7 +227,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2028-05-25@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20280525
 DTEND;VALUE=DATE:20280526
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -236,7 +236,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2028-06-09@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20280609
 DTEND;VALUE=DATE:20280610
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -246,7 +246,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2028-06-17@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20280617
 DTEND;VALUE=DATE:20280618
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
@@ -256,7 +256,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-eh-2028-08-03@wann.local
-DTSTAMP:20260722T222950Z
+DTSTAMP:20260723T195349Z
 DTSTART;VALUE=DATE:20280803
 DTEND;VALUE=DATE:20280804
 SUMMARY:الجمهورية العربية الصحراوية الديمقراطية
