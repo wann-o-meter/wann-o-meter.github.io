@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:الجمهورية الجزائرية الديمقراطية الشعبية
 BEGIN:VEVENT
 UID:feiertage-dz-2026-01-01@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -14,7 +14,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2026-01-12@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20260112
 DTEND;VALUE=DATE:20260113
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -24,7 +24,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2026-03-20@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20260320
 DTEND;VALUE=DATE:20260321
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -33,7 +33,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2026-05-01@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -42,7 +42,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2026-05-27@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -51,7 +51,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2026-06-16@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -61,7 +61,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2026-06-25@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -70,7 +70,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2026-07-05@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -79,7 +79,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2026-08-25@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -88,7 +88,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2026-11-01@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -97,7 +97,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-01-01@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -106,7 +106,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-01-12@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -116,7 +116,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-03-09@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -125,7 +125,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-05-01@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -134,7 +134,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-05-16@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -143,7 +143,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-06-06@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -153,7 +153,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-06-15@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -162,7 +162,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-07-05@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -171,7 +171,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-08-14@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -180,7 +180,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2027-11-01@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -189,7 +189,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-01-01@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20280101
 DTEND;VALUE=DATE:20280102
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -198,7 +198,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-01-12@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20280112
 DTEND;VALUE=DATE:20280113
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -208,7 +208,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-02-26@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20280226
 DTEND;VALUE=DATE:20280227
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -217,7 +217,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-05-01@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -226,7 +226,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-05-05@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20280505
 DTEND;VALUE=DATE:20280506
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -235,7 +235,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-05-25@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20280525
 DTEND;VALUE=DATE:20280526
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -245,7 +245,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-06-03@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20280603
 DTEND;VALUE=DATE:20280604
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -254,7 +254,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-07-05@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20280705
 DTEND;VALUE=DATE:20280706
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -263,7 +263,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-08-03@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20280803
 DTEND;VALUE=DATE:20280804
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
@@ -272,7 +272,7 @@ URL:https://www.npmjs.com/package/date-holidays
 END:VEVENT
 BEGIN:VEVENT
 UID:feiertage-dz-2028-11-01@wann.local
-DTSTAMP:20260723T195349Z
+DTSTAMP:20260723T201132Z
 DTSTART;VALUE=DATE:20281101
 DTEND;VALUE=DATE:20281102
 SUMMARY:الجمهورية الجزائرية الديمقراطية الشعبية
