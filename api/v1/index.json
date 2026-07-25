@@ -1,6 +1,7 @@
 {
   "astronomie": [
-    "eclipse-gsfc-nasa-gov"
+    "mondfinsternis",
+    "sonnenfinsternis"
   ],
   "feiertage": [
     "ad",
