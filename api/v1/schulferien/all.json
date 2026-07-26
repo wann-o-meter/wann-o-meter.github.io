@@ -5,6 +5,7 @@
     "meta": {
       "title": "Schulferien Brandenburg",
       "description": "Schulferientermine für Brandenburg.",
+      "intro": "",
       "tags": [
         "Brandenburg"
       ],
@@ -182,6 +183,7 @@
     "meta": {
       "title": "Schulferien Berlin",
       "description": "Schulferientermine für Berlin.",
+      "intro": "",
       "tags": [
         "Berlin"
       ],
@@ -387,6 +389,7 @@
     "meta": {
       "title": "Schulferien Baden-Württemberg",
       "description": "Schulferientermine für Baden-Württemberg.",
+      "intro": "",
       "tags": [
         "Baden-Württemberg"
       ],
@@ -564,6 +567,7 @@
     "meta": {
       "title": "Schulferien Bayern",
       "description": "Schulferientermine für Bayern.",
+      "intro": "",
       "tags": [
         "Bayern"
       ],
@@ -743,6 +747,7 @@
     "meta": {
       "title": "Schulferien Bremen",
       "description": "Schulferientermine für Bremen.",
+      "intro": "",
       "tags": [
         "Bremen"
       ],
@@ -946,6 +951,7 @@
     "meta": {
       "title": "Schulferien Hessen",
       "description": "Schulferientermine für Hessen.",
+      "intro": "",
       "tags": [
         "Hessen"
       ],
@@ -1069,6 +1075,7 @@
     "meta": {
       "title": "Schulferien Hamburg",
       "description": "Schulferientermine für Hamburg.",
+      "intro": "",
       "tags": [
         "Hamburg"
       ],
@@ -1246,6 +1253,7 @@
     "meta": {
       "title": "Schulferien Mecklenburg-Vorpommern",
       "description": "Schulferientermine für Mecklenburg-Vorpommern.",
+      "intro": "",
       "tags": [
         "Mecklenburg-Vorpommern"
       ],
@@ -1451,6 +1459,7 @@
     "meta": {
       "title": "Schulferien Niedersachsen",
       "description": "Schulferientermine für Niedersachsen.",
+      "intro": "",
       "tags": [
         "Niedersachsen"
       ],
@@ -1654,6 +1663,7 @@
     "meta": {
       "title": "Schulferien Nordrhein-Westfalen",
       "description": "Schulferientermine für Nordrhein-Westfalen.",
+      "intro": "",
       "tags": [
         "Nordrhein-Westfalen"
       ],
@@ -1803,6 +1813,7 @@
     "meta": {
       "title": "Schulferien Rheinland-Pfalz",
       "description": "Schulferientermine für Rheinland-Pfalz.",
+      "intro": "",
       "tags": [
         "Rheinland-Pfalz"
       ],
@@ -1926,6 +1937,7 @@
     "meta": {
       "title": "Schulferien Schleswig-Holstein",
       "description": "Schulferientermine für Schleswig-Holstein.",
+      "intro": "",
       "tags": [
         "Schleswig-Holstein"
       ],
@@ -2075,6 +2087,7 @@
     "meta": {
       "title": "Schulferien Saarland",
       "description": "Schulferientermine für Saarland.",
+      "intro": "",
       "tags": [
         "Saarland"
       ],
@@ -2226,6 +2239,7 @@
     "meta": {
       "title": "Schulferien Sachsen",
       "description": "Schulferientermine für Sachsen.",
+      "intro": "",
       "tags": [
         "Sachsen"
       ],
@@ -2431,6 +2445,7 @@
     "meta": {
       "title": "Schulferien Sachsen-Anhalt",
       "description": "Schulferientermine für Sachsen-Anhalt.",
+      "intro": "",
       "tags": [
         "Sachsen-Anhalt"
       ],
@@ -2610,6 +2625,7 @@
     "meta": {
       "title": "Schulferien Thüringen",
       "description": "Schulferientermine für Thüringen.",
+      "intro": "",
       "tags": [
         "Thüringen"
       ],
