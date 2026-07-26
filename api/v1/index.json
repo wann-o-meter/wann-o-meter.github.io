@@ -3,6 +3,9 @@
     "mondfinsternis",
     "sonnenfinsternis"
   ],
+  "events/feste": [
+    "wiesnkini-de"
+  ],
   "feiertage": [
     "ad",
     "ae",
