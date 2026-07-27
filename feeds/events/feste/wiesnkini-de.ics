@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Oktoberfest
 BEGIN:VEVENT
 UID:events/feste-wiesnkini-de-2026-09-19@wann.local
-DTSTAMP:20260727T211203Z
+DTSTAMP:20260727T231235Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20261005
 SUMMARY:Oktoberfest
@@ -15,7 +15,7 @@ URL:https://wiesnkini.de/haufige-fragen/wann-findet-das-oktoberfest-statt
 END:VEVENT
 BEGIN:VEVENT
 UID:events/feste-wiesnkini-de-2027-09-18@wann.local
-DTSTAMP:20260727T211203Z
+DTSTAMP:20260727T231235Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20271004
 SUMMARY:Oktoberfest
@@ -25,7 +25,7 @@ URL:https://wiesnkini.de/haufige-fragen/wann-findet-das-oktoberfest-statt
 END:VEVENT
 BEGIN:VEVENT
 UID:events/feste-wiesnkini-de-2028-09-16@wann.local
-DTSTAMP:20260727T211203Z
+DTSTAMP:20260727T231235Z
 DTSTART;VALUE=DATE:20280916
 DTEND;VALUE=DATE:20281004
 SUMMARY:Oktoberfest
@@ -35,7 +35,7 @@ URL:https://wiesnkini.de/haufige-fragen/wann-findet-das-oktoberfest-statt
 END:VEVENT
 BEGIN:VEVENT
 UID:events/feste-wiesnkini-de-2029-09-22@wann.local
-DTSTAMP:20260727T211203Z
+DTSTAMP:20260727T231235Z
 DTSTART;VALUE=DATE:20290922
 DTEND;VALUE=DATE:20291008
 SUMMARY:Oktoberfest
