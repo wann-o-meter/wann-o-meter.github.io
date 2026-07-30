@@ -13801,7 +13801,7 @@
           "to": "2026-01-01",
           "precision": "exact",
           "ics": true,
-          "name": "Nyårsdagen"
+          "name": "nyårsdagen"
         },
         {
           "type": "holiday",
@@ -13810,7 +13810,7 @@
           "to": "2026-01-06",
           "precision": "exact",
           "ics": true,
-          "name": "Trettondedag jul"
+          "name": "trettondedag jul"
         },
         {
           "type": "holiday",
@@ -13828,7 +13828,7 @@
           "to": "2026-04-03",
           "precision": "exact",
           "ics": true,
-          "name": "Långfredagen"
+          "name": "långfredagen"
         },
         {
           "type": "holiday",
@@ -13837,7 +13837,7 @@
           "to": "2026-04-06",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag påsk"
+          "name": "annandag påsk"
         },
         {
           "type": "holiday",
@@ -13846,7 +13846,7 @@
           "to": "2026-05-01",
           "precision": "exact",
           "ics": true,
-          "name": "Första Maj"
+          "name": "första maj"
         },
         {
           "type": "holiday",
@@ -13855,7 +13855,7 @@
           "to": "2026-05-14",
           "precision": "exact",
           "ics": true,
-          "name": "Kristi himmelfärdsdag"
+          "name": "Kristi himmelsfärdsdag"
         },
         {
           "type": "holiday",
@@ -13891,7 +13891,7 @@
           "to": "2026-12-25",
           "precision": "exact",
           "ics": true,
-          "name": "Juldagen"
+          "name": "juldagen"
         },
         {
           "type": "holiday",
@@ -13900,7 +13900,7 @@
           "to": "2026-12-26",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag jul"
+          "name": "annandag jul"
         },
         {
           "type": "holiday",
@@ -13909,7 +13909,7 @@
           "to": "2027-01-01",
           "precision": "exact",
           "ics": true,
-          "name": "Nyårsdagen"
+          "name": "nyårsdagen"
         },
         {
           "type": "holiday",
@@ -13918,7 +13918,7 @@
           "to": "2027-01-06",
           "precision": "exact",
           "ics": true,
-          "name": "Trettondedag jul"
+          "name": "trettondedag jul"
         },
         {
           "type": "holiday",
@@ -13927,7 +13927,7 @@
           "to": "2027-03-26",
           "precision": "exact",
           "ics": true,
-          "name": "Långfredagen"
+          "name": "långfredagen"
         },
         {
           "type": "holiday",
@@ -13936,7 +13936,7 @@
           "to": "2027-03-29",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag påsk"
+          "name": "annandag påsk"
         },
         {
           "type": "holiday",
@@ -13954,7 +13954,7 @@
           "to": "2027-05-01",
           "precision": "exact",
           "ics": true,
-          "name": "Första Maj"
+          "name": "första maj"
         },
         {
           "type": "holiday",
@@ -13963,7 +13963,7 @@
           "to": "2027-05-06",
           "precision": "exact",
           "ics": true,
-          "name": "Kristi himmelfärdsdag"
+          "name": "Kristi himmelsfärdsdag"
         },
         {
           "type": "holiday",
@@ -13999,7 +13999,7 @@
           "to": "2027-12-25",
           "precision": "exact",
           "ics": true,
-          "name": "Juldagen"
+          "name": "juldagen"
         },
         {
           "type": "holiday",
@@ -14008,7 +14008,7 @@
           "to": "2027-12-26",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag jul"
+          "name": "annandag jul"
         },
         {
           "type": "holiday",
@@ -14017,7 +14017,7 @@
           "to": "2028-01-01",
           "precision": "exact",
           "ics": true,
-          "name": "Nyårsdagen"
+          "name": "nyårsdagen"
         },
         {
           "type": "holiday",
@@ -14026,7 +14026,7 @@
           "to": "2028-01-06",
           "precision": "exact",
           "ics": true,
-          "name": "Trettondedag jul"
+          "name": "trettondedag jul"
         },
         {
           "type": "holiday",
@@ -14044,7 +14044,7 @@
           "to": "2028-04-14",
           "precision": "exact",
           "ics": true,
-          "name": "Långfredagen"
+          "name": "långfredagen"
         },
         {
           "type": "holiday",
@@ -14053,7 +14053,7 @@
           "to": "2028-04-17",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag påsk"
+          "name": "annandag påsk"
         },
         {
           "type": "holiday",
@@ -14062,7 +14062,7 @@
           "to": "2028-05-01",
           "precision": "exact",
           "ics": true,
-          "name": "Första Maj"
+          "name": "första maj"
         },
         {
           "type": "holiday",
@@ -14071,7 +14071,7 @@
           "to": "2028-05-25",
           "precision": "exact",
           "ics": true,
-          "name": "Kristi himmelfärdsdag"
+          "name": "Kristi himmelsfärdsdag"
         },
         {
           "type": "holiday",
@@ -14107,7 +14107,7 @@
           "to": "2028-12-25",
           "precision": "exact",
           "ics": true,
-          "name": "Juldagen"
+          "name": "juldagen"
         },
         {
           "type": "holiday",
@@ -14116,7 +14116,7 @@
           "to": "2028-12-26",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag jul"
+          "name": "annandag jul"
         }
       ],
       "raw_data": {}
@@ -14124,11 +14124,11 @@
     "events": [
       {
         "date": "2026-01-01",
-        "label": "Nyårsdagen"
+        "label": "nyårsdagen"
       },
       {
         "date": "2026-01-06",
-        "label": "Trettondedag jul"
+        "label": "trettondedag jul"
       },
       {
         "date": "2026-03-30",
@@ -14136,19 +14136,19 @@
       },
       {
         "date": "2026-04-03",
-        "label": "Långfredagen"
+        "label": "långfredagen"
       },
       {
         "date": "2026-04-06",
-        "label": "Annandag påsk"
+        "label": "annandag påsk"
       },
       {
         "date": "2026-05-01",
-        "label": "Första Maj"
+        "label": "första maj"
       },
       {
         "date": "2026-05-14",
-        "label": "Kristi himmelfärdsdag"
+        "label": "Kristi himmelsfärdsdag"
       },
       {
         "date": "2026-06-09",
@@ -14164,27 +14164,27 @@
       },
       {
         "date": "2026-12-25",
-        "label": "Juldagen"
+        "label": "juldagen"
       },
       {
         "date": "2026-12-26",
-        "label": "Annandag jul"
+        "label": "annandag jul"
       },
       {
         "date": "2027-01-01",
-        "label": "Nyårsdagen"
+        "label": "nyårsdagen"
       },
       {
         "date": "2027-01-06",
-        "label": "Trettondedag jul"
+        "label": "trettondedag jul"
       },
       {
         "date": "2027-03-26",
-        "label": "Långfredagen"
+        "label": "långfredagen"
       },
       {
         "date": "2027-03-29",
-        "label": "Annandag påsk"
+        "label": "annandag påsk"
       },
       {
         "date": "2027-03-30",
@@ -14192,11 +14192,11 @@
       },
       {
         "date": "2027-05-01",
-        "label": "Första Maj"
+        "label": "första maj"
       },
       {
         "date": "2027-05-06",
-        "label": "Kristi himmelfärdsdag"
+        "label": "Kristi himmelsfärdsdag"
       },
       {
         "date": "2027-06-09",
@@ -14212,19 +14212,19 @@
       },
       {
         "date": "2027-12-25",
-        "label": "Juldagen"
+        "label": "juldagen"
       },
       {
         "date": "2027-12-26",
-        "label": "Annandag jul"
+        "label": "annandag jul"
       },
       {
         "date": "2028-01-01",
-        "label": "Nyårsdagen"
+        "label": "nyårsdagen"
       },
       {
         "date": "2028-01-06",
-        "label": "Trettondedag jul"
+        "label": "trettondedag jul"
       },
       {
         "date": "2028-03-30",
@@ -14232,19 +14232,19 @@
       },
       {
         "date": "2028-04-14",
-        "label": "Långfredagen"
+        "label": "långfredagen"
       },
       {
         "date": "2028-04-17",
-        "label": "Annandag påsk"
+        "label": "annandag påsk"
       },
       {
         "date": "2028-05-01",
-        "label": "Första Maj"
+        "label": "första maj"
       },
       {
         "date": "2028-05-25",
-        "label": "Kristi himmelfärdsdag"
+        "label": "Kristi himmelsfärdsdag"
       },
       {
         "date": "2028-06-09",
@@ -14260,11 +14260,11 @@
       },
       {
         "date": "2028-12-25",
-        "label": "Juldagen"
+        "label": "juldagen"
       },
       {
         "date": "2028-12-26",
-        "label": "Annandag jul"
+        "label": "annandag jul"
       }
     ]
   },
@@ -25098,7 +25098,7 @@
     "slug": "ca",
     "meta": {
       "title": "Canada",
-      "description": "Gesetzliche Feiertage für Canada. Nächster Feiertag: Civic Holiday am 03.08.2026.",
+      "description": "Gesetzliche Feiertage für Canada. Nächster Feiertag: Labour Day am 07.09.2026.",
       "intro": "Gesetzliche Feiertage für Canada.",
       "tags": [],
       "featured": false
@@ -25139,38 +25139,11 @@
         {
           "type": "holiday",
           "year": 2026,
-          "from": "2026-04-05",
-          "to": "2026-04-05",
-          "precision": "exact",
-          "ics": true,
-          "name": "Easter Sunday"
-        },
-        {
-          "type": "holiday",
-          "year": 2026,
-          "from": "2026-05-18",
-          "to": "2026-05-18",
-          "precision": "exact",
-          "ics": true,
-          "name": "Victoria Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2026,
           "from": "2026-07-01",
           "to": "2026-07-01",
           "precision": "exact",
           "ics": true,
           "name": "Canada Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2026,
-          "from": "2026-08-03",
-          "to": "2026-08-03",
-          "precision": "exact",
-          "ics": true,
-          "name": "Civic Holiday"
         },
         {
           "type": "holiday",
@@ -25184,38 +25157,11 @@
         {
           "type": "holiday",
           "year": 2026,
-          "from": "2026-10-12",
-          "to": "2026-10-12",
-          "precision": "exact",
-          "ics": true,
-          "name": "Thanksgiving"
-        },
-        {
-          "type": "holiday",
-          "year": 2026,
-          "from": "2026-11-11",
-          "to": "2026-11-11",
-          "precision": "exact",
-          "ics": true,
-          "name": "Remembrance Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2026,
           "from": "2026-12-25",
           "to": "2026-12-25",
           "precision": "exact",
           "ics": true,
           "name": "Christmas Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2026,
-          "from": "2026-12-26",
-          "to": "2026-12-26",
-          "precision": "exact",
-          "ics": true,
-          "name": "Boxing Day"
         },
         {
           "type": "holiday",
@@ -25238,38 +25184,11 @@
         {
           "type": "holiday",
           "year": 2027,
-          "from": "2027-03-28",
-          "to": "2027-03-28",
-          "precision": "exact",
-          "ics": true,
-          "name": "Easter Sunday"
-        },
-        {
-          "type": "holiday",
-          "year": 2027,
-          "from": "2027-05-24",
-          "to": "2027-05-24",
-          "precision": "exact",
-          "ics": true,
-          "name": "Victoria Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2027,
           "from": "2027-07-01",
           "to": "2027-07-01",
           "precision": "exact",
           "ics": true,
           "name": "Canada Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2027,
-          "from": "2027-08-02",
-          "to": "2027-08-02",
-          "precision": "exact",
-          "ics": true,
-          "name": "Civic Holiday"
         },
         {
           "type": "holiday",
@@ -25283,38 +25202,11 @@
         {
           "type": "holiday",
           "year": 2027,
-          "from": "2027-10-11",
-          "to": "2027-10-11",
-          "precision": "exact",
-          "ics": true,
-          "name": "Thanksgiving"
-        },
-        {
-          "type": "holiday",
-          "year": 2027,
-          "from": "2027-11-11",
-          "to": "2027-11-11",
-          "precision": "exact",
-          "ics": true,
-          "name": "Remembrance Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2027,
           "from": "2027-12-25",
           "to": "2027-12-25",
           "precision": "exact",
           "ics": true,
           "name": "Christmas Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2027,
-          "from": "2027-12-26",
-          "to": "2027-12-26",
-          "precision": "exact",
-          "ics": true,
-          "name": "Boxing Day"
         },
         {
           "type": "holiday",
@@ -25337,38 +25229,11 @@
         {
           "type": "holiday",
           "year": 2028,
-          "from": "2028-04-16",
-          "to": "2028-04-16",
-          "precision": "exact",
-          "ics": true,
-          "name": "Easter Sunday"
-        },
-        {
-          "type": "holiday",
-          "year": 2028,
-          "from": "2028-05-22",
-          "to": "2028-05-22",
-          "precision": "exact",
-          "ics": true,
-          "name": "Victoria Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2028,
           "from": "2028-07-01",
           "to": "2028-07-01",
           "precision": "exact",
           "ics": true,
           "name": "Canada Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2028,
-          "from": "2028-08-07",
-          "to": "2028-08-07",
-          "precision": "exact",
-          "ics": true,
-          "name": "Civic Holiday"
         },
         {
           "type": "holiday",
@@ -25382,38 +25247,11 @@
         {
           "type": "holiday",
           "year": 2028,
-          "from": "2028-10-09",
-          "to": "2028-10-09",
-          "precision": "exact",
-          "ics": true,
-          "name": "Thanksgiving"
-        },
-        {
-          "type": "holiday",
-          "year": 2028,
-          "from": "2028-11-11",
-          "to": "2028-11-11",
-          "precision": "exact",
-          "ics": true,
-          "name": "Remembrance Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2028,
           "from": "2028-12-25",
           "to": "2028-12-25",
           "precision": "exact",
           "ics": true,
           "name": "Christmas Day"
-        },
-        {
-          "type": "holiday",
-          "year": 2028,
-          "from": "2028-12-26",
-          "to": "2028-12-26",
-          "precision": "exact",
-          "ics": true,
-          "name": "Boxing Day"
         }
       ],
       "raw_data": {}
@@ -25428,40 +25266,16 @@
         "label": "Good Friday"
       },
       {
-        "date": "2026-04-05",
-        "label": "Easter Sunday"
-      },
-      {
-        "date": "2026-05-18",
-        "label": "Victoria Day"
-      },
-      {
         "date": "2026-07-01",
         "label": "Canada Day"
-      },
-      {
-        "date": "2026-08-03",
-        "label": "Civic Holiday"
       },
       {
         "date": "2026-09-07",
         "label": "Labour Day"
       },
       {
-        "date": "2026-10-12",
-        "label": "Thanksgiving"
-      },
-      {
-        "date": "2026-11-11",
-        "label": "Remembrance Day"
-      },
-      {
         "date": "2026-12-25",
         "label": "Christmas Day"
-      },
-      {
-        "date": "2026-12-26",
-        "label": "Boxing Day"
       },
       {
         "date": "2027-01-01",
@@ -25472,40 +25286,16 @@
         "label": "Good Friday"
       },
       {
-        "date": "2027-03-28",
-        "label": "Easter Sunday"
-      },
-      {
-        "date": "2027-05-24",
-        "label": "Victoria Day"
-      },
-      {
         "date": "2027-07-01",
         "label": "Canada Day"
-      },
-      {
-        "date": "2027-08-02",
-        "label": "Civic Holiday"
       },
       {
         "date": "2027-09-06",
         "label": "Labour Day"
       },
       {
-        "date": "2027-10-11",
-        "label": "Thanksgiving"
-      },
-      {
-        "date": "2027-11-11",
-        "label": "Remembrance Day"
-      },
-      {
         "date": "2027-12-25",
         "label": "Christmas Day"
-      },
-      {
-        "date": "2027-12-26",
-        "label": "Boxing Day"
       },
       {
         "date": "2028-01-01",
@@ -25516,40 +25306,16 @@
         "label": "Good Friday"
       },
       {
-        "date": "2028-04-16",
-        "label": "Easter Sunday"
-      },
-      {
-        "date": "2028-05-22",
-        "label": "Victoria Day"
-      },
-      {
         "date": "2028-07-01",
         "label": "Canada Day"
-      },
-      {
-        "date": "2028-08-07",
-        "label": "Civic Holiday"
       },
       {
         "date": "2028-09-04",
         "label": "Labour Day"
       },
       {
-        "date": "2028-10-09",
-        "label": "Thanksgiving"
-      },
-      {
-        "date": "2028-11-11",
-        "label": "Remembrance Day"
-      },
-      {
         "date": "2028-12-25",
         "label": "Christmas Day"
-      },
-      {
-        "date": "2028-12-26",
-        "label": "Boxing Day"
       }
     ]
   },
@@ -32235,7 +32001,7 @@
     "slug": "cu",
     "meta": {
       "title": "Cuba",
-      "description": "Gesetzliche Feiertage für Cuba. Nächster Feiertag: Conmemoración del asalto a Moncada am 27.07.2026.",
+      "description": "Gesetzliche Feiertage für Cuba. Nächster Feiertag: Día de la Independencia am 10.10.2026.",
       "intro": "Gesetzliche Feiertage für Cuba.",
       "tags": [],
       "featured": false
@@ -35729,7 +35495,7 @@
           "to": "2026-01-01",
           "precision": "exact",
           "ics": true,
-          "name": "Nytår"
+          "name": "Nytårsdag"
         },
         {
           "type": "holiday",
@@ -35756,7 +35522,7 @@
           "to": "2026-04-05",
           "precision": "exact",
           "ics": true,
-          "name": "Påskesøndag"
+          "name": "Påskedag"
         },
         {
           "type": "holiday",
@@ -35819,7 +35585,7 @@
           "to": "2027-01-01",
           "precision": "exact",
           "ics": true,
-          "name": "Nytår"
+          "name": "Nytårsdag"
         },
         {
           "type": "holiday",
@@ -35846,7 +35612,7 @@
           "to": "2027-03-28",
           "precision": "exact",
           "ics": true,
-          "name": "Påskesøndag"
+          "name": "Påskedag"
         },
         {
           "type": "holiday",
@@ -35909,7 +35675,7 @@
           "to": "2028-01-01",
           "precision": "exact",
           "ics": true,
-          "name": "Nytår"
+          "name": "Nytårsdag"
         },
         {
           "type": "holiday",
@@ -35936,7 +35702,7 @@
           "to": "2028-04-16",
           "precision": "exact",
           "ics": true,
-          "name": "Påskesøndag"
+          "name": "Påskedag"
         },
         {
           "type": "holiday",
@@ -35998,7 +35764,7 @@
     "events": [
       {
         "date": "2026-01-01",
-        "label": "Nytår"
+        "label": "Nytårsdag"
       },
       {
         "date": "2026-04-02",
@@ -36010,7 +35776,7 @@
       },
       {
         "date": "2026-04-05",
-        "label": "Påskesøndag"
+        "label": "Påskedag"
       },
       {
         "date": "2026-04-06",
@@ -36038,7 +35804,7 @@
       },
       {
         "date": "2027-01-01",
-        "label": "Nytår"
+        "label": "Nytårsdag"
       },
       {
         "date": "2027-03-25",
@@ -36050,7 +35816,7 @@
       },
       {
         "date": "2027-03-28",
-        "label": "Påskesøndag"
+        "label": "Påskedag"
       },
       {
         "date": "2027-03-29",
@@ -36078,7 +35844,7 @@
       },
       {
         "date": "2028-01-01",
-        "label": "Nytår"
+        "label": "Nytårsdag"
       },
       {
         "date": "2028-04-13",
@@ -36090,7 +35856,7 @@
       },
       {
         "date": "2028-04-16",
-        "label": "Påskesøndag"
+        "label": "Påskedag"
       },
       {
         "date": "2028-04-17",
@@ -63655,6 +63421,15 @@
         {
           "type": "holiday",
           "year": 2026,
+          "from": "2026-03-02",
+          "to": "2026-03-02",
+          "precision": "exact",
+          "ics": true,
+          "name": "3·1절 (대체공휴일)"
+        },
+        {
+          "type": "holiday",
+          "year": 2026,
           "from": "2026-05-05",
           "to": "2026-05-05",
           "precision": "exact",
@@ -63669,6 +63444,15 @@
           "precision": "exact",
           "ics": true,
           "name": "석가탄신일"
+        },
+        {
+          "type": "holiday",
+          "year": 2026,
+          "from": "2026-05-25",
+          "to": "2026-05-25",
+          "precision": "exact",
+          "ics": true,
+          "name": "석가탄신일 (대체공휴일)"
         },
         {
           "type": "holiday",
@@ -63700,6 +63484,15 @@
         {
           "type": "holiday",
           "year": 2026,
+          "from": "2026-08-17",
+          "to": "2026-08-17",
+          "precision": "exact",
+          "ics": true,
+          "name": "광복절 (대체공휴일)"
+        },
+        {
+          "type": "holiday",
+          "year": 2026,
           "from": "2026-09-24",
           "to": "2026-09-24",
           "precision": "exact",
@@ -63714,6 +63507,15 @@
           "precision": "exact",
           "ics": true,
           "name": "개천절"
+        },
+        {
+          "type": "holiday",
+          "year": 2026,
+          "from": "2026-10-05",
+          "to": "2026-10-05",
+          "precision": "exact",
+          "ics": true,
+          "name": "개천절 (대체공휴일)"
         },
         {
           "type": "holiday",
@@ -63750,6 +63552,15 @@
           "precision": "exact",
           "ics": true,
           "name": "설날"
+        },
+        {
+          "type": "holiday",
+          "year": 2027,
+          "from": "2027-02-09",
+          "to": "2027-02-09",
+          "precision": "exact",
+          "ics": true,
+          "name": "설날 (대체공휴일)"
         },
         {
           "type": "holiday",
@@ -63799,11 +63610,29 @@
         {
           "type": "holiday",
           "year": 2027,
+          "from": "2027-07-19",
+          "to": "2027-07-19",
+          "precision": "exact",
+          "ics": true,
+          "name": "제헌절 (대체공휴일)"
+        },
+        {
+          "type": "holiday",
+          "year": 2027,
           "from": "2027-08-15",
           "to": "2027-08-15",
           "precision": "exact",
           "ics": true,
           "name": "광복절"
+        },
+        {
+          "type": "holiday",
+          "year": 2027,
+          "from": "2027-08-16",
+          "to": "2027-08-16",
+          "precision": "exact",
+          "ics": true,
+          "name": "광복절 (대체공휴일)"
         },
         {
           "type": "holiday",
@@ -63826,6 +63655,15 @@
         {
           "type": "holiday",
           "year": 2027,
+          "from": "2027-10-04",
+          "to": "2027-10-04",
+          "precision": "exact",
+          "ics": true,
+          "name": "개천절 (대체공휴일)"
+        },
+        {
+          "type": "holiday",
+          "year": 2027,
           "from": "2027-10-09",
           "to": "2027-10-09",
           "precision": "exact",
@@ -63835,11 +63673,29 @@
         {
           "type": "holiday",
           "year": 2027,
+          "from": "2027-10-11",
+          "to": "2027-10-11",
+          "precision": "exact",
+          "ics": true,
+          "name": "한글날 (대체공휴일)"
+        },
+        {
+          "type": "holiday",
+          "year": 2027,
           "from": "2027-12-25",
           "to": "2027-12-25",
           "precision": "exact",
           "ics": true,
           "name": "기독탄신일"
+        },
+        {
+          "type": "holiday",
+          "year": 2027,
+          "from": "2027-12-27",
+          "to": "2027-12-27",
+          "precision": "exact",
+          "ics": true,
+          "name": "기독탄신일 (대체공휴일)"
         },
         {
           "type": "holiday",
@@ -63934,6 +63790,24 @@
         {
           "type": "holiday",
           "year": 2028,
+          "from": "2028-10-05",
+          "to": "2028-10-05",
+          "precision": "exact",
+          "ics": true,
+          "name": "개천절 (대체공휴일)"
+        },
+        {
+          "type": "holiday",
+          "year": 2028,
+          "from": "2028-10-05",
+          "to": "2028-10-05",
+          "precision": "exact",
+          "ics": true,
+          "name": "추석 (대체공휴일)"
+        },
+        {
+          "type": "holiday",
+          "year": 2028,
           "from": "2028-10-09",
           "to": "2028-10-09",
           "precision": "exact",
@@ -63966,12 +63840,20 @@
         "label": "3·1절"
       },
       {
+        "date": "2026-03-02",
+        "label": "3·1절 (대체공휴일)"
+      },
+      {
         "date": "2026-05-05",
         "label": "어린이날"
       },
       {
         "date": "2026-05-24",
         "label": "석가탄신일"
+      },
+      {
+        "date": "2026-05-25",
+        "label": "석가탄신일 (대체공휴일)"
       },
       {
         "date": "2026-06-06",
@@ -63986,12 +63868,20 @@
         "label": "광복절"
       },
       {
+        "date": "2026-08-17",
+        "label": "광복절 (대체공휴일)"
+      },
+      {
         "date": "2026-09-24",
         "label": "추석"
       },
       {
         "date": "2026-10-03",
         "label": "개천절"
+      },
+      {
+        "date": "2026-10-05",
+        "label": "개천절 (대체공휴일)"
       },
       {
         "date": "2026-10-09",
@@ -64008,6 +63898,10 @@
       {
         "date": "2027-02-07",
         "label": "설날"
+      },
+      {
+        "date": "2027-02-09",
+        "label": "설날 (대체공휴일)"
       },
       {
         "date": "2027-03-01",
@@ -64030,8 +63924,16 @@
         "label": "제헌절"
       },
       {
+        "date": "2027-07-19",
+        "label": "제헌절 (대체공휴일)"
+      },
+      {
         "date": "2027-08-15",
         "label": "광복절"
+      },
+      {
+        "date": "2027-08-16",
+        "label": "광복절 (대체공휴일)"
       },
       {
         "date": "2027-09-14",
@@ -64042,12 +63944,24 @@
         "label": "개천절"
       },
       {
+        "date": "2027-10-04",
+        "label": "개천절 (대체공휴일)"
+      },
+      {
         "date": "2027-10-09",
         "label": "한글날"
       },
       {
+        "date": "2027-10-11",
+        "label": "한글날 (대체공휴일)"
+      },
+      {
         "date": "2027-12-25",
         "label": "기독탄신일"
+      },
+      {
+        "date": "2027-12-27",
+        "label": "기독탄신일 (대체공휴일)"
       },
       {
         "date": "2028-01-01",
@@ -64088,6 +64002,14 @@
       {
         "date": "2028-10-03",
         "label": "개천절"
+      },
+      {
+        "date": "2028-10-05",
+        "label": "개천절 (대체공휴일)"
+      },
+      {
+        "date": "2028-10-05",
+        "label": "추석 (대체공휴일)"
       },
       {
         "date": "2028-10-09",
@@ -66464,7 +66386,7 @@
     "slug": "lk",
     "meta": {
       "title": "ශ්‍රී ලංකාව",
-      "description": "Gesetzliche Feiertage für ශ්‍රී ලංකාව. Nächster Feiertag: ඇසළ පුර පසළොස්වක පෝය දිනය am 29.07.2026.",
+      "description": "Gesetzliche Feiertage für ශ්‍රී ලංකාව. Nächster Feiertag: මිලාද්-උන්-නබි (නබි නායකතුමාගේ උපන් දිනය) am 26.08.2026.",
       "intro": "Gesetzliche Feiertage für ශ්‍රී ලංකාව.",
       "tags": [],
       "featured": false
@@ -84626,7 +84548,7 @@
     "slug": "pe",
     "meta": {
       "title": "Perú",
-      "description": "Gesetzliche Feiertage für Perú. Nächster Feiertag: Día de la Independencia am 28.07.2026.",
+      "description": "Gesetzliche Feiertage für Perú. Nächster Feiertag: Día de Santa Rosa de Lima am 30.08.2026.",
       "intro": "Gesetzliche Feiertage für Perú.",
       "tags": [],
       "featured": false
@@ -87776,7 +87698,7 @@
     "slug": "pr",
     "meta": {
       "title": "Puerto Rico",
-      "description": "Gesetzliche Feiertage für Puerto Rico. Nächster Feiertag: Natalicio de Dr. José Celso Barbosa am 27.07.2026.",
+      "description": "Gesetzliche Feiertage für Puerto Rico. Nächster Feiertag: Día del Trabajador am 07.09.2026.",
       "intro": "Gesetzliche Feiertage für Puerto Rico.",
       "tags": [],
       "featured": false
@@ -89324,6 +89246,15 @@
         {
           "type": "holiday",
           "year": 2026,
+          "from": "2026-06-30",
+          "to": "2026-06-30",
+          "precision": "exact",
+          "ics": true,
+          "name": "Reconocimiento al histórico triunfo de la Selección Paraguaya de Fútbol frente a Alemania"
+        },
+        {
+          "type": "holiday",
+          "year": 2026,
           "from": "2026-08-15",
           "to": "2026-08-15",
           "precision": "exact",
@@ -89608,6 +89539,10 @@
       {
         "date": "2026-06-12",
         "label": "Día de la Paz del Chaco"
+      },
+      {
+        "date": "2026-06-30",
+        "label": "Reconocimiento al histórico triunfo de la Selección Paraguaya de Fútbol frente a Alemania"
       },
       {
         "date": "2026-08-15",
@@ -93499,7 +93434,7 @@
     "slug": "se",
     "meta": {
       "title": "Sverige",
-      "description": "Gesetzliche Feiertage für Sverige. Nächster Feiertag: Alla Helgons dag am 31.10.2026.",
+      "description": "Gesetzliche Feiertage für Sverige. Nächster Feiertag: alla helgons dag am 31.10.2026.",
       "intro": "Gesetzliche Feiertage für Sverige.",
       "tags": [],
       "featured": false
@@ -93526,7 +93461,7 @@
           "to": "2026-01-01",
           "precision": "exact",
           "ics": true,
-          "name": "Nyårsdagen"
+          "name": "nyårsdagen"
         },
         {
           "type": "holiday",
@@ -93535,7 +93470,7 @@
           "to": "2026-01-06",
           "precision": "exact",
           "ics": true,
-          "name": "Trettondedag jul"
+          "name": "trettondedag jul"
         },
         {
           "type": "holiday",
@@ -93544,7 +93479,7 @@
           "to": "2026-04-03",
           "precision": "exact",
           "ics": true,
-          "name": "Långfredagen"
+          "name": "långfredagen"
         },
         {
           "type": "holiday",
@@ -93553,7 +93488,7 @@
           "to": "2026-04-05",
           "precision": "exact",
           "ics": true,
-          "name": "Påskdagen"
+          "name": "påskdagen"
         },
         {
           "type": "holiday",
@@ -93562,7 +93497,7 @@
           "to": "2026-04-06",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag påsk"
+          "name": "annandag påsk"
         },
         {
           "type": "holiday",
@@ -93571,7 +93506,7 @@
           "to": "2026-05-01",
           "precision": "exact",
           "ics": true,
-          "name": "Första Maj"
+          "name": "första maj"
         },
         {
           "type": "holiday",
@@ -93580,7 +93515,7 @@
           "to": "2026-05-14",
           "precision": "exact",
           "ics": true,
-          "name": "Kristi himmelfärdsdag"
+          "name": "Kristi himmelsfärdsdag"
         },
         {
           "type": "holiday",
@@ -93589,7 +93524,7 @@
           "to": "2026-05-24",
           "precision": "exact",
           "ics": true,
-          "name": "Pingstdagen"
+          "name": "pingstdagen"
         },
         {
           "type": "holiday",
@@ -93598,7 +93533,7 @@
           "to": "2026-06-06",
           "precision": "exact",
           "ics": true,
-          "name": "Sveriges nationaldag"
+          "name": "nationaldagen"
         },
         {
           "type": "holiday",
@@ -93616,7 +93551,7 @@
           "to": "2026-10-31",
           "precision": "exact",
           "ics": true,
-          "name": "Alla Helgons dag"
+          "name": "alla helgons dag"
         },
         {
           "type": "holiday",
@@ -93625,7 +93560,7 @@
           "to": "2026-12-25",
           "precision": "exact",
           "ics": true,
-          "name": "Juldagen"
+          "name": "juldagen"
         },
         {
           "type": "holiday",
@@ -93634,7 +93569,7 @@
           "to": "2026-12-26",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag jul"
+          "name": "annandag jul"
         },
         {
           "type": "holiday",
@@ -93643,7 +93578,7 @@
           "to": "2027-01-01",
           "precision": "exact",
           "ics": true,
-          "name": "Nyårsdagen"
+          "name": "nyårsdagen"
         },
         {
           "type": "holiday",
@@ -93652,7 +93587,7 @@
           "to": "2027-01-06",
           "precision": "exact",
           "ics": true,
-          "name": "Trettondedag jul"
+          "name": "trettondedag jul"
         },
         {
           "type": "holiday",
@@ -93661,7 +93596,7 @@
           "to": "2027-03-26",
           "precision": "exact",
           "ics": true,
-          "name": "Långfredagen"
+          "name": "långfredagen"
         },
         {
           "type": "holiday",
@@ -93670,7 +93605,7 @@
           "to": "2027-03-28",
           "precision": "exact",
           "ics": true,
-          "name": "Påskdagen"
+          "name": "påskdagen"
         },
         {
           "type": "holiday",
@@ -93679,7 +93614,7 @@
           "to": "2027-03-29",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag påsk"
+          "name": "annandag påsk"
         },
         {
           "type": "holiday",
@@ -93688,7 +93623,7 @@
           "to": "2027-05-01",
           "precision": "exact",
           "ics": true,
-          "name": "Första Maj"
+          "name": "första maj"
         },
         {
           "type": "holiday",
@@ -93697,7 +93632,7 @@
           "to": "2027-05-06",
           "precision": "exact",
           "ics": true,
-          "name": "Kristi himmelfärdsdag"
+          "name": "Kristi himmelsfärdsdag"
         },
         {
           "type": "holiday",
@@ -93706,7 +93641,7 @@
           "to": "2027-05-16",
           "precision": "exact",
           "ics": true,
-          "name": "Pingstdagen"
+          "name": "pingstdagen"
         },
         {
           "type": "holiday",
@@ -93715,7 +93650,7 @@
           "to": "2027-06-06",
           "precision": "exact",
           "ics": true,
-          "name": "Sveriges nationaldag"
+          "name": "nationaldagen"
         },
         {
           "type": "holiday",
@@ -93733,7 +93668,7 @@
           "to": "2027-11-06",
           "precision": "exact",
           "ics": true,
-          "name": "Alla Helgons dag"
+          "name": "alla helgons dag"
         },
         {
           "type": "holiday",
@@ -93742,7 +93677,7 @@
           "to": "2027-12-25",
           "precision": "exact",
           "ics": true,
-          "name": "Juldagen"
+          "name": "juldagen"
         },
         {
           "type": "holiday",
@@ -93751,7 +93686,7 @@
           "to": "2027-12-26",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag jul"
+          "name": "annandag jul"
         },
         {
           "type": "holiday",
@@ -93760,7 +93695,7 @@
           "to": "2028-01-01",
           "precision": "exact",
           "ics": true,
-          "name": "Nyårsdagen"
+          "name": "nyårsdagen"
         },
         {
           "type": "holiday",
@@ -93769,7 +93704,7 @@
           "to": "2028-01-06",
           "precision": "exact",
           "ics": true,
-          "name": "Trettondedag jul"
+          "name": "trettondedag jul"
         },
         {
           "type": "holiday",
@@ -93778,7 +93713,7 @@
           "to": "2028-04-14",
           "precision": "exact",
           "ics": true,
-          "name": "Långfredagen"
+          "name": "långfredagen"
         },
         {
           "type": "holiday",
@@ -93787,7 +93722,7 @@
           "to": "2028-04-16",
           "precision": "exact",
           "ics": true,
-          "name": "Påskdagen"
+          "name": "påskdagen"
         },
         {
           "type": "holiday",
@@ -93796,7 +93731,7 @@
           "to": "2028-04-17",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag påsk"
+          "name": "annandag påsk"
         },
         {
           "type": "holiday",
@@ -93805,7 +93740,7 @@
           "to": "2028-05-01",
           "precision": "exact",
           "ics": true,
-          "name": "Första Maj"
+          "name": "första maj"
         },
         {
           "type": "holiday",
@@ -93814,7 +93749,7 @@
           "to": "2028-05-25",
           "precision": "exact",
           "ics": true,
-          "name": "Kristi himmelfärdsdag"
+          "name": "Kristi himmelsfärdsdag"
         },
         {
           "type": "holiday",
@@ -93823,7 +93758,7 @@
           "to": "2028-06-04",
           "precision": "exact",
           "ics": true,
-          "name": "Pingstdagen"
+          "name": "pingstdagen"
         },
         {
           "type": "holiday",
@@ -93832,7 +93767,7 @@
           "to": "2028-06-06",
           "precision": "exact",
           "ics": true,
-          "name": "Sveriges nationaldag"
+          "name": "nationaldagen"
         },
         {
           "type": "holiday",
@@ -93850,7 +93785,7 @@
           "to": "2028-11-04",
           "precision": "exact",
           "ics": true,
-          "name": "Alla Helgons dag"
+          "name": "alla helgons dag"
         },
         {
           "type": "holiday",
@@ -93859,7 +93794,7 @@
           "to": "2028-12-25",
           "precision": "exact",
           "ics": true,
-          "name": "Juldagen"
+          "name": "juldagen"
         },
         {
           "type": "holiday",
@@ -93868,7 +93803,7 @@
           "to": "2028-12-26",
           "precision": "exact",
           "ics": true,
-          "name": "Annandag jul"
+          "name": "annandag jul"
         }
       ],
       "raw_data": {}
@@ -93876,39 +93811,39 @@
     "events": [
       {
         "date": "2026-01-01",
-        "label": "Nyårsdagen"
+        "label": "nyårsdagen"
       },
       {
         "date": "2026-01-06",
-        "label": "Trettondedag jul"
+        "label": "trettondedag jul"
       },
       {
         "date": "2026-04-03",
-        "label": "Långfredagen"
+        "label": "långfredagen"
       },
       {
         "date": "2026-04-05",
-        "label": "Påskdagen"
+        "label": "påskdagen"
       },
       {
         "date": "2026-04-06",
-        "label": "Annandag påsk"
+        "label": "annandag påsk"
       },
       {
         "date": "2026-05-01",
-        "label": "Första Maj"
+        "label": "första maj"
       },
       {
         "date": "2026-05-14",
-        "label": "Kristi himmelfärdsdag"
+        "label": "Kristi himmelsfärdsdag"
       },
       {
         "date": "2026-05-24",
-        "label": "Pingstdagen"
+        "label": "pingstdagen"
       },
       {
         "date": "2026-06-06",
-        "label": "Sveriges nationaldag"
+        "label": "nationaldagen"
       },
       {
         "date": "2026-06-20",
@@ -93916,51 +93851,51 @@
       },
       {
         "date": "2026-10-31",
-        "label": "Alla Helgons dag"
+        "label": "alla helgons dag"
       },
       {
         "date": "2026-12-25",
-        "label": "Juldagen"
+        "label": "juldagen"
       },
       {
         "date": "2026-12-26",
-        "label": "Annandag jul"
+        "label": "annandag jul"
       },
       {
         "date": "2027-01-01",
-        "label": "Nyårsdagen"
+        "label": "nyårsdagen"
       },
       {
         "date": "2027-01-06",
-        "label": "Trettondedag jul"
+        "label": "trettondedag jul"
       },
       {
         "date": "2027-03-26",
-        "label": "Långfredagen"
+        "label": "långfredagen"
       },
       {
         "date": "2027-03-28",
-        "label": "Påskdagen"
+        "label": "påskdagen"
       },
       {
         "date": "2027-03-29",
-        "label": "Annandag påsk"
+        "label": "annandag påsk"
       },
       {
         "date": "2027-05-01",
-        "label": "Första Maj"
+        "label": "första maj"
       },
       {
         "date": "2027-05-06",
-        "label": "Kristi himmelfärdsdag"
+        "label": "Kristi himmelsfärdsdag"
       },
       {
         "date": "2027-05-16",
-        "label": "Pingstdagen"
+        "label": "pingstdagen"
       },
       {
         "date": "2027-06-06",
-        "label": "Sveriges nationaldag"
+        "label": "nationaldagen"
       },
       {
         "date": "2027-06-26",
@@ -93968,51 +93903,51 @@
       },
       {
         "date": "2027-11-06",
-        "label": "Alla Helgons dag"
+        "label": "alla helgons dag"
       },
       {
         "date": "2027-12-25",
-        "label": "Juldagen"
+        "label": "juldagen"
       },
       {
         "date": "2027-12-26",
-        "label": "Annandag jul"
+        "label": "annandag jul"
       },
       {
         "date": "2028-01-01",
-        "label": "Nyårsdagen"
+        "label": "nyårsdagen"
       },
       {
         "date": "2028-01-06",
-        "label": "Trettondedag jul"
+        "label": "trettondedag jul"
       },
       {
         "date": "2028-04-14",
-        "label": "Långfredagen"
+        "label": "långfredagen"
       },
       {
         "date": "2028-04-16",
-        "label": "Påskdagen"
+        "label": "påskdagen"
       },
       {
         "date": "2028-04-17",
-        "label": "Annandag påsk"
+        "label": "annandag påsk"
       },
       {
         "date": "2028-05-01",
-        "label": "Första Maj"
+        "label": "första maj"
       },
       {
         "date": "2028-05-25",
-        "label": "Kristi himmelfärdsdag"
+        "label": "Kristi himmelsfärdsdag"
       },
       {
         "date": "2028-06-04",
-        "label": "Pingstdagen"
+        "label": "pingstdagen"
       },
       {
         "date": "2028-06-06",
-        "label": "Sveriges nationaldag"
+        "label": "nationaldagen"
       },
       {
         "date": "2028-06-24",
@@ -94020,15 +93955,15 @@
       },
       {
         "date": "2028-11-04",
-        "label": "Alla Helgons dag"
+        "label": "alla helgons dag"
       },
       {
         "date": "2028-12-25",
-        "label": "Juldagen"
+        "label": "juldagen"
       },
       {
         "date": "2028-12-26",
-        "label": "Annandag jul"
+        "label": "annandag jul"
       }
     ]
   },
@@ -97070,7 +97005,7 @@
     "slug": "sm",
     "meta": {
       "title": "San Marino",
-      "description": "Gesetzliche Feiertage für San Marino. Nächster Feiertag: Anniversario della caduta del Fascismo e Festa della Libertà am 28.07.2026.",
+      "description": "Gesetzliche Feiertage für San Marino. Nächster Feiertag: Ferragosto am 15.08.2026.",
       "intro": "Gesetzliche Feiertage für San Marino.",
       "tags": [],
       "featured": false
@@ -103409,7 +103344,7 @@
     "slug": "th",
     "meta": {
       "title": "Thailand",
-      "description": "Gesetzliche Feiertage für Thailand. Nächster Feiertag: King's Birthday am 28.07.2026.",
+      "description": "Gesetzliche Feiertage für Thailand. Nächster Feiertag: Buddhist Lent am 30.07.2026.",
       "intro": "Gesetzliche Feiertage für Thailand.",
       "tags": [],
       "featured": false
@@ -112311,7 +112246,7 @@
     "slug": "vi",
     "meta": {
       "title": "U.S. Virgin Islands",
-      "description": "Gesetzliche Feiertage für U.S. Virgin Islands. Nächster Feiertag: Hurricane Supplication Day am 27.07.2026.",
+      "description": "Gesetzliche Feiertage für U.S. Virgin Islands. Nächster Feiertag: Labour Day am 07.09.2026.",
       "intro": "Gesetzliche Feiertage für U.S. Virgin Islands.",
       "tags": [],
       "featured": false
@@ -114107,7 +114042,7 @@
     "slug": "wf",
     "meta": {
       "title": "Wallis-et-Futuna",
-      "description": "Gesetzliche Feiertage für Wallis-et-Futuna. Nächster Feiertag: Fête du Territoire am 29.07.2026.",
+      "description": "Gesetzliche Feiertage für Wallis-et-Futuna. Nächster Feiertag: Assomption am 15.08.2026.",
       "intro": "Gesetzliche Feiertage für Wallis-et-Futuna.",
       "tags": [],
       "featured": false

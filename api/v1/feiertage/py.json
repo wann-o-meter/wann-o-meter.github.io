@@ -98,6 +98,15 @@
       {
         "type": "holiday",
         "year": 2026,
+        "from": "2026-06-30",
+        "to": "2026-06-30",
+        "precision": "exact",
+        "ics": true,
+        "name": "Reconocimiento al histórico triunfo de la Selección Paraguaya de Fútbol frente a Alemania"
+      },
+      {
+        "type": "holiday",
+        "year": 2026,
         "from": "2026-08-15",
         "to": "2026-08-15",
         "precision": "exact",
@@ -382,6 +391,10 @@
     {
       "date": "2026-06-12",
       "label": "Día de la Paz del Chaco"
+    },
+    {
+      "date": "2026-06-30",
+      "label": "Reconocimiento al histórico triunfo de la Selección Paraguaya de Fútbol frente a Alemania"
     },
     {
       "date": "2026-08-15",
