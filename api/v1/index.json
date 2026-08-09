@@ -1,11 +1,4 @@
 {
-  "astronomie": [
-    "mondfinsternis",
-    "sonnenfinsternis"
-  ],
-  "events/feste": [
-    "wiesnkini-de"
-  ],
   "feiertage": [
     "ad",
     "ae",
@@ -228,15 +221,6 @@
     "za",
     "zm",
     "zw"
-  ],
-  "saisonkalender": [
-    "apfel",
-    "erdbeere",
-    "gruenkohl",
-    "kartoffel",
-    "kuerbis",
-    "rhabarber",
-    "spargel"
   ],
   "schulferien": [
     "bb",
