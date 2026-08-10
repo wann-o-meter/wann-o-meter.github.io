@@ -1,0 +1,1 @@
+var e=[`Januar`,`Februar`,`März`,`April`,`Mai`,`Juni`,`Juli`,`August`,`September`,`Oktober`,`November`,`Dezember`],t=[`Mo`,`Di`,`Mi`,`Do`,`Fr`,`Sa`,`So`];function n(e=new Date){let n=String(e.getDate()).padStart(2,`0`),r=String(e.getMonth()+1).padStart(2,`0`);return`${t[(e.getDay()+6)%7]}., ${n}.${r}.`}export{t as n,n as r,e as t};

@@ -7,7 +7,7 @@ Alle Fristen sind relativ zum Hochzeitstermin angegeben. Quelle: https://wannome
 ## Fristen
 
 - **6 Monate vorher**: Eheschließung beim Standesamt anmelden (Quelle fehlt)
-  Kein gesetzlich fixierter Vorlauf, aber Standesämter sind oft Monate im Voraus ausgebucht und benötigte Dokumente (z.B. Ledigkeitsbescheinigung) haben eine begrenzte Gültigkeit - Frist nicht verifiziert.
+  Kein gesetzlicher Vorlauf. Standesämter sind oft Monate ausgebucht, Dokumente wie die Ledigkeitsbescheinigung gelten nur begrenzt. Nicht verifiziert.
 - **4 Monate vorher**: Personenstandsurkunden und Ausweisdokumente beschaffen (Keine gesetzliche Frist)
   Welche Dokumente nötig sind, hängt vom Standesamt und Familienstand ab - dort direkt erfragen.
 - **4 Wochen danach**: Personalausweis/Reisepass mit neuem Namen beantragen (Quelle fehlt)
