@@ -10,7 +10,7 @@ Alle Fristen sind relativ zum Geburtstermin angegeben. Quelle: https://wannomete
   Binnen einer Woche. Meist übernimmt das Krankenhaus/die Hebamme die Anzeige, dann läuft diese Frist automatisch.
 - **2 Wochen danach**: Geburtsurkunden beim Standesamt beantragen (Keine gesetzliche Frist)
   Keine gesetzliche Frist, aber mehrere Ausfertigungen (Elterngeld, Kindergeld, Versicherung) werden schnell gebraucht.
-- **2 Monate danach**: Kind bei der Krankenversicherung anmelden (Quelle fehlt)
+- **2 Monate danach**: Kind bei der Krankenversicherung anmelden (Erfahrungswert)
   Gesetzlich familienversichert meist beitragsfrei. Privat gilt oft eine Frist ohne Gesundheitsprüfung. Frist nicht verifiziert, bei der Kasse nachfragen.
 - **3 Monate danach**: Elterngeld beantragen ([§ 7 Abs. 1 BEEG](https://www.gesetze-im-internet.de/beeg/__7.html))
   Rückwirkend wird nur für die letzten drei Lebensmonate vor Antragseingang gezahlt - später beantragt heißt Geld verloren, nicht nur später bekommen.
@@ -19,5 +19,5 @@ Alle Fristen sind relativ zum Geburtstermin angegeben. Quelle: https://wannomete
 
 ## Hinweise
 
-- "Quelle fehlt" heißt: die Frist ist noch nicht gegen ihre Rechtsgrundlage geprüft. Nicht als belastbare Frist zitieren.
+- "Erfahrungswert" heißt: die Frist ist noch nicht gegen ihre Rechtsgrundlage geprüft. Nicht als belastbare Frist zitieren.
 - Angaben ohne Gewähr, keine Rechtsberatung.

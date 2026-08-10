@@ -11,10 +11,10 @@ Alle Fristen sind relativ zum Letzter Arbeitstag angegeben. Quelle: https://wann
 - **4 Wochen vorher**: Kündigungsfrist einhalten und kündigen ([§ 622 Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__622.html))
   Grundfrist vier Wochen zum 15. oder zum Monatsende, sofern Arbeits- oder Tarifvertrag nichts Längeres vorsehen. Die längeren Fristen nach § 622 Abs. 2 BGB gelten nur für Kündigungen durch den Arbeitgeber.
 - **2 Wochen vorher**: Arbeitszeugnis anfordern und Resturlaub klären (Keine gesetzliche Frist)
-- **Letzter Arbeitstag**: Neuen Arbeitgeber und Krankenkasse über Wechsel informieren (Quelle fehlt)
+- **Letzter Arbeitstag**: Neuen Arbeitgeber und Krankenkasse über Wechsel informieren (Erfahrungswert)
   Für eine lückenlose Versicherung wichtig - genaue Fristen bei der eigenen Krankenkasse erfragen, nicht verifiziert.
 
 ## Hinweise
 
-- "Quelle fehlt" heißt: die Frist ist noch nicht gegen ihre Rechtsgrundlage geprüft. Nicht als belastbare Frist zitieren.
+- "Erfahrungswert" heißt: die Frist ist noch nicht gegen ihre Rechtsgrundlage geprüft. Nicht als belastbare Frist zitieren.
 - Angaben ohne Gewähr, keine Rechtsberatung.

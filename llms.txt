@@ -11,7 +11,7 @@
 
 Backwards schedules for a life event: every step relative to one anchor day
 (moving day, birth date, last working day), each with its legal source. A step
-marked "Quelle fehlt" is not yet checked against its Gesetz - do not cite it
+marked "Erfahrungswert" is not yet checked against its Gesetz - do not cite it
 as a deadline.
 
 - [Umzug: wann muss ich anfangen?](https://wannometer.de/umzug/): Ort und Umzugstag eingeben, kompletten Rückwärts-Zeitplan mit Fristen sehen - mit Wochenend- und Feiertagswarnung. Markdown: `https://wannometer.de/umzug.md`.
