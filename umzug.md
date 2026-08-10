@@ -7,7 +7,7 @@ Alle Fristen sind relativ zum Umzugstag angegeben. Quelle: https://wannometer.de
 ## Fristen
 
 - **Frist nach § 573c BGB, abhängig vom Umzugsmonat**: Wohnung kündigen ([§ 573c BGB](https://www.gesetze-im-internet.de/bgb/__573c.html))
-  Spätester Kündigungstermin nach § 573c Abs. 1 BGB.
+  Schriftlich und unterschrieben, am besten per Einwurf-Einschreiben.
 - **6 Wochen vorher**: Internetanbieter kündigen oder umziehen lassen (Erfahrungswert)
   Längster Vorlauf im ganzen Plan, oft mit Techniktermin.
 - **2 Wochen vorher**: Strom- und Gasanbieter über den Umzug informieren (Erfahrungswert)
