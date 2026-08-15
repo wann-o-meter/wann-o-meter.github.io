@@ -1,11 +1,10 @@
 # Wann-O-Meter
 
-> A structured, machine-readable calendar of "when is X" answers for Germany
-> and beyond: public holidays, optimal vacation windows (bridge days), a
-> seasonal produce calendar, and curated civic-data topic pages (elections,
-> astronomical events, ...). Every entry has a canonical page, a JSON
-> endpoint, and a subscribable ICS calendar feed - fetch the JSON, no
-> scraping needed.
+> Deadline plans for German life events: name a date - moving day, due date,
+> wedding, last working day - and get every step that has to happen before or
+> after it, as a dated backwards schedule with the paragraph it comes from.
+> German public holidays and Schulferien are counted in, and the same calendar
+> data is served as JSON and ICS for reuse.
 
 ## Vorhaben (deadline plans)
 
@@ -13,6 +12,11 @@ Backwards schedules for a life event: every step relative to one anchor day
 (moving day, birth date, last working day), each with its legal source. A step
 marked "Erfahrungswert" is not yet checked against its Gesetz - do not cite it
 as a deadline.
+
+Each page takes the day as `?date=YYYY-MM-DD`. A page under a Kommune adds
+that Kommune's own steps (Halteverbotszone, Sperrmüll, Anwohnerparkausweis);
+those are Satzungsrecht and exist only for the places listed below. Every other
+place uses the bundesweit plan.
 
 - [Umzug: wann muss ich anfangen?](https://wannometer.de/umzug/): Ort und Umzugstag eingeben, kompletten Rückwärts-Zeitplan mit Fristen sehen - mit Wochenend- und Feiertagswarnung. Markdown: `https://wannometer.de/umzug.md`.
 - [Umzug in Ochsenhausen: wann muss ich anfangen?](https://wannometer.de/umzug/ochsenhausen/): Umzug in Ochsenhausen: alle Fristen rückwärts vom Umzugstag geplant, mit Quelle - inklusive der örtlichen Schritte. Markdown: `https://wannometer.de/umzug/ochsenhausen.md`.
@@ -25,11 +29,12 @@ as a deadline.
 
 ## Data catalog
 
-- [Calendar catalog](https://wannometer.de/api/v1/calendar.json): every layer/subject on the site as `{id, group, label, url, feedUrl}` - the single index to discover everything below.
-- [OpenAPI spec](https://wannometer.de/openapi.json): formal schema for every /api/v1/ and /feeds/ endpoint below - use this instead of guessing response shapes from prose.
-- [Feiertage](https://wannometer.de/feiertage/): 221 pages. JSON: `https://wannometer.de/api/v1/feiertage/{slug}.json`. ICS (where dated events exist): `https://wannometer.de/feeds/feiertage/{slug}.ics`.
-- [Schulferien](https://wannometer.de/schulferien/): 16 pages. JSON: `https://wannometer.de/api/v1/schulferien/{slug}.json`. ICS (where dated events exist): `https://wannometer.de/feeds/schulferien/{slug}.ics`.
-- [Urlaubsfenster](https://wannometer.de/urlaubsfenster/): 16 pages. JSON: `https://wannometer.de/api/v1/urlaubsfenster/{slug}.json`. ICS (where dated events exist): `https://wannometer.de/feeds/urlaubsfenster/{slug}.ics`.
+- [Calendar catalog](https://wannometer.de/api/v1/calendar.json): every layer/subject as `{id, group, label, url, feedUrl}` - the single index to discover everything below.
+- [OpenAPI spec](https://wannometer.de/openapi.json): formal schema for every /api/v1/ and /feeds/ endpoint - use this instead of guessing response shapes from prose.
+- [Gemeinden](https://wannometer.de/gemeinden.json): every German Gemeinde as `{name, plz, state}`, from Wikidata.
+- Feiertage: 221 subjects. JSON: `https://wannometer.de/api/v1/feiertage/{slug}.json`. ICS: `https://wannometer.de/feeds/feiertage/{slug}.ics`.
+- Schulferien: 16 subjects. JSON: `https://wannometer.de/api/v1/schulferien/{slug}.json`. ICS: `https://wannometer.de/feeds/schulferien/{slug}.ics`.
+- Urlaubsfenster: 16 subjects. JSON: `https://wannometer.de/api/v1/urlaubsfenster/{slug}.json`. ICS: `https://wannometer.de/feeds/urlaubsfenster/{slug}.ics`.
 
 ## Notes for automated use
 
