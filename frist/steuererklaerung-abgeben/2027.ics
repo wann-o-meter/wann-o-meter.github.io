@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//wann//urlaubsfenster//DE
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Steuererklärung abgeben 2027
+BEGIN:VEVENT
+UID:steuererklaerung-abgeben-2027@wannometer.de
+DTSTAMP:20260816T163708Z
+DTSTART;VALUE=DATE:20280731
+DTEND;VALUE=DATE:20280801
+SUMMARY:Steuererklärung abgeben (2027)
+DESCRIPTION:§ 149 Abs. 2 AO - Gilt\, wenn du ohne Steuerberater abgibst. M
+ it Beratung gilt § 149 Abs. 3 AO und damit ein ganz anderer Termin.
+URL:https://wannometer.de/frist/steuererklaerung-abgeben/2027/
+END:VEVENT
+END:VCALENDAR
