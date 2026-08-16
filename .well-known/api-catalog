@@ -1,0 +1,26 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://wannometer.de/api/v1/fristen.json",
+      "service-desc": [
+        {
+          "href": "https://wannometer.de/openapi.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://wannometer.de/api/",
+          "type": "text/html"
+        }
+      ],
+      "service-meta": [
+        {
+          "href": "https://wannometer.de/llms.txt",
+          "type": "text/plain"
+        }
+      ],
+      "title": "Fristen API: 11 German statutory deadlines with the Paragraf behind each one"
+    }
+  ]
+}
