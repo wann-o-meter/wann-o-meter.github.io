@@ -1,0 +1,41 @@
+{
+  "id": "ummeldung-einwohnermeldeamt",
+  "label": "Ummeldung beim Einwohnermeldeamt",
+  "kind": "statutory-relative",
+  "direction": "after",
+  "tags": [
+    "wohnen",
+    "anmeldung",
+    "bürgeramt",
+    "meldepflicht",
+    "adresse"
+  ],
+  "source": {
+    "label": "§ 17 BMG",
+    "url": "https://www.gesetze-im-internet.de/bmg/__17.html"
+  },
+  "plans": [
+    "umzug"
+  ],
+  "url": "/frist/ummeldung-einwohnermeldeamt/",
+  "dataUrl": "/api/v1/fristen/ummeldung-einwohnermeldeamt.json",
+  "offset": {
+    "days": 14,
+    "label": null,
+    "earliestDays": 0,
+    "needsOffice": true
+  },
+  "note": "Braucht die Wohnungsgeberbestätigung des Vermieters und einen Termin beim Bürgeramt.",
+  "statute": {
+    "enbez": "§ 17",
+    "titel": "Anmeldung, Abmeldung",
+    "url": "https://www.gesetze-im-internet.de/bmg/__17.html",
+    "stand": "2026-08-06",
+    "excerpt": true,
+    "absaetze": [
+      "(1) Wer eine Wohnung bezieht, hat sich innerhalb von zwei Wochen nach dem Einzug bei der Meldebehörde anzumelden.",
+      "(2) Wer aus einer Wohnung auszieht und keine neue Wohnung im Inland bezieht, hat sich innerhalb von zwei Wochen nach dem Auszug bei der Meldebehörde abzumelden. Eine Abmeldung ist frühestens eine Woche vor Auszug möglich; die Fortschreibung des Melderegisters erfolgt zum Datum des Auszugs."
+    ]
+  },
+  "occurrences": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "geburtsanzeige-standesamt",
+  "label": "Geburt beim Standesamt anzeigen",
+  "kind": "statutory-relative",
+  "direction": "after",
+  "tags": [
+    "familie",
+    "geburt",
+    "standesamt",
+    "urkunde"
+  ],
+  "source": {
+    "label": "§ 18 Abs. 1 PStG",
+    "url": "https://www.gesetze-im-internet.de/pstg/__18.html"
+  },
+  "plans": [
+    "geburt"
+  ],
+  "url": "/frist/geburtsanzeige-standesamt/",
+  "dataUrl": "/api/v1/fristen/geburtsanzeige-standesamt.json",
+  "offset": {
+    "days": 7,
+    "label": null,
+    "earliestDays": null,
+    "needsOffice": false
+  },
+  "note": "Meist übernimmt das Krankenhaus die Anzeige.",
+  "statute": {
+    "enbez": "§ 18",
+    "titel": "Anzeige",
+    "url": "https://www.gesetze-im-internet.de/pstg/__18.html",
+    "stand": "2026-08-06",
+    "excerpt": true,
+    "absaetze": [
+      "(1) Die Geburt eines Kindes ist dem Standesamt, in dessen Zuständigkeitsbereich es geboren ist, binnen einer Woche anzuzeigen, und zwar 1. von den in § 19 Satz 1 genannten Personen mündlich oder schriftlich, oder 2. von den in § 20 Satz 1 und 2 genannten Einrichtungen schriftlich. Ist ein Kind tot geboren, so muss die Anzeige spätestens am dritten auf die Geburt folgenden Werktag erstattet werden. In den Fällen des Satzes 1 Nummer 1 haben die anzeigenden Personen die Geburt des Kindes glaubhaft zu machen."
+    ]
+  },
+  "occurrences": []
+}

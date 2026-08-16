@@ -1,27 +1,163 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "wann API",
+    "title": "Wann-O-Meter API",
     "version": "1.0.0",
-    "description": "Structured, machine-readable calendar data for Germany and beyond: public holidays, optimal vacation windows (bridge days), seasonal produce, and curated civic-data topic pages. No authentication, no rate limit - please cache responses instead of re-fetching the same URL repeatedly. Every entry carries a `source` block with the origin URL, license, and retrieval date; cite the original source per that license, not this API. See /llms.txt for a plain-text overview of the same data.",
+    "description": "Machine-readable German statutory deadlines, with the paragraph each one rests on and the statute wording quoted verbatim. 11 Fristen at /api/v1/fristen.json. Calendar layers: 16 across 1 category (schulferien). No authentication and no rate limit, please cache instead of re-fetching the same URL. Every entry carries a source block with origin URL, license and retrieval date. Cite the original source per that license, not this API. See /llms.txt for a plain-text overview of the same data.",
     "license": {
-      "name": "CC BY 4.0 (the underlying dataset - code serving this API is MIT)",
+      "name": "CC BY 4.0 for the data, MIT for the code serving it",
       "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
     }
   },
-  "servers": [{ "url": "/" }],
+  "servers": [
+    {
+      "url": "https://wannometer.de/"
+    }
+  ],
   "paths": {
+    "/api/v1/fristen.json": {
+      "get": {
+        "summary": "Every Frist with the paragraph it comes from",
+        "description": "The index of German statutory deadlines this site tracks. Each entry names the Gesetz it rests on. Fetch one Frist's wording and dates via its dataUrl.",
+        "operationId": "getFristen",
+        "responses": {
+          "200": {
+            "description": "Array of Fristen",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/FristSummary"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/fristen/{id}.json": {
+      "get": {
+        "summary": "One Frist, with the statute wording and its dates",
+        "description": "Includes the quoted Absätze verbatim from gesetze-im-internet.de. A Frist the statute fixes by itself also carries one entry per year in occurrences.",
+        "operationId": "getFrist",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "arbeitsuchend-melden",
+                "elterngeld-beantragen",
+                "geburtsanzeige-standesamt",
+                "internetanbieter-kuendigen-ummelden",
+                "kfz-ummeldung",
+                "kindergeld-beantragen",
+                "kuendigungsfrist-pruefen",
+                "rundfunkbeitrag",
+                "steuererklaerung-abgeben",
+                "ummeldung-einwohnermeldeamt",
+                "wohnung-kuendigen"
+              ]
+            },
+            "description": "Frist identifier",
+            "example": "arbeitsuchend-melden"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "One Frist",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/FristDetail"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown Frist"
+          }
+        }
+      }
+    },
+    "/api/v1/index.json": {
+      "get": {
+        "summary": "Every category and the slugs in it",
+        "description": "The smallest possible index: an object keyed by category, each value the sorted list of slugs in it. Use it to discover what {categoryPath} values are valid.",
+        "operationId": "getIndex",
+        "responses": {
+          "200": {
+            "description": "Category to slugs",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "example": {
+                    "fristen": [
+                      "arbeitsuchend-melden",
+                      "elterngeld-beantragen",
+                      "geburtsanzeige-standesamt",
+                      "internetanbieter-kuendigen-ummelden",
+                      "kfz-ummeldung",
+                      "kindergeld-beantragen",
+                      "kuendigungsfrist-pruefen",
+                      "rundfunkbeitrag",
+                      "steuererklaerung-abgeben",
+                      "ummeldung-einwohnermeldeamt",
+                      "wohnung-kuendigen"
+                    ],
+                    "schulferien": [
+                      "bb",
+                      "be",
+                      "bw",
+                      "by",
+                      "hb",
+                      "he",
+                      "hh",
+                      "mv",
+                      "ni",
+                      "nw",
+                      "rp",
+                      "sh",
+                      "sl",
+                      "sn",
+                      "st",
+                      "th"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/v1/calendar.json": {
       "get": {
         "summary": "Calendar catalog",
-        "description": "Every layer/subject on the site as a lightweight index (no event data) - the single entry point to discover everything else below. Fetch a specific entry's full data via /api/v1/calendar/{id}.json.",
+        "description": "Every calendar layer as a lightweight index without event data. The entry point for discovery: fetch one entry's full data via /api/v1/calendar/{id}.json.",
         "operationId": "getCalendarCatalog",
         "responses": {
           "200": {
             "description": "Array of catalog entries",
             "content": {
               "application/json": {
-                "schema": { "type": "array", "items": { "$ref": "#/components/schemas/CalendarCatalogEntry" } }
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/CalendarCatalogEntry"
+                  }
+                }
               }
             }
           }
@@ -30,65 +166,183 @@
     },
     "/api/v1/calendar/{id}.json": {
       "get": {
-        "summary": "One calendar layer's full data",
-        "description": "id is the catalog entry's `id` field from /api/v1/calendar.json (category and slug joined with \"--\", e.g. \"feiertage--de-nw\").",
+        "summary": "One calendar layer with its dates",
         "operationId": "getCalendarEntry",
         "parameters": [
-          { "name": "id", "in": "path", "required": true, "schema": { "type": "string" }, "example": "feiertage--de-nw" }
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "The catalog entry's id, category and slug joined with \"--\".",
+            "example": "schulferien--bb"
+          }
         ],
         "responses": {
           "200": {
-            "description": "Full calendar entry, including materialized date windows",
-            "content": { "application/json": { "schema": { "$ref": "#/components/schemas/CalendarEntry" } } }
+            "description": "Full entry including materialized windows",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CalendarEntry"
+                }
+              }
+            }
           },
-          "404": { "description": "Unknown id" }
+          "404": {
+            "description": "Unknown id"
+          }
         }
       }
     },
     "/api/v1/{categoryPath}.json": {
       "get": {
-        "summary": "One page's raw data",
-        "description": "categoryPath is `{category}/{slug}` - category may itself be several \"/\"-joined segments for nested topics (e.g. \"religioese-feiertage/islamische-feiertage\"). Mirrors the page's own URL one-to-one: the page at /{category}/{slug}/ has its JSON at /api/v1/{category}/{slug}.json.",
+        "summary": "One page's data",
+        "description": "categoryPath is {category}/{slug} and mirrors the page's own URL one to one: the page at /{category}/{slug}/ has its JSON here.",
         "operationId": "getPageData",
         "parameters": [
           {
             "name": "categoryPath",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" },
-            "description": "Full \"{category}/{slug}\" path, slashes included",
-            "example": "schulferien/bw"
+            "schema": {
+              "type": "string"
+            },
+            "description": "Full {category}/{slug} path, slashes included",
+            "example": "schulferien/bb"
           }
         ],
         "responses": {
           "200": {
             "description": "The page's validated data plus derived events",
-            "content": { "application/json": { "schema": { "$ref": "#/components/schemas/Page" } } }
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Page"
+                }
+              }
+            }
           },
-          "404": { "description": "Unknown category/slug" }
+          "404": {
+            "description": "Unknown category or slug"
+          }
+        }
+      }
+    },
+    "/api/v1/{category}/all.json": {
+      "get": {
+        "summary": "Every page in one category",
+        "description": "The same objects as /api/v1/{categoryPath}.json, for a whole category at once.",
+        "operationId": "getCategory",
+        "parameters": [
+          {
+            "name": "category",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "schulferien"
+              ]
+            },
+            "description": "One category",
+            "example": "schulferien"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of pages",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Page"
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown category"
+          }
         }
       }
     },
     "/feeds/{categoryPath}.ics": {
       "get": {
-        "summary": "Subscribable ICS calendar feed for one page",
-        "description": "Same categoryPath addressing as /api/v1/{categoryPath}.json. Only pages with at least one event have a feed.",
+        "summary": "Subscribable calendar feed for one page",
+        "description": "Same addressing as /api/v1/{categoryPath}.json. Only pages with at least one event have a feed.",
         "operationId": "getPageIcs",
         "parameters": [
           {
             "name": "categoryPath",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" },
-            "example": "feiertage/de-nw"
+            "schema": {
+              "type": "string"
+            },
+            "description": "Full {category}/{slug} path",
+            "example": "schulferien/bb"
           }
         ],
         "responses": {
           "200": {
-            "description": "iCalendar (RFC 5545) feed",
-            "content": { "text/calendar": { "schema": { "type": "string" } } }
+            "description": "iCalendar, RFC 5545",
+            "content": {
+              "text/calendar": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
           },
-          "404": { "description": "Unknown category/slug, or the page has no events" }
+          "404": {
+            "description": "Unknown page, or the page has no events"
+          }
+        }
+      }
+    },
+    "/frist/{fristPath}.ics": {
+      "get": {
+        "summary": "One Frist as a calendar entry",
+        "description": "Only for a Frist the statute fixes by itself, where the day does not depend on a date the visitor supplies. fristPath is {id}/{year}.",
+        "operationId": "getFristIcs",
+        "parameters": [
+          {
+            "name": "fristPath",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "steuererklaerung-abgeben/2024",
+                "steuererklaerung-abgeben/2025",
+                "steuererklaerung-abgeben/2026",
+                "steuererklaerung-abgeben/2027",
+                "steuererklaerung-abgeben/2028"
+              ]
+            },
+            "description": "{id}/{year}",
+            "example": "steuererklaerung-abgeben/2024"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "iCalendar, RFC 5545",
+            "content": {
+              "text/calendar": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown Frist or year"
+          }
         }
       }
     }
@@ -97,101 +351,798 @@
     "schemas": {
       "CalendarCatalogEntry": {
         "type": "object",
-        "required": ["id", "group", "label", "url", "feedUrl"],
+        "required": [
+          "id",
+          "group",
+          "label",
+          "url",
+          "feedUrl"
+        ],
         "properties": {
-          "id": { "type": "string", "description": "Opaque identifier, category and slug joined with \"--\"" },
-          "group": { "type": "string", "description": "Display name of the entry's category" },
-          "label": { "type": "string", "description": "Page title" },
-          "url": { "type": "string", "description": "Path to the human-readable page" },
-          "feedUrl": { "type": "string", "description": "Path to the entry's ICS feed" }
+          "id": {
+            "type": "string",
+            "description": "Category and slug joined with \"--\""
+          },
+          "group": {
+            "type": "string",
+            "description": "Display name of the category"
+          },
+          "label": {
+            "type": "string",
+            "description": "Page title"
+          },
+          "url": {
+            "type": "string",
+            "description": "Path to the human-readable page"
+          },
+          "feedUrl": {
+            "type": "string",
+            "description": "Path to this entry's ICS feed"
+          }
         }
       },
       "CalendarWindow": {
         "type": "object",
-        "required": ["from", "to", "description"],
+        "required": [
+          "from",
+          "to",
+          "description"
+        ],
         "properties": {
-          "from": { "type": "string", "format": "date" },
-          "to": { "type": "string", "format": "date" },
-          "description": { "type": "string" }
+          "from": {
+            "type": "string",
+            "format": "date"
+          },
+          "to": {
+            "type": "string",
+            "format": "date"
+          },
+          "description": {
+            "type": "string"
+          }
         }
       },
       "CalendarEntry": {
         "allOf": [
-          { "$ref": "#/components/schemas/CalendarCatalogEntry" },
+          {
+            "$ref": "#/components/schemas/CalendarCatalogEntry"
+          },
           {
             "type": "object",
-            "required": ["windows"],
+            "required": [
+              "windows"
+            ],
             "properties": {
-              "windows": { "type": "array", "items": { "$ref": "#/components/schemas/CalendarWindow" } }
+              "windows": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/CalendarWindow"
+                }
+              }
             }
           }
         ]
       },
-      "Source": {
+      "FristSummary": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
         "type": "object",
-        "required": ["url", "license", "retrieved_at", "extraction"],
         "properties": {
-          "url": { "type": "string", "format": "uri", "description": "Origin the fact was retrieved from - cite this, not the wann API" },
+          "id": {
+            "type": "string",
+            "description": "Stable identifier, also the page slug"
+          },
+          "label": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "statutory-absolute",
+              "statutory-relative",
+              "soft"
+            ],
+            "description": "statutory-absolute: the statute names the day. statutory-relative: it names an offset from a date you supply."
+          },
+          "direction": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": [
+                  "before",
+                  "after"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "before: the deadline precedes the anchor. after: the clock starts at it."
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "source": {
+            "type": "object",
+            "properties": {
+              "label": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "description": "Citation, e.g. \"§ 573c BGB\""
+              },
+              "url": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              }
+            },
+            "required": [
+              "label",
+              "url"
+            ],
+            "description": "The statute this Frist comes from. Cite this, not this API."
+          },
+          "plans": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Vorhaben this Frist appears in"
+          },
+          "url": {
+            "type": "string",
+            "description": "Human-readable page"
+          },
+          "dataUrl": {
+            "type": "string",
+            "description": "This Frist's full JSON"
+          }
+        },
+        "required": [
+          "id",
+          "label",
+          "kind",
+          "direction",
+          "tags",
+          "source",
+          "plans",
+          "url",
+          "dataUrl"
+        ]
+      },
+      "FristDetail": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Stable identifier, also the page slug"
+          },
+          "label": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "statutory-absolute",
+              "statutory-relative",
+              "soft"
+            ],
+            "description": "statutory-absolute: the statute names the day. statutory-relative: it names an offset from a date you supply."
+          },
+          "direction": {
+            "anyOf": [
+              {
+                "type": "string",
+                "enum": [
+                  "before",
+                  "after"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "description": "before: the deadline precedes the anchor. after: the clock starts at it."
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "source": {
+            "type": "object",
+            "properties": {
+              "label": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "description": "Citation, e.g. \"§ 573c BGB\""
+              },
+              "url": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              }
+            },
+            "required": [
+              "label",
+              "url"
+            ],
+            "description": "The statute this Frist comes from. Cite this, not this API."
+          },
+          "plans": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Vorhaben this Frist appears in"
+          },
+          "url": {
+            "type": "string",
+            "description": "Human-readable page"
+          },
+          "dataUrl": {
+            "type": "string",
+            "description": "This Frist's full JSON"
+          },
+          "offset": {
+            "type": "object",
+            "properties": {
+              "days": {
+                "anyOf": [
+                  {
+                    "type": "integer",
+                    "minimum": -9007199254740991,
+                    "maximum": 9007199254740991
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "description": "Days from the anchor date. Negative is before it. null when not researched."
+              },
+              "label": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "description": "Set where a plain day count would mislead"
+              },
+              "earliestDays": {
+                "anyOf": [
+                  {
+                    "type": "integer",
+                    "minimum": -9007199254740991,
+                    "maximum": 9007199254740991
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "needsOffice": {
+                "type": "boolean"
+              }
+            },
+            "required": [
+              "days",
+              "label",
+              "earliestDays",
+              "needsOffice"
+            ]
+          },
+          "note": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "statute": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "enbez": {
+                    "type": "string",
+                    "description": "Paragraf, e.g. \"§ 573c\""
+                  },
+                  "titel": {
+                    "type": "string"
+                  },
+                  "url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "stand": {
+                    "anyOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ],
+                    "description": "Date of the wording, from the official XML"
+                  },
+                  "excerpt": {
+                    "type": "boolean",
+                    "description": "true when only some Absätze are reproduced"
+                  },
+                  "absaetze": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    },
+                    "description": "Verbatim from gesetze-im-internet.de. Gesetze carry no copyright (§ 5 Abs. 1 UrhG)."
+                  }
+                },
+                "required": [
+                  "enbez",
+                  "titel",
+                  "url",
+                  "stand",
+                  "excerpt",
+                  "absaetze"
+                ]
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "occurrences": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "year": {
+                  "type": "integer",
+                  "minimum": -9007199254740991,
+                  "maximum": 9007199254740991,
+                  "description": "The year the Frist is about"
+                },
+                "date": {
+                  "type": "string",
+                  "format": "date",
+                  "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$",
+                  "description": "The day it falls on, weekends and Feiertage rolled"
+                },
+                "icsUrl": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "year",
+                "date",
+                "icsUrl"
+              ]
+            },
+            "description": "Only for statutory-absolute, where no input from you is needed"
+          }
+        },
+        "required": [
+          "id",
+          "label",
+          "kind",
+          "direction",
+          "tags",
+          "source",
+          "plans",
+          "url",
+          "dataUrl",
+          "offset",
+          "note",
+          "statute",
+          "occurrences"
+        ]
+      },
+      "Source": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
           "license": {
             "type": "string",
-            "enum": ["official_par5", "dl_de_by", "cc_by", "tos_checked", "permission_granted", "own_derivation"]
+            "enum": [
+              "official_par5",
+              "dl_de_by",
+              "cc_by",
+              "tos_checked",
+              "permission_granted",
+              "own_derivation"
+            ]
           },
-          "license_note": { "type": "string", "nullable": true },
-          "retrieved_at": { "type": "string", "format": "date" },
-          "extraction": { "type": "string", "enum": ["manual", "llm", "parser"] },
-          "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
-          "contributed_by": { "type": "string", "description": "GitHub handle of whoever suggested this source, if any" }
-        }
+          "license_note": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "retrieved_at": {
+            "type": "string",
+            "format": "date",
+            "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+          },
+          "extraction": {
+            "type": "string",
+            "enum": [
+              "manual",
+              "llm",
+              "parser"
+            ]
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "contributed_by": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "url",
+          "license",
+          "retrieved_at",
+          "extraction"
+        ]
+      },
+      "PageMeta": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "description": {
+            "default": "",
+            "type": "string"
+          },
+          "intro": {
+            "default": "",
+            "type": "string"
+          },
+          "tags": {
+            "default": [],
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "featured": {
+            "default": true,
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "title"
+        ]
+      },
+      "PageData": {
+        "$schema": "https://json-schema.org/draft/2020-12/schema",
+        "type": "object",
+        "properties": {
+          "subject": {
+            "type": "object",
+            "properties": {
+              "slug": {
+                "type": "string"
+              },
+              "category": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "slug",
+              "category"
+            ]
+          },
+          "source": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "url": {
+                    "type": "string",
+                    "format": "uri"
+                  },
+                  "license": {
+                    "type": "string",
+                    "enum": [
+                      "official_par5",
+                      "dl_de_by",
+                      "cc_by",
+                      "tos_checked",
+                      "permission_granted",
+                      "own_derivation"
+                    ]
+                  },
+                  "license_note": {
+                    "anyOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  },
+                  "retrieved_at": {
+                    "type": "string",
+                    "format": "date",
+                    "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+                  },
+                  "extraction": {
+                    "type": "string",
+                    "enum": [
+                      "manual",
+                      "llm",
+                      "parser"
+                    ]
+                  },
+                  "confidence": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "contributed_by": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "url",
+                  "license",
+                  "retrieved_at",
+                  "extraction"
+                ]
+              },
+              {
+                "minItems": 1,
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "url": {
+                      "type": "string",
+                      "format": "uri"
+                    },
+                    "license": {
+                      "type": "string",
+                      "enum": [
+                        "official_par5",
+                        "dl_de_by",
+                        "cc_by",
+                        "tos_checked",
+                        "permission_granted",
+                        "own_derivation"
+                      ]
+                    },
+                    "license_note": {
+                      "anyOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "retrieved_at": {
+                      "type": "string",
+                      "format": "date",
+                      "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+                    },
+                    "extraction": {
+                      "type": "string",
+                      "enum": [
+                        "manual",
+                        "llm",
+                        "parser"
+                      ]
+                    },
+                    "confidence": {
+                      "type": "number",
+                      "minimum": 0,
+                      "maximum": 1
+                    },
+                    "contributed_by": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "url",
+                    "license",
+                    "retrieved_at",
+                    "extraction"
+                  ]
+                }
+              }
+            ]
+          },
+          "windows": {
+            "default": [],
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string"
+                },
+                "year": {
+                  "anyOf": [
+                    {
+                      "type": "integer",
+                      "minimum": -9007199254740991,
+                      "maximum": 9007199254740991
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "from": {
+                  "type": "string"
+                },
+                "to": {
+                  "type": "string"
+                },
+                "precision": {
+                  "type": "string",
+                  "enum": [
+                    "exact",
+                    "approximate"
+                  ]
+                },
+                "ics": {
+                  "type": "boolean"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "number"
+                },
+                "unit": {
+                  "type": "string"
+                },
+                "source_urls": {
+                  "minItems": 1,
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "format": "uri"
+                  }
+                },
+                "last_verified": {
+                  "type": "string",
+                  "format": "date",
+                  "pattern": "^(?:(?:\\d\\d[2468][048]|\\d\\d[13579][26]|\\d\\d0[48]|[02468][048]00|[13579][26]00)-02-29|\\d{4}-(?:(?:0[13578]|1[02])-(?:0[1-9]|[12]\\d|3[01])|(?:0[469]|11)-(?:0[1-9]|[12]\\d|30)|(?:02)-(?:0[1-9]|1\\d|2[0-8])))$"
+                },
+                "rrule": {
+                  "type": "string"
+                },
+                "notes": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "type",
+                "year",
+                "from",
+                "to",
+                "precision",
+                "ics"
+              ]
+            }
+          },
+          "raw_data": {
+            "default": {},
+            "type": "object",
+            "propertyNames": {
+              "type": "string"
+            },
+            "additionalProperties": {}
+          }
+        },
+        "required": [
+          "subject",
+          "source"
+        ]
       },
       "PageEvent": {
         "type": "object",
-        "required": ["date", "label"],
+        "required": [
+          "date",
+          "label"
+        ],
         "properties": {
-          "date": { "type": "string", "format": "date" },
-          "to": { "type": "string", "format": "date", "description": "Only present for a multi-day window, when it differs from `date`" },
-          "label": { "type": "string" }
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "to": {
+            "type": "string",
+            "format": "date",
+            "description": "Only on a multi-day window, when it differs from date"
+          },
+          "label": {
+            "type": "string"
+          }
         }
       },
       "Page": {
         "type": "object",
-        "required": ["category", "slug", "meta", "data", "events"],
+        "required": [
+          "category",
+          "slug",
+          "meta",
+          "data",
+          "events"
+        ],
         "properties": {
-          "category": { "type": "string" },
-          "slug": { "type": "string" },
+          "category": {
+            "type": "string",
+            "enum": [
+              "schulferien"
+            ]
+          },
+          "slug": {
+            "type": "string"
+          },
           "meta": {
-            "type": "object",
-            "required": ["title", "description", "tags", "featured"],
-            "properties": {
-              "title": { "type": "string" },
-              "description": { "type": "string" },
-              "tags": { "type": "array", "items": { "type": "string" } },
-              "featured": { "type": "boolean" }
-            }
+            "$ref": "#/components/schemas/PageMeta"
           },
           "data": {
-            "type": "object",
-            "required": ["subject", "source", "windows", "raw_data"],
-            "properties": {
-              "subject": {
-                "type": "object",
-                "properties": { "slug": { "type": "string" }, "category": { "type": "string" } }
-              },
-              "source": { "type": "array", "items": { "$ref": "#/components/schemas/Source" } },
-              "windows": {
-                "type": "array",
-                "description": "Curated/computed calendar-style facts (Feiertage, Urlaubsfenster, Schulferien). Empty for scraped content pages, which populate raw_data instead.",
-                "items": { "type": "object" }
-              },
-              "raw_data": {
-                "type": "object",
-                "description": "Arbitrary scraped content (shape depends on the source), empty for calendar-style pages"
-              }
-            }
+            "$ref": "#/components/schemas/PageData"
           },
           "events": {
             "type": "array",
-            "description": "Derived, display-ready date list - resolved from `data.windows` if present, otherwise from raw_data's LLM-extracted or regex-found dates",
-            "items": { "$ref": "#/components/schemas/PageEvent" }
+            "description": "Display-ready dates, resolved from data.windows where present",
+            "items": {
+              "$ref": "#/components/schemas/PageEvent"
+            }
           }
         }
       }

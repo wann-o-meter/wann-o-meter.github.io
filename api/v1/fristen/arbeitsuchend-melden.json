@@ -1,0 +1,39 @@
+{
+  "id": "arbeitsuchend-melden",
+  "label": "Bei der Agentur für Arbeit arbeitsuchend melden",
+  "kind": "statutory-relative",
+  "direction": "before",
+  "tags": [
+    "arbeit",
+    "job",
+    "arbeitsagentur",
+    "arbeitslos"
+  ],
+  "source": {
+    "label": "§ 38 Abs. 1 SGB III",
+    "url": "https://www.gesetze-im-internet.de/sgb_3/__38.html"
+  },
+  "plans": [
+    "jobwechsel"
+  ],
+  "url": "/frist/arbeitsuchend-melden/",
+  "dataUrl": "/api/v1/fristen/arbeitsuchend-melden.json",
+  "offset": {
+    "days": -90,
+    "label": null,
+    "earliestDays": null,
+    "needsOffice": false
+  },
+  "note": null,
+  "statute": {
+    "enbez": "§ 38",
+    "titel": "Rechte und Pflichten der Ausbildung- und Arbeitsuchenden",
+    "url": "https://www.gesetze-im-internet.de/sgb_3/__38.html",
+    "stand": "2026-07-29",
+    "excerpt": true,
+    "absaetze": [
+      "(1) Personen, deren Ausbildungs- oder Arbeitsverhältnis endet, sind verpflichtet, sich spätestens drei Monate vor dessen Beendigung bei der Agentur für Arbeit unter Angabe der persönlichen Daten und des Beendigungszeitpunktes des Ausbildungs- oder Arbeitsverhältnisses arbeitsuchend zu melden. Liegen zwischen der Kenntnis des Beendigungszeitpunktes und der Beendigung des Ausbildungs- oder Arbeitsverhältnisses weniger als drei Monate, haben sie sich innerhalb von drei Tagen nach Kenntnis des Beendigungszeitpunktes zu melden. Die Pflicht zur Meldung besteht unabhängig davon, ob der Fortbestand des Ausbildungs- oder Arbeitsverhältnisses gerichtlich geltend gemacht oder vom Arbeitgeber in Aussicht gestellt wird. Die Pflicht zur Meldung gilt nicht bei einem betrieblichen Ausbildungsverhältnis."
+    ]
+  },
+  "occurrences": []
+}

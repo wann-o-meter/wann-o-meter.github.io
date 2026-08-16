@@ -1,0 +1,232 @@
+[
+  {
+    "id": "arbeitsuchend-melden",
+    "label": "Bei der Agentur für Arbeit arbeitsuchend melden",
+    "kind": "statutory-relative",
+    "direction": "before",
+    "tags": [
+      "arbeit",
+      "job",
+      "arbeitsagentur",
+      "arbeitslos"
+    ],
+    "source": {
+      "label": "§ 38 Abs. 1 SGB III",
+      "url": "https://www.gesetze-im-internet.de/sgb_3/__38.html"
+    },
+    "plans": [
+      "jobwechsel"
+    ],
+    "url": "/frist/arbeitsuchend-melden/",
+    "dataUrl": "/api/v1/fristen/arbeitsuchend-melden.json"
+  },
+  {
+    "id": "elterngeld-beantragen",
+    "label": "Elterngeld beantragen",
+    "kind": "statutory-relative",
+    "direction": "after",
+    "tags": [
+      "familie",
+      "elternzeit",
+      "antrag",
+      "elterngeld"
+    ],
+    "source": {
+      "label": "§ 7 Abs. 1 BEEG",
+      "url": "https://www.gesetze-im-internet.de/beeg/__7.html"
+    },
+    "plans": [
+      "geburt"
+    ],
+    "url": "/frist/elterngeld-beantragen/",
+    "dataUrl": "/api/v1/fristen/elterngeld-beantragen.json"
+  },
+  {
+    "id": "geburtsanzeige-standesamt",
+    "label": "Geburt beim Standesamt anzeigen",
+    "kind": "statutory-relative",
+    "direction": "after",
+    "tags": [
+      "familie",
+      "geburt",
+      "standesamt",
+      "urkunde"
+    ],
+    "source": {
+      "label": "§ 18 Abs. 1 PStG",
+      "url": "https://www.gesetze-im-internet.de/pstg/__18.html"
+    },
+    "plans": [
+      "geburt"
+    ],
+    "url": "/frist/geburtsanzeige-standesamt/",
+    "dataUrl": "/api/v1/fristen/geburtsanzeige-standesamt.json"
+  },
+  {
+    "id": "internetanbieter-kuendigen-ummelden",
+    "label": "Internetanbieter kündigen oder umziehen lassen",
+    "kind": "statutory-relative",
+    "direction": "before",
+    "tags": [
+      "wohnen",
+      "internet",
+      "dsl",
+      "telefon",
+      "vertrag"
+    ],
+    "source": {
+      "label": "§ 60 TKG",
+      "url": "https://www.gesetze-im-internet.de/tkg_2021/__60.html"
+    },
+    "plans": [
+      "umzug"
+    ],
+    "url": "/frist/internetanbieter-kuendigen-ummelden/",
+    "dataUrl": "/api/v1/fristen/internetanbieter-kuendigen-ummelden.json"
+  },
+  {
+    "id": "kfz-ummeldung",
+    "label": "Kfz beim neuen Wohnort ummelden",
+    "kind": "statutory-relative",
+    "direction": "after",
+    "tags": [
+      "auto",
+      "zulassung",
+      "kennzeichen",
+      "fahrzeug"
+    ],
+    "source": {
+      "label": "§ 15 Abs. 4 FZV",
+      "url": "https://www.gesetze-im-internet.de/fzv_2023/__15.html"
+    },
+    "plans": [
+      "umzug"
+    ],
+    "url": "/frist/kfz-ummeldung/",
+    "dataUrl": "/api/v1/fristen/kfz-ummeldung.json"
+  },
+  {
+    "id": "kindergeld-beantragen",
+    "label": "Kindergeld beantragen",
+    "kind": "statutory-relative",
+    "direction": "after",
+    "tags": [
+      "familie",
+      "familienkasse",
+      "antrag",
+      "kindergeld"
+    ],
+    "source": {
+      "label": "§ 70 Abs. 1 Satz 2 EStG",
+      "url": "https://www.gesetze-im-internet.de/estg/__70.html"
+    },
+    "plans": [
+      "geburt"
+    ],
+    "url": "/frist/kindergeld-beantragen/",
+    "dataUrl": "/api/v1/fristen/kindergeld-beantragen.json"
+  },
+  {
+    "id": "kuendigungsfrist-pruefen",
+    "label": "Kündigungsfrist einhalten und kündigen",
+    "kind": "statutory-relative",
+    "direction": "before",
+    "tags": [
+      "arbeit",
+      "job",
+      "kündigung",
+      "arbeitsvertrag"
+    ],
+    "source": {
+      "label": "§ 622 Abs. 1 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__622.html"
+    },
+    "plans": [
+      "jobwechsel"
+    ],
+    "url": "/frist/kuendigungsfrist-pruefen/",
+    "dataUrl": "/api/v1/fristen/kuendigungsfrist-pruefen.json"
+  },
+  {
+    "id": "rundfunkbeitrag",
+    "label": "Rundfunkbeitrag ummelden",
+    "kind": "statutory-relative",
+    "direction": "after",
+    "tags": [
+      "gez",
+      "beitragsservice",
+      "rundfunk"
+    ],
+    "source": {
+      "label": "§ 8 RBStV",
+      "url": "https://www.gesetze-bayern.de/Content/Document/RBeitrStV-8"
+    },
+    "plans": [
+      "umzug"
+    ],
+    "url": "/frist/rundfunkbeitrag/",
+    "dataUrl": "/api/v1/fristen/rundfunkbeitrag.json"
+  },
+  {
+    "id": "steuererklaerung-abgeben",
+    "label": "Steuererklärung abgeben",
+    "kind": "statutory-absolute",
+    "direction": "after",
+    "tags": [
+      "steuer",
+      "finanzamt",
+      "einkommensteuer"
+    ],
+    "source": {
+      "label": "§ 149 Abs. 2 AO",
+      "url": "https://www.gesetze-im-internet.de/ao_1977/__149.html"
+    },
+    "plans": [],
+    "url": "/frist/steuererklaerung-abgeben/",
+    "dataUrl": "/api/v1/fristen/steuererklaerung-abgeben.json"
+  },
+  {
+    "id": "ummeldung-einwohnermeldeamt",
+    "label": "Ummeldung beim Einwohnermeldeamt",
+    "kind": "statutory-relative",
+    "direction": "after",
+    "tags": [
+      "wohnen",
+      "anmeldung",
+      "bürgeramt",
+      "meldepflicht",
+      "adresse"
+    ],
+    "source": {
+      "label": "§ 17 BMG",
+      "url": "https://www.gesetze-im-internet.de/bmg/__17.html"
+    },
+    "plans": [
+      "umzug"
+    ],
+    "url": "/frist/ummeldung-einwohnermeldeamt/",
+    "dataUrl": "/api/v1/fristen/ummeldung-einwohnermeldeamt.json"
+  },
+  {
+    "id": "wohnung-kuendigen",
+    "label": "Wohnung kündigen",
+    "kind": "statutory-relative",
+    "direction": "before",
+    "tags": [
+      "wohnen",
+      "miete",
+      "kündigung",
+      "mietvertrag",
+      "vermieter"
+    ],
+    "source": {
+      "label": "§ 573c BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__573c.html"
+    },
+    "plans": [
+      "umzug"
+    ],
+    "url": "/frist/wohnung-kuendigen/",
+    "dataUrl": "/api/v1/fristen/wohnung-kuendigen.json"
+  }
+]

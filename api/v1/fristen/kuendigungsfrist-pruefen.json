@@ -1,0 +1,41 @@
+{
+  "id": "kuendigungsfrist-pruefen",
+  "label": "Kündigungsfrist einhalten und kündigen",
+  "kind": "statutory-relative",
+  "direction": "before",
+  "tags": [
+    "arbeit",
+    "job",
+    "kündigung",
+    "arbeitsvertrag"
+  ],
+  "source": {
+    "label": "§ 622 Abs. 1 BGB",
+    "url": "https://www.gesetze-im-internet.de/bgb/__622.html"
+  },
+  "plans": [
+    "jobwechsel"
+  ],
+  "url": "/frist/kuendigungsfrist-pruefen/",
+  "dataUrl": "/api/v1/fristen/kuendigungsfrist-pruefen.json",
+  "offset": {
+    "days": -28,
+    "label": null,
+    "earliestDays": null,
+    "needsOffice": false
+  },
+  "note": "Zuerst in den Arbeits- oder Tarifvertrag schauen.",
+  "statute": {
+    "enbez": "§ 622",
+    "titel": "Kündigungsfristen bei Arbeitsverhältnissen",
+    "url": "https://www.gesetze-im-internet.de/bgb/__622.html",
+    "stand": "2026-07-31",
+    "excerpt": true,
+    "absaetze": [
+      "(1) Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten (Arbeitnehmers) kann mit einer Frist von vier Wochen zum Fünfzehnten oder zum Ende eines Kalendermonats gekündigt werden.",
+      "(3) Während einer vereinbarten Probezeit, längstens für die Dauer von sechs Monaten, kann das Arbeitsverhältnis mit einer Frist von zwei Wochen gekündigt werden.",
+      "(4) Von den Absätzen 1 bis 3 abweichende Regelungen können durch Tarifvertrag vereinbart werden. Im Geltungsbereich eines solchen Tarifvertrags gelten die abweichenden tarifvertraglichen Bestimmungen zwischen nicht tarifgebundenen Arbeitgebern und Arbeitnehmern, wenn ihre Anwendung zwischen ihnen vereinbart ist."
+    ]
+  },
+  "occurrences": []
+}

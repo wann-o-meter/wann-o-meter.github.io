@@ -1,0 +1,41 @@
+{
+  "id": "wohnung-kuendigen",
+  "label": "Wohnung kündigen",
+  "kind": "statutory-relative",
+  "direction": "before",
+  "tags": [
+    "wohnen",
+    "miete",
+    "kündigung",
+    "mietvertrag",
+    "vermieter"
+  ],
+  "source": {
+    "label": "§ 573c BGB",
+    "url": "https://www.gesetze-im-internet.de/bgb/__573c.html"
+  },
+  "plans": [
+    "umzug"
+  ],
+  "url": "/frist/wohnung-kuendigen/",
+  "dataUrl": "/api/v1/fristen/wohnung-kuendigen.json",
+  "offset": {
+    "days": -90,
+    "label": "Abhängig vom Umzugsmonat",
+    "earliestDays": null,
+    "needsOffice": false
+  },
+  "note": "Schriftlich und unterschrieben, am besten per Einwurf-Einschreiben.",
+  "statute": {
+    "enbez": "§ 573c",
+    "titel": "Fristen der ordentlichen Kündigung",
+    "url": "https://www.gesetze-im-internet.de/bgb/__573c.html",
+    "stand": "2026-07-31",
+    "excerpt": true,
+    "absaetze": [
+      "(1) Die Kündigung ist spätestens am dritten Werktag eines Kalendermonats zum Ablauf des übernächsten Monats zulässig. Die Kündigungsfrist für den Vermieter verlängert sich nach fünf und acht Jahren seit der Überlassung des Wohnraums um jeweils drei Monate.",
+      "(4) Eine zum Nachteil des Mieters von Absatz 1 oder 3 abweichende Vereinbarung ist unwirksam."
+    ]
+  },
+  "occurrences": []
+}

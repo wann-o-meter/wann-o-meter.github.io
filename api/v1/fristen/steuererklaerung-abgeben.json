@@ -1,0 +1,62 @@
+{
+  "id": "steuererklaerung-abgeben",
+  "label": "Steuererklärung abgeben",
+  "kind": "statutory-absolute",
+  "direction": "after",
+  "tags": [
+    "steuer",
+    "finanzamt",
+    "einkommensteuer"
+  ],
+  "source": {
+    "label": "§ 149 Abs. 2 AO",
+    "url": "https://www.gesetze-im-internet.de/ao_1977/__149.html"
+  },
+  "plans": [],
+  "url": "/frist/steuererklaerung-abgeben/",
+  "dataUrl": "/api/v1/fristen/steuererklaerung-abgeben.json",
+  "offset": {
+    "days": null,
+    "label": null,
+    "earliestDays": null,
+    "needsOffice": false
+  },
+  "note": "Gilt ohne Steuerberater oder Lohnsteuerhilfeverein, sonst gilt § 149 Abs. 3 AO.",
+  "statute": {
+    "enbez": "§ 149",
+    "titel": "Abgabe der Steuererklärungen",
+    "url": "https://www.gesetze-im-internet.de/ao_1977/__149.html",
+    "stand": "2026-08-12",
+    "excerpt": true,
+    "absaetze": [
+      "(2) Soweit die Steuergesetze nichts anderes bestimmen, sind Steuererklärungen, die sich auf ein Kalenderjahr oder auf einen gesetzlich bestimmten Zeitpunkt beziehen, spätestens sieben Monate nach Ablauf des Kalenderjahres oder sieben Monate nach dem gesetzlich bestimmten Zeitpunkt abzugeben. Bei Steuerpflichtigen, die den Gewinn aus Land- und Forstwirtschaft nach einem vom Kalenderjahr abweichenden Wirtschaftsjahr ermitteln, endet die Frist nicht vor Ablauf des siebten Monats, der auf den Schluss des in dem Kalenderjahr begonnenen Wirtschaftsjahres folgt."
+    ]
+  },
+  "occurrences": [
+    {
+      "year": 2024,
+      "date": "2025-07-31",
+      "icsUrl": "/frist/steuererklaerung-abgeben/2024.ics"
+    },
+    {
+      "year": 2025,
+      "date": "2026-07-31",
+      "icsUrl": "/frist/steuererklaerung-abgeben/2025.ics"
+    },
+    {
+      "year": 2026,
+      "date": "2027-08-02",
+      "icsUrl": "/frist/steuererklaerung-abgeben/2026.ics"
+    },
+    {
+      "year": 2027,
+      "date": "2028-07-31",
+      "icsUrl": "/frist/steuererklaerung-abgeben/2027.ics"
+    },
+    {
+      "year": 2028,
+      "date": "2029-07-31",
+      "icsUrl": "/frist/steuererklaerung-abgeben/2028.ics"
+    }
+  ]
+}

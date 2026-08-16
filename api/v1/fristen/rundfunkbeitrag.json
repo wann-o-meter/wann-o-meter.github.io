@@ -1,0 +1,29 @@
+{
+  "id": "rundfunkbeitrag",
+  "label": "Rundfunkbeitrag ummelden",
+  "kind": "statutory-relative",
+  "direction": "after",
+  "tags": [
+    "gez",
+    "beitragsservice",
+    "rundfunk"
+  ],
+  "source": {
+    "label": "§ 8 RBStV",
+    "url": "https://www.gesetze-bayern.de/Content/Document/RBeitrStV-8"
+  },
+  "plans": [
+    "umzug"
+  ],
+  "url": "/frist/rundfunkbeitrag/",
+  "dataUrl": "/api/v1/fristen/rundfunkbeitrag.json",
+  "offset": {
+    "days": 14,
+    "label": null,
+    "earliestDays": null,
+    "needsOffice": false
+  },
+  "note": "Die Beitragsnummer zieht mit um, eine zweite Anmeldung wäre eine Doppelzahlung. Das Gesetz sagt \"unverzüglich\" und nennt keine Tagesfrist - die 14 Tage sind Erfahrungswert.",
+  "statute": null,
+  "occurrences": []
+}

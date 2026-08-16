@@ -27,14 +27,37 @@ place uses the bundesweit plan.
 - [Hochzeit: wann muss ich anfangen?](https://wannometer.de/heirat/): Hochzeitstermin eingeben, Anmeldung beim Standesamt, Dokumente und Namensänderung rückwärts geplant. Markdown: `https://wannometer.de/heirat.md`.
 - [Jobwechsel: wann muss ich anfangen?](https://wannometer.de/jobwechsel/): Letzten Arbeitstag eingeben, Kündigungsfrist und Arbeitsuchendmeldung rückwärts geplant - mit Quelle. Markdown: `https://wannometer.de/jobwechsel.md`.
 
+## Fristen (single deadlines)
+
+One page per deadline, independent of any plan. Each states the rule in words
+and names the paragraph it comes from. A deadline the statute fixes by itself
+also carries the worked-out date per year. A deadline counted from a date the
+visitor supplies is only ever stated as a rule, never as a date, because a date
+baked in at build time would be wrong the moment it is read.
+
+All of them as one document: https://wannometer.de/api/v1/fristen.json. Each entry there
+names the Gesetz it rests on, and the per-Frist JSON quotes the Absätze verbatim
+from the official text. Gesetze carry no copyright (§ 5 Abs. 1 UrhG), so quote
+them, and cite gesetze-im-internet.de rather than this site.
+
+- [Bei der Agentur für Arbeit arbeitsuchend melden](https://wannometer.de/frist/arbeitsuchend-melden/): § 38 Abs. 1 SGB III. JSON: `https://wannometer.de/api/v1/fristen/arbeitsuchend-melden.json`.
+- [Elterngeld beantragen](https://wannometer.de/frist/elterngeld-beantragen/): § 7 Abs. 1 BEEG. JSON: `https://wannometer.de/api/v1/fristen/elterngeld-beantragen.json`.
+- [Geburt beim Standesamt anzeigen](https://wannometer.de/frist/geburtsanzeige-standesamt/): § 18 Abs. 1 PStG. JSON: `https://wannometer.de/api/v1/fristen/geburtsanzeige-standesamt.json`.
+- [Internetanbieter kündigen oder umziehen lassen](https://wannometer.de/frist/internetanbieter-kuendigen-ummelden/): § 60 TKG. JSON: `https://wannometer.de/api/v1/fristen/internetanbieter-kuendigen-ummelden.json`.
+- [Kfz beim neuen Wohnort ummelden](https://wannometer.de/frist/kfz-ummeldung/): § 15 Abs. 4 FZV. JSON: `https://wannometer.de/api/v1/fristen/kfz-ummeldung.json`.
+- [Kindergeld beantragen](https://wannometer.de/frist/kindergeld-beantragen/): § 70 Abs. 1 Satz 2 EStG. JSON: `https://wannometer.de/api/v1/fristen/kindergeld-beantragen.json`.
+- [Kündigungsfrist einhalten und kündigen](https://wannometer.de/frist/kuendigungsfrist-pruefen/): § 622 Abs. 1 BGB. JSON: `https://wannometer.de/api/v1/fristen/kuendigungsfrist-pruefen.json`.
+- [Rundfunkbeitrag ummelden](https://wannometer.de/frist/rundfunkbeitrag/): § 8 RBStV. JSON: `https://wannometer.de/api/v1/fristen/rundfunkbeitrag.json`.
+- [Steuererklärung abgeben](https://wannometer.de/frist/steuererklaerung-abgeben/): § 149 Abs. 2 AO. JSON: `https://wannometer.de/api/v1/fristen/steuererklaerung-abgeben.json`.
+- [Ummeldung beim Einwohnermeldeamt](https://wannometer.de/frist/ummeldung-einwohnermeldeamt/): § 17 BMG. JSON: `https://wannometer.de/api/v1/fristen/ummeldung-einwohnermeldeamt.json`.
+- [Wohnung kündigen](https://wannometer.de/frist/wohnung-kuendigen/): § 573c BGB. JSON: `https://wannometer.de/api/v1/fristen/wohnung-kuendigen.json`.
+
 ## Data catalog
 
 - [Calendar catalog](https://wannometer.de/api/v1/calendar.json): every layer/subject as `{id, group, label, url, feedUrl}` - the single index to discover everything below.
 - [OpenAPI spec](https://wannometer.de/openapi.json): formal schema for every /api/v1/ and /feeds/ endpoint - use this instead of guessing response shapes from prose.
 - [Gemeinden](https://wannometer.de/gemeinden.json): every German Gemeinde as `{name, plz, state}`, from Wikidata.
-- Feiertage: 221 subjects. JSON: `https://wannometer.de/api/v1/feiertage/{slug}.json`. ICS: `https://wannometer.de/feeds/feiertage/{slug}.ics`.
 - Schulferien: 16 subjects. JSON: `https://wannometer.de/api/v1/schulferien/{slug}.json`. ICS: `https://wannometer.de/feeds/schulferien/{slug}.ics`.
-- Urlaubsfenster: 16 subjects. JSON: `https://wannometer.de/api/v1/urlaubsfenster/{slug}.json`. ICS: `https://wannometer.de/feeds/urlaubsfenster/{slug}.ics`.
 
 ## Notes for automated use
 

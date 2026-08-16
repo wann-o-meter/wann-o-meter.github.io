@@ -1,0 +1,39 @@
+{
+  "id": "elterngeld-beantragen",
+  "label": "Elterngeld beantragen",
+  "kind": "statutory-relative",
+  "direction": "after",
+  "tags": [
+    "familie",
+    "elternzeit",
+    "antrag",
+    "elterngeld"
+  ],
+  "source": {
+    "label": "§ 7 Abs. 1 BEEG",
+    "url": "https://www.gesetze-im-internet.de/beeg/__7.html"
+  },
+  "plans": [
+    "geburt"
+  ],
+  "url": "/frist/elterngeld-beantragen/",
+  "dataUrl": "/api/v1/fristen/elterngeld-beantragen.json",
+  "offset": {
+    "days": 90,
+    "label": null,
+    "earliestDays": null,
+    "needsOffice": false
+  },
+  "note": null,
+  "statute": {
+    "enbez": "§ 7",
+    "titel": "Antragstellung",
+    "url": "https://www.gesetze-im-internet.de/beeg/__7.html",
+    "stand": "2026-05-06",
+    "excerpt": true,
+    "absaetze": [
+      "(1) Elterngeld ist schriftlich zu beantragen. Es wird rückwirkend nur für die letzten drei Lebensmonate vor Beginn des Lebensmonats geleistet, in dem der Antrag auf Elterngeld eingegangen ist. Im Antrag ist anzugeben, für welche Lebensmonate Basiselterngeld, für welche Lebensmonate Elterngeld Plus oder für welche Lebensmonate Partnerschaftsbonus beantragt wird."
+    ]
+  },
+  "occurrences": []
+}

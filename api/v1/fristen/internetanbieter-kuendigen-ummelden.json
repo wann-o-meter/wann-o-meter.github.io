@@ -1,0 +1,41 @@
+{
+  "id": "internetanbieter-kuendigen-ummelden",
+  "label": "Internetanbieter kündigen oder umziehen lassen",
+  "kind": "statutory-relative",
+  "direction": "before",
+  "tags": [
+    "wohnen",
+    "internet",
+    "dsl",
+    "telefon",
+    "vertrag"
+  ],
+  "source": {
+    "label": "§ 60 TKG",
+    "url": "https://www.gesetze-im-internet.de/tkg_2021/__60.html"
+  },
+  "plans": [
+    "umzug"
+  ],
+  "url": "/frist/internetanbieter-kuendigen-ummelden/",
+  "dataUrl": "/api/v1/fristen/internetanbieter-kuendigen-ummelden.json",
+  "offset": {
+    "days": -42,
+    "label": null,
+    "earliestDays": null,
+    "needsOffice": false
+  },
+  "note": "Die sechs Wochen Vorlauf sind ein Erfahrungswert, der Techniktermin ist der Engpass.",
+  "statute": {
+    "enbez": "§ 60",
+    "titel": "Umzug",
+    "url": "https://www.gesetze-im-internet.de/tkg_2021/__60.html",
+    "stand": "2026-06-30",
+    "excerpt": true,
+    "absaetze": [
+      "(1) Wenn ein Verbraucher seinen Wohnsitz wechselt und seine Verträge weiterführen möchte, ist der Anbieter von öffentlich zugänglichen Telekommunikationsdiensten verpflichtet, die vertraglich geschuldete Leistung an dem neuen Wohnsitz des Verbrauchers ohne Änderung der vereinbarten Vertragslaufzeit und der sonstigen Vertragsinhalte zu erbringen, soweit er diese dort anbietet. Der Anbieter kann ein angemessenes Entgelt für den durch den Umzug entstandenen Aufwand verlangen, das jedoch nicht höher sein darf als das für die Schaltung eines Neuanschlusses vorgesehene Entgelt.",
+      "(2) Wird die vertraglich geschuldete Leistung am neuen Wohnsitz nicht angeboten, kann der Verbraucher den Vertrag unter Einhaltung einer Kündigungsfrist von einem Monat kündigen. Die Kündigung kann mit Wirkung zum Zeitpunkt des Auszugs oder mit Wirkung zu einem späteren Zeitpunkt erklärt werden."
+    ]
+  },
+  "occurrences": []
+}

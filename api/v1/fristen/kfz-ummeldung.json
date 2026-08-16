@@ -1,0 +1,39 @@
+{
+  "id": "kfz-ummeldung",
+  "label": "Kfz beim neuen Wohnort ummelden",
+  "kind": "statutory-relative",
+  "direction": "after",
+  "tags": [
+    "auto",
+    "zulassung",
+    "kennzeichen",
+    "fahrzeug"
+  ],
+  "source": {
+    "label": "§ 15 Abs. 4 FZV",
+    "url": "https://www.gesetze-im-internet.de/fzv_2023/__15.html"
+  },
+  "plans": [
+    "umzug"
+  ],
+  "url": "/frist/kfz-ummeldung/",
+  "dataUrl": "/api/v1/fristen/kfz-ummeldung.json",
+  "offset": {
+    "days": 14,
+    "label": null,
+    "earliestDays": 0,
+    "needsOffice": true
+  },
+  "note": "Das Gesetz nennt keine Tagesfrist, nur \"unverzüglich\" - die 14 Tage hier sind ein Erfahrungswert.",
+  "statute": {
+    "enbez": "§ 15",
+    "titel": "Mitteilungspflichten bei Änderungen",
+    "url": "https://www.gesetze-im-internet.de/fzv_2023/__15.html",
+    "stand": "2026-07-17",
+    "excerpt": true,
+    "absaetze": [
+      "(4) Verlegt der Halter seinen Wohnsitz oder Sitz in einen anderen Zulassungsbezirk, hat er unverzüglich 1. bei der für den neuen Wohnsitz oder Sitz zuständigen Zulassungsbehörde die Zuteilung eines neuen Kennzeichens, einer neuen Zulassungsbescheinigung Teil I und die Änderung der Angaben in der Zulassungsbescheinigung Teil II zu beantragen oder 2. der für den neuen Wohnsitz oder Sitz zuständigen Zulassungsbehörde mitzuteilen, dass das bisherige Kennzeichen weitergeführt werden soll, und die Zulassungsbescheinigung Teil I zur Änderung vorzulegen. Kommt der Halter diesen Pflichten nicht nach, kann die zuständige Zulassungsbehörde für die Zeit bis zur Erfüllung der Pflichten den Betrieb des Fahrzeuges auf öffentlichen Straßen untersagen. Der Halter darf die Inbetriebsetzung eines Fahrzeuges, dessen Betrieb nach Satz 2 untersagt ist, nicht anordnen oder zulassen. Im Fall des Satzes 1 Nummer 1 hat die für den neuen Wohnsitz oder Sitz zuständige Zulassungsbehörde nach Vorlage der Zulassungsbescheinigung und der bisherigen Kennzeichenschilder zur Entstempelung dem Fahrzeug ein neues Kennzeichen zuzuteilen. Im Fall des Satzes 1 Nummer 2 hat die für den neuen Wohnsitz oder Sitz zuständige Zulassungsbehörde die Zulassungsbescheinigung Teil I zu ändern. Absatz 1 Satz 1 Nummer 1 bleibt unberührt. Kommt der Halter seinen Pflichten nach Satz 1 trotz Anordnung nach Satz 2 nicht nach, kann die zuständige Zulassungsbehörde die Zulassungsbescheinigung im Verkehrsblatt mit einer Frist von vier Wochen zur Vorlage bei ihr aufbieten. Mit erfolglosem Ablauf des Aufgebots endet die Zulassung des Fahrzeuges."
+    ]
+  },
+  "occurrences": []
+}

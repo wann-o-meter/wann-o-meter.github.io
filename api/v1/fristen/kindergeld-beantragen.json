@@ -1,0 +1,39 @@
+{
+  "id": "kindergeld-beantragen",
+  "label": "Kindergeld beantragen",
+  "kind": "statutory-relative",
+  "direction": "after",
+  "tags": [
+    "familie",
+    "familienkasse",
+    "antrag",
+    "kindergeld"
+  ],
+  "source": {
+    "label": "§ 70 Abs. 1 Satz 2 EStG",
+    "url": "https://www.gesetze-im-internet.de/estg/__70.html"
+  },
+  "plans": [
+    "geburt"
+  ],
+  "url": "/frist/kindergeld-beantragen/",
+  "dataUrl": "/api/v1/fristen/kindergeld-beantragen.json",
+  "offset": {
+    "days": 180,
+    "label": null,
+    "earliestDays": null,
+    "needsOffice": false
+  },
+  "note": null,
+  "statute": {
+    "enbez": "§ 70",
+    "titel": "Festsetzung und Zahlung des Kindergeldes",
+    "url": "https://www.gesetze-im-internet.de/estg/__70.html",
+    "stand": "2026-08-04",
+    "excerpt": true,
+    "absaetze": [
+      "(1) Das Kindergeld nach § 62 wird von den Familienkassen durch Bescheid festgesetzt und ausgezahlt. Die Auszahlung von festgesetztem Kindergeld erfolgt rückwirkend nur für die letzten sechs Monate vor Beginn des Monats, in dem der Antrag auf Kindergeld eingegangen ist. Der Anspruch auf Kindergeld nach § 62 bleibt von dieser Auszahlungsbeschränkung unberührt."
+    ]
+  },
+  "occurrences": []
+}

@@ -6,12 +6,12 @@ Alle Fristen sind relativ zum Umzugstag angegeben. Quelle: https://wannometer.de
 
 ## Fristen
 
-- **Frist nach § 573c BGB, abhängig vom Umzugsmonat**: Wohnung kündigen ([§ 573c BGB](https://www.gesetze-im-internet.de/bgb/__573c.html))
+- **Abhängig vom Umzugsmonat**: Wohnung kündigen ([§ 573c BGB](https://www.gesetze-im-internet.de/bgb/__573c.html))
   Schriftlich und unterschrieben, am besten per Einwurf-Einschreiben.
 - **2 Monate vorher**: Umzugsurlaub beim Arbeitgeber beantragen (Erfahrungswert)
   Manche Tarif- und Arbeitsverträge geben Sonderurlaub oder einen Zuschuss zum Umzug. Steht nichts drin, ist es normaler Urlaub und der will früh eingetragen sein.
 - **6 Wochen vorher**: Internetanbieter kündigen oder umziehen lassen ([§ 60 TKG](https://www.gesetze-im-internet.de/tkg_2021/__60.html))
-  Der Anbieter muss am neuen Wohnsitz weiterliefern, sonst darf mit einer Frist von einem Monat gekündigt werden. Die sechs Wochen Vorlauf sind Erfahrungswert, der Techniktermin ist der Engpass.
+  Die sechs Wochen Vorlauf sind ein Erfahrungswert, der Techniktermin ist der Engpass.
 - **4 Wochen vorher**: Termin für die Wohnungsübergabe vereinbaren (Erfahrungswert)
   Dabei gleich klären, ob Nachmieter oder Vermieter Einbauküche und andere Einbauten übernehmen oder ob du sie zurückbauen musst.
 - **2 Wochen vorher**: Strom- und Gasanbieter über den Umzug informieren (Erfahrungswert)
