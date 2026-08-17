@@ -1,6 +1,6 @@
-# Jobwechsel: wann muss ich anfangen?
+# Jobwechsel: 4 Fristen rückwärts vom letzten Arbeitstag
 
-> Letzten Arbeitstag eingeben, Kündigungsfrist und Arbeitsuchendmeldung rückwärts geplant - mit Quelle.
+> 4 Fristen rückwärts vom letzten Arbeitstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
 
 Alle Fristen sind relativ zum Letzter Arbeitstag angegeben. Quelle: https://wannometer.de/jobwechsel/
 

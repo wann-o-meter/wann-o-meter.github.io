@@ -1,6 +1,6 @@
-# Umzug: wann muss ich anfangen?
+# Umzug: 13 Fristen rückwärts vom Umzugstag
 
-> Ort und Umzugstag eingeben, kompletten Rückwärts-Zeitplan mit Fristen sehen - mit Wochenend- und Feiertagswarnung.
+> 13 Fristen rückwärts vom Umzugstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
 
 Alle Fristen sind relativ zum Umzugstag angegeben. Quelle: https://wannometer.de/umzug/
 

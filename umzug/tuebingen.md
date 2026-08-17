@@ -1,6 +1,6 @@
-# Umzug in Tübingen: wann muss ich anfangen?
+# Umzug in Tübingen: 15 Fristen rückwärts vom Umzugstag
 
-> Umzug in Tübingen: alle Fristen rückwärts vom Umzugstag geplant, mit Quelle - inklusive der örtlichen Schritte.
+> 15 Fristen rückwärts vom Umzugstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export. In Tübingen dazu: Halteverbotszone, Anwohnerparkausweis, Sperrmüllabholung.
 
 Alle Fristen sind relativ zum Umzugstag angegeben. Quelle: https://wannometer.de/umzug/tuebingen/
 

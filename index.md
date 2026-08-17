@@ -8,10 +8,10 @@
 Ein Datum eingeben, und jede Frist wird davon zurückgerechnet, mit den
 Feiertagen des gewählten Bundeslands.
 
-- [Umzug](https://wannometer.de/umzug/): Ort und Umzugstag eingeben, kompletten Rückwärts-Zeitplan mit Fristen sehen - mit Wochenend- und Feiertagswarnung.
-- [Geburt](https://wannometer.de/geburt/): Geburtstermin eingeben, Fristen für Geburtsanzeige, Elterngeld und Kindergeld rückwärts geplant - mit Quelle.
-- [Hochzeit](https://wannometer.de/heirat/): Hochzeitstermin eingeben, Anmeldung beim Standesamt, Dokumente und Namensänderung rückwärts geplant.
-- [Jobwechsel](https://wannometer.de/jobwechsel/): Letzten Arbeitstag eingeben, Kündigungsfrist und Arbeitsuchendmeldung rückwärts geplant - mit Quelle.
+- [Umzug](https://wannometer.de/umzug/): 13 Fristen rückwärts vom Umzugstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
+- [Geburt](https://wannometer.de/geburt/): 5 Fristen nach der Geburt, die erste nach 7 Tagen. Termin eingeben und jede Frist mit Datum, Quelle und Kalender-Export bekommen.
+- [Hochzeit](https://wannometer.de/heirat/): 5 Fristen rückwärts vom Hochzeitstermin, die früheste 6 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
+- [Jobwechsel](https://wannometer.de/jobwechsel/): 4 Fristen rückwärts vom letzten Arbeitstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
 
 ## Fristen
 

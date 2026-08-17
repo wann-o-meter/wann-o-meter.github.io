@@ -1,6 +1,6 @@
-# Hochzeit: wann muss ich anfangen?
+# Hochzeit: 5 Fristen rückwärts vom Hochzeitstermin
 
-> Hochzeitstermin eingeben, Anmeldung beim Standesamt, Dokumente und Namensänderung rückwärts geplant.
+> 5 Fristen rückwärts vom Hochzeitstermin, die früheste 6 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
 
 Alle Fristen sind relativ zum Hochzeitstermin angegeben. Quelle: https://wannometer.de/heirat/
 

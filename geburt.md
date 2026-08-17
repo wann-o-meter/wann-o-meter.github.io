@@ -1,6 +1,6 @@
-# Geburt: wann muss ich anfangen?
+# Nach der Geburt: 5 Fristen, die erste nach 7 Tagen
 
-> Geburtstermin eingeben, Fristen für Geburtsanzeige, Elterngeld und Kindergeld rückwärts geplant - mit Quelle.
+> 5 Fristen nach der Geburt, die erste nach 7 Tagen. Termin eingeben und jede Frist mit Datum, Quelle und Kalender-Export bekommen.
 
 Alle Fristen sind relativ zum Geburtstermin angegeben. Quelle: https://wannometer.de/geburt/
 

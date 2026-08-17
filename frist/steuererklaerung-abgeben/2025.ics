@@ -5,12 +5,17 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Steuererklärung abgeben 2025
 BEGIN:VEVENT
 UID:steuererklaerung-abgeben-2025@wannometer.de
-DTSTAMP:20260816T233619Z
+DTSTAMP:20260817T222121Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Steuererklärung abgeben (2025)
 DESCRIPTION:§ 149 Abs. 2 AO - Gilt ohne Steuerberater oder Lohnsteuerhilfe
  verein\, sonst gilt § 149 Abs. 3 AO.
 URL:https://wannometer.de/frist/steuererklaerung-abgeben/2025/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:Steuererklärung abgeben (2025)
+END:VALARM
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
-# Umzug in Ochsenhausen: wann muss ich anfangen?
+# Umzug in Ochsenhausen: 15 Fristen rückwärts vom Umzugstag
 
-> Umzug in Ochsenhausen: alle Fristen rückwärts vom Umzugstag geplant, mit Quelle - inklusive der örtlichen Schritte.
+> 15 Fristen rückwärts vom Umzugstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export. In Ochsenhausen dazu: Halteverbotszone, Anwohnerparkausweis, Sperrmüllabholung.
 
 Alle Fristen sind relativ zum Umzugstag angegeben. Quelle: https://wannometer.de/umzug/ochsenhausen/
 
