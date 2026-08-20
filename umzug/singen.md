@@ -1,4 +1,4 @@
-# Umzug nach Singen (Hohentwiel): 15 Fristen rückwärts vom Umzugstag
+# Umzug in Singen (Hohentwiel): 15 Fristen rückwärts vom Umzugstag
 
 > 15 Fristen rückwärts vom Umzugstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export. In Singen (Hohentwiel) dazu: Halteverbotszone, Anwohnerparkausweis, Sperrmüllabholung.
 
