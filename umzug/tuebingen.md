@@ -1,4 +1,4 @@
-# Umzug in Tübingen: 15 Fristen rückwärts vom Umzugstag
+# Umzug Tübingen: Ummeldefrist, Termine & Checkliste
 
 > 15 Fristen rückwärts vom Umzugstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export. In Tübingen dazu: Halteverbotszone, Anwohnerparkausweis, Sperrmüllabholung.
 
