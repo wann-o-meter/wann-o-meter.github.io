@@ -1,17 +1,17 @@
 # Wann-O-Meter
 
-> Fristen rückwärts vom Termin geplant. Nenne einen Tag, und der Plan sagt, wann
-> du anfangen musst. Jede Frist nennt den Paragrafen dahinter.
+> Termine und Fristen als konkrete Daten. Nenne einen Tag, und der Plan sagt,
+> wann du anfangen musst. Jede Frist nennt den Paragrafen dahinter.
 
 ## Pläne
 
-Ein Datum eingeben, und jede Frist wird davon zurückgerechnet, mit den
-Feiertagen des gewählten Bundeslands.
+Ein Datum eingeben, und jede Aufgabe bekommt ihren Tag, mit den Feiertagen des
+gewählten Bundeslands.
 
-- [Umzug](https://wannometer.de/umzug/): 13 Fristen rückwärts vom Umzugstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
-- [Geburt](https://wannometer.de/geburt/): 5 Fristen nach der Geburt, die erste nach 7 Tagen. Termin eingeben und jede Frist mit Datum, Quelle und Kalender-Export bekommen.
-- [Hochzeit](https://wannometer.de/heirat/): 5 Fristen rückwärts vom Hochzeitstermin, die früheste 6 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
-- [Jobwechsel](https://wannometer.de/jobwechsel/): 4 Fristen rückwärts vom letzten Arbeitstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
+- [Umzug](https://wannometer.de/umzug/): Umzugstag eingeben, jede Aufgabe als konkretes Datum bekommen: Wohnung kündigen (§ 573c BGB). Früheste Aufgabe: etwa 3 Monate vorher.
+- [Geburt](https://wannometer.de/geburt/): Geburtstermin eingeben, jede Aufgabe als konkretes Datum bekommen: Geburt beim Standesamt anzeigen (§ 18 Abs. 1 PStG). Früheste Aufgabe: 7 Tage danach.
+- [Hochzeit](https://wannometer.de/heirat/): Hochzeitstermin eingeben, jede Aufgabe als konkretes Datum bekommen. Früheste Aufgabe: 6 Monate vorher. Mit Feiertagen deines Bundeslands.
+- [Jobwechsel](https://wannometer.de/jobwechsel/): Letzter Arbeitstag eingeben, jede Aufgabe als konkretes Datum bekommen: § 38 Abs. 1 SGB III, § 622 Abs. 1 BGB. Früheste Aufgabe: 3 Monate vorher.
 
 ## Fristen
 

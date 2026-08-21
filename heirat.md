@@ -1,10 +1,10 @@
-# Hochzeit: 5 Fristen rückwärts vom Hochzeitstermin
+# Hochzeit planen: Vorlaufzeiten vom Standesamt bis Namensänderung
 
-> 5 Fristen rückwärts vom Hochzeitstermin, die früheste 6 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
+> Hochzeitstermin eingeben, jede Aufgabe als konkretes Datum bekommen. Früheste Aufgabe: 6 Monate vorher. Mit Feiertagen deines Bundeslands.
 
-Alle Fristen sind relativ zum Hochzeitstermin angegeben. Quelle: https://wannometer.de/heirat/
+Alle Angaben sind relativ zum Hochzeitstermin. Quelle: https://wannometer.de/heirat/
 
-## Fristen
+## Zeitplan
 
 - **6 Monate vorher**: Eheschließung beim Standesamt anmelden (Erfahrungswert)
   Kein gesetzlicher Vorlauf. Standesämter sind oft Monate ausgebucht, Dokumente wie die Ledigkeitsbescheinigung gelten nur begrenzt. Nicht verifiziert.

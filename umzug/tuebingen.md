@@ -1,10 +1,10 @@
 # Umzug Tübingen: Ummeldefrist, Termine & Checkliste
 
-> 15 Fristen rückwärts vom Umzugstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export. In Tübingen dazu: Halteverbotszone, Anwohnerparkausweis, Sperrmüllabholung.
+> Umzugstag eingeben, jede Aufgabe als konkretes Datum bekommen. Früheste Aufgabe: etwa 3 Monate vorher. In Tübingen dazu: Halteverbotszone, Anwohnerparkausweis, Sperrmüllabholung.
 
-Alle Fristen sind relativ zum Umzugstag angegeben. Quelle: https://wannometer.de/umzug/tuebingen/
+Alle Angaben sind relativ zum Umzugstag. Quelle: https://wannometer.de/umzug/tuebingen/
 
-## Fristen
+## Zeitplan
 
 - **Abhängig vom Umzugsmonat**: Wohnung kündigen ([§ 573c BGB](https://www.gesetze-im-internet.de/bgb/__573c.html))
   Schriftlich und unterschrieben, am besten per Einwurf-Einschreiben.

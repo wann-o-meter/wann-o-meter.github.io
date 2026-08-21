@@ -1,10 +1,10 @@
-# Jobwechsel: 4 Fristen rückwärts vom letzten Arbeitstag
+# Jobwechsel planen: alle Fristen mit Paragraf
 
-> 4 Fristen rückwärts vom letzten Arbeitstag, die früheste 3 Monate vorher. Mit Quelle, Feiertagen deines Bundeslands und Kalender-Export.
+> Letzter Arbeitstag eingeben, jede Aufgabe als konkretes Datum bekommen: § 38 Abs. 1 SGB III, § 622 Abs. 1 BGB. Früheste Aufgabe: 3 Monate vorher.
 
-Alle Fristen sind relativ zum Letzter Arbeitstag angegeben. Quelle: https://wannometer.de/jobwechsel/
+Alle Angaben sind relativ zum Letzter Arbeitstag. Quelle: https://wannometer.de/jobwechsel/
 
-## Fristen
+## Zeitplan
 
 - **3 Monate vorher**: Bei der Agentur für Arbeit arbeitsuchend melden ([§ 38 Abs. 1 SGB III](https://www.gesetze-im-internet.de/sgb_3/__38.html))
 - **4 Wochen vorher**: Kündigungsfrist einhalten und kündigen ([§ 622 Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__622.html))

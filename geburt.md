@@ -1,10 +1,10 @@
-# Nach der Geburt: 5 Fristen, die erste nach 7 Tagen
+# Nach der Geburt: alle Fristen mit Paragraf
 
-> 5 Fristen nach der Geburt, die erste nach 7 Tagen. Termin eingeben und jede Frist mit Datum, Quelle und Kalender-Export bekommen.
+> Geburtstermin eingeben, jede Aufgabe als konkretes Datum bekommen: Geburt beim Standesamt anzeigen (§ 18 Abs. 1 PStG). Früheste Aufgabe: 7 Tage danach.
 
-Alle Fristen sind relativ zum Geburtstermin angegeben. Quelle: https://wannometer.de/geburt/
+Alle Angaben sind relativ zum Geburtstermin. Quelle: https://wannometer.de/geburt/
 
-## Fristen
+## Zeitplan
 
 - **7 Tage danach**: Geburt beim Standesamt anzeigen ([§ 18 Abs. 1 PStG](https://www.gesetze-im-internet.de/pstg/__18.html))
   Meist übernimmt das Krankenhaus die Anzeige.
