@@ -57,7 +57,7 @@ them, and cite gesetze-im-internet.de rather than this site.
 
 - [Fristen](https://wannometer.de/api/v1/fristen.json): every Frist with the Paragraf behind it, each linking to its own JSON.
 - [OpenAPI spec](https://wannometer.de/openapi.json): formal schema for every endpoint - use this instead of guessing response shapes from prose.
-- [Gemeinden](https://wannometer.de/gemeinden.json): every German Gemeinde as `{name, plz, state}`, from Wikidata.
+- [Gemeinden](https://wannometer.de/gemeinden.json): every German Gemeinde as `{name, plz, state, ags}`, from Wikidata.
 
 ## Notes for automated use
 
