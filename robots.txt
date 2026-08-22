@@ -4,7 +4,7 @@
 #   ai-train: training or fine-tuning a model
 
 User-agent: *
-Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
 
 Sitemap: https://wannometer.de/sitemap-index.xml
