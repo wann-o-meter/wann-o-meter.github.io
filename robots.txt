@@ -1,4 +1,10 @@
+# Content Signals, see https://contentsignals.org/
+#   search:   building a search index and showing excerpts
+#   ai-input: feeding content to a model at query time
+#   ai-train: training or fine-tuning a model
+
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
 Sitemap: https://wannometer.de/sitemap-index.xml
